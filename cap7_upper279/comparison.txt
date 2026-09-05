@@ -1,0 +1,1 @@
+PASS: both recorded outputs agree on all 155 cases, spectrum checks, stage counts, root contradiction, and matrix totals.

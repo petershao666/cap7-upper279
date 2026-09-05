@@ -1,0 +1,2 @@
+PASS: parsed 155 rows and 17 spectral functions from the supplied Markdown; all U values, positive gaps, histogram bounds, and multiplier signs agree.
+PASS: all 16 original file hashes; attached table equals package table.

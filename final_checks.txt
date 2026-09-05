@@ -1,0 +1,4 @@
+PASS: both fresh original-verifier logs match every supplied exact log line; 155 cases.
+PASS: separate base-3 point-file checker; 236 distinct points; 27730 pairs.
+PASS: size-42 and size-43 histograms match the earlier independent deletion enumeration.
+PASS: independent unquotiented audit completed; 262070710 full matrices, 55253413 canonical matrices.
