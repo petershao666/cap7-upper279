@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "Please cite this version when using the certificate or verification artifacts."
 type: software
-title: "An exact-arithmetic certificate for f(7,3) <= 279"
+title: "An exact-arithmetic certificate for f(7,3) <= 275"
 authors:
   - family-names: "Shao"
     given-names: "Heng"
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-09-05
 repository-code: "https://github.com/petershao666/cap7-upper279"
-url: "https://github.com/petershao666/cap7-upper279/releases/tag/v1.0.0"
-abstract: "Exact integer certificates excluding 280-point caps in AG(7,3), using cited low-dimensional classification results. Includes full proofs, Python and C++ verifiers, a separate exhaustive audit, and a 236-point cap. AI assistance and shared dependencies are disclosed in README.md and AUDIT.md."
+url: "https://github.com/petershao666/cap7-upper279/releases/tag/v1.1.0"
+abstract: "Exact integer certificates excluding 276-point caps in AG(7,3), using cited low-dimensional classification results. Includes proofs, complete fresh Python and C++ verification logs, separately written auxiliary audit code, and a 236-point cap. The earlier upper-279 checkpoint remains available. AI assistance and shared dependencies are disclosed in README.md and upper275/AUDIT.md."

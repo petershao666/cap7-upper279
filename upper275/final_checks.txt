@@ -1,0 +1,5 @@
+Independent final coverage PASS: 331 basic types, 66 ordinary exclusions, 17 minimum alternatives, 50 complete branches; minimum gap=1259.
+Full Python/C++ comparison PASS: 448 matching non-timing computation lines; fresh C++ also matches both supplied full logs.
+Third implementation comparison PASS: all 30 auxiliary minima and canonical counts match; all 599436 ordered matrices verified.
+Python: 3.14.5
+Apple clang version 15.0.0 (clang-1500.3.9.4)

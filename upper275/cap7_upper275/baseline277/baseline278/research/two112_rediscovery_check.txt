@@ -1,0 +1,58 @@
+Hill representative: S and D are central 112-caps; both Fourier formulas and all 1540 pair incidences verified.
+h=1: zero directions <= 0/1 < 15, exact gap=15.
+h=2: zero directions <= 0/1 < 15, exact gap=15.
+h=3: zero directions <= 0/1 < 15, exact gap=15.
+h=4: zero directions <= 0/1 < 15, exact gap=15.
+h=5: zero directions <= 0/1 < 15, exact gap=15.
+h=6: zero directions <= 0/1 < 15, exact gap=15.
+h=7: zero directions <= 0/1 < 15, exact gap=15.
+h=8: zero directions <= 0/1 < 15, exact gap=15.
+h=9: zero directions <= 0/1 < 15, exact gap=15.
+h=10: zero directions <= 0/1 < 15, exact gap=15.
+h=11: zero directions <= 0/1 < 15, exact gap=15.
+h=12: zero directions <= 0/1 < 15, exact gap=15.
+h=13: zero directions <= 0/1 < 15, exact gap=15.
+h=14: zero directions <= 0/1 < 15, exact gap=15.
+h=15: zero directions <= 0/1 < 15, exact gap=15.
+h=16: zero directions <= 15552/1344 < 15, exact gap=4608.
+h=17: zero directions <= 0/1 < 15, exact gap=15.
+h=18: zero directions <= 0/1 < 15, exact gap=15.
+h=19: zero directions <= 8946/756 < 15, exact gap=2394.
+h=20: zero directions <= 120/10 < 15, exact gap=30.
+h=21: zero directions <= 0/1 < 15, exact gap=15.
+h=22: zero directions <= 8672/756 < 15, exact gap=2668.
+h=23: zero directions <= 5391/380 < 15, exact gap=309.
+h=24: zero directions <= 144/30 < 15, exact gap=306.
+h=25: zero directions <= 2562/238 < 15, exact gap=1008.
+h=26: zero directions <= 1188/80 < 15, exact gap=12.
+h=27: zero directions <= 114/20 < 15, exact gap=186.
+h=28: zero directions <= 3360/336 < 15, exact gap=1680.
+h=29: zero directions <= 13128/910 < 15, exact gap=522.
+h=30: zero directions <= 132/20 < 15, exact gap=168.
+h=31: zero directions <= 15354/1890 < 15, exact gap=12996.
+h=32: zero directions <= 4608/350 < 15, exact gap=642.
+h=33: zero directions <= 166/20 < 15, exact gap=134.
+h=34: zero directions <= 624/98 < 15, exact gap=846.
+h=35: zero directions <= 1260/110 < 15, exact gap=390.
+h=36: zero directions <= 112/12 < 15, exact gap=68.
+h=37: zero directions <= 1139325058/145563600 < 15, exact gap=1044128942.
+h=38: zero directions <= 5888/678 < 15, exact gap=4282.
+h=39: zero directions <= 132/12 < 15, exact gap=48.
+h=40: zero directions <= 7793632/687456 < 15, exact gap=2518208.
+h=41: zero directions <= 1599/318 < 15, exact gap=3171.
+h=42: zero directions <= 9844380/924462 < 15, exact gap=4022550.
+h=43: zero directions <= 270/231 < 15, exact gap=3195.
+h=44: zero directions <= 480/246 < 15, exact gap=3210.
+h=45: zero directions <= 210/46 < 15, exact gap=480.
+h=46: intersection impossible, gap=8642.
+h=47: intersection impossible, gap=22840.
+h=48: intersection impossible, gap=11496.
+h=49: intersection impossible, gap=18543.
+h=50: intersection impossible, gap=1226.
+h=51: intersection impossible, gap=580.
+h=52: intersection impossible, gap=6112.
+h=53: intersection impossible, gap=478.
+h=54: intersection impossible, gap=54732.
+h=55: intersection impossible, gap=289.
+h=56: zero directions <= 0/1 < 15, exact gap=15.
+HILL LEMMA PASS: 56 cases and 2022 integer state inequalities; at most 28 zero-convolution points (h=0 gives one).

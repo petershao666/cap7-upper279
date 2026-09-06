@@ -1,0 +1,9 @@
+ENUM (106, 106, 66) 5845437 1712175 sec 18.94881844520569
+ordinary None
+(0, 0) label False rows 1694794 cert None sec 1.0485990047454834
+(0, 1) label False rows 635351 cert None sec 0.5106489658355713
+(0, 1) label True rows 692879 cert None sec 0.43428635597229004
+(1, 0) label False rows 635351 cert None sec 0.17140650749206543
+(1, 0) label True rows 692879 cert None sec 0.38341784477233887
+(1, 1) label False rows 264360 cert {'coeff': [53, -690, 13, -690, 6, -440, 5, 62517, -9448, 36076, -17638], 'K': 8185336, 'forced': 2979386600, 'gap': 75704} sec 0.16222667694091797
+(1, 1) label True rows 316944 cert {'coeff': [24, -313, -3, -313, -4, -200, 4, -12264, -13441, 1148, -20225, -13441, 1094], 'K': 3038816, 'forced': 1106079758, 'gap': 49266} sec 0.2095503807067871

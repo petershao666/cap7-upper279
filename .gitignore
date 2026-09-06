@@ -2,3 +2,6 @@
 /independent
 __pycache__/
 .DS_Store
+/upper275/cpp_verify
+/upper275/independent_aux41
+/upper275/regenerate/

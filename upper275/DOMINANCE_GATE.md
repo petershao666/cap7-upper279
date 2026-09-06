@@ -1,0 +1,2 @@
+# Dominance gate
+User-requested audit: arbitrary caps in AG(7,3); supplied upper-275 certificate excluding size 276, with inherited dimension 4-6 theorems and new local/histogram/conditional-completion lemmas. Classification REPLICATION_NO_NEW_MATH. Existing verified upper-279 is weaker; fixed-CF shell and cubic-graph registry entries do not subsume this global claim. No optimization or construction campaign. Original files are preserved. Shared certificate data and mathematical dependencies must be disclosed. Global 237-cap existence remains UNKNOWN.

@@ -1,0 +1,6 @@
+Recorded verification environment:
+Python 3.13.5
+GCC 14.2.0 (Debian 14.2.0-19)
+
+Verification uses standard libraries only.
+Discovery environment: numpy 2.3.5; scipy 1.17.0; numba 0.65.1.

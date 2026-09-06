@@ -1,0 +1,1 @@
+PASS: formula matches cap236.txt; 236 distinct ternary vectors; 27730 pairs; no forbidden triple.
