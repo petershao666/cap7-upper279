@@ -1,0 +1,50 @@
+{
+  "status": "INDEPENDENTLY_VERIFIED_COMPLETE_4D17_HISTOGRAM_FAMILY",
+  "theorem": "Every17-point cap in F3^4 has one of the102 listed full40-direction histograms, and every listed histogram is realized by its explicit verified17-point representative.",
+  "histogram_count": 102,
+  "normalized_cover_members": 70935,
+  "not_affine_class_count": true,
+  "not_all_labeled_cap_count": true,
+  "enumeration_summary": {
+    "status": "COMPLETE_AUTHOR_ENUMERATION_PENDING_INDEPENDENT_AUDIT",
+    "orbit_count8": 3,
+    "orbit_count9": 1,
+    "actual8_count": 63180,
+    "actual9_count": 2106,
+    "GL3_count": 11232,
+    "AGL3_maps_per_representative": 303264,
+    "generated17_count": 70935,
+    "distinct17_histograms": 102,
+    "point_pair_checks": 9647160,
+    "elapsed_seconds": 0.419533,
+    "families": {
+      "881": {
+        "generated": 4515,
+        "histograms": 94
+      },
+      "971": {
+        "generated": 3240,
+        "histograms": 29
+      },
+      "980": {
+        "generated": 63180,
+        "histograms": 11
+      }
+    }
+  },
+  "primary_cover": "Thackeray2206.09719v1 Lemma2.1(c), acceptedH16 input",
+  "small_input_independent_audit": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/h17_input_independent_verification.json",
+  "small_input_independent_audit_sha256": "0ef0aa802ca2c226e9f4759461710d4302294a211cf3b3e3e0c688ad1d8636cd",
+  "actual17_independent_audit": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/actual17/ACCEPTED_HISTOGRAMS.json",
+  "actual17_independent_audit_sha256": "8ed6c68858ca68f5f9ace601a27efc25895c9a9c544f6937f1c78d1b65219936",
+  "independence": "H enumerated standard-basis extensions and canonicalized by all affine bases; P independently enumerated all27-point subsets and AGL orbits. Root used P differentrepresentatives and a separate B subset generator and directcoordinatecap/histogram checker, then compared the entire102-histogram union.",
+  "representative_point_tables": "histograms17.json",
+  "publication_novelty_claim": false,
+  "global_seven_dimensional_bound_improvement_claim": false,
+  "global_interval": [
+    236,
+    275
+  ],
+  "global237_existence": "UNKNOWN",
+  "coupled_LP_in_H17": false
+}

@@ -1,0 +1,75 @@
+{
+  "status": "PRIMARY_EXPLICIT_VECTOR_SOURCES_IDENTIFIED_COORDINATE_DECODING_PENDING",
+  "archive_url": "https://arxiv.org/src/2206.09719v1",
+  "archive_file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/arxiv_source.tar",
+  "archive_bytes": 2469595,
+  "archive_sha256": "5f6aa7b3086bfde22d6942b2eccf74b99caa4a882c1c3c26a87bf0635c04540f",
+  "tex_file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/CapSetProblem5S41.tex",
+  "tex_bytes": 48338,
+  "tex_sha256": "99eee693a8af9df305a240b2a475b87a57bedde1545c990f749bef17cd76d40c",
+  "figures": [
+    {
+      "label": "45",
+      "file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/Fig03EPS.eps",
+      "archive_member": "Fig03EPS.eps",
+      "bytes": 63152,
+      "sha256": "66cd9a15ed6ae2fb9a485f2e6cf42b656faab42c9fe638c6f32f5462bef12d7e",
+      "figure": 3,
+      "four_cubic_filled_circle_paths": 45,
+      "coordinate_points_extracted": false
+    },
+    {
+      "label": "41A",
+      "file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/Fig04EPS.eps",
+      "archive_member": "Fig04EPS.eps",
+      "bytes": 60343,
+      "sha256": "07c130a626becc967dc51bc0e44767c938c766bc4bb1cd0e1acf50deb5dbc2db",
+      "figure": 4,
+      "four_cubic_filled_circle_paths": 41,
+      "coordinate_points_extracted": false
+    },
+    {
+      "label": "41B",
+      "file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/Fig06EPS.eps",
+      "archive_member": "Fig06EPS.eps",
+      "bytes": 60480,
+      "sha256": "2a00bc3f0c99a3643f44ff13989794ef998fb6a139ba2848478055bf7e3d5226",
+      "figure": 6,
+      "four_cubic_filled_circle_paths": 41,
+      "coordinate_points_extracted": false
+    },
+    {
+      "label": "41C",
+      "file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/Fig07EPS.eps",
+      "archive_member": "Fig07EPS.eps",
+      "bytes": 60614,
+      "sha256": "d240f058e98f12919a7e1b5f4a59f02acc4007a2cb42dd8cef6e7e1fefedf269",
+      "figure": 7,
+      "four_cubic_filled_circle_paths": 41,
+      "coordinate_points_extracted": false
+    },
+    {
+      "label": "41D",
+      "file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/Fig08EPS.eps",
+      "archive_member": "Fig08EPS.eps",
+      "bytes": 60405,
+      "sha256": "f382396aa525dea5fba5221d246d1c60d337e2f4ccc790114bbcf893feb53783",
+      "figure": 8,
+      "four_cubic_filled_circle_paths": 41,
+      "coordinate_points_extracted": false
+    },
+    {
+      "label": "41E",
+      "file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/named41_45_source/Fig09EPS.eps",
+      "archive_member": "Fig09EPS.eps",
+      "bytes": 60204,
+      "sha256": "5abdae71a5c7c7a3a3322aefe81447850bbbd1b19cd77bf990a19d254be8afff",
+      "figure": 9,
+      "four_cubic_filled_circle_paths": 41,
+      "coordinate_points_extracted": false
+    }
+  ],
+  "third_party_program_executed": false,
+  "45_deletion_enumeration_run": false,
+  "LP_run": false
+}

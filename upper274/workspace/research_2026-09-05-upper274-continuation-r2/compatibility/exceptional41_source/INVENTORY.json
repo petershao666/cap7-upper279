@@ -1,0 +1,314 @@
+{
+  "status": "SOURCE_COVERAGE_BRIDGE_IDENTIFIED_PACKET_UNDECODED",
+  "files": [
+    {
+      "file": "Dim5_41_CapsFound.txt",
+      "bytes": 49600,
+      "sha256": "1c5cb579719cf5f6560837e70558b8f207b6d2b6d8d5931c5a56355d58711e86"
+    },
+    {
+      "file": "Dim5_41_CapsFoundArguments.txt",
+      "bytes": 13968,
+      "sha256": "c3dd139f7fbe0dcf0208256499b82ef6d05f1af4e683a4230ec90550e74f2224"
+    },
+    {
+      "file": "ChecksForCompletenessOfLists.xlsx",
+      "bytes": 3207818,
+      "sha256": "2049fc4031f0ac00b0d9e86e6f42683112fb51ff47d31d0611a528be4dd0e5b3",
+      "sheets": [
+        {
+          "name": "Sheet828448511",
+          "dimension": "A1:AJ300",
+          "xml_row_count": 299
+        },
+        {
+          "name": "Sheet828214844",
+          "dimension": "A1:BH908",
+          "xml_row_count": 907
+        },
+        {
+          "name": "Sheet828124844",
+          "dimension": "A1:BH1036",
+          "xml_row_count": 1035
+        },
+        {
+          "name": "Sheet828223844",
+          "dimension": "A1:BH604",
+          "xml_row_count": 604
+        },
+        {
+          "name": "Sheet828124835",
+          "dimension": "A1:BH428",
+          "xml_row_count": 428
+        },
+        {
+          "name": "Sheet828223835",
+          "dimension": "A1:BH588",
+          "xml_row_count": 588
+        },
+        {
+          "name": "Sheet828421547",
+          "dimension": "A1:AJ508",
+          "xml_row_count": 508
+        },
+        {
+          "name": "Sheet828412547",
+          "dimension": "A1:AJ932",
+          "xml_row_count": 932
+        },
+        {
+          "name": "Sheet828223754",
+          "dimension": "A1:EB340",
+          "xml_row_count": 340
+        },
+        {
+          "name": "Sheet828214745",
+          "dimension": "A1:EB564",
+          "xml_row_count": 564
+        },
+        {
+          "name": "Sheet828124745",
+          "dimension": "A1:EB300",
+          "xml_row_count": 300
+        },
+        {
+          "name": "Sheet828223745",
+          "dimension": "A1:EB340",
+          "xml_row_count": 340
+        },
+        {
+          "name": "Sheet828520556",
+          "dimension": "A1:AJ95",
+          "xml_row_count": 95
+        },
+        {
+          "name": "Sheet828511556",
+          "dimension": "A1:AJ188",
+          "xml_row_count": 188
+        },
+        {
+          "name": "Sheet828502556",
+          "dimension": "A1:AJ112",
+          "xml_row_count": 112
+        },
+        {
+          "name": "Sheet828421556",
+          "dimension": "A1:AJ430",
+          "xml_row_count": 430
+        },
+        {
+          "name": "Sheet828412556",
+          "dimension": "A1:AJ422",
+          "xml_row_count": 422
+        },
+        {
+          "name": "Sheet828322556",
+          "dimension": "A1:AJ538",
+          "xml_row_count": 538
+        }
+      ]
+    },
+    {
+      "file": "SetDim5Cap43_8sc_ListOfCaps.xlsx",
+      "bytes": 210918,
+      "sha256": "e0f400de5dbf75001448a825afc39a440b98f934615cb9a6e948081430b01acf",
+      "sheets": [
+        {
+          "name": "Sheet819",
+          "dimension": "A1:C5",
+          "xml_row_count": 5
+        },
+        {
+          "name": "Sheet828",
+          "dimension": "A1:C36",
+          "xml_row_count": 36
+        },
+        {
+          "name": "Sheet837",
+          "dimension": "A1:C15",
+          "xml_row_count": 15
+        },
+        {
+          "name": "Sheet846",
+          "dimension": "A1:C12",
+          "xml_row_count": 12
+        },
+        {
+          "name": "Sheet855",
+          "dimension": "A1:C10",
+          "xml_row_count": 10
+        },
+        {
+          "name": "Sheet818",
+          "dimension": "A1:C220",
+          "xml_row_count": 220
+        },
+        {
+          "name": "Sheet827",
+          "dimension": "A1:C276",
+          "xml_row_count": 276
+        },
+        {
+          "name": "Sheet836",
+          "dimension": "A1:C238",
+          "xml_row_count": 238
+        },
+        {
+          "name": "Sheet845",
+          "dimension": "A1:C217",
+          "xml_row_count": 217
+        },
+        {
+          "name": "Sheet817",
+          "dimension": "A1:C807",
+          "xml_row_count": 807
+        },
+        {
+          "name": "Sheet826",
+          "dimension": "A1:C1012",
+          "xml_row_count": 1012
+        },
+        {
+          "name": "Sheet835",
+          "dimension": "A1:C994",
+          "xml_row_count": 994
+        }
+      ]
+    },
+    {
+      "file": "SetDim5Cap43_8cu_ListOfCaps.xlsx",
+      "bytes": 34528,
+      "sha256": "7c44f6ae29c2b9621583712f4b8f9f55edbb291878bb7f26f47a241d04d1d74a",
+      "sheets": [
+        {
+          "name": "Sheet828",
+          "dimension": "A1:C25",
+          "xml_row_count": 25
+        },
+        {
+          "name": "Sheet837",
+          "dimension": "A1:C5",
+          "xml_row_count": 5
+        },
+        {
+          "name": "Sheet846",
+          "dimension": "A1:C30",
+          "xml_row_count": 30
+        },
+        {
+          "name": "Sheet855",
+          "dimension": "A1:C18",
+          "xml_row_count": 18
+        },
+        {
+          "name": "Sheet818",
+          "dimension": "A1:C61",
+          "xml_row_count": 61
+        },
+        {
+          "name": "Sheet827",
+          "dimension": "A1:C72",
+          "xml_row_count": 72
+        },
+        {
+          "name": "Sheet836",
+          "dimension": "A1:C106",
+          "xml_row_count": 106
+        },
+        {
+          "name": "Sheet845",
+          "dimension": "A1:C92",
+          "xml_row_count": 92
+        }
+      ]
+    },
+    {
+      "file": "SetDim5Cap43_8sa_ListOfCaps.xlsx",
+      "bytes": 53737,
+      "sha256": "93567acccba3a8cb298e96e33ff57bb3df44b1e24a6d2bc0f12636dd105c2da6",
+      "sheets": [
+        {
+          "name": "Sheet828",
+          "dimension": "A1:C12",
+          "xml_row_count": 12
+        },
+        {
+          "name": "Sheet837",
+          "dimension": "A1:C52",
+          "xml_row_count": 52
+        },
+        {
+          "name": "Sheet846",
+          "dimension": "A1:C12",
+          "xml_row_count": 12
+        },
+        {
+          "name": "Sheet855",
+          "dimension": "A1:C16",
+          "xml_row_count": 16
+        },
+        {
+          "name": "Sheet818",
+          "dimension": "A1:C119",
+          "xml_row_count": 119
+        },
+        {
+          "name": "Sheet827",
+          "dimension": "A1:C147",
+          "xml_row_count": 147
+        },
+        {
+          "name": "Sheet836",
+          "dimension": "A1:C147",
+          "xml_row_count": 147
+        },
+        {
+          "name": "Sheet845",
+          "dimension": "A1:C170",
+          "xml_row_count": 170
+        }
+      ]
+    },
+    {
+      "file": "SetDim5Cap43_9asifsa_ListOfCaps.xlsx",
+      "bytes": 40736,
+      "sha256": "d445499dcb199873705940026b798363d1820edc79c1e5c6003245a0a01bdd35",
+      "sheets": [
+        {
+          "name": "Sheet917",
+          "dimension": "A1:C232",
+          "xml_row_count": 232
+        },
+        {
+          "name": "Sheet926",
+          "dimension": "A1:C172",
+          "xml_row_count": 172
+        },
+        {
+          "name": "Sheet935",
+          "dimension": "A1:C146",
+          "xml_row_count": 146
+        }
+      ]
+    },
+    {
+      "file": "SetDim5Cap43_8sc_ExclPtCounts.java",
+      "bytes": 620817,
+      "sha256": "5c38c213b9694708ccb37ec54c477c2afad5b5a66245ac4f0c7ac647c0494b9f"
+    },
+    {
+      "file": "Mod3Vector.java",
+      "bytes": 4098,
+      "sha256": "6e085be34952ce58e57f463df59dcd890690b8f745fc671753fabd7fdd78edfe"
+    },
+    {
+      "file": "ancillary_links.json",
+      "bytes": 2328,
+      "sha256": "dfd48b7e144fb03d9e952b1ced444b55b04632e442da5abe13443805d0ccebe2"
+    }
+  ],
+  "primary_html_sha256": "1382f2b23698b0aea3ec1ceeb4999e9ae46aeee5c542fd5f200ce98caeaa46d1",
+  "sc_summary_blocks": 77,
+  "external_code_executed": false,
+  "optimizer_run": false
+}

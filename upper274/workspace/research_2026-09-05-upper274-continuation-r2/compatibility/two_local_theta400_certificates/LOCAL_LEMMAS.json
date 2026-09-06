@@ -1,0 +1,59 @@
+[
+  {
+    "type": [
+      20,
+      17,
+      3
+    ],
+    "count": 317,
+    "coeff": [
+      -9515237055,
+      0,
+      0,
+      -4970905624905,
+      -33561627181,
+      -5189215045530,
+      -406247958030,
+      0,
+      -78680517790066,
+      0
+    ],
+    "K": -387302584778027,
+    "bound": -9977029449239280,
+    "threshold": -9829345995830952,
+    "integer_product_ceiling": 781737084301311,
+    "max_abs_coefficient": 78680517790066,
+    "upper_indices": [
+      9
+    ],
+    "numerical_centered_optimum": 1.4692573623101994,
+    "fixed_functions_unchanged": true
+  },
+  {
+    "type": [
+      20,
+      15,
+      5
+    ],
+    "count": 503,
+    "coeff": [
+      1712149512,
+      0,
+      0,
+      -4951083475660,
+      -39968266667,
+      -5796853105220,
+      303364599585,
+      0,
+      -79882354594612
+    ],
+    "K": -206724754604515,
+    "bound": -9931932768117975,
+    "threshold": -9829345995830952,
+    "integer_product_ceiling": 804701946784923,
+    "max_abs_coefficient": 79882354594612,
+    "upper_indices": [],
+    "numerical_centered_optimum": 2.457983192029584,
+    "fixed_functions_unchanged": true
+  }
+]

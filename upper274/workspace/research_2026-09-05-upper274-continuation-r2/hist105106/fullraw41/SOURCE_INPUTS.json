@@ -1,0 +1,24 @@
+{
+  "sources": {
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/h9/SetDim5Cap43_8sc_ExclPtCounts.java": "5c38c213b9694708ccb37ec54c477c2afad5b5a66245ac4f0c7ac647c0494b9f",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/h9/SetDim5Cap43_9General_ExclPtCounts.java": "3305eccd3892c020ecbcdb06c4e4602edfb038640469e28ab017f0122d767077",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/fullraw41/SetDim5Cap43_8cu_ExclPtCounts.java": "10aecb2fd7bdd59766c2fd01d4375a32da0ae4dd7137a9036530ebfb10301d76",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/fullraw41/SetDim5Cap43_8sa_ExclPtCounts.java": "c99803ee970a9fe6c8434f8a59fa6d62d58dd6019daffa80771f9c29ec73904d",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/exceptional41_raw/Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "55e3a7eb2980c10096f38199e7834631d711a296a14826903afd7fc7e474641a",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/exceptional41_raw/Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "fadaa04086ca80c94a4614e312cb94ff21eea81a142320e8e8d635133adaaedc",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/h9/Mod3Vector.java": "6e085be34952ce58e57f463df59dcd890690b8f745fc671753fabd7fdd78edfe"
+  },
+  "raw_counts": {
+    "8sc": 33549,
+    "9General": 60,
+    "8cu": 432,
+    "8sa": 304
+  },
+  "static_template_counts": {
+    "8sc": 3830,
+    "9General": 575,
+    "8cu": 403,
+    "8sa": 668
+  },
+  "prior_SC_fixture": "../exceptional41_decoder/ONE_RECORD.json; mathematical format shared, no external decoder kernel imported"
+}

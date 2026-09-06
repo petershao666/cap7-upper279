@@ -1,0 +1,196 @@
+{
+  "status": "PASS_ALL14_H_FULL_ORDERED_FEATURE_ROWS_AND_L_OLD_CASE_COUNTS",
+  "own_prefreeze_sha256": "19b3e4c9e574e97eded83a851ffd61d6c66fb83f1b5d1076ca5e171cf85cb860",
+  "H_export_sha256": "6d910ef137860b100706e8f7d2d86815cabf3c88b9f7f96623609a8bd1876b25",
+  "L_candidate_sha256": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+  "cases": [
+    {
+      "case": 0,
+      "anchor": [
+        41,
+        41,
+        24
+      ],
+      "old_cover": 25747,
+      "new_cover": 25038,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "6c5877a7aa4f00f4d95ab632fbf58523983714c2d89d869eb5208eaee85c6c42",
+      "own_new_feature_sha256": "0d52554fc3316513bf0a2411e19e103e1836993f9020293d75565c92ee1fe187"
+    },
+    {
+      "case": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "old_cover": 16010,
+      "new_cover": 15831,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "6ca7ea86ad6b5825650e1b6daf01c6c79d7ecd16dc66e88c42c57622b06e578f",
+      "own_new_feature_sha256": "9f543bb056c0ef3300ff776e263015a24e92a58bcb7eedafcc9f3a8cacc7d5cf"
+    },
+    {
+      "case": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "old_cover": 9959,
+      "new_cover": 9957,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "887dbaf1b640be457f1ea9db2d3cc066e824d243e9e4eeb0a80fb3d76b263d2f",
+      "own_new_feature_sha256": "9f4b544212402095f32ff66b9f7f2cbf7d32825d4cecc1207467dd5124891525"
+    },
+    {
+      "case": 3,
+      "anchor": [
+        43,
+        40,
+        23
+      ],
+      "old_cover": 8038,
+      "new_cover": 8012,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "0b14d2cd1960bfe4b90db55640e88d6fcce9ef9d5c772359672fffad575d5d5f",
+      "own_new_feature_sha256": "b84777edef3d11661a8c8e8d477f3737a8e6efcfe6cbafa1f72037ad46f89a06"
+    },
+    {
+      "case": 4,
+      "anchor": [
+        43,
+        41,
+        22
+      ],
+      "old_cover": 7690,
+      "new_cover": 7613,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "373b8686e33d449682b8e33893f885fa3994c94660c749a7dcb8c963b5b9871b",
+      "own_new_feature_sha256": "dd2725662607e27c004bebc86d7dff503846b318e6a0cb160c4988382c0d2920"
+    },
+    {
+      "case": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "old_cover": 4908,
+      "new_cover": 4908,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "7d9dd2939d2b07a815e2fb05a9dac0ef0ef97f1fe956c8771bbc27bb9336114c",
+      "own_new_feature_sha256": "2f05291ba728ed135bb7b3f36308e7e831a29d8d7e862bdb0023936477abff44"
+    },
+    {
+      "case": 6,
+      "anchor": [
+        43,
+        43,
+        20
+      ],
+      "old_cover": 2011,
+      "new_cover": 2011,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "0c5dce30bede23aa30890a124481b8f018d689dee15be4a6c8267312afd1abed",
+      "own_new_feature_sha256": "8df3b1004082bd04598d48a765e0d6a7dcf9cebabf6f37bf6f4616454d82fb8b"
+    },
+    {
+      "case": 7,
+      "anchor": [
+        44,
+        40,
+        22
+      ],
+      "old_cover": 4196,
+      "new_cover": 4182,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "77570f9609edf462e85558eb21b9d9549563f1938caa44b40823d10e536deb0c",
+      "own_new_feature_sha256": "01ad5438cb67eff52b2a0df2debf214a8ae100c4a1f307ccf62b42976cf381e4"
+    },
+    {
+      "case": 8,
+      "anchor": [
+        44,
+        41,
+        21
+      ],
+      "old_cover": 4036,
+      "new_cover": 3997,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "dccbaf9edf79cab9dcffcf93530ceb52f3abc1e175fe4a609c5c51d04c7a47a6",
+      "own_new_feature_sha256": "de23b5dc79306fcb267dbe8c154265f74d8365fa0a82f9aa9100c4a3ca7f5f0e"
+    },
+    {
+      "case": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "old_cover": 2568,
+      "new_cover": 2568,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "6efe34ffe03c20f40fec874ebe3f240c0cf16ebe4ff665b2d887e82cc351ba34",
+      "own_new_feature_sha256": "228e560391e98837a17aeb5eaa507e1ab74dbcc83f2b6e6237b4aff9743cff69"
+    },
+    {
+      "case": 10,
+      "anchor": [
+        44,
+        43,
+        19
+      ],
+      "old_cover": 1056,
+      "new_cover": 1056,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "7d1eb3d209a94efac42fab5f19ff3863e2f82e11a92e5ceea067967d388708e6",
+      "own_new_feature_sha256": "02db12834ee130dec8cdeb242c7939ea373ea08939710843e4c6cfe5d1be9df0"
+    },
+    {
+      "case": 11,
+      "anchor": [
+        45,
+        40,
+        21
+      ],
+      "old_cover": 3580,
+      "new_cover": 3564,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "d7c6f62d61310af5c5ec32a31866fb2c447e8db486235e93d02909fc83f70354",
+      "own_new_feature_sha256": "307403969142947c72b7d212c23f7f824e14aabe66acc50fc0316281af422278"
+    },
+    {
+      "case": 12,
+      "anchor": [
+        45,
+        41,
+        20
+      ],
+      "old_cover": 3376,
+      "new_cover": 3337,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "ca62c2e732a4b4534aed3d9dd53cbd7fab6a0ebcad7902846031bd09189de423",
+      "own_new_feature_sha256": "430ae259960d11d3a7d0c1ea436626ac88d0bc81e86094a7157b04f49aadcf20"
+    },
+    {
+      "case": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "old_cover": 2168,
+      "new_cover": 2168,
+      "all_H_19_integer_rows_equal_in_order": true,
+      "H_file_sha256": "d89895ec9308fc5115a026ea2b5c5db04a747b4a22028d04b91ccb866877cea2",
+      "own_new_feature_sha256": "0534c099bbf5841c80dcc975832bbd8ae3255d581178b44f746d03502d2b351b"
+    }
+  ],
+  "old_total_raw": 1120785,
+  "new_total_raw": 1106094,
+  "old_total_cover": 95343,
+  "new_total_cover": 94242,
+  "comparison_seconds": 0.1854866670910269,
+  "boundary": "All H new-domain rows compared, preserving ordered transverse IDs and duplicate multiplicities. L old-domain case counts and explicitly identical normalization/predicate definitions compared; L full row bytes were not supplied or claimed compared. The independent full old raw grids are available for integer candidate replay."
+}

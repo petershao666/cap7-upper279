@@ -1,0 +1,23 @@
+{
+  "status": "COMPLETE_20201_FAMILY_EXACT_HISTOGRAM_INDEPENDENTLY_ACCEPTED",
+  "scope": "Every41cap inF3^5 admitting a20/20/1 direction, whether complete or not. Not the full41cap family.",
+  "centered20_caps": 8424,
+  "all20_caps": 682344,
+  "normalized41_caps_per_canonicalA": 198,
+  "histograms": 1,
+  "root_representative_pairs": 1640,
+  "root_source_check": "../COMPLETE20201_SOURCE_CHECK.md",
+  "code_audit": "Root read both complete enumeration kernels: all59049 ten-variable coefficient vectors, cap-checked zero masks, all81 translations, no presumedcount filter, exactdisjointness and all121directions. Mathematicalcoverage uses publishedaffine20capuniqueness and the proved singletonshear.",
+  "input_hashes": {
+    "hist105106/h20_20201/FROZEN.json": "48df18e399bbf79dc479caf86934ccb60f5d9390d37573263baca3bfe8517f4b",
+    "root_potential/complete20201/FROZEN.json": "a7b245203ba6679504e2d347583ac114806c9f5d8e96360393b37fc06805e541",
+    "root_potential/complete20201/H_COMPARISON.json": "166580dff519cbe68e6571bf2c45f30694387c57b85208de79f09abf3545471c",
+    "hist105106/h20_20201/all20_masks.txt": "66946f5ef9ea1e10164a5b3e56cf89dede2b85efc50d8a8eb1e392e5862d2f41",
+    "hist105106/h20_20201/histograms41.json": "74c4e1c900b519edc1124dbb2bc49c04dddd1845bbbfd6de74baacf1e19b4011",
+    "root_potential/complete20201/HISTOGRAMS.json": "bd60eb3207e5ad3df90c551378be0e960ce96772297f0dc247ab713610c23484",
+    "hist105106/h20_20201/enumerate.cpp": "98d4c93a782cff9c4c03ed88ee945bd4d7b58c2a649166326bde991da39e4f18",
+    "root_potential/complete20201/enumerate_polynomials.cpp": "35eb8183789644bcc2101867c8afe6c091738530679425d16cacc20b5846ecab"
+  },
+  "shared_dependencies": "Publishedaffine20cap uniqueness; finitefieldmath. Different canonicalquadraticcaps, monomial/matrix order and kernels; no generatedinputsharing. H saw P summarycounts after codecompletion but before execution; this is not a blindtwo-runcomparison. P froze before H outputs, root directpointscheck uses neither kernel.",
+  "novelty": "No literaturepriority or7Dglobalbound claim."
+}

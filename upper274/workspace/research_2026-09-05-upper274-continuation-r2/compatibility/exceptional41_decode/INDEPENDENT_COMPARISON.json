@@ -1,0 +1,13 @@
+{
+  "status": "FULL34345_POINT_ROWS_AND_ROW_HISTOGRAMS_EXACT_MATCH",
+  "rows": 34345,
+  "histograms": 41,
+  "point_rows_byte_identical": false,
+  "all_original_source_rows_and_headers_match": true,
+  "every_row_histogram_matches": true,
+  "own_freeze_sha256": "a07fc1440ee4ebd360b5b8de3c89f7511fe47ac8a45a5486462ea443277f6a20",
+  "producer_freeze_sha256": "8713451e0f5eb857c110ba008e2c69dc8cc0f7d2c91f3bffcfad1b0b0f56443c",
+  "first_read_other_outputs": "Only after both freezes; no producer source decoder imported.",
+  "independence_boundary": "Independent workbook/primary-named-data decoder and homogeneous matrix arithmetic vs producer staticJava strings; both share raw source files and published format/coverage. C++ point checkers independently written.",
+  "nonidentical_file_bytes_reason": "Producer point_rows.txt has an initial record-count line34345; after reading this declared size, all34345 integer payload rows match exactly. Point-hash algorithms differ but both verified against the same point IDs."
+}

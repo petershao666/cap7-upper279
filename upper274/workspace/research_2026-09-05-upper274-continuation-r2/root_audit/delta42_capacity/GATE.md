@@ -1,0 +1,5 @@
+# Small domain-implication audit
+
+Object: a6Dcap with parallel5Dsections of sizes a,42,c, a in{43,44,45}, the42section being Delta686. A Delta has a(20,16,6) direction by the already accepted primary classification. Use only the accepted5D ordinary profile domain and the exact43/44/45 type lists to derive a small numerical upper bound on c. Compare the old profile domain and the now accepted14 ordinary41 zero exclusions. No whole cap catalogue, full grid enumeration, or LP is needed: for each at-most-six-type list and six permutations, bound each third-column entry by the minimum allowed capacity against its three cross-line pairs.
+
+This is verification of an implication already present in the row predicates, for dominance and state-empty bookkeeping before whole42 state splitting. It is not a new contribution to the global bound, nor a license to remove unconditioned profiles. Budget120 seconds exact arithmetic, root-owned output. The accepted41 and42 classification premises remain shared; no source completeness is re-proved.

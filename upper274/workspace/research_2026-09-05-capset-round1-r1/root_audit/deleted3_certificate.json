@@ -1,0 +1,1013 @@
+{
+  "threshold": 3,
+  "records": [
+    {
+      "h": 1,
+      "state_count": 6,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 2,
+      "state_count": 9,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 3,
+      "state_count": 12,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 4,
+      "state_count": 15,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 5,
+      "state_count": 18,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 6,
+      "state_count": 21,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 7,
+      "state_count": 24,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 8,
+      "state_count": 27,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 9,
+      "state_count": 30,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 10,
+      "state_count": 33,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 11,
+      "state_count": 36,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 12,
+      "state_count": 37,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "L": 1,
+      "upper": 0,
+      "bound_floor": 0,
+      "minimum_slack": 0
+    },
+    {
+      "h": 13,
+      "state_count": 38,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        390,
+        138,
+        0,
+        -150,
+        42,
+        -6,
+        75,
+        -11
+      ],
+      "L": 390,
+      "upper": 6018,
+      "bound_floor": 15,
+      "minimum_slack": 0
+    },
+    {
+      "h": 14,
+      "state_count": 39,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        630,
+        222,
+        0,
+        -240,
+        66,
+        -9,
+        120,
+        -17
+      ],
+      "L": 630,
+      "upper": 8092,
+      "bound_floor": 12,
+      "minimum_slack": 0
+    },
+    {
+      "h": 15,
+      "state_count": 40,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        1350,
+        474,
+        0,
+        -510,
+        138,
+        -18,
+        255,
+        -35
+      ],
+      "L": 1350,
+      "upper": 16248,
+      "bound_floor": 12,
+      "minimum_slack": 0
+    },
+    {
+      "h": 16,
+      "state_count": 41,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        1344,
+        522,
+        102,
+        -444,
+        104,
+        -12,
+        171,
+        -1
+      ],
+      "L": 900,
+      "upper": 15552,
+      "bound_floor": 17,
+      "minimum_slack": 0
+    },
+    {
+      "h": 17,
+      "state_count": 41,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        119,
+        80,
+        55,
+        -39,
+        9,
+        -1,
+        5,
+        1
+      ],
+      "L": 80,
+      "upper": 1497,
+      "bound_floor": 18,
+      "minimum_slack": 0
+    },
+    {
+      "h": 18,
+      "state_count": 42,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        756,
+        510,
+        354,
+        -246,
+        56,
+        -6,
+        30,
+        7
+      ],
+      "L": 510,
+      "upper": 8700,
+      "bound_floor": 17,
+      "minimum_slack": 0
+    },
+    {
+      "h": 19,
+      "state_count": 43,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        1064,
+        510,
+        186,
+        -308,
+        62,
+        -6,
+        92,
+        1
+      ],
+      "L": 510,
+      "upper": 9164,
+      "bound_floor": 17,
+      "minimum_slack": 0
+    },
+    {
+      "h": 20,
+      "state_count": 43,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        560,
+        420,
+        328,
+        -161,
+        32,
+        -3,
+        11,
+        4
+      ],
+      "L": 270,
+      "upper": 6120,
+      "bound_floor": 22,
+      "minimum_slack": 0
+    },
+    {
+      "h": 21,
+      "state_count": 42,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        560,
+        420,
+        328,
+        -161,
+        32,
+        -3,
+        11,
+        4
+      ],
+      "L": 270,
+      "upper": 5439,
+      "bound_floor": 20,
+      "minimum_slack": 0
+    },
+    {
+      "h": 22,
+      "state_count": 42,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        20160,
+        12105,
+        7140,
+        -5264,
+        952,
+        -84,
+        949,
+        79
+      ],
+      "L": 7140,
+      "upper": 138404,
+      "bound_floor": 19,
+      "minimum_slack": 0
+    },
+    {
+      "h": 23,
+      "state_count": 41,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        720,
+        585,
+        540,
+        -188,
+        34,
+        -3,
+        -17,
+        13
+      ],
+      "L": 222,
+      "upper": 5391,
+      "bound_floor": 24,
+      "minimum_slack": 0
+    },
+    {
+      "h": 24,
+      "state_count": 40,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        3600,
+        2493,
+        1740,
+        -940,
+        170,
+        -15,
+        107,
+        17
+      ],
+      "L": 1014,
+      "upper": 22536,
+      "bound_floor": 22,
+      "minimum_slack": 0
+    },
+    {
+      "h": 25,
+      "state_count": 39,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        1800,
+        1191,
+        820,
+        -432,
+        72,
+        -6,
+        46,
+        11
+      ],
+      "L": 480,
+      "upper": 9242,
+      "bound_floor": 19,
+      "minimum_slack": 0
+    },
+    {
+      "h": 26,
+      "state_count": 38,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        2100,
+        1232,
+        580,
+        -504,
+        84,
+        -7,
+        129,
+        -6
+      ],
+      "L": 334,
+      "upper": 8604,
+      "bound_floor": 25,
+      "minimum_slack": 0
+    },
+    {
+      "h": 27,
+      "state_count": 37,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        300,
+        224,
+        170,
+        -72,
+        12,
+        -1,
+        6,
+        1
+      ],
+      "L": 64,
+      "upper": 1481,
+      "bound_floor": 23,
+      "minimum_slack": 0
+    },
+    {
+      "h": 28,
+      "state_count": 36,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        6600,
+        4746,
+        3680,
+        -1470,
+        228,
+        -18,
+        75,
+        41
+      ],
+      "L": 1350,
+      "upper": 25424,
+      "bound_floor": 18,
+      "minimum_slack": 0
+    },
+    {
+      "h": 29,
+      "state_count": 35,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        5597900,
+        3518680,
+        1875660,
+        -1246805,
+        193382,
+        -15267,
+        285348,
+        -13813
+      ],
+      "L": 689196,
+      "upper": 17304373,
+      "bound_floor": 25,
+      "minimum_slack": 0
+    },
+    {
+      "h": 30,
+      "state_count": 34,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        1100,
+        840,
+        672,
+        -245,
+        38,
+        -3,
+        14,
+        4
+      ],
+      "L": 156,
+      "upper": 3750,
+      "bound_floor": 24,
+      "minimum_slack": 0
+    },
+    {
+      "h": 31,
+      "state_count": 33,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        2640,
+        1988,
+        1638,
+        -550,
+        80,
+        -6,
+        11,
+        15
+      ],
+      "L": 378,
+      "upper": 7040,
+      "bound_floor": 18,
+      "minimum_slack": 0
+    },
+    {
+      "h": 32,
+      "state_count": 32,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        3960,
+        2556,
+        1464,
+        -825,
+        120,
+        -9,
+        173,
+        -7
+      ],
+      "L": 336,
+      "upper": 8160,
+      "bound_floor": 24,
+      "minimum_slack": 0
+    },
+    {
+      "h": 33,
+      "state_count": 31,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        2080,
+        1668,
+        1442,
+        -408,
+        56,
+        -4,
+        0,
+        9
+      ],
+      "L": 238,
+      "upper": 5986,
+      "bound_floor": 25,
+      "minimum_slack": 0
+    },
+    {
+      "h": 34,
+      "state_count": 30,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        2080,
+        1668,
+        1442,
+        -408,
+        56,
+        -4,
+        0,
+        9
+      ],
+      "L": 238,
+      "upper": 4456,
+      "bound_floor": 18,
+      "minimum_slack": 0
+    },
+    {
+      "h": 35,
+      "state_count": 29,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        3120,
+        2079,
+        1302,
+        -612,
+        84,
+        -6,
+        105,
+        -1
+      ],
+      "L": 162,
+      "upper": 3668,
+      "bound_floor": 22,
+      "minimum_slack": 0
+    },
+    {
+      "h": 36,
+      "state_count": 28,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        7280,
+        6273,
+        5880,
+        -1352,
+        176,
+        -12,
+        -101,
+        41
+      ],
+      "L": 570,
+      "upper": 14616,
+      "bound_floor": 25,
+      "minimum_slack": 0
+    },
+    {
+      "h": 37,
+      "state_count": 27,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        7280,
+        6273,
+        5880,
+        -1352,
+        176,
+        -12,
+        -101,
+        41
+      ],
+      "L": 570,
+      "upper": 10480,
+      "bound_floor": 18,
+      "minimum_slack": 0
+    },
+    {
+      "h": 38,
+      "state_count": 26,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        10920,
+        7645,
+        5096,
+        -2028,
+        264,
+        -18,
+        314,
+        -5
+      ],
+      "L": 456,
+      "upper": 9024,
+      "bound_floor": 19,
+      "minimum_slack": 0
+    },
+    {
+      "h": 39,
+      "state_count": 25,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        12740,
+        11115,
+        10368,
+        -2366,
+        308,
+        -21,
+        -109,
+        51
+      ],
+      "L": 594,
+      "upper": 16263,
+      "bound_floor": 27,
+      "minimum_slack": 0
+    },
+    {
+      "h": 40,
+      "state_count": 24,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        2100,
+        1845,
+        1776,
+        -371,
+        46,
+        -3,
+        -34,
+        11
+      ],
+      "L": 102,
+      "upper": 1920,
+      "bound_floor": 18,
+      "minimum_slack": 0
+    },
+    {
+      "h": 41,
+      "state_count": 23,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        23100,
+        16500,
+        11400,
+        -4081,
+        506,
+        -33,
+        586,
+        -8
+      ],
+      "L": 636,
+      "upper": 10851,
+      "bound_floor": 17,
+      "minimum_slack": 0
+    },
+    {
+      "h": 42,
+      "state_count": 22,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        14700,
+        13255,
+        12609,
+        -2597,
+        322,
+        -21,
+        -128,
+        45
+      ],
+      "L": 555,
+      "upper": 16912,
+      "bound_floor": 30,
+      "minimum_slack": 0
+    },
+    {
+      "h": 43,
+      "state_count": 21,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        3200,
+        2475,
+        1992,
+        -540,
+        64,
+        -4,
+        30,
+        5
+      ],
+      "L": 46,
+      "upper": 774,
+      "bound_floor": 16,
+      "minimum_slack": 0
+    },
+    {
+      "h": 44,
+      "state_count": 20,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        8000,
+        5973,
+        4512,
+        -1350,
+        160,
+        -10,
+        127,
+        6
+      ],
+      "L": 102,
+      "upper": 800,
+      "bound_floor": 7,
+      "minimum_slack": 0
+    },
+    {
+      "h": 45,
+      "state_count": 19,
+      "solver_status": 0,
+      "kind": "count",
+      "q": [
+        1600,
+        1595,
+        1680,
+        -270,
+        32,
+        -2,
+        -45,
+        8
+      ],
+      "L": 32,
+      "upper": 1130,
+      "bound_floor": 35,
+      "minimum_slack": 0
+    },
+    {
+      "h": 46,
+      "state_count": 18,
+      "solver_status": 2,
+      "kind": "impossible",
+      "q": [
+        46669760,
+        25574000,
+        6794568,
+        -7549520,
+        857900,
+        -51474,
+        2779596,
+        -214475
+      ],
+      "upper": -4804220,
+      "minimum_slack": 0
+    },
+    {
+      "h": 47,
+      "state_count": 17,
+      "solver_status": 2,
+      "kind": "impossible",
+      "q": [
+        46669760,
+        25574000,
+        6794568,
+        -7549520,
+        857900,
+        -51474,
+        2779596,
+        -214475
+      ],
+      "upper": -8338770,
+      "minimum_slack": 0
+    },
+    {
+      "h": 48,
+      "state_count": 16,
+      "solver_status": 2,
+      "kind": "impossible",
+      "q": [
+        60777325260,
+        32444368840,
+        7865300916,
+        -9454250596,
+        1032817292,
+        -59585613,
+        3575136780,
+        -268133320
+      ],
+      "upper": -11908335104,
+      "minimum_slack": 0
+    },
+    {
+      "h": 49,
+      "state_count": 15,
+      "solver_status": 2,
+      "kind": "impossible",
+      "q": [
+        68439316012243,
+        5175656597463,
+        -53860896892737,
+        -10646060992028,
+        1163015066356,
+        -67097023059,
+        10044221027620,
+        -935455587704
+      ],
+      "upper": -22012539734724,
+      "minimum_slack": 0
+    },
+    {
+      "h": 50,
+      "state_count": 14,
+      "solver_status": 2,
+      "kind": "impossible",
+      "q": [
+        6738142,
+        3705988,
+        1090012,
+        -1048152,
+        114504,
+        -6606,
+        375440,
+        -27525
+      ],
+      "upper": -1829560,
+      "minimum_slack": 0
+    },
+    {
+      "h": 51,
+      "state_count": 13,
+      "solver_status": 2,
+      "kind": "impossible",
+      "q": [
+        2280,
+        1221,
+        330,
+        -342,
+        36,
+        -2,
+        126,
+        -9
+      ],
+      "upper": -580,
+      "minimum_slack": 0
+    }
+  ]
+}

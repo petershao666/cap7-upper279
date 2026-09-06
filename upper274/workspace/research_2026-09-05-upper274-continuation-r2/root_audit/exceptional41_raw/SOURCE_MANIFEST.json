@@ -1,0 +1,14 @@
+{
+  "Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": {
+    "bytes": 878638,
+    "lines": 17142,
+    "sha256": "fadaa04086ca80c94a4614e312cb94ff21eea81a142320e8e8d635133adaaedc",
+    "url": "https://arxiv.org/src/2206.09719v1/anc/Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt"
+  },
+  "Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": {
+    "bytes": 1038667,
+    "lines": 19884,
+    "sha256": "55e3a7eb2980c10096f38199e7834631d711a296a14826903afd7fc7e474641a",
+    "url": "https://arxiv.org/src/2206.09719v1/anc/Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt"
+  }
+}

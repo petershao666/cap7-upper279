@@ -1,0 +1,11 @@
+from pathlib import Path
+import json,hashlib
+W=Path(__file__).resolve().parent
+r=json.loads((W/'h13_result.json').read_text());c=json.loads((W/'all_case_coverage.json').read_text())
+assert r['claim']=='NO_NEW_MATH'
+cover={m:{'covered':len(z:=[t for t in c['lower']if t['m']==m]),'nonempty':sum(not t['empty']for t in z),'matrices':sum(t['count']for t in z)}for m in[40,41]}
+z={'status':'NO_NEW_MATH','model':'COMPLETE_PARALLEL18_CLASS_CAPACITY_AND_FULL_HISTOGRAM_STATES_AT_UNIVERSAL40','published_table_labels':22,'published_table_independent_entries':253,'input_histograms18':17,'complete_lower_cover':cover,'NC106_inner_matrices':sum(x['count']for x in r['counts']if x['m']==106),'outer_matrices':r['outer_count'],'target':r['target'],'iterations':r['iterations'],'elapsed_seconds':r['elapsed'],'numerical_status':r['numerical_status'],'new_certificate':None,'new_universal_function_proved':False,'new_exclusion_claim':False,'target_size_to_exclude':275,'global_interval':[236,275],'global237_existence':'UNKNOWN','source_correction':'Original unused transcription recorded 990A3/981H as 4; primary value is 3. Frozen v2 independently accepted all 253 entries. The maximum-by-full-histogram projection was unchanged. Original and correction artifacts retained.','conditional_empty_warning':'First-anchor-prefix and fixed-state empty cases are not ordinary global profile bans.','linearity':'Full 18 histograms are fixed integer features. Unknown parent functions enter with fixed coefficient +1; all upper-only multipliers are nonnegative.','shared_dependencies':'H3-H12 enumerator/proposer and independently accepted published class/spectral inputs. This discovery null is not exact LP infeasibility and not cap nonexistence.','stopping_rule':'Single registered target run completed. No unchanged H13 retry. Paired-support prototype was never executed.'}
+(W/'FINAL_STATUS.json').write_text(json.dumps(z,indent=2)+'\n')
+files=sorted(p for p in W.iterdir()if p.is_file()and p.name!='SHA256SUMS')
+(W/'SHA256SUMS').write_text(''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.name+'\n'for p in files))
+print(json.dumps(z,indent=2));print('RESULT_SHA256',hashlib.sha256((W/'h13_result.json').read_bytes()).hexdigest())

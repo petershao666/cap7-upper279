@@ -1,0 +1,151 @@
+{
+  "status": "COVERAGE_PROOF_PENDING_ROOT_FINAL_ACCEPTANCE",
+  "alternatives": [
+    {
+      "alternative": 1,
+      "published_option_paraphrase": "45-cap minus four points",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "45_minus4"
+      ],
+      "source_occurrence_count": 27,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "All four-deletions of one affine-unique 45-cap; all are extendable."
+    },
+    {
+      "alternative": 2,
+      "published_option_paraphrase": "Delta686 minus one point",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "Delta686_minus1"
+      ],
+      "source_occurrence_count": 2,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "All 42 single deletions, grouped into two spectra; all are extendable."
+    },
+    {
+      "alternative": 3,
+      "published_option_paraphrase": "41A",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41A"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 4,
+      "published_option_paraphrase": "41B",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41B"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 5,
+      "published_option_paraphrase": "41C",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41C"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 6,
+      "published_option_paraphrase": "41D",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41D"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 7,
+      "published_option_paraphrase": "41E",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41E"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 8,
+      "published_option_paraphrase": "41F",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41F"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 9,
+      "published_option_paraphrase": "41G",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41G"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 10,
+      "published_option_paraphrase": "41H",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41H"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 11,
+      "published_option_paraphrase": "41I",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "41I"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Named source point representative; published remark states completeness and absence of (20,20,1)."
+    },
+    {
+      "alternative": 12,
+      "published_option_paraphrase": "complete cap admitting (20,20,1)",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "all_20201_41_caps"
+      ],
+      "source_occurrence_count": 1,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "Input includes every cap admitting (20,20,1); completeness is not imposed. This safely covers the narrower complete subclass."
+    },
+    {
+      "alternative": 13,
+      "published_option_paraphrase": "complete cap with no (18,18,5), and a saddled cube shared by an 18-section of an (18,17,6) or (18,16,7) direction and another section of size 18, 17 or 16",
+      "source_locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "covering_input_families": [
+        "raw_exceptional_overcover"
+      ],
+      "source_occurrence_count": 41,
+      "all_input_occurrences_individually_accepted": true,
+      "scope_note": "All 34345 positive raw outputs retained. Proposition6.2(b) and Theorem6.3 proof cover the required exceptional subclass. No completeness or absence-(18,18,5) filtering is needed for a safe overcover."
+    }
+  ],
+  "source_html_sha256": "1382f2b23698b0aea3ec1ceeb4999e9ae46aeee5c542fd5f200ce98caeaa46d1",
+  "outside_last_alternative_exactly_one_of_first_twelve": true,
+  "last_alternative_overlap_permitted": true
+}

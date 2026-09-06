@@ -1,0 +1,13 @@
+{
+  "status": "STATIC_READY_FIXED_H3_RETAINED",
+  "clarification_sha256": "f82698e9a96e5fe200a0fd53523712b6a213ff5a0e36a1ca1bd4e12036a27c96",
+  "prior_frozen_sha256": "7b0d8a4deb3bb161594f04a2b03c20910d405757b124f6ec10d471e6800529fe",
+  "original_frozen_files_unchanged": true,
+  "withdrawn_claim": "Unproved H3 membership in current44-case C40 and consequent deletion/absorption of fixed H3 rows",
+  "retained_claims": [
+    "Constructive non-weakening with fixed H3 rows retained",
+    "Exact strict marginal-interface witness",
+    "No full-parent feasible lift or objective strictness claim"
+  ],
+  "optimization_runs": 0
+}

@@ -1,0 +1,2 @@
+INDEPENDENT GEOMETRY PASS: 112-cap; all exterior secants; 364 directions; two Fourier identities; 1540 pair incidences; deletion incidences 11 and 110.
+INDEPENDENT LOWER BOUND PASS: 236 points, all 27730 pairs.

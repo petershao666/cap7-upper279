@@ -1,0 +1,8 @@
+{
+  "status": "INTERFACE_AND_SIGNS_PASS_RAW_MATRICES_PENDING",
+  "certificate_sha256": "3753f438b1021d1915d3c2d97a26f3be6a93899af6f69619e71ea76b3409ce6c",
+  "row_count": 587,
+  "upper_rows": 170,
+  "rhs": 456644586,
+  "source_functions": 33
+}

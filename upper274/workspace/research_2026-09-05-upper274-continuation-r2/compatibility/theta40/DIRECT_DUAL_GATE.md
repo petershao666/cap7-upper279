@@ -1,0 +1,7 @@
+# Compact full-priced dual representation
+
+The corrected universal-theta40 primal solve reached its fixed120-second limit. It has no mathematical conclusion and will not be lengthened. This next finite proof-search representation has606 dual variables, one per exact equation/conditional inequality, instead of929872 primal columns.
+
+For row-scaled equations A z=b and nonnegative variables, phase-I dual vectors u satisfy A^T u<=0 and -1<=u<=1. Upper theta rows additionally have u<=0, exactly reflecting their nonnegative primal slack. Begin with a small subset of the complete column inequalities, optimize b.u, then check A^T u on *every* one of the929872 complete quotient columns. Add violated columns, retaining every previously added inequality. The same complete finite domain is priced at each step; the feature quotient and all-orientation multiplicities are unchanged. The mathematical object gains no assumption.
+
+This is a proof-search reformulation, not new mathematics by itself. At most80 pricing iterations and420 seconds total optimization; each solve<=30 seconds. A full-priced dual is rounded, its upper-row signs checked, normalization constants repaired per outer/inner block, and the final integer inequality checked on all columns. A nonpositive or unverified result closes no branch. An apparent feasible primal recovered from dual multipliers still needs exact rational replay.

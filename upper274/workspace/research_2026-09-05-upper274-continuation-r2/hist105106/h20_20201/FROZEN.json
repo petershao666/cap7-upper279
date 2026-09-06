@@ -1,0 +1,15 @@
+{
+  "status": "AUTHOR_ENUMERATION_FROZEN_PENDING_AUTHOR_REPLAY_AND_INDEPENDENT_AUDIT",
+  "artifacts": {
+    "INPUT.json": "fd1e148e4bc60ba6446cbf60ee447d0088c0c55e56751f90eaa3f9593ba888ba",
+    "PREREGISTRATION.md": "e297bc8078058686756c29823631ed31b88a29c1b5384ec276ff76ede971ec36",
+    "enumerate.cpp": "98d4c93a782cff9c4c03ed88ee945bd4d7b58c2a649166326bde991da39e4f18",
+    "centered20.json": "f59bbf839921fb755c23b0a68b6c599f6bc55bea98f83c1e6f410b78f045b7a5",
+    "all20_catalogue.tsv": "5aeb7fed61c7b9647c2d833d2c32d7b3071c2579d513ef82430c443b61a38062",
+    "all20_masks.txt": "66946f5ef9ea1e10164a5b3e56cf89dede2b85efc50d8a8eb1e392e5862d2f41",
+    "eligible41_ledger.tsv": "66403185f81103238691a41bb3e112762f3d57c217795d6543bd77e8a1842cd4",
+    "histograms41.json": "74c4e1c900b519edc1124dbb2bc49c04dddd1845bbbfd6de74baacf1e19b4011",
+    "enumeration_statistics.json": "f9cb6e65205b8ad5a67ad96e6d6bfd44c9cf15f573a25155040bd665e2ef74b9"
+  },
+  "method_independence": "H code completed before receiving P results; P result message arrived before H execution after resource-wrapper failures. H kernel was not changed after P results. No P generated file imported."
+}

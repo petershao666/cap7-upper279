@@ -1,0 +1,7 @@
+{
+  "certificate_path": "compatibility/two_local_theta400_certificates/RESULT.json",
+  "certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "target": [106,106,63],
+  "scope": "Independent exact raw40 and outer replay, and finite support maxima. No274 promotion before independent NC106 and global bridge integration.",
+  "max_runtime_seconds": 600
+}

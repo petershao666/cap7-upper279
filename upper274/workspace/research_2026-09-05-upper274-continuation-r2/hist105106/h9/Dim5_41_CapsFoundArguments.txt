@@ -1,0 +1,351 @@
+We write +, x, |, -, ., and o for, respectively, the following configurations
+(in which * indicates a non-cap point and . indicates a cap point).
+*.* .*. *.* *** *** ***
+.*. *** *** .*. *.* ***
+*.* .*. *.* *** *** ***
+
+9,2,9;1,0,4;8,4,4:
+144 cap configurations found; the configuration with (t1,t2,r,m) = (0,0,0,0) is
+0	0	0	0	929	929	918	981C	-	4,5,7,8	1,2,3,6	4,5,7,8
+and that is the cap
++.x o+o oxo
+.o. ooo oxo
+x.+ oo. xox
+which can be obtained from
++.x o+o oxo
+.o. .oo oxo
+x.+ oo. xox
+by removing a cap point, and we have
++.x o+o oxo    +.x oo. oxo    .+. ooo xox
+.o. .oo oxo == .o. o+o xox == xox .+. ooo == (triangle-686).
+x.+ oo. xox    x.+ .oo oxo    .+. ooo xox
+Starting with the first 5-dimensional cap above,
+if any of the 144 symmetries (x_3,x_4,x_5) |-> f(x_3,x_4,x_5)
+of the 9-cap 3-flat is applied "throughout the 5-dimensional cap"
+(that is, the map (x_1,x_2,(x_3,x_4,x_5)) |-> (x_1,x_2,f(x_3,x_4,x_5)) is applied),
+the left column is sent to a 20-cap 4-flat that is obtained
+from the original left column by translating the centre-left 3-flat by a vector v
+and translating the top-left 3-flat by -v.
+We can start with the first 5-dimensional cap above and apply
+"translate the centre row by v and translate the top row by -v"
+throughout the cap to obtain a 41-cap 5-flat.
+Therefore, the 144 cap configurations found by the program
+are all isomorphic to a triangle-686 minus a cap point.
+
+9,2,9;1,1,3;8,4,4:
+576 cap configurations found; the configurations with (t1,t2,r,m) = (0,0,0,0) are
+0	0	0	0	929	929	918	981C	18	4,5,7,8	(3 of 1,2,3,6)	4,5,7,8
+and each of those can be obtained from
++.x o+o oxo
+.o. .oo oxo
+x.+ oo. xox
+by removing a cap point; the last cap is (as shown above) isomorphic
+to a triangle-686 minus a cap point.
+An argument similar to that for the 9,2,9;1,0,4;8,4,4 case
+shows that the 576 cap configurations found by the program
+are all isomorphic to a triangle-686 minus a cap point.
+
+9,2,9;6,4,6;3,0,2:
+432 cap configurations found; the configurations with (t1,t2,r,m) = (0,0,0,0) are
+0	0	0	0	929	929	963	963B	1,2,19,20	-	4,5,7,8,10,11	(2 of 3,6,9)
+and each of those can be obtained from
++.x ox| o-.
+.o. ||o ooo
+x.+ xo| o.-
+by removing a cap point; we have
++.x ox| o-.    +.x x|o .o-    .+. |x| o.o    -|- |x| ooo    .+. xox ooo
+.o. ||o ooo == .o. |o| ooo == xox ooo -o- == |x| ooo -|- == xox ooo .+. == (triangle-686).
+x.+ xo| o.-    x.+ o|x -o.    .+. |x| o.o    -|- |x| ooo    .+. xox ooo
+Arguing as before, we find that the 432 cap configurations found by the program
+are all isomorphic to a triangle-686 minus a cap point.
+
+9,1,9;5,4,8;4,1,0:
+72 cap configurations found; the configuration with (t1,t2,r,m) = (0,0,0,0) is
+0	0	0	0	919	919	954	981A	10,11,12,15	9	1,2,3,6,22,23,25,26	-
+and that is the cap
++.x x+o ooo
+oo. oo+ oo.
+x.+ o.+ xoo
+Arguing as before (using the 72 symmetries of the 9-cap 3-flat
+corresponding to the cases (t1,t2,r,m) where r is even,
+so that the "orientation" of the 919 left column is preserved),
+we find that the 72 cap configurations found by the program
+are all isomorphic to the cap above.
+Cap confirmed to be complete, to have no {20,20,1} hyperplane direction,
+and to be isomorphic to none of 41A to 41E.
+
+9,1,9;1,1,4;8,4,4:
+360 cap configurations found; the configurations with (t1,t2,m) = (0,0,0) and r in {0,1} are
+0	0	0	0	919	919	918	981A	18	4,5,7,8	1,2,3,6	4,5,7,8
+0	0	0	0	919	919	918	981C	18	4,5,7,8	1,2,3,6	4,5,7,8
+0	0	1	0	919	919	918	981A	9	1,2,3,6	4,5,7,8	1,2,3,6
+0	0	1	0	919	919	918	981B	0	4,5,7,8	1,2,3,6	4,5,7,8
+0	0	1	0	919	919	918	981C	18	4,5,7,8	1,2,3,6	4,5,7,8
+and those are the following caps, in order:
+(a) +.x o+o oxo (b) +.x o+o oxo (c) +.x oxo o+o (d) +.x o+o oxo (e) +.x o+o oxo
+    oo. .oo oxo     oo. .oo oxo     .oo oo. o+o     .oo o.o oxo     .oo .oo oxo
+    x.+ o.o xo+     x.+ oo. xox     x.+ o.o xo+     x.+ oo. +ox     x.+ oo. xox
+Each of (b) and (e) can be obtained by removing a cap point from
++.x o+o oxo
+.o. .oo oxo == (triangle-686).
+x.+ oo. xox
+We have (a) == (c) == (d), and
+       +.x o.o oxo    .+. ooo +ox
+(a) == oo. o+o xo+ == xox .+o ooo
+       x.+ .oo oxo    .+o .oo xox
+Cap confirmed to be complete, to have no {20,20,1} hyperplane direction,
+and to be isomorphic to none of 41A to 41E.
+Arguing as before (using the 72 symmetries of the 9-cap 3-flat
+corresponding to the cases (t1,t2,r,m) where r is even),
+we find that each of the 360 cap configurations found by the program
+is isomorphic to (a) above or to a triangle-686 minus a cap point.
+
+The 9,1,9;5,4,8;4,1,0 cap above is (up to isomorphism)
++.x x+o ooo    .+. +x. .oo    .+. x.+ o.o
+oo. oo+ oo. == xox ooo xoo == xox ooo oxo
+x.+ o.+ xoo    .+o ++o ooo    .+o +o+ ooo
+and it has (among other hyperplane directions)
+one {19,17,5} direction [10000], one {19,16,6} direction [11000],
+no {18,18,5} directions, eight {18,17,6} directions,
+and three {18,16,7} directions.
+The (new) 9,1,9;1,1,4;8,4,4 cap above is (up to isomorphism)
+.+. +ox ooo
+xox ooo .+o
+.+o xox .oo
+and it has (among other hyperplane directions)
+one {19,17,5} direction [10200], one {19,16,6} direction [10000],
+no {18,18,5} directions, eight {18,17,6} directions,
+and three {18,16,7} directions.
+Indeed, the two caps are isomorphic (Dim5_41_AffineMap):
+      [1 0 2 0 0]    [1]
+      [0 0 1 0 0]    [1]
+x |-> [0 2 0 0 0]x + [0]
+      [0 0 0 1 1]    [0]
+      [0 0 0 1 2]    [0]
+takes the 9,1,9;1,1,4;8,4,4 cap above -- let this be a 41F --
+to the last 9,1,9;5,4,8;4,1,0 cap above.
+
+9,1,8;1,2,3;8,4,5 (excluding 5,18,18): 8 cap configurations found: 
+1	2	2	0	918	981I	918	981I	13,18	6,16,18,23	5,14,15	12,13,17,18,21
+1	2	2	0	918	981I	918	981I	13,18	6,18,23,24	13,14,15	12,13,17,18,21
+1	2	6	1	918	981I	918	981I	16,18	3,13,18,26	8,12,17	14,15,16,18,24
+1	2	6	1	918	981I	918	981I	16,18	3,18,21,26	12,16,17	14,15,16,18,24
+2	2	2	1	918	981I	918	981I	13,18	6,16,18,23	5,14,15	12,13,17,18,21
+2	2	2	1	918	981I	918	981I	13,18	6,18,23,24	13,14,15	12,13,17,18,21
+2	2	6	0	918	981I	918	981I	16,18	3,13,18,26	8,12,17	14,15,16,18,24
+2	2	6	0	918	981I	918	981I	16,18	3,18,21,26	12,16,17	14,15,16,18,24
+None of these have {18,18,5}, {20,20,1}, {20,17,4}, {20,16,5}, {19,17,5}
+or {19,16,6} hyperplane directions (confirmed by a computer search
+for 9,1,8;1,2,3;8,4,5 excluding those 4-flat point counts).
+The first of the 8 caps above is
+(a)
+*.* *.* ***   *** *** ***   *** *** **.
+*.* .** .**   *** *** .**   *.. *** **.
+.** *.* .**   *** **. **.   *** *** .**
+
+*** **. ***   *** *** **.   *** *** .**
+*** *** ***   *.* *** ***   *.* .** ***
+*** *** ***   *** *** ***   **. *** ***
+
+.*. *** *.*   *** *** ***   *.* *.* .*.
+*** *.* .*.   *** *** *.*   *** *** ***
+.*. *** *.*   *** *** ***   .*. *** .*.
+and the second is
+(b)
+*.* *.* ***   *** *** **.   *** *** **.
+*.* .** .**   *** *** .**   *.. *** **.
+.** *.* .**   *** *** **.   *** *** .**
+
+*** **. ***   *** *** **.   *** *** ***
+*** *** ***   *.* *** ***   ..* .** ***
+*** *** ***   *** *** ***   **. *** ***
+
+.*. *** *.*   *** *** ***   *.* *.* .*.
+*** *.* .*.   *** *** *.*   *** *** ***
+.*. *** *.*   *** *** ***   .*. *** .*.
+Each of (1,2,2,0) -> (1,2,6,1) and (2,2,2,1) -> (2,2,6,0)
+is M.R^4 = R^4.M, which (for these 981Is) corresponds to
+applying the reflection "negate x_1" throughout.
+The map (2,2,6,0) -> (1,2,2,0) is R^2.T_1^2.R^2 = R^4.T_2,
+which is (x_0,x_1,x_2) |-> (x_0 - x_2 + 1,-x_1,-x_2 - 1),
+which (for these 981Is) also corresponds to applying
+the reflection "negate x_1" throughout.
+Therefore, each of the 8 caps above is isomorphic
+to at least one of (a) or (b).
+
+(a)'s hyperplane direction point counts:
+181706	4
+181607	5
+181508	2
+181409	0
+181310	2
+181211	0
+171707	3
+171608	15
+171509	10
+171410	0
+171311	0
+171212	0
+161609	6
+161510	9
+161411	0
+161312	4
+151511	1
+151412	32
+151313	10
+141413	18
+(b)'s hyperplane direction point counts:
+181706	2
+181607	10
+181508	1
+181409	2
+181310	0
+181211	0
+171707	4
+171608	10
+171509	5
+171410	4
+171311	0
+171212	0
+161609	11
+161510	6
+161411	2
+161312	3
+151511	8
+151412	13
+151313	15
+141413	25
+Since these are different, the caps (a) and (b) are not isomorphic;
+call them 41H and 41I respectively.
+
+9,1,8;7,5,5;2,2,2: 4 cap configurations found:
+1	2	2	0	918	981I	972	981I	6,16,18,23,24	13,18	12,13,17,18,21	14,15
+1	2	6	1	918	981I	972	981I	3,13,18,21,26	16,18	14,15,16,18,24	12,17
+2	2	2	1	918	981I	972	981I	6,16,18,23,24	13,18	12,13,17,18,21	14,15
+2	2	6	0	918	981I	972	981I	3,13,18,21,26	16,18	14,15,16,18,24	12,17
+The first of those is
+*.* *.* ***   *** *** **.   *** *** ***
+*.* .** .**   *.. *** **.   *** *** .**
+.** *.* .**   *** *** .**   *** *** **.
+
+*** **. ***   *** *** .**   *** *** **.
+*** *** ***   ..* .** ***   *.* *** ***
+*** *** ***   **. *** ***   *** *** ***
+
+.*. *** *.*   *.* *** .*.   *.* *** ***
+*** *.* .*.   *** *** ***   *** *** *.*
+.*. *** *.*   .*. *** .*.   *** *** ***
+and, as before, the others can be obtained from this
+by applying the "negate x_1" reflection.
+An isomorphism from the cap above to the first 41H is
+      [0 2 0 0 0]    [0]
+      [0 1 0 1 1]    [2]
+x |-> [2 0 1 1 2]x + [0]
+      [0 0 2 2 0]    [2]
+      [0 2 0 0 2]    [0]
+(Dim5_41_AffineMap).
+
+From now on, we exclude each configuration that is "45 minus 4",
+that is, a 45-cap 5-flat minus four cap points.
+
+(cu) 8,2,8;2,0,4;8,5,4: 432 cap configurations found; apart from 45 minus 4, there are 32.
+The first 2 are
+2	1	828	16	828	11	-	5,11,17,21,22	7,10,13,26	7,10,13,26
+2	1	828	16	828	11	-	5,11,17,21,22	7,10,24,26	7,10,24,26
+from which the other 30 of the 32 can be obtained by invertible affine transformations that restrict
+to symmetries of the bottom row and that send the left column's hyperplane to the same hyperplane.
+The two caps above are, respectively,
+*** *.* ***   *** .** *..   *** .** *..		*** *.* ***   *** .** *.*   *** .** *.*
+*.* .** *.*   *** *** ***   *** *** ***		*.* .** *.*   .** *** ***   .** *** ***
+**. ..* **.   .** *** ***   .** *** ***		**. ..* **.   .** *** ***   .** *** ***
+
+*** *.* ***   *** *** ***   **. *** ***		*** *.* ***   *** *** ***   **. *** ***
+*** .** ***   *** *** ***   **. *** ***	and	*** .** ***   *** *** ***   **. *** ***
+*** *** ***   *** *** ***   *** **. ..*		*** *** ***   *** *** ***   *** **. ..*
+
+.*. *** .*.   *** .** ***   **. *.* **.		.*. *** .*.   *** .** ***   **. *.* **.
+*** *** ***   *** *** ***   *** .*. ***		*** *** ***   *** *** ***   *** .*. ***
+.*. *** .*.   *** **. ***   .** *.* .**		.*. *** .*.   *** **. ***   .** *.* .**
+The first cap has an {18,18,5} hyperplane direction.
+An isomorphism from the second cap to the first 41H is
+      [0 2 2 1 2]    [2]
+      [2 0 2 1 0]    [1]
+x |-> [0 1 0 2 1]x + [0]
+      [2 0 0 1 2]    [1]
+      [1 0 2 1 2]    [2]
+(Dim5_41_AffineMap).
+
+(sa) 8,2,8;2,0,4;8,5,4: 304 cap configurations found; apart from 45 minus 4, they are:
+1	1	828	1	828	9	-	0,2,7,16,19	0,1,5,14	5,7,17,25
+3	0	828	1	828	9	-	2,5,7,16,26	1,5,7,14	0,7,10,25
+5	1	828	1	828	9	-	2,5,7,16,26	1,5,7,14	0,7,10,25
+7	0	828	1	828	9	-	0,2,7,16,19	0,1,5,14	5,7,17,25
+The first 2 are
+..* *** ..*   *** *.* ***   .** .** ***		*** *.* ***   *** ..* ***   .** .** *.*
+.** **. .**   *** *.* ***   *** *** ***		**. .** **.   *** *** ***   *** *.* ***
+*** *.* ***   *** **. **.   *** **. .**		*.. *** *..   *** **. **.   *** *** ***
+
+.** *** ***   *** *** ***   *.* .** .**		*** *** .**   *** *** ***   *** .** .**
+*** *** ***   *** *** ***   *** *.* ***	and	*** *** ***   *** *** ***   *** *** ***
+*** *** **.   *** *** ***   *** *.* ***		**. *** ***   *** *** ***   .** *.. ***
+
+*.* *** .*.   *** *** *.*   *.* **. *.*		*.* *** .*.   *** *** *.*   *.* **. *.*
+.*. *** ***   .** *** ***   **. .** ***		.*. *** ***   .** *** ***   **. .** ***
+*.* *** .*.   *** *** ***   *.* *** ..*		*.* *** .*.   *** *** ***   *.* *** ..*
+An isomorphism from the first cap to the first 41H is
+      [1 2 0 1 0]    [2]
+      [0 1 2 0 2]    [1]
+x |-> [0 0 1 0 0]x + [0]
+      [0 1 1 1 1]    [1]
+      [2 0 1 1 1]    [2]
+(Dim5_41_AffineMap).
+The second cap's numbers of hyperplane directions are as follows; call that second cap a 41G.
+181706	5
+181607	5
+181508	0
+181409	0
+181310	0
+181211	0
+171707	0
+171608	20
+171509	5
+171410	10
+171311	0
+171212	0
+161609	10
+161510	0
+161411	5
+161312	0
+151511	1
+151412	20
+151313	30
+141413	10
+(end)
+
+9,1,8;2,2,3;6,5,5: 48 cap configurations found,
+each of which is equivalent, via invertible affine transformations,
+to at least one of these two:
+0	0	2	1	918	981F	926	926:32	2,23	0,13,16,20,25	5,9,22	2,7,11,24,26
+2	0	2	0	918	981F	926	926:5	2,23	0,1,5,8,17	1,3,5	7,10,19,24,26
+These two caps are, respectively, as follows.
+.*. *** .*.   **. *** ***   *** .** ***		.*. *** .*.   *** *.* ***   *.* .** *.*
+.*. *** ***   *** *** *.*   .** *** ***		*** .*. ***   *** **. ***   .** *** ***
+*** *** .*.   *** **. ***   .** *.* *.*		*** .*. ***   *** **. ***   .** *** ***
+
+*** *** ***   *** *** ***   .** *** .*.		*** *** ***   *** *** ***   *** *.* ***
+*** *** *.*   *** *** ***   *** *.* ***		*** *** ***   *** *** ***   *** *.* ***
+*** *** ***   **. *.* ***   *.* *** ***		*.* *** ***   **. *.* ***   *** .*. .**
+
+.*. *** *.*   *** *** ***   *** .*. *.*		.*. *** *.*   *** *** *.*   .*. *.* ***
+*** *.* .*.   *.* *** ***   *** *** ***		*** *.* .*.   *** *** ***   *** *** ***
+.*. *** *.*   *** *** *.*   *.* *** .*.		.*. *** *.*   *** *** *.*   .*. *.* ***
+Each of those two caps has four {18,18,5} hyperplane directions.
+
+Each of the remaining non-excluded configurations is 45 minus 4
+or has a saddled cube as an 8-cap 3-flat that is the intersection of:
+-- the 18-cap 4-flat in some {18,6,17} or {18,7,16} hyperplane direction D, and
+-- some 18-, 17-, or 16-cap 4-flat not in D.
+In the second of those two cases, the caps are complete; they do not
+form collections of the form "all caps of the form C minus a cap point".
+
+(end)

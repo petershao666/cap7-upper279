@@ -1,0 +1,30 @@
+{
+  "status": "SC_DECODER_FORMULAS_AND_ONE_RECORD_VERIFIED",
+  "decoded_record_count": 1,
+  "raw_file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/exceptional41_raw/Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt",
+  "raw_line": 831,
+  "nontrivial_transformation": {
+    "r": 3,
+    "m": 1,
+    "order": "M^m after R^r"
+  },
+  "indices": "zero-based Java switch indices",
+  "point_count": 41,
+  "pair_checks": 820,
+  "directions": 121,
+  "all_raw_coverage_claimed": false,
+  "global_exclusion_claimed": false,
+  "downloaded_program_executed": false,
+  "other_formats_not_decoded": [
+    "General9",
+    "cube8",
+    "antiprism8"
+  ],
+  "remaining_authorization_boundary": "L/root must accept whole-list coverage and any other format mappings before a full raw batch",
+  "decoder_sha256": "0252210e9273a05f7db12be0f60a09cfe4ab9badcae0c4dcdc28e966ecf7b98b",
+  "one_record_sha256": "ae392e272d4998f5db4ae49f999772c7c5795b5f699149fff52058ba012c819d",
+  "registered_budget_seconds": 180,
+  "gate_to_terminal_artifact_seconds": 311.58,
+  "time_budget_status": "EXCEEDED_DURING_SOURCE_INSPECTION_AND_DOCUMENTATION",
+  "scope_boundary": "Exactly one record decoded; no batch or LP. Stop after terminal artifact."
+}

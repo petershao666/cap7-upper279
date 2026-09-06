@@ -1,0 +1,9205 @@
+{
+  "status": "PRIMARY_EPS_GEOMETRY_DECODED_CAPS_PASS_PENDING_ROOT_FIGURE_AUDIT",
+  "coordinate_order": [
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "x5"
+  ],
+  "geometry_proof": "EPS_GEOMETRY.md",
+  "grid_unit_rational": "720/127",
+  "grid_origin_rational": [
+    "48377/500",
+    "42707/500"
+  ],
+  "max_coordinate_matching_error_rational": "143/63500",
+  "tolerance_rational": "1/100",
+  "figure3_exactly_matches_independent_published_orbit": true,
+  "PS_executed": false,
+  "affine_fit_search_run": false,
+  "caps": [
+    {
+      "name": "45",
+      "figure": 3,
+      "source_file": "Fig03EPS.eps",
+      "source_sha256": "66cd9a15ed6ae2fb9a485f2e6cf42b656faab42c9fe638c6f32f5462bef12d7e",
+      "points": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          2
+        ],
+        [
+          0,
+          0,
+          2,
+          1,
+          2
+        ],
+        [
+          0,
+          0,
+          2,
+          2,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          1
+        ],
+        [
+          1,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          1,
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "point_indices": [
+        0,
+        117,
+        225,
+        207,
+        153,
+        30,
+        57,
+        87,
+        168,
+        91,
+        172,
+        37,
+        64,
+        100,
+        181,
+        46,
+        73,
+        4,
+        121,
+        229,
+        211,
+        157,
+        7,
+        124,
+        232,
+        214,
+        160,
+        11,
+        20,
+        113,
+        194,
+        140,
+        221,
+        41,
+        68,
+        50,
+        77,
+        116,
+        197,
+        143,
+        224,
+        98,
+        179,
+        107,
+        188
+      ],
+      "pair_checks": 990,
+      "histogram": [
+        {
+          "type": [
+            15,
+            15,
+            15
+          ],
+          "count": 66
+        },
+        {
+          "type": [
+            18,
+            18,
+            9
+          ],
+          "count": 55
+        }
+      ],
+      "marker_coordinate_witnesses": [
+        {
+          "EPS_line": 684,
+          "EPS_start_byte": 35628,
+          "center_rational": [
+            "23053/1000",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 691,
+          "EPS_start_byte": 36057,
+          "center_rational": [
+            "34391/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 698,
+          "EPS_start_byte": 36482,
+          "center_rational": [
+            "4573/100",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 705,
+          "EPS_start_byte": 36909,
+          "center_rational": [
+            "14267/250",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 725,
+          "EPS_start_byte": 37851,
+          "center_rational": [
+            "23053/1000",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 733,
+          "EPS_start_byte": 38291,
+          "center_rational": [
+            "34391/1000",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 740,
+          "EPS_start_byte": 38722,
+          "center_rational": [
+            "4573/100",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 747,
+          "EPS_start_byte": 39149,
+          "center_rational": [
+            "14267/250",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 757,
+          "EPS_start_byte": 39672,
+          "center_rational": [
+            "34391/1000",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 765,
+          "EPS_start_byte": 40090,
+          "center_rational": [
+            "4573/100",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 799,
+          "EPS_start_byte": 41547,
+          "center_rational": [
+            "23053/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 807,
+          "EPS_start_byte": 41955,
+          "center_rational": [
+            "17383/1000",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 814,
+          "EPS_start_byte": 42366,
+          "center_rational": [
+            "28723/1000",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 821,
+          "EPS_start_byte": 42771,
+          "center_rational": [
+            "14267/250",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 841,
+          "EPS_start_byte": 43658,
+          "center_rational": [
+            "23053/1000",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 849,
+          "EPS_start_byte": 44054,
+          "center_rational": [
+            "25699/500",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 856,
+          "EPS_start_byte": 44465,
+          "center_rational": [
+            "31369/500",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 863,
+          "EPS_start_byte": 44866,
+          "center_rational": [
+            "14267/250",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 870,
+          "EPS_start_byte": 45255,
+          "center_rational": [
+            "48377/500",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            0,
+            2,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 877,
+          "EPS_start_byte": 45692,
+          "center_rational": [
+            "48377/500",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            0,
+            0,
+            1
+          ],
+          "point": [
+            0,
+            2,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 887,
+          "EPS_start_byte": 46223,
+          "center_rational": [
+            "39873/500",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "5063879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            0,
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 895,
+          "EPS_start_byte": 46641,
+          "center_rational": [
+            "56881/500",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "7223879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 902,
+          "EPS_start_byte": 47078,
+          "center_rational": [
+            "18519/250",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "4703879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            0,
+            0,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 909,
+          "EPS_start_byte": 47511,
+          "center_rational": [
+            "14929/125",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "7583879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            0,
+            0,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 916,
+          "EPS_start_byte": 47944,
+          "center_rational": [
+            "48377/500",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 923,
+          "EPS_start_byte": 48351,
+          "center_rational": [
+            "42707/500",
+            "31369/500"
+          ],
+          "expected_center_rational": [
+            "5423879/63500",
+            "3983789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            0,
+            0,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 930,
+          "EPS_start_byte": 48754,
+          "center_rational": [
+            "27023/250",
+            "18519/250"
+          ],
+          "expected_center_rational": [
+            "6863879/63500",
+            "4703789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 976,
+          "EPS_start_byte": 50853,
+          "center_rational": [
+            "13077/100",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 984,
+          "EPS_start_byte": 51311,
+          "center_rational": [
+            "176123/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 991,
+          "EPS_start_byte": 51760,
+          "center_rational": [
+            "153447/1000",
+            "142107/1000"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "9023789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 998,
+          "EPS_start_byte": 52211,
+          "center_rational": [
+            "142107/1000",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1005,
+          "EPS_start_byte": 52662,
+          "center_rational": [
+            "32957/200",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1051,
+          "EPS_start_byte": 54692,
+          "center_rational": [
+            "13077/100",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1059,
+          "EPS_start_byte": 55136,
+          "center_rational": [
+            "176123/1000",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1066,
+          "EPS_start_byte": 55565,
+          "center_rational": [
+            "153447/1000",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1073,
+          "EPS_start_byte": 55996,
+          "center_rational": [
+            "142107/1000",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1080,
+          "EPS_start_byte": 56401,
+          "center_rational": [
+            "32957/200",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1114,
+          "EPS_start_byte": 57936,
+          "center_rational": [
+            "13077/100",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1122,
+          "EPS_start_byte": 58376,
+          "center_rational": [
+            "147777/1000",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1129,
+          "EPS_start_byte": 58839,
+          "center_rational": [
+            "31823/200",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1136,
+          "EPS_start_byte": 59276,
+          "center_rational": [
+            "32957/200",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1156,
+          "EPS_start_byte": 60206,
+          "center_rational": [
+            "142107/1000",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1164,
+          "EPS_start_byte": 60644,
+          "center_rational": [
+            "147777/1000",
+            "18519/250"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "4703789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1171,
+          "EPS_start_byte": 61077,
+          "center_rational": [
+            "31823/200",
+            "31369/500"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "3983789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1178,
+          "EPS_start_byte": 61510,
+          "center_rational": [
+            "176123/1000",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "41A",
+      "figure": 4,
+      "source_file": "Fig04EPS.eps",
+      "source_sha256": "07c130a626becc967dc51bc0e44767c938c766bc4bb1cd0e1acf50deb5dbc2db",
+      "points": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          0,
+          1,
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          0
+        ]
+      ],
+      "point_indices": [
+        0,
+        66,
+        48,
+        15,
+        24,
+        37,
+        73,
+        31,
+        58,
+        13,
+        148,
+        229,
+        22,
+        130,
+        211,
+        124,
+        205,
+        151,
+        232,
+        133,
+        214,
+        160,
+        241,
+        29,
+        56,
+        113,
+        194,
+        140,
+        221,
+        95,
+        176,
+        104,
+        185,
+        98,
+        179,
+        44,
+        71,
+        107,
+        188,
+        53,
+        80
+      ],
+      "pair_checks": 820,
+      "histogram": [
+        {
+          "type": [
+            14,
+            14,
+            13
+          ],
+          "count": 30
+        },
+        {
+          "type": [
+            15,
+            13,
+            13
+          ],
+          "count": 12
+        },
+        {
+          "type": [
+            16,
+            13,
+            12
+          ],
+          "count": 12
+        },
+        {
+          "type": [
+            16,
+            15,
+            10
+          ],
+          "count": 24
+        },
+        {
+          "type": [
+            16,
+            16,
+            9
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            17,
+            12,
+            12
+          ],
+          "count": 9
+        },
+        {
+          "type": [
+            17,
+            16,
+            8
+          ],
+          "count": 24
+        },
+        {
+          "type": [
+            18,
+            16,
+            7
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            18,
+            18,
+            5
+          ],
+          "count": 4
+        }
+      ],
+      "marker_coordinate_witnesses": [
+        {
+          "EPS_line": 640,
+          "EPS_start_byte": 33824,
+          "center_rational": [
+            "48377/500",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 674,
+          "EPS_start_byte": 35339,
+          "center_rational": [
+            "17383/1000",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 682,
+          "EPS_start_byte": 35787,
+          "center_rational": [
+            "34391/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 689,
+          "EPS_start_byte": 36212,
+          "center_rational": [
+            "4573/100",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 696,
+          "EPS_start_byte": 36639,
+          "center_rational": [
+            "25699/500",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 716,
+          "EPS_start_byte": 37584,
+          "center_rational": [
+            "28723/1000",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 724,
+          "EPS_start_byte": 38032,
+          "center_rational": [
+            "34391/1000",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 731,
+          "EPS_start_byte": 38463,
+          "center_rational": [
+            "4573/100",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 738,
+          "EPS_start_byte": 38890,
+          "center_rational": [
+            "31369/500",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 784,
+          "EPS_start_byte": 40877,
+          "center_rational": [
+            "23053/1000",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 792,
+          "EPS_start_byte": 41287,
+          "center_rational": [
+            "14267/250",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 826,
+          "EPS_start_byte": 42744,
+          "center_rational": [
+            "23053/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 834,
+          "EPS_start_byte": 43152,
+          "center_rational": [
+            "34391/1000",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 841,
+          "EPS_start_byte": 43563,
+          "center_rational": [
+            "4573/100",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 848,
+          "EPS_start_byte": 43970,
+          "center_rational": [
+            "14267/250",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 868,
+          "EPS_start_byte": 44857,
+          "center_rational": [
+            "23053/1000",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 876,
+          "EPS_start_byte": 45253,
+          "center_rational": [
+            "34391/1000",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 883,
+          "EPS_start_byte": 45664,
+          "center_rational": [
+            "4573/100",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 890,
+          "EPS_start_byte": 46045,
+          "center_rational": [
+            "14267/250",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 936,
+          "EPS_start_byte": 48066,
+          "center_rational": [
+            "22771/250",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "5783879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            2,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 944,
+          "EPS_start_byte": 48510,
+          "center_rational": [
+            "12803/125",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "6503879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 951,
+          "EPS_start_byte": 48969,
+          "center_rational": [
+            "18519/250",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "4703879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            0,
+            1,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 958,
+          "EPS_start_byte": 49376,
+          "center_rational": [
+            "14929/125",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "7583879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            0,
+            1,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 978,
+          "EPS_start_byte": 50329,
+          "center_rational": [
+            "13077/100",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 986,
+          "EPS_start_byte": 50793,
+          "center_rational": [
+            "32957/200",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 993,
+          "EPS_start_byte": 51236,
+          "center_rational": [
+            "142107/1000",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1000,
+          "EPS_start_byte": 51687,
+          "center_rational": [
+            "176123/1000",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1020,
+          "EPS_start_byte": 52673,
+          "center_rational": [
+            "13077/100",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1028,
+          "EPS_start_byte": 53131,
+          "center_rational": [
+            "32957/200",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1035,
+          "EPS_start_byte": 53568,
+          "center_rational": [
+            "142107/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1042,
+          "EPS_start_byte": 54019,
+          "center_rational": [
+            "176123/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1049,
+          "EPS_start_byte": 54468,
+          "center_rational": [
+            "142107/1000",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1056,
+          "EPS_start_byte": 54895,
+          "center_rational": [
+            "32957/200",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1076,
+          "EPS_start_byte": 55823,
+          "center_rational": [
+            "13077/100",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1084,
+          "EPS_start_byte": 56267,
+          "center_rational": [
+            "176123/1000",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1104,
+          "EPS_start_byte": 57199,
+          "center_rational": [
+            "13077/100",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1112,
+          "EPS_start_byte": 57643,
+          "center_rational": [
+            "176123/1000",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1132,
+          "EPS_start_byte": 58557,
+          "center_rational": [
+            "272879/2000",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1140,
+          "EPS_start_byte": 59005,
+          "center_rational": [
+            "147777/1000",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1147,
+          "EPS_start_byte": 59442,
+          "center_rational": [
+            "31823/200",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1154,
+          "EPS_start_byte": 59873,
+          "center_rational": [
+            "34091/200",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "41B",
+      "figure": 6,
+      "source_file": "Fig06EPS.eps",
+      "source_sha256": "2a00bc3f0c99a3643f44ff13989794ef998fb6a139ba2848478055bf7e3d5226",
+      "points": [
+        [
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "point_indices": [
+        162,
+        36,
+        63,
+        45,
+        72,
+        1,
+        109,
+        136,
+        91,
+        199,
+        226,
+        100,
+        208,
+        235,
+        31,
+        58,
+        13,
+        22,
+        88,
+        43,
+        70,
+        52,
+        79,
+        2,
+        164,
+        113,
+        194,
+        140,
+        221,
+        95,
+        176,
+        104,
+        185,
+        125,
+        206,
+        152,
+        233,
+        134,
+        215,
+        161,
+        242
+      ],
+      "pair_checks": 820,
+      "histogram": [
+        {
+          "type": [
+            14,
+            14,
+            13
+          ],
+          "count": 27
+        },
+        {
+          "type": [
+            15,
+            13,
+            13
+          ],
+          "count": 22
+        },
+        {
+          "type": [
+            15,
+            14,
+            12
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            15,
+            15,
+            11
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            16,
+            13,
+            12
+          ],
+          "count": 5
+        },
+        {
+          "type": [
+            16,
+            15,
+            10
+          ],
+          "count": 16
+        },
+        {
+          "type": [
+            17,
+            14,
+            10
+          ],
+          "count": 12
+        },
+        {
+          "type": [
+            17,
+            15,
+            9
+          ],
+          "count": 12
+        },
+        {
+          "type": [
+            17,
+            17,
+            7
+          ],
+          "count": 6
+        },
+        {
+          "type": [
+            18,
+            14,
+            9
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            18,
+            16,
+            7
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            18,
+            17,
+            6
+          ],
+          "count": 7
+        },
+        {
+          "type": [
+            18,
+            18,
+            5
+          ],
+          "count": 2
+        }
+      ],
+      "marker_coordinate_witnesses": [
+        {
+          "EPS_line": 697,
+          "EPS_start_byte": 36162,
+          "center_rational": [
+            "17383/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 705,
+          "EPS_start_byte": 36598,
+          "center_rational": [
+            "25699/500",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 712,
+          "EPS_start_byte": 37023,
+          "center_rational": [
+            "28723/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 719,
+          "EPS_start_byte": 37454,
+          "center_rational": [
+            "31369/500",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 739,
+          "EPS_start_byte": 38389,
+          "center_rational": [
+            "17383/1000",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 747,
+          "EPS_start_byte": 38831,
+          "center_rational": [
+            "25699/500",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 754,
+          "EPS_start_byte": 39262,
+          "center_rational": [
+            "28723/1000",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 761,
+          "EPS_start_byte": 39693,
+          "center_rational": [
+            "31369/500",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 781,
+          "EPS_start_byte": 40629,
+          "center_rational": [
+            "40061/1000",
+            "51211/500"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "6503789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 802,
+          "EPS_start_byte": 41566,
+          "center_rational": [
+            "40061/1000",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 823,
+          "EPS_start_byte": 42476,
+          "center_rational": [
+            "23053/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 831,
+          "EPS_start_byte": 42884,
+          "center_rational": [
+            "34391/1000",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 838,
+          "EPS_start_byte": 43295,
+          "center_rational": [
+            "4573/100",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 845,
+          "EPS_start_byte": 43702,
+          "center_rational": [
+            "14267/250",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 865,
+          "EPS_start_byte": 44589,
+          "center_rational": [
+            "23053/1000",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 873,
+          "EPS_start_byte": 44985,
+          "center_rational": [
+            "34391/1000",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 880,
+          "EPS_start_byte": 45396,
+          "center_rational": [
+            "4573/100",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 887,
+          "EPS_start_byte": 45777,
+          "center_rational": [
+            "14267/250",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 907,
+          "EPS_start_byte": 46683,
+          "center_rational": [
+            "48377/500",
+            "51211/500"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "6503789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            0,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 928,
+          "EPS_start_byte": 47628,
+          "center_rational": [
+            "18519/250",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "4703879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 936,
+          "EPS_start_byte": 48042,
+          "center_rational": [
+            "27023/250",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "6863879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 943,
+          "EPS_start_byte": 48475,
+          "center_rational": [
+            "42707/500",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "5423879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 950,
+          "EPS_start_byte": 48878,
+          "center_rational": [
+            "14929/125",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "7583879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 970,
+          "EPS_start_byte": 49841,
+          "center_rational": [
+            "13077/100",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 978,
+          "EPS_start_byte": 50311,
+          "center_rational": [
+            "32957/200",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 985,
+          "EPS_start_byte": 50760,
+          "center_rational": [
+            "142107/1000",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 992,
+          "EPS_start_byte": 51217,
+          "center_rational": [
+            "176123/1000",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1012,
+          "EPS_start_byte": 52199,
+          "center_rational": [
+            "153447/1000",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1033,
+          "EPS_start_byte": 53194,
+          "center_rational": [
+            "13077/100",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1041,
+          "EPS_start_byte": 53664,
+          "center_rational": [
+            "32957/200",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1048,
+          "EPS_start_byte": 54113,
+          "center_rational": [
+            "142107/1000",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1055,
+          "EPS_start_byte": 54544,
+          "center_rational": [
+            "176123/1000",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1075,
+          "EPS_start_byte": 55483,
+          "center_rational": [
+            "153447/1000",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1096,
+          "EPS_start_byte": 56432,
+          "center_rational": [
+            "272879/2000",
+            "34203/500"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "4343789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1104,
+          "EPS_start_byte": 56880,
+          "center_rational": [
+            "147777/1000",
+            "18519/250"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "4703789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1111,
+          "EPS_start_byte": 57313,
+          "center_rational": [
+            "31823/200",
+            "31369/500"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "3983789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1118,
+          "EPS_start_byte": 57746,
+          "center_rational": [
+            "34091/200",
+            "34203/500"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "4343789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1138,
+          "EPS_start_byte": 58694,
+          "center_rational": [
+            "272879/2000",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1146,
+          "EPS_start_byte": 59142,
+          "center_rational": [
+            "147777/1000",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1153,
+          "EPS_start_byte": 59579,
+          "center_rational": [
+            "31823/200",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1160,
+          "EPS_start_byte": 60010,
+          "center_rational": [
+            "34091/200",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "41C",
+      "figure": 7,
+      "source_file": "Fig07EPS.eps",
+      "source_sha256": "d240f058e98f12919a7e1b5f4a59f02acc4007a2cb42dd8cef6e7e1fefedf269",
+      "points": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "point_indices": [
+        0,
+        30,
+        57,
+        15,
+        24,
+        109,
+        136,
+        172,
+        181,
+        166,
+        94,
+        40,
+        67,
+        103,
+        49,
+        76,
+        88,
+        196,
+        223,
+        43,
+        70,
+        52,
+        79,
+        5,
+        194,
+        221,
+        176,
+        122,
+        149,
+        185,
+        131,
+        158,
+        8,
+        116,
+        143,
+        98,
+        206,
+        233,
+        107,
+        215,
+        242
+      ],
+      "pair_checks": 820,
+      "histogram": [
+        {
+          "type": [
+            14,
+            14,
+            13
+          ],
+          "count": 19
+        },
+        {
+          "type": [
+            15,
+            13,
+            13
+          ],
+          "count": 19
+        },
+        {
+          "type": [
+            15,
+            14,
+            12
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            15,
+            15,
+            11
+          ],
+          "count": 13
+        },
+        {
+          "type": [
+            16,
+            13,
+            12
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            16,
+            14,
+            11
+          ],
+          "count": 8
+        },
+        {
+          "type": [
+            16,
+            15,
+            10
+          ],
+          "count": 12
+        },
+        {
+          "type": [
+            16,
+            16,
+            9
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            17,
+            12,
+            12
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            17,
+            13,
+            11
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            17,
+            15,
+            9
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            17,
+            16,
+            8
+          ],
+          "count": 16
+        },
+        {
+          "type": [
+            18,
+            14,
+            9
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            18,
+            16,
+            7
+          ],
+          "count": 6
+        },
+        {
+          "type": [
+            18,
+            17,
+            6
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            18,
+            18,
+            5
+          ],
+          "count": 2
+        }
+      ],
+      "marker_coordinate_witnesses": [
+        {
+          "EPS_line": 661,
+          "EPS_start_byte": 34622,
+          "center_rational": [
+            "147777/1000",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 669,
+          "EPS_start_byte": 35070,
+          "center_rational": [
+            "31823/200",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 689,
+          "EPS_start_byte": 36000,
+          "center_rational": [
+            "17383/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 697,
+          "EPS_start_byte": 36436,
+          "center_rational": [
+            "25699/500",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 704,
+          "EPS_start_byte": 36861,
+          "center_rational": [
+            "28723/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 711,
+          "EPS_start_byte": 37292,
+          "center_rational": [
+            "31369/500",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 731,
+          "EPS_start_byte": 38236,
+          "center_rational": [
+            "40061/1000",
+            "142107/1000"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "9023789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 752,
+          "EPS_start_byte": 39187,
+          "center_rational": [
+            "23053/1000",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 760,
+          "EPS_start_byte": 39627,
+          "center_rational": [
+            "34391/1000",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 767,
+          "EPS_start_byte": 40058,
+          "center_rational": [
+            "4573/100",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 774,
+          "EPS_start_byte": 40485,
+          "center_rational": [
+            "14267/250",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 794,
+          "EPS_start_byte": 41410,
+          "center_rational": [
+            "23053/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 802,
+          "EPS_start_byte": 41818,
+          "center_rational": [
+            "34391/1000",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 809,
+          "EPS_start_byte": 42229,
+          "center_rational": [
+            "4573/100",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 816,
+          "EPS_start_byte": 42636,
+          "center_rational": [
+            "14267/250",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 836,
+          "EPS_start_byte": 43530,
+          "center_rational": [
+            "40061/1000",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 857,
+          "EPS_start_byte": 44437,
+          "center_rational": [
+            "17383/1000",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 865,
+          "EPS_start_byte": 44859,
+          "center_rational": [
+            "25699/500",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 872,
+          "EPS_start_byte": 45270,
+          "center_rational": [
+            "28723/1000",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 879,
+          "EPS_start_byte": 45655,
+          "center_rational": [
+            "31369/500",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 899,
+          "EPS_start_byte": 46561,
+          "center_rational": [
+            "22771/250",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "5783879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            2,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 907,
+          "EPS_start_byte": 47005,
+          "center_rational": [
+            "51211/500",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "6503879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 927,
+          "EPS_start_byte": 47965,
+          "center_rational": [
+            "48377/500",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 948,
+          "EPS_start_byte": 48884,
+          "center_rational": [
+            "39873/500",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "5063879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            0,
+            1,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 956,
+          "EPS_start_byte": 49302,
+          "center_rational": [
+            "56881/500",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "7223879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            0,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 976,
+          "EPS_start_byte": 50277,
+          "center_rational": [
+            "272879/2000",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 984,
+          "EPS_start_byte": 50751,
+          "center_rational": [
+            "34091/200",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1004,
+          "EPS_start_byte": 51749,
+          "center_rational": [
+            "13077/100",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1012,
+          "EPS_start_byte": 52219,
+          "center_rational": [
+            "32957/200",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1019,
+          "EPS_start_byte": 52668,
+          "center_rational": [
+            "142107/1000",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1026,
+          "EPS_start_byte": 53125,
+          "center_rational": [
+            "176123/1000",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1046,
+          "EPS_start_byte": 54107,
+          "center_rational": [
+            "153447/1000",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1067,
+          "EPS_start_byte": 55102,
+          "center_rational": [
+            "147777/1000",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1075,
+          "EPS_start_byte": 55576,
+          "center_rational": [
+            "31823/200",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1095,
+          "EPS_start_byte": 56524,
+          "center_rational": [
+            "272879/2000",
+            "34203/500"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "4343789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1103,
+          "EPS_start_byte": 56972,
+          "center_rational": [
+            "34091/200",
+            "34203/500"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "4343789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1123,
+          "EPS_start_byte": 57919,
+          "center_rational": [
+            "153447/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1144,
+          "EPS_start_byte": 58866,
+          "center_rational": [
+            "13077/100",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1152,
+          "EPS_start_byte": 59310,
+          "center_rational": [
+            "32957/200",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1159,
+          "EPS_start_byte": 59733,
+          "center_rational": [
+            "142107/1000",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1166,
+          "EPS_start_byte": 60158,
+          "center_rational": [
+            "176123/1000",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            1,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "name": "41D",
+      "figure": 8,
+      "source_file": "Fig08EPS.eps",
+      "source_sha256": "f382396aa525dea5fba5221d246d1c60d337e2f4ccc790114bbcf893feb53783",
+      "points": [
+        [
+          0,
+          0,
+          1,
+          0,
+          2
+        ],
+        [
+          0,
+          1,
+          2,
+          1,
+          2
+        ],
+        [
+          0,
+          2,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          1,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          0,
+          2,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          1,
+          1,
+          2
+        ],
+        [
+          2,
+          0,
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          1,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          2,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0,
+          1,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2,
+          2
+        ]
+      ],
+      "point_indices": [
+        171,
+        210,
+        114,
+        186,
+        51,
+        163,
+        10,
+        19,
+        127,
+        208,
+        166,
+        31,
+        67,
+        148,
+        76,
+        115,
+        61,
+        223,
+        16,
+        178,
+        151,
+        25,
+        160,
+        11,
+        200,
+        65,
+        227,
+        47,
+        209,
+        74,
+        236,
+        113,
+        194,
+        140,
+        221,
+        14,
+        68,
+        23,
+        50,
+        197,
+        224
+      ],
+      "pair_checks": 820,
+      "histogram": [
+        {
+          "type": [
+            14,
+            14,
+            13
+          ],
+          "count": 22
+        },
+        {
+          "type": [
+            15,
+            13,
+            13
+          ],
+          "count": 18
+        },
+        {
+          "type": [
+            15,
+            14,
+            12
+          ],
+          "count": 14
+        },
+        {
+          "type": [
+            15,
+            15,
+            11
+          ],
+          "count": 7
+        },
+        {
+          "type": [
+            16,
+            13,
+            12
+          ],
+          "count": 3
+        },
+        {
+          "type": [
+            16,
+            14,
+            11
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            16,
+            15,
+            10
+          ],
+          "count": 6
+        },
+        {
+          "type": [
+            16,
+            16,
+            9
+          ],
+          "count": 10
+        },
+        {
+          "type": [
+            17,
+            14,
+            10
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            17,
+            15,
+            9
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            17,
+            16,
+            8
+          ],
+          "count": 14
+        },
+        {
+          "type": [
+            17,
+            17,
+            7
+          ],
+          "count": 3
+        },
+        {
+          "type": [
+            18,
+            14,
+            9
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            18,
+            15,
+            8
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            18,
+            16,
+            7
+          ],
+          "count": 8
+        },
+        {
+          "type": [
+            18,
+            17,
+            6
+          ],
+          "count": 1
+        },
+        {
+          "type": [
+            18,
+            18,
+            5
+          ],
+          "count": 1
+        }
+      ],
+      "marker_coordinate_witnesses": [
+        {
+          "EPS_line": 793,
+          "EPS_start_byte": 40231,
+          "center_rational": [
+            "23053/1000",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 801,
+          "EPS_start_byte": 40671,
+          "center_rational": [
+            "14267/250",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 821,
+          "EPS_start_byte": 41612,
+          "center_rational": [
+            "17383/1000",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            0,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 829,
+          "EPS_start_byte": 42060,
+          "center_rational": [
+            "25699/500",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "3263879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            1,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            0,
+            1,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 836,
+          "EPS_start_byte": 42497,
+          "center_rational": [
+            "28723/1000",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            0,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 843,
+          "EPS_start_byte": 42908,
+          "center_rational": [
+            "31369/500",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            0,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 863,
+          "EPS_start_byte": 43807,
+          "center_rational": [
+            "17383/1000",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 871,
+          "EPS_start_byte": 44225,
+          "center_rational": [
+            "34391/1000",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 878,
+          "EPS_start_byte": 44632,
+          "center_rational": [
+            "28723/1000",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 885,
+          "EPS_start_byte": 45039,
+          "center_rational": [
+            "31369/500",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 905,
+          "EPS_start_byte": 45934,
+          "center_rational": [
+            "23053/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 913,
+          "EPS_start_byte": 46342,
+          "center_rational": [
+            "14267/250",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 933,
+          "EPS_start_byte": 47229,
+          "center_rational": [
+            "23053/1000",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 941,
+          "EPS_start_byte": 47625,
+          "center_rational": [
+            "14267/250",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 961,
+          "EPS_start_byte": 48506,
+          "center_rational": [
+            "17383/1000",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 969,
+          "EPS_start_byte": 48928,
+          "center_rational": [
+            "34391/1000",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 976,
+          "EPS_start_byte": 49339,
+          "center_rational": [
+            "4573/100",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 983,
+          "EPS_start_byte": 49740,
+          "center_rational": [
+            "31369/500",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "3983879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 990,
+          "EPS_start_byte": 50141,
+          "center_rational": [
+            "51211/500",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "6503879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            0,
+            2,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 997,
+          "EPS_start_byte": 50594,
+          "center_rational": [
+            "14929/125",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "7583879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            0,
+            2,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1004,
+          "EPS_start_byte": 51053,
+          "center_rational": [
+            "56881/500",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "7223879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            0,
+            2,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1011,
+          "EPS_start_byte": 51516,
+          "center_rational": [
+            "22771/250",
+            "27023/250"
+          ],
+          "expected_center_rational": [
+            "5783879/63500",
+            "6863789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            0,
+            0,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1018,
+          "EPS_start_byte": 51949,
+          "center_rational": [
+            "14929/125",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "7583879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            0,
+            1,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1025,
+          "EPS_start_byte": 52382,
+          "center_rational": [
+            "147777/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1032,
+          "EPS_start_byte": 52833,
+          "center_rational": [
+            "272879/2000",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1039,
+          "EPS_start_byte": 53296,
+          "center_rational": [
+            "31823/200",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1046,
+          "EPS_start_byte": 53759,
+          "center_rational": [
+            "272879/2000",
+            "142107/1000"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "9023789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1053,
+          "EPS_start_byte": 54216,
+          "center_rational": [
+            "147777/1000",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1060,
+          "EPS_start_byte": 54679,
+          "center_rational": [
+            "142107/1000",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1067,
+          "EPS_start_byte": 55130,
+          "center_rational": [
+            "34091/200",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1074,
+          "EPS_start_byte": 55593,
+          "center_rational": [
+            "13077/100",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1081,
+          "EPS_start_byte": 56046,
+          "center_rational": [
+            "176123/1000",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1088,
+          "EPS_start_byte": 56475,
+          "center_rational": [
+            "153447/1000",
+            "51211/500"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "6503789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1095,
+          "EPS_start_byte": 56928,
+          "center_rational": [
+            "31823/200",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "10103879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1102,
+          "EPS_start_byte": 57361,
+          "center_rational": [
+            "147777/1000",
+            "22771/250"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "5783789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1109,
+          "EPS_start_byte": 57794,
+          "center_rational": [
+            "176123/1000",
+            "31369/500"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "3983789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1116,
+          "EPS_start_byte": 58219,
+          "center_rational": [
+            "153447/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1123,
+          "EPS_start_byte": 58644,
+          "center_rational": [
+            "142107/1000",
+            "23053/1000"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "1463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1130,
+          "EPS_start_byte": 59069,
+          "center_rational": [
+            "34091/200",
+            "28723/1000"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "1823789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1137,
+          "EPS_start_byte": 59506,
+          "center_rational": [
+            "13077/100",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1144,
+          "EPS_start_byte": 59939,
+          "center_rational": [
+            "13077/100",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            2,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "name": "41E",
+      "figure": 9,
+      "source_file": "Fig09EPS.eps",
+      "source_sha256": "5abdae71a5c7c7a3a3322aefe81447850bbbd1b19cd77bf990a19d254be8afff",
+      "points": [
+        [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          0,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          0,
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          0,
+          2,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          1,
+          1,
+          2,
+          1,
+          1
+        ],
+        [
+          1,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          1,
+          0,
+          2
+        ],
+        [
+          1,
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          1,
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          1
+        ],
+        [
+          2,
+          1,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          1,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          1,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          1,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          1
+        ],
+        [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "point_indices": [
+        54,
+        126,
+        192,
+        168,
+        150,
+        82,
+        163,
+        190,
+        136,
+        46,
+        127,
+        73,
+        235,
+        166,
+        13,
+        94,
+        121,
+        130,
+        88,
+        16,
+        178,
+        232,
+        241,
+        2,
+        113,
+        140,
+        95,
+        176,
+        230,
+        104,
+        185,
+        239,
+        89,
+        170,
+        35,
+        17,
+        152,
+        233,
+        26,
+        161,
+        242
+      ],
+      "pair_checks": 820,
+      "histogram": [
+        {
+          "type": [
+            14,
+            14,
+            13
+          ],
+          "count": 19
+        },
+        {
+          "type": [
+            15,
+            13,
+            13
+          ],
+          "count": 21
+        },
+        {
+          "type": [
+            15,
+            14,
+            12
+          ],
+          "count": 15
+        },
+        {
+          "type": [
+            15,
+            15,
+            11
+          ],
+          "count": 6
+        },
+        {
+          "type": [
+            16,
+            13,
+            12
+          ],
+          "count": 3
+        },
+        {
+          "type": [
+            16,
+            14,
+            11
+          ],
+          "count": 2
+        },
+        {
+          "type": [
+            16,
+            15,
+            10
+          ],
+          "count": 6
+        },
+        {
+          "type": [
+            16,
+            16,
+            9
+          ],
+          "count": 9
+        },
+        {
+          "type": [
+            17,
+            14,
+            10
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            17,
+            15,
+            9
+          ],
+          "count": 4
+        },
+        {
+          "type": [
+            17,
+            16,
+            8
+          ],
+          "count": 15
+        },
+        {
+          "type": [
+            17,
+            17,
+            7
+          ],
+          "count": 5
+        },
+        {
+          "type": [
+            18,
+            14,
+            9
+          ],
+          "count": 3
+        },
+        {
+          "type": [
+            18,
+            15,
+            8
+          ],
+          "count": 1
+        },
+        {
+          "type": [
+            18,
+            16,
+            7
+          ],
+          "count": 6
+        },
+        {
+          "type": [
+            18,
+            17,
+            6
+          ],
+          "count": 1
+        },
+        {
+          "type": [
+            18,
+            18,
+            5
+          ],
+          "count": 1
+        }
+      ],
+      "marker_coordinate_witnesses": [
+        {
+          "EPS_line": 840,
+          "EPS_start_byte": 42163,
+          "center_rational": [
+            "28723/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 847,
+          "EPS_start_byte": 42594,
+          "center_rational": [
+            "40061/1000",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 854,
+          "EPS_start_byte": 43031,
+          "center_rational": [
+            "17383/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 861,
+          "EPS_start_byte": 43456,
+          "center_rational": [
+            "4573/100",
+            "272879/2000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "8663789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 868,
+          "EPS_start_byte": 43889,
+          "center_rational": [
+            "14267/250",
+            "142107/1000"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "9023789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            1,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 875,
+          "EPS_start_byte": 44316,
+          "center_rational": [
+            "34391/1000",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 882,
+          "EPS_start_byte": 44753,
+          "center_rational": [
+            "28723/1000",
+            "14929/125"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "7583789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            -1,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            2,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 889,
+          "EPS_start_byte": 45184,
+          "center_rational": [
+            "40061/1000",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            0,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 896,
+          "EPS_start_byte": 45621,
+          "center_rational": [
+            "17383/1000",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            -1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 903,
+          "EPS_start_byte": 46052,
+          "center_rational": [
+            "40061/1000",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "2543879/63500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            -1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "point": [
+            2,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 910,
+          "EPS_start_byte": 46459,
+          "center_rational": [
+            "17383/1000",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "1103879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 917,
+          "EPS_start_byte": 46870,
+          "center_rational": [
+            "28723/1000",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "1823879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 924,
+          "EPS_start_byte": 47281,
+          "center_rational": [
+            "34391/1000",
+            "25699/500"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "3263789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 931,
+          "EPS_start_byte": 47692,
+          "center_rational": [
+            "4573/100",
+            "40061/1000"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "2543789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            -1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 951,
+          "EPS_start_byte": 48585,
+          "center_rational": [
+            "23053/1000",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "1463879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 959,
+          "EPS_start_byte": 48981,
+          "center_rational": [
+            "34391/1000",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "2183879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 966,
+          "EPS_start_byte": 49392,
+          "center_rational": [
+            "4573/100",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "2903879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            -1,
+            0,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 973,
+          "EPS_start_byte": 49773,
+          "center_rational": [
+            "14267/250",
+            "2343/200"
+          ],
+          "expected_center_rational": [
+            "3623879/63500",
+            "743789/63500"
+          ],
+          "signed_coordinates": [
+            -1,
+            1,
+            0,
+            1,
+            1
+          ],
+          "point": [
+            2,
+            1,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 980,
+          "EPS_start_byte": 50162,
+          "center_rational": [
+            "48377/500",
+            "31823/200"
+          ],
+          "expected_center_rational": [
+            "48377/500",
+            "10103789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            0,
+            2,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 987,
+          "EPS_start_byte": 50599,
+          "center_rational": [
+            "18519/250",
+            "13077/100"
+          ],
+          "expected_center_rational": [
+            "4703879/63500",
+            "8303789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            -1,
+            1,
+            -1,
+            1
+          ],
+          "point": [
+            0,
+            2,
+            1,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 994,
+          "EPS_start_byte": 51026,
+          "center_rational": [
+            "39873/500",
+            "42707/500"
+          ],
+          "expected_center_rational": [
+            "5063879/63500",
+            "42707/500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            0,
+            -1,
+            0
+          ],
+          "point": [
+            0,
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1001,
+          "EPS_start_byte": 51429,
+          "center_rational": [
+            "14929/125",
+            "31369/500"
+          ],
+          "expected_center_rational": [
+            "7583879/63500",
+            "3983789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            0,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            0,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1008,
+          "EPS_start_byte": 51858,
+          "center_rational": [
+            "56881/500",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "7223879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            0,
+            1,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            0,
+            1,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1015,
+          "EPS_start_byte": 52289,
+          "center_rational": [
+            "142107/1000",
+            "153447/1000"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "9743789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1022,
+          "EPS_start_byte": 52740,
+          "center_rational": [
+            "13077/100",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "8303879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1029,
+          "EPS_start_byte": 53187,
+          "center_rational": [
+            "147777/1000",
+            "32957/200"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "10463789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1036,
+          "EPS_start_byte": 53638,
+          "center_rational": [
+            "147777/1000",
+            "147777/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "9383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            2,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1043,
+          "EPS_start_byte": 54101,
+          "center_rational": [
+            "153447/1000",
+            "1251/10"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "7943789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            -1,
+            0,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            2,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1050,
+          "EPS_start_byte": 54558,
+          "center_rational": [
+            "142107/1000",
+            "48377/500"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "6143789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            -1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            2,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1057,
+          "EPS_start_byte": 54989,
+          "center_rational": [
+            "153447/1000",
+            "51211/500"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "6503789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1064,
+          "EPS_start_byte": 55442,
+          "center_rational": [
+            "34091/200",
+            "51211/500"
+          ],
+          "expected_center_rational": [
+            "10823879/63500",
+            "6503789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            1,
+            -1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            1,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1071,
+          "EPS_start_byte": 55901,
+          "center_rational": [
+            "142107/1000",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "9023879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            -1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            2,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1078,
+          "EPS_start_byte": 56328,
+          "center_rational": [
+            "176123/1000",
+            "39873/500"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "5063789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            1,
+            0
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            1,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1085,
+          "EPS_start_byte": 56753,
+          "center_rational": [
+            "272879/2000",
+            "34203/500"
+          ],
+          "expected_center_rational": [
+            "8663879/63500",
+            "4343789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            -1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            2,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1092,
+          "EPS_start_byte": 57190,
+          "center_rational": [
+            "153447/1000",
+            "34203/500"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "4343789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            0,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1099,
+          "EPS_start_byte": 57621,
+          "center_rational": [
+            "176123/1000",
+            "31369/500"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "3983789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            0,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            0,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1106,
+          "EPS_start_byte": 58046,
+          "center_rational": [
+            "153447/1000",
+            "4573/100"
+          ],
+          "expected_center_rational": [
+            "9743879/63500",
+            "2903789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            0,
+            0,
+            -1
+          ],
+          "point": [
+            1,
+            1,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "EPS_line": 1113,
+          "EPS_start_byte": 58471,
+          "center_rational": [
+            "147777/1000",
+            "34391/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "2183789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "EPS_line": 1120,
+          "EPS_start_byte": 58908,
+          "center_rational": [
+            "176123/1000",
+            "1209/200"
+          ],
+          "expected_center_rational": [
+            "11183879/63500",
+            "383789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            -1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            2,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1127,
+          "EPS_start_byte": 59311,
+          "center_rational": [
+            "32957/200",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "10463879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "EPS_line": 1134,
+          "EPS_start_byte": 59734,
+          "center_rational": [
+            "147777/1000",
+            "17383/1000"
+          ],
+          "expected_center_rational": [
+            "9383879/63500",
+            "1103789/63500"
+          ],
+          "signed_coordinates": [
+            1,
+            1,
+            1,
+            0,
+            1
+          ],
+          "point": [
+            1,
+            1,
+            1,
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

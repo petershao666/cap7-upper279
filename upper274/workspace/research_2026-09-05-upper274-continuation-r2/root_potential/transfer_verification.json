@@ -1,0 +1,12 @@
+{
+  "status": "PASS_ROUTE_SIDE_ROOT_AUDIT_PENDING",
+  "transfer_functions": 7,
+  "table_values_checked": 244,
+  "missing_source_subprofiles": 0,
+  "exact_old_model_dominance_certificates": 4,
+  "exact_nonredundancy_witnesses": 3,
+  "outer_cases_with_new_certificate": 0,
+  "transfer_sha256": "424d84b1e64606a2807553e6b4c6c3696aa7e9e77c1484568ad2647f10521da7",
+  "comparison_sha256": "3165d40c48f11e25c0d381eb74d2c09c1a9ef94493136130cefcf0bdb8720020",
+  "scope": "puncturing-transfer inequalities and exact relation to old rational histogram model; no outer exclusion"
+}

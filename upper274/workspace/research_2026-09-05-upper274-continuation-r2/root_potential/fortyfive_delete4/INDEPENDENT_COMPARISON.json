@@ -1,0 +1,29 @@
+{
+  "status": "FULL_INDEPENDENT_FAMILY_FREQUENCY_AND_REPRESENTATIVE_COMPARISON_PASS",
+  "complete_histogram_vectors": 27,
+  "frequencies_match_for_every_vector": true,
+  "total_subsets": 148995,
+  "P_assignment_file_full_subset_order_checked": true,
+  "representative_pair_checks": {
+    "P": 22140,
+    "root": 22140
+  },
+  "representative_normal_checks": {
+    "P": 3267,
+    "root": 3267
+  },
+  "P_frozen_before_root_output_read": true,
+  "P_generator_method": "explicitly assemble retained 41 points; count every retained point under all 242 nonzero normals; divide scalar duplicates by two",
+  "root_generator_method_from_declared_gate": "subtract deleted occupancies from full45 point directional counts",
+  "root_generator_source_read_or_imported": false,
+  "independent_checker_method": "direct tuple point and pair arithmetic, normals normalized by last nonzero coordinate one",
+  "shared_dependencies": [
+    "accepted 45-point coordinates",
+    "published affine uniqueness of the 45-cap"
+  ],
+  "P_histograms_sha256": "c7a6c7b338e8df3185b3e5a72949c40be310c7b65d8eace0d902e4d07e83c02e",
+  "root_histograms_sha256": "5f84049be12a5422014a4024a7002e72537febc3597db9d2ece2343dfb2adb6d",
+  "P_enumeration_cpp_sha256": "ab161c6ef272208a9828b7b41bb452681340c2e45f5162a5535ef32d50673dbb",
+  "root_declared_enumeration_cpp_sha256": "2718c6d9229bab5cd2e4f5ed50f3a9bed53d6b50b7d065d5fa47cc7b7c13adbb",
+  "new_global_bound_claimed": false
+}

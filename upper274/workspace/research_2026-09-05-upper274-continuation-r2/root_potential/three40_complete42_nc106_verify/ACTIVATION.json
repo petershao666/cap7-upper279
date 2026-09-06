@@ -1,0 +1,22 @@
+{
+  "root_authorized_exact_replay": true,
+  "target": [106, 106, 63],
+  "candidate_path": "compatibility/two_local_theta400_certificates/RESULT.json",
+  "candidate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "expected_child_bounds": {
+    "400": -9829345995830952,
+    "401": -9618859046048364,
+    "402": -10564264755104425
+  },
+  "expected_NC106_bound": -35039780423844643,
+  "domain": "P independently frozen original fourteen pruned NC106 full ordered domains",
+  "expected_raw_count": 1106094,
+  "expected_cover_count": 94242,
+  "whole42_state_filtering": false,
+  "max_computation_seconds": 600,
+  "worker_count": 1,
+  "memory_limit_bytes": 1073741824,
+  "child40_acceptance": "ROOT_INDEPENDENT_THREE_TIER_VERIFICATION_PENDING",
+  "outer_acceptance": "ROOT_INDEPENDENT_OUTER_VERIFICATION_PENDING",
+  "authorization_source": "Root NEW_TASK explicitly binding the candidate and authorizing this exact replay"
+}

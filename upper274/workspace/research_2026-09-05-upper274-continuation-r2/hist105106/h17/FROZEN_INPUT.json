@@ -1,0 +1,51 @@
+{
+  "status": "COMPLETE_AUTHOR_INPUT_FROZEN_PENDING_INDEPENDENT_COVERAGE_AUDIT",
+  "claim": "Complete proposed actual4D17 directional histogram family, conditional on the recorded source cover and independent finite replay. No publication novelty or global seven-dimensional bound claim.",
+  "histogram_count": 102,
+  "generated_actual_caps": 70935,
+  "primary_anchor_cover_input": "../h16/input.json",
+  "primary_anchor_cover_input_sha256": "5ab467f94b0aae522a375382d0839763d65ef05bebc87a665df77cbcf26eb089",
+  "summary": {
+    "status": "COMPLETE_AUTHOR_ENUMERATION_PENDING_INDEPENDENT_AUDIT",
+    "orbit_count8": 3,
+    "orbit_count9": 1,
+    "actual8_count": 63180,
+    "actual9_count": 2106,
+    "GL3_count": 11232,
+    "AGL3_maps_per_representative": 303264,
+    "generated17_count": 70935,
+    "distinct17_histograms": 102,
+    "point_pair_checks": 9647160,
+    "elapsed_seconds": 0.419533,
+    "families": {
+      "881": {
+        "generated": 4515,
+        "histograms": 94
+      },
+      "971": {
+        "generated": 3240,
+        "histograms": 29
+      },
+      "980": {
+        "generated": 63180,
+        "histograms": 11
+      }
+    }
+  },
+  "files": {
+    "enumerate.cpp": "a7ec8f8fb5100a31a64166a4a79f0d1d76794c7495b6570cb43da1ad70802c72",
+    "normalized8.jsonl": "9c3e87d088ce790074f430b0074745e283bcb0c4f09f249cb6edcb43e3f7a451",
+    "normalized9.jsonl": "37c6b4a5955e3fc5410738382eda7f894ffbd445b1abafd28fa22281237a9c57",
+    "representatives8.json": "d730f7a607a18602ae3b15cd6890dfaf1c8756b237fea85265667869bb2489df",
+    "representatives9.json": "9444f87c755dbb9e64a5e2d03af7bb89cf4ee02de61a27406efc8377f0de5871",
+    "actual8_masks.txt": "01dcd9448bb1c4ad1232c97ec09e8d395c1167d630e0a31edbcdf68dfd4dfa4b",
+    "actual9_masks.txt": "3d5a035e5157fc42ea31b10176c4494f51dbccd309a09d65faba12615178145f",
+    "actual8_mappings.jsonl": "9b55c5318a5603c06c75680491963f97cd4415cdb856287dadeaf991f957c904",
+    "actual9_mappings.jsonl": "cd364b9c836518ea0ec67061f648f7ff4bd09b39def47321e8739bea0a87f97f",
+    "histograms17.json": "7c47c4c3468fc8ead940a889f24fdb31bc6d45dfeea764e53aa998462399528c",
+    "generated17_ledger.tsv": "a64caa6c1fb86f91ab55ad3cb5d0d0912f4f9493fc61618e0ef2bd3653ed87b5",
+    "author_check.json": "15867905e5991f15ad1238c1e108934d01d37e1738aebcc7ca143143056bb6f3",
+    "COVERAGE_PROOF.md": "9b83b4270866c073b458e80caf8b26ecf10354e06b8defe7aba9f047db37c3ca"
+  },
+  "coupled_LP_started": false
+}

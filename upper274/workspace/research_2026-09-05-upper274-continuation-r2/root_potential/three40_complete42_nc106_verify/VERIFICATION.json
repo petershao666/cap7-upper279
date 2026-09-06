@@ -1,0 +1,1365 @@
+{
+  "status": "INDEPENDENT_PASS_ALL14_NC106_FULL_RAW_AND_UNIVERSAL_BOUND",
+  "candidate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "B106": -35039780423844643,
+  "maximum_cases": [
+    3
+  ],
+  "accepted_child40_bounds": {
+    "400": -9829345995830952,
+    "401": -9618859046048364,
+    "402": -10564264755104425
+  },
+  "root_child40_acceptance_sha256": "bdbf59fff4d5de25bfe7dd220d6e7b44aa648a6dd9cefcfd3aee1e5aedb3296d",
+  "root_lower_support_acceptance_sha256": "643d97974ecc94201c7ec68354502781a4c3eccbc9dada84202906518bebf0a4",
+  "cases": [
+    {
+      "case": 0,
+      "anchor": [
+        41,
+        41,
+        24
+      ],
+      "raw_count": 364383,
+      "cover_count": 25038,
+      "exact_minimum": -1044145058932212,
+      "declared_K": -1044145058932212,
+      "case_bound": -35042417227985161,
+      "q_dot_F": -137417353897600740,
+      "child_bounds_sum": -23878046439783415,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_129_c0_n41",
+          "mathematical_size": 41,
+          "column": 0,
+          "bound": -11927957165126592
+        },
+        {
+          "function_id": "support_106_129_c1_n41",
+          "mathematical_size": 41,
+          "column": 1,
+          "bound": -11950089274656823
+        }
+      ],
+      "phi_at_anchor": -88569021398658,
+      "forced_vector": [
+        1613760,
+        66420,
+        287820,
+        66420,
+        287820,
+        22356,
+        54648,
+        58774,
+        942856,
+        701006,
+        58774,
+        942856,
+        701006,
+        19512667520,
+        19512667520
+      ],
+      "raw_witness": [
+        6,
+        17,
+        18,
+        6,
+        17,
+        18,
+        8,
+        9,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          6
+        ],
+        [
+          18,
+          17,
+          6
+        ],
+        [
+          9,
+          8,
+          7
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          43,
+          43,
+          20
+        ],
+        [
+          43,
+          33,
+          30
+        ],
+        [
+          43,
+          33,
+          30
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "0b48cb3ab26b757699a0565eeaa159b2214dfa079bf77cfa9c1aec0ab660aeb7"
+    },
+    {
+      "case": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "raw_count": 208332,
+      "cover_count": 15831,
+      "exact_minimum": 379504653210669,
+      "declared_K": 379504653210669,
+      "case_bound": -35042417193652932,
+      "q_dot_F": 35109769962665103,
+      "child_bounds_sum": -24144441607653773,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_130_c0_n42",
+          "mathematical_size": 42,
+          "column": 0,
+          "bound": -12080775131508436
+        },
+        {
+          "function_id": "support_106_130_c1_n41",
+          "mathematical_size": 41,
+          "column": 1,
+          "bound": -12063666476145337
+        }
+      ],
+      "phi_at_anchor": -87682510173313,
+      "forced_vector": [
+        1584240,
+        69741,
+        309960,
+        66420,
+        287820,
+        20493,
+        47817,
+        -1208716648,
+        -1209715486,
+        -1208710894,
+        -1199228590,
+        -1208155171,
+        -1208473579,
+        -120697520,
+        -120580275,
+        -120865961,
+        -120559116,
+        -12078964695,
+        -12079033618,
+        -12081740098,
+        -12078893080,
+        -12060940828,
+        -12072262069,
+        -11961588514,
+        -12028264876,
+        58774,
+        942856,
+        701006,
+        409766017920,
+        19512667520
+      ],
+      "raw_witness": [
+        12,
+        15,
+        15,
+        12,
+        14,
+        15,
+        5,
+        9,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          12
+        ],
+        [
+          15,
+          14,
+          12
+        ],
+        [
+          9,
+          9,
+          5
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          39,
+          38,
+          29
+        ],
+        [
+          36,
+          35,
+          35
+        ],
+        [
+          36,
+          36,
+          34
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "264aa8221ee9732ef2bee1607c9627c2e332d3cb4dc6861a2cc4e1efa5f6aad6"
+    },
+    {
+      "case": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "raw_count": 121332,
+      "cover_count": 9957,
+      "exact_minimum": 1530817220937328,
+      "declared_K": 1530817220937328,
+      "case_bound": -35042417014377078,
+      "q_dot_F": 174445703975388559,
+      "child_bounds_sum": -24172202771846535,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_131_c0_n42",
+          "mathematical_size": 42,
+          "column": 0,
+          "bound": -12089864370041164
+        },
+        {
+          "function_id": "support_106_131_c1_n42",
+          "mathematical_size": 42,
+          "column": 1,
+          "bound": -12082338401805371
+        }
+      ],
+      "phi_at_anchor": -87034484502414,
+      "forced_vector": [
+        1552320,
+        69741,
+        309960,
+        69741,
+        309960,
+        18711,
+        41580,
+        -1208716648,
+        -1209715486,
+        -1208710894,
+        -1199228590,
+        -1208155171,
+        -1208473579,
+        -120697520,
+        -120580275,
+        -120865961,
+        -120559116,
+        -12078964695,
+        -12079033618,
+        -12081740098,
+        -12078893080,
+        -12060940828,
+        -12072262069,
+        -11961588514,
+        -12028264876,
+        -1208716648,
+        -1209715486,
+        -1208710894,
+        -1199228590,
+        -1208155171,
+        -1208473579,
+        -120697520,
+        -120580275,
+        -120865961,
+        -120559116,
+        -12078964695,
+        -12079033618,
+        -12081740098,
+        -12078893080,
+        -12060940828,
+        -12072262069,
+        -11961588514,
+        -12028264876,
+        409766017920,
+        409766017920
+      ],
+      "raw_witness": [
+        7,
+        17,
+        18,
+        12,
+        12,
+        18,
+        5,
+        11,
+        6
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          7
+        ],
+        [
+          18,
+          12,
+          12
+        ],
+        [
+          11,
+          6,
+          5
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          42,
+          40,
+          24
+        ],
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          36,
+          35,
+          35
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "9552ac21c9a0a77e6d4848fd091cf52ef03997aa88acc469b86fe8ce848d66ee"
+    },
+    {
+      "case": 3,
+      "anchor": [
+        43,
+        40,
+        23
+      ],
+      "raw_count": 86814,
+      "cover_count": 8012,
+      "exact_minimum": 2061522429671882,
+      "declared_K": 2061522429671882,
+      "case_bound": -35039780423844643,
+      "q_dot_F": 224321452316394435,
+      "child_bounds_sum": -9829345995830952,
+      "child_bound_terms": [
+        {
+          "function_id": "400",
+          "mathematical_size": 40,
+          "column": 1,
+          "bound": -9829345995830952
+        }
+      ],
+      "phi_at_anchor": -87672754110404,
+      "forced_vector": [
+        1582400,
+        73143,
+        333207,
+        63180,
+        266760,
+        20493,
+        47817,
+        45,
+        21,
+        18,
+        17,
+        18,
+        2,
+        475918720
+      ],
+      "raw_witness": [
+        9,
+        17,
+        17,
+        4,
+        18,
+        18,
+        6,
+        8,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          17,
+          17,
+          9
+        ],
+        [
+          18,
+          18,
+          4
+        ],
+        [
+          9,
+          8,
+          6
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          44,
+          43,
+          19
+        ],
+        [
+          41,
+          36,
+          29
+        ],
+        [
+          41,
+          35,
+          30
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "8a1b9bfd3d0522e71a7dc38658da2d7de58feae5c98ed761d32d8b8ce03b25dc"
+    },
+    {
+      "case": 4,
+      "anchor": [
+        43,
+        41,
+        22
+      ],
+      "raw_count": 83682,
+      "cover_count": 7613,
+      "exact_minimum": -1758867639755629,
+      "declared_K": -1758867639755629,
+      "case_bound": -35042417227185938,
+      "q_dot_F": -235684374241540255,
+      "child_bounds_sum": -12094116282108544,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_133_c1_n41",
+          "mathematical_size": 41,
+          "column": 1,
+          "bound": -12094116282108544
+        }
+      ],
+      "phi_at_anchor": -86911113968248,
+      "forced_vector": [
+        1551440,
+        73143,
+        333207,
+        66420,
+        287820,
+        18711,
+        41580,
+        45,
+        21,
+        18,
+        17,
+        18,
+        2,
+        58774,
+        942856,
+        701006,
+        19512667520
+      ],
+      "raw_witness": [
+        13,
+        15,
+        15,
+        11,
+        15,
+        15,
+        9,
+        0,
+        13
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          13
+        ],
+        [
+          15,
+          15,
+          11
+        ],
+        [
+          13,
+          9,
+          0
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          43,
+          33,
+          30
+        ],
+        [
+          41,
+          39,
+          26
+        ],
+        [
+          39,
+          39,
+          28
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "a6e7a77a952ae0670a6eaab2d35ccc9b01f9e7f6b5adaa7b2f76625b18a1dc0b"
+    },
+    {
+      "case": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "raw_count": 49803,
+      "cover_count": 4908,
+      "exact_minimum": -566091015858111,
+      "declared_K": -566091015858111,
+      "case_bound": -35042417227821755,
+      "q_dot_F": -91514703427635421,
+      "child_bounds_sum": -11938012521789191,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_134_c1_n42",
+          "mathematical_size": 42,
+          "column": 1,
+          "bound": -11938012521789191
+        }
+      ],
+      "phi_at_anchor": -86714197228574,
+      "forced_vector": [
+        1517040,
+        73143,
+        333207,
+        69741,
+        309960,
+        17010,
+        35910,
+        45,
+        21,
+        18,
+        17,
+        18,
+        2,
+        -1208716648,
+        -1209715486,
+        -1208710894,
+        -1199228590,
+        -1208155171,
+        -1208473579,
+        -120697520,
+        -120580275,
+        -120865961,
+        -120559116,
+        -12078964695,
+        -12079033618,
+        -12081740098,
+        -12078893080,
+        -12060940828,
+        -12072262069,
+        -11961588514,
+        -12028264876,
+        409766017920
+      ],
+      "raw_witness": [
+        9,
+        16,
+        18,
+        12,
+        14,
+        16,
+        4,
+        11,
+        6
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          16,
+          9
+        ],
+        [
+          16,
+          14,
+          12
+        ],
+        [
+          11,
+          6,
+          4
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          41,
+          36,
+          29
+        ],
+        [
+          36,
+          36,
+          34
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "1331a131082d8147f4d3e8c517d04e991a94bb1cbfc22ea6a58a6192c8edef51"
+    },
+    {
+      "case": 6,
+      "anchor": [
+        43,
+        43,
+        20
+      ],
+      "raw_count": 22077,
+      "cover_count": 2011,
+      "exact_minimum": 462111076900101,
+      "declared_K": 462111076900101,
+      "case_bound": -35042417227996375,
+      "q_dot_F": 20959035945429905,
+      "child_bounds_sum": 0,
+      "child_bound_terms": [],
+      "phi_at_anchor": -86012868514059,
+      "forced_vector": [
+        1479200,
+        73143,
+        333207,
+        73143,
+        333207,
+        15390,
+        30780,
+        45,
+        21,
+        18,
+        17,
+        18,
+        2,
+        45,
+        21,
+        18,
+        17,
+        18,
+        2
+      ],
+      "raw_witness": [
+        9,
+        17,
+        17,
+        8,
+        17,
+        18,
+        3,
+        9,
+        8
+      ],
+      "witness_physical_profiles": [
+        [
+          17,
+          17,
+          9
+        ],
+        [
+          18,
+          17,
+          8
+        ],
+        [
+          9,
+          8,
+          3
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          43,
+          43,
+          20
+        ],
+        [
+          38,
+          34,
+          34
+        ],
+        [
+          37,
+          36,
+          33
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "7d6d06c0c0bbf298437cebb503d2a123fba5a26ac984ab1ed9b10331f963d3f2"
+    },
+    {
+      "case": 7,
+      "anchor": [
+        44,
+        40,
+        22
+      ],
+      "raw_count": 45567,
+      "cover_count": 4182,
+      "exact_minimum": 2772845333109609,
+      "declared_K": 2772845333109609,
+      "case_bound": -35042417228157567,
+      "q_dot_F": 310176879724448587,
+      "child_bounds_sum": -9618859046048364,
+      "child_bound_terms": [
+        {
+          "function_id": "401",
+          "mathematical_size": 40,
+          "column": 1,
+          "bound": -9618859046048364
+        }
+      ],
+      "phi_at_anchor": -86152600295101,
+      "forced_vector": [
+        1548800,
+        76626,
+        357588,
+        63180,
+        266760,
+        18711,
+        41580,
+        66,
+        44,
+        11,
+        475918720
+      ],
+      "raw_witness": [
+        14,
+        15,
+        15,
+        5,
+        17,
+        18,
+        7,
+        8,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          14
+        ],
+        [
+          18,
+          17,
+          5
+        ],
+        [
+          8,
+          7,
+          7
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          40,
+          40,
+          26
+        ],
+        [
+          40,
+          38,
+          28
+        ],
+        [
+          40,
+          39,
+          27
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "fed272a4f1a98b3a84fbd796c84f816070e6c9935553cf0d46c04cf8517be68f"
+    },
+    {
+      "case": 8,
+      "anchor": [
+        44,
+        41,
+        21
+      ],
+      "raw_count": 44289,
+      "cover_count": 3997,
+      "exact_minimum": 1590817602103970,
+      "declared_K": 1590817602103970,
+      "case_bound": -35042417228002132,
+      "q_dot_F": 169384362113160566,
+      "child_bounds_sum": -11851774917526760,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_137_c1_n41",
+          "mathematical_size": 41,
+          "column": 1,
+          "bound": -11851774917526760
+        }
+      ],
+      "phi_at_anchor": -86074569055568,
+      "forced_vector": [
+        1515360,
+        76626,
+        357588,
+        66420,
+        287820,
+        17010,
+        35910,
+        66,
+        44,
+        11,
+        58774,
+        942856,
+        701006,
+        19512667520
+      ],
+      "raw_witness": [
+        9,
+        17,
+        18,
+        7,
+        16,
+        18,
+        9,
+        8,
+        4
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          9
+        ],
+        [
+          18,
+          16,
+          7
+        ],
+        [
+          9,
+          8,
+          4
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          44,
+          33,
+          29
+        ],
+        [
+          43,
+          35,
+          28
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "e24f7134aa61bd1fa162609d842e7047a079d9711cde4e58cf56734061f0b5ca"
+    },
+    {
+      "case": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "raw_count": 26379,
+      "cover_count": 2568,
+      "exact_minimum": 3381591787392584,
+      "declared_K": 3381591787392584,
+      "case_bound": -35042417216301333,
+      "q_dot_F": 386294225637363102,
+      "child_bounds_sum": -12078262479352213,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_138_c1_n42",
+          "mathematical_size": 42,
+          "column": 1,
+          "bound": -12078262479352213
+        }
+      ],
+      "phi_at_anchor": -85774099809558,
+      "forced_vector": [
+        1478400,
+        76626,
+        357588,
+        69741,
+        309960,
+        15390,
+        30780,
+        66,
+        44,
+        11,
+        -1208716648,
+        -1209715486,
+        -1208710894,
+        -1199228590,
+        -1208155171,
+        -1208473579,
+        -120697520,
+        -120580275,
+        -120865961,
+        -120559116,
+        -12078964695,
+        -12079033618,
+        -12081740098,
+        -12078893080,
+        -12060940828,
+        -12072262069,
+        -11961588514,
+        -12028264876,
+        409766017920
+      ],
+      "raw_witness": [
+        9,
+        17,
+        18,
+        7,
+        17,
+        18,
+        3,
+        9,
+        8
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          9
+        ],
+        [
+          18,
+          17,
+          7
+        ],
+        [
+          9,
+          8,
+          3
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          44,
+          43,
+          19
+        ],
+        [
+          38,
+          34,
+          34
+        ],
+        [
+          38,
+          36,
+          32
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "ed03022c796be24b5a8da28f98f3d17fa1f656852c59697c4c1fa074b61daa92"
+    },
+    {
+      "case": 10,
+      "anchor": [
+        44,
+        43,
+        19
+      ],
+      "raw_count": 11709,
+      "cover_count": 1056,
+      "exact_minimum": 1031359468313110,
+      "declared_K": 1031359468313110,
+      "case_bound": -35042417228000018,
+      "q_dot_F": 89837331309244014,
+      "child_bounds_sum": 0,
+      "child_bound_terms": [],
+      "phi_at_anchor": -85252871357722,
+      "forced_vector": [
+        1437920,
+        76626,
+        357588,
+        73143,
+        333207,
+        13851,
+        26163,
+        66,
+        44,
+        11,
+        45,
+        21,
+        18,
+        17,
+        18,
+        2
+      ],
+      "raw_witness": [
+        9,
+        17,
+        18,
+        9,
+        17,
+        17,
+        1,
+        9,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          9
+        ],
+        [
+          17,
+          17,
+          9
+        ],
+        [
+          9,
+          9,
+          1
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          44,
+          43,
+          19
+        ],
+        [
+          36,
+          35,
+          35
+        ],
+        [
+          36,
+          35,
+          35
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "78a85fd178627f02df2d7c1b6632a92689e1e47b28e27d0ac754acab84ffb3e9"
+    },
+    {
+      "case": 11,
+      "anchor": [
+        45,
+        40,
+        21
+      ],
+      "raw_count": 16302,
+      "cover_count": 3564,
+      "exact_minimum": -3851207226507333,
+      "declared_K": -3851207226507333,
+      "case_bound": -35042417227960193,
+      "q_dot_F": -490390763618148460,
+      "child_bounds_sum": -10564264755104425,
+      "child_bound_terms": [
+        {
+          "function_id": "402",
+          "mathematical_size": 40,
+          "column": 1,
+          "bound": -10564264755104425
+        }
+      ],
+      "phi_at_anchor": -83463262094601,
+      "forced_vector": [
+        1512000,
+        80190,
+        383130,
+        63180,
+        266760,
+        17010,
+        35910,
+        66,
+        55,
+        475918720
+      ],
+      "raw_witness": [
+        15,
+        15,
+        15,
+        4,
+        18,
+        18,
+        7,
+        7,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          15
+        ],
+        [
+          18,
+          18,
+          4
+        ],
+        [
+          7,
+          7,
+          7
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          40,
+          40,
+          26
+        ],
+        [
+          40,
+          40,
+          26
+        ],
+        [
+          40,
+          40,
+          26
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "293cb35db0e5dc246ca2933a8230daa3d9be87f69ee2c0b197875f0d09ce8f85"
+    },
+    {
+      "case": 12,
+      "anchor": [
+        45,
+        41,
+        20
+      ],
+      "raw_count": 15921,
+      "cover_count": 3337,
+      "exact_minimum": -4802982902840327,
+      "declared_K": -4802982902840327,
+      "case_bound": -35042417228006122,
+      "q_dot_F": -604050713637972100,
+      "child_bounds_sum": -12068319859599382,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_141_c1_n41",
+          "mathematical_size": 41,
+          "column": 1,
+          "bound": -12068319859599382
+        }
+      ],
+      "phi_at_anchor": -84314974114207,
+      "forced_vector": [
+        1476000,
+        80190,
+        383130,
+        66420,
+        287820,
+        15390,
+        30780,
+        66,
+        55,
+        58774,
+        942856,
+        701006,
+        19512667520
+      ],
+      "raw_witness": [
+        9,
+        18,
+        18,
+        8,
+        15,
+        18,
+        2,
+        9,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          18,
+          9
+        ],
+        [
+          18,
+          15,
+          8
+        ],
+        [
+          9,
+          9,
+          2
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          45,
+          42,
+          19
+        ],
+        [
+          38,
+          35,
+          33
+        ],
+        [
+          36,
+          35,
+          35
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "d27a3b53d395f3d9799652c137d988f9a4489eabb36df8831fb940020cb97da8"
+    },
+    {
+      "case": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "raw_count": 9504,
+      "cover_count": 2168,
+      "exact_minimum": -3331673349742240,
+      "declared_K": -3331673349742240,
+      "case_bound": -35042417209045376,
+      "q_dot_F": -426015221838881636,
+      "child_bounds_sum": -12075009695782060,
+      "child_bound_terms": [
+        {
+          "function_id": "support_106_142_c1_n42",
+          "mathematical_size": 42,
+          "column": 1,
+          "bound": -12075009695782060
+        }
+      ],
+      "phi_at_anchor": -84660993192720,
+      "forced_vector": [
+        1436400,
+        80190,
+        383130,
+        69741,
+        309960,
+        13851,
+        26163,
+        66,
+        55,
+        -1208716648,
+        -1209715486,
+        -1208710894,
+        -1199228590,
+        -1208155171,
+        -1208473579,
+        -120697520,
+        -120580275,
+        -120865961,
+        -120559116,
+        -12078964695,
+        -12079033618,
+        -12081740098,
+        -12078893080,
+        -12060940828,
+        -12072262069,
+        -11961588514,
+        -12028264876,
+        409766017920
+      ],
+      "raw_witness": [
+        9,
+        18,
+        18,
+        9,
+        15,
+        18,
+        1,
+        9,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          18,
+          9
+        ],
+        [
+          18,
+          15,
+          9
+        ],
+        [
+          9,
+          9,
+          1
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          45,
+          42,
+          19
+        ],
+        [
+          37,
+          36,
+          33
+        ],
+        [
+          36,
+          36,
+          34
+        ]
+      ],
+      "original_JSON_witness_replay_pass": true,
+      "raw_sha256": "f6f388a388a07c8386e277bb7056dcba8cf97bb0d051c66d859b40b6b29c1bac"
+    }
+  ],
+  "all_ordered_raw_count": 1106094,
+  "discovery_cover_count": 94242,
+  "upper_feature_signs_checked": 141,
+  "exact_indicator_features_checked": 54,
+  "full_physical41_supports_checked": 6,
+  "full_physical42_supports_checked": 6,
+  "complete41_support_dot_products": 264,
+  "complete42_support_dot_products": 24,
+  "nonzero_fixed_centered_theta40": {
+    "case": 7,
+    "coefficient": 1159,
+    "bound": 475918720,
+    "justification": "Exact +10^10-per-direction centering of root-accepted H3 theta40, source and audit SHA checked"
+  },
+  "whole42_state_disjunction_used": false,
+  "domain_pruning": "Only the original accepted14 ordinary5D41 zero types",
+  "source_and_support_sha256": "1c1ff99175c032351f4d097676634b3d24f91de9bc06161737991bc770e740e5",
+  "raw_verification_sha256": "435a0110bbe7a9adbf5f8ce19d8b2138302883bb86d4b0e79e95f5dc46b74d07",
+  "raw_input_sha256": "9f5dd8bd6ff1edfeb9969904d7895de1e76636464058c9f32c71508a1ec3c30f",
+  "own_domain_prefreeze_sha256": "19b3e4c9e574e97eded83a851ffd61d6c66fb83f1b5d1076ca5e171cf85cb860",
+  "codes": {
+    "read_candidate.py": "6f3fb32a4b268447c93dfa89b3705f4d2203db9847d316fde7dbb1af157a7b70",
+    "prepare_exact.py": "8aeb0b0018f294de8c0888a37274c8ff05635229d22c8ee09f4fb8cd96478439",
+    "replay_raw.cpp": "0ea2eaacdf47341e372b01df71dabd8af9764e90126e14bbaa2b39c7d9a2d848",
+    "finish_verification.py": "562e96cd9a2b11f83cf40c64ff69da7f24bc7e849d75d5410abf98ac22502873"
+  },
+  "arithmetic": "Python arbitrary integers for pure-data source/support compiler and independent original-JSON witness/bound replay; signed128 C++ on every ordered grid, with explicit coarse bound below2^126 for each case.",
+  "scope": "Universal NC106 histogram inequality from all14 first-anchor cases. Root-accepted three40 child bounds and accepted complete41/42/baseline/theorem inputs. This P layer does not independently audit the outer inequality or assert a global274 bound.",
+  "shared_dependencies": "Candidate coefficients, accepted finite spectra/ordinary/completion theorems and root-accepted three40/H3 bounds. P own independent raw catalogue and own prior raw arithmetic reused; no H/L/root feature or enumeration kernels imported."
+}

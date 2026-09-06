@@ -1,0 +1,3 @@
+INNER N=107 tables=1407366 maximum=0
+OUTER tables=5464865 maximum=0
+PASS exact_rhs=39396474454 all_mathematical_tables=6872231 upper_slack_signs=21

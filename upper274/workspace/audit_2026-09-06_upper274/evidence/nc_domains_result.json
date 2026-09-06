@@ -1,0 +1,90 @@
+{
+  "status": "PASS_FRESH_DOMAIN_RECONSTRUCTION",
+  "scope": "Fresh build and full regeneration of previously independent NC106 domain kernel; generated row files byte-identical to frozen inputs used by exact replay. No new independent implementation claim.",
+  "compiler_command": [
+    "c++",
+    "-O2",
+    "-std=c++17",
+    "-fsanitize=undefined",
+    "-fno-sanitize-recover=all",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/complete41_domain_audit/enumerate_domains.cpp",
+    "-o",
+    "/private/tmp/cap274-review-20260906/enumerate_nc_domains.bin"
+  ],
+  "source_sha256": "38148ef804d3c656a75a09da82c2eed10b673fb62bfcf372f62c860c0b9e53ff",
+  "input_sha256": "0e75b378ebb60e067e5079582df818e0749b7eb3d9f3abaf9dbab63788da5880",
+  "rows": 1106094,
+  "cases": [
+    {
+      "case": 0,
+      "sha256": "0b48cb3ab26b757699a0565eeaa159b2214dfa079bf77cfa9c1aec0ab660aeb7",
+      "rows": 364383
+    },
+    {
+      "case": 1,
+      "sha256": "264aa8221ee9732ef2bee1607c9627c2e332d3cb4dc6861a2cc4e1efa5f6aad6",
+      "rows": 208332
+    },
+    {
+      "case": 2,
+      "sha256": "9552ac21c9a0a77e6d4848fd091cf52ef03997aa88acc469b86fe8ce848d66ee",
+      "rows": 121332
+    },
+    {
+      "case": 3,
+      "sha256": "8a1b9bfd3d0522e71a7dc38658da2d7de58feae5c98ed761d32d8b8ce03b25dc",
+      "rows": 86814
+    },
+    {
+      "case": 4,
+      "sha256": "a6e7a77a952ae0670a6eaab2d35ccc9b01f9e7f6b5adaa7b2f76625b18a1dc0b",
+      "rows": 83682
+    },
+    {
+      "case": 5,
+      "sha256": "1331a131082d8147f4d3e8c517d04e991a94bb1cbfc22ea6a58a6192c8edef51",
+      "rows": 49803
+    },
+    {
+      "case": 6,
+      "sha256": "7d6d06c0c0bbf298437cebb503d2a123fba5a26ac984ab1ed9b10331f963d3f2",
+      "rows": 22077
+    },
+    {
+      "case": 7,
+      "sha256": "fed272a4f1a98b3a84fbd796c84f816070e6c9935553cf0d46c04cf8517be68f",
+      "rows": 45567
+    },
+    {
+      "case": 8,
+      "sha256": "e24f7134aa61bd1fa162609d842e7047a079d9711cde4e58cf56734061f0b5ca",
+      "rows": 44289
+    },
+    {
+      "case": 9,
+      "sha256": "ed03022c796be24b5a8da28f98f3d17fa1f656852c59697c4c1fa074b61daa92",
+      "rows": 26379
+    },
+    {
+      "case": 10,
+      "sha256": "78a85fd178627f02df2d7c1b6632a92689e1e47b28e27d0ac754acab84ffb3e9",
+      "rows": 11709
+    },
+    {
+      "case": 11,
+      "sha256": "293cb35db0e5dc246ca2933a8230daa3d9be87f69ee2c0b197875f0d09ce8f85",
+      "rows": 16302
+    },
+    {
+      "case": 12,
+      "sha256": "d27a3b53d395f3d9799652c137d988f9a4489eabb36df8831fb940020cb97da8",
+      "rows": 15921
+    },
+    {
+      "case": 13,
+      "sha256": "f6f388a388a07c8386e277bb7056dcba8cf97bb0d051c66d859b40b6b29c1bac",
+      "rows": 9504
+    }
+  ],
+  "elapsed_seconds": 3.45424708398059
+}

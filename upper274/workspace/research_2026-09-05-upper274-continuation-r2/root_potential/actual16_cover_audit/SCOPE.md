@@ -1,0 +1,9 @@
+# Actual16 necessary histogram overcover: theory preregistration
+
+Root assigned an independent mathematical audit of the stronger simultaneous-geometry cover proposed to L. This is a theory and exact arithmetic gate, at most120seconds, with no actual4D16cap enumeration, cap search, additional classification or LP. All files belong only to root_potential/actual16_cover_audit.
+
+Audit the nine possible large-section anchors970,961,952,943,880,871,862,853,844. The first physical section A is normalized to every already accepted8/9 affine orbit. If the third section is empty, the second section B ranges over all actual caps of its size without a complement restriction. If the third section is nonempty, verify that selecting one of its points and applying an ambient affine shear preserves normalized A and sends that point to0; then B must be an actual cap in complement(-A), and C must be an actual c-cap containing0 in complement(-(A+B)). Check necessity, sufficiency and signs explicitly.
+
+For the remaining case, all40 hyperplane directions have section sizes at most7. Derive the complete nonnegative integer solutions to the exact three histogram moments analytically, including the forced zero coordinates. Verify the claimed14 count vectors at772,763,754 and the absence of other surviving small-only profiles. This is an exact finite equation check, not a cap enumeration.
+
+Terminal: strict coverage/shear proof and exact coefficient/moment check, with source dependencies and limitations. The desired verdict is whether the union is a complete necessary histogram overcover; the fourteen small-only count vectors are not presumed geometrically realizable. No global bound or publication-priority claim is made. The already accepted8/9 orbit data and small3D input are referenced, not rerun.

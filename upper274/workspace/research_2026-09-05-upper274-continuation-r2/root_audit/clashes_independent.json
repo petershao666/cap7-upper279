@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "affine_maps": 432,
+  "forbidden_patterns": 2664,
+  "orbit_sizes": [
+    216,
+    432,
+    432,
+    432,
+    432,
+    216,
+    216,
+    72,
+    216
+  ],
+  "unique_histograms": {
+    "19": [
+      1,
+      9,
+      18,
+      12
+    ],
+    "20": [
+      10,
+      30
+    ]
+  },
+  "authority": "Thackeray, arXiv2206.09719v1, Lemmas2.4–2.6 and 19/20-cap support stated in proof of Lemma2.3; accepted published mathematical input, not independently reproved classification.",
+  "independence": "Ruby affine maps from images of an affine basis; integer histogram compositions; shared primary statements only.",
+  "clash_data_sha256": "ab706e8201ad00a4f55c4b54052f0cd7ea5449d04b17a679eae92761e47e4b36",
+  "hist19_20_sha256": "5a5da7eab7de70c62b6796b4775095447a651dbce3458bad0dea326d093d10d1"
+}

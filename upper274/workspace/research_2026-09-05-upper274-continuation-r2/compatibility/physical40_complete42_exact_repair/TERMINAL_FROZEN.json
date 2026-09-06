@@ -1,0 +1,22 @@
+{
+  "status": "NO_NEW_MATH",
+  "result_sha256": "d1b886fc5834a833e22b4e83d1bde99487d20a1a7aac3e1c6f1ae0bdcc011d86",
+  "checkpoint_sha256": "522aeaba0fcb802be76437c564183e62260deeab2e0764f3d216f7367452cc3f",
+  "source_hashes": {
+    "run.py": "bfd5a9b92f9b121ffc82008f7568433fff486af66fd698b2dd4d4b24bb733594",
+    "verify.py": "c57ea39d79a6cca4fbebaf65d2c1e17694d249d5c2ffdd2b471a7e2dd76a10a5",
+    "INPUTS.json": "3116170854aae72fd574fc2033aae1c11d4d7e4980112dd98ae432c4310d2c5d",
+    "SCOPE.md": "6e4dd1d7d7709f24bfb4f71952bccd3b88eea82db7734804d30b43422aad219c",
+    "PLANNED_COPY_LAYOUT.json": "1bc2a4c9cca81d089892190c32d61b7ea00d2bbf46cc9b2a3ebade3ef9370b59",
+    "REALIZED_COPY_LAYOUT.json": "1e0f1098b78803da0e06914579e174ff6776cc91e72cb4fe43beceaa7644a6fd"
+  },
+  "elapsed": 9.724714125040919,
+  "scales_attempted": [
+    10000000000,
+    100000000000,
+    1000000000000,
+    10000000000000,
+    100000000000000
+  ],
+  "optimizer_calls": 0
+}

@@ -1,0 +1,17 @@
+{
+  "status": "ROOT_COMPLETE20200_FROZEN_BEFORE_P_READ",
+  "catalogue_count": 682344,
+  "histogram_count": 8,
+  "allpairchecks": 532228320,
+  "inputs": {
+    "accepted20catalogue_sha256": "66946f5ef9ea1e10164a5b3e56cf89dede2b85efc50d8a8eb1e392e5862d2f41"
+  },
+  "outputs": {
+    "verify.cpp": "64f0851e885abd2fbb7630f06610f27ed35646072ee7d85a358bd3476d07dfa9",
+    "root_histograms.txt": "d731dc8ec33022e143a5870e97cfdfd3c8c80c2bbb03adb619ec4b86d5d39d90",
+    "VERIFY.log": "31425df591459285f0c5988ffe52fd4eb87955bdd2f87e19749a857730ff4eb0",
+    "SCOPE.md": "115e907f55fdfe826a1431c5510d12e45087a0b8c7fdf71ed693b460f7136723"
+  },
+  "scope": "All40caps admitting20200; noCcomplementrestriction. Notall40caps.",
+  "shared_dependencies": "Acceptedcomplete20catalogue andaffineuniqueness; rootcanonicaldiagQ andpopcountdirections areseparatefromPcrossQ/dotkernel."
+}

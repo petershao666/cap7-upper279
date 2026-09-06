@@ -1,0 +1,18 @@
+{
+  "status": "SOURCE_TRANSCRIPTION_CORRECTED_BEFORE_ANY_COMPUTATION",
+  "changes": [
+    {
+      "row": "981H",
+      "column": "990A3",
+      "old": 4,
+      "corrected": 3
+    }
+  ],
+  "source_cell": "S3.T1.1.12.4",
+  "source_math_id": "S3.T1.m211",
+  "source_alttext": "3",
+  "histogram_projection_identical": true,
+  "reason": "990A1,990A2,990A3 share one complete histogram; taking maximum capacities retains 4 through A1/A2.",
+  "original_sha256": "e729321650b9f1fda7d65293343adc6671cf42797437119e1133b6d6092aa43d",
+  "corrected_sha256": "53c9eed8fd51492cf4b68eea42ce061aae55786e614540b6a50ab3e86bf2f470"
+}

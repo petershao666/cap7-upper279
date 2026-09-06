@@ -1,0 +1,9 @@
+# Exact recovery of the final frozen floating checkpoint
+
+The L three40/complete42 discovery batch ended at its declared wall bound. Its last outer value is positive, but a lower pointwise violation remains. There is no accepted certificate and no extension of that optimizer is authorized.
+
+This separate finite arithmetic task asks whether recomputing all bounds from the last frozen coefficient vector, bottom up, yields a valid exact certificate despite its nominal lower-bound variables being inaccurate. Read only the final checkpoint and frozen input/layout snapshot; rebuild the declared domains for exact replay if needed. No LP, new numerical objective, new seed or continuation of column generation. The positive outer float is not evidence of a theorem.
+
+For each integer rounding scale in the predeclared list10^10,10^11,10^12,10^13,10^14, recompute every child histogram support maximum, every local K as the exact minimum on its full domain, and each whole40 bound as the maximum of all first-anchor case bounds. Then propagate those three corrected bounds through every NC106 case, recompute its universal bound and the outer gap. Nominal floating whole-bound variables are discarded. If a positive exact gap survives, freeze the candidate and subject it to the independent root/P raw replays. If none survives, retain the exact signed repaired gaps and stop. These finite rounded candidates are certificate recovery, not an optimization search or a claimed new mathematical representation.
+
+Budget: one600-second exact recovery/replay process, one worker,2GiB; stop earlier on first exact positive candidate. Integer product ceilings must be checked before NumPy int64 operations, or use wide/exact arithmetic. Output only compatibility/physical40_complete42_exact_repair/. Do not modify the frozen discovery null or its checkpoint. All shared kernels and inputs are disclosed; author repair cannot serve as the sole verification.

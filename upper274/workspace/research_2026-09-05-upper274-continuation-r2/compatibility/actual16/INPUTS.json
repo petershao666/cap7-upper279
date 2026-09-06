@@ -1,0 +1,120 @@
+{
+  "source_hashes": {
+    "root_potential/h17_representatives_explicit.json": "940af30e07e4371103496a757551388a1dd94142d7646dbca4d7eed34fed4a9d",
+    "root_potential/h17_complete3d_orbits.json": "65e9d771201bcc230e0b63558bafd9fc06c216f39939f2dbec2e076b6bb72f92",
+    "root_potential/small3d_actual_caps7.txt": "488211429dc1c2a6795859395914135e83990952ee2c109fcdd20956c8758db1",
+    "root_potential/h17_actual_caps8.txt": "01dcd9448bb1c4ad1232c97ec09e8d395c1167d630e0a31edbcdf68dfd4dfa4b",
+    "root_audit/small3d/ACCEPTED_0_9.json": "dc1d5f0578ca3df5d0cf6da03d9b097d9e818c8523451c261e92d07414465018"
+  },
+  "point_encoding": "i=x+3*y+9*z",
+  "A8": [
+    13851,
+    13853,
+    13902
+  ],
+  "A9": [
+    276138
+  ],
+  "bounds": [
+    {
+      "anchor": [
+        9,
+        7,
+        0
+      ],
+      "A_representatives": 1,
+      "B_cap_upper": 126360,
+      "C_cap_upper_per_B": 1,
+      "lift_upper": 126360
+    },
+    {
+      "anchor": [
+        9,
+        6,
+        1
+      ],
+      "A_representatives": 1,
+      "B_cap_upper": 18564,
+      "C_cap_upper_per_B": 1,
+      "lift_upper": 18564
+    },
+    {
+      "anchor": [
+        9,
+        5,
+        2
+      ],
+      "A_representatives": 1,
+      "B_cap_upper": 8568,
+      "C_cap_upper_per_B": 17,
+      "lift_upper": 145656
+    },
+    {
+      "anchor": [
+        9,
+        4,
+        3
+      ],
+      "A_representatives": 1,
+      "B_cap_upper": 3060,
+      "C_cap_upper_per_B": 136,
+      "lift_upper": 416160
+    },
+    {
+      "anchor": [
+        8,
+        8,
+        0
+      ],
+      "A_representatives": 3,
+      "B_cap_upper": 63180,
+      "C_cap_upper_per_B": 1,
+      "lift_upper": 189540
+    },
+    {
+      "anchor": [
+        8,
+        7,
+        1
+      ],
+      "A_representatives": 3,
+      "B_cap_upper": 50388,
+      "C_cap_upper_per_B": 1,
+      "lift_upper": 151164
+    },
+    {
+      "anchor": [
+        8,
+        6,
+        2
+      ],
+      "A_representatives": 3,
+      "B_cap_upper": 27132,
+      "C_cap_upper_per_B": 18,
+      "lift_upper": 1465128
+    },
+    {
+      "anchor": [
+        8,
+        5,
+        3
+      ],
+      "A_representatives": 3,
+      "B_cap_upper": 11628,
+      "C_cap_upper_per_B": 153,
+      "lift_upper": 5337252
+    },
+    {
+      "anchor": [
+        8,
+        4,
+        4
+      ],
+      "A_representatives": 3,
+      "B_cap_upper": 3876,
+      "C_cap_upper_per_B": 816,
+      "lift_upper": 9488448
+    }
+  ],
+  "total_conservative_lift_upper": 17338272
+}

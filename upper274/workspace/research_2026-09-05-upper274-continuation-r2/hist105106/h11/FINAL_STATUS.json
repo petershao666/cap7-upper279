@@ -1,0 +1,39 @@
+{
+  "status": "NO_NEW_MATH",
+  "new_certificate": null,
+  "named_pair_input_root_audit": "PASS; ../../root_audit/H11_PAIR_AUDIT.md",
+  "model_cover": 58,
+  "nonempty_model_cases": 52,
+  "canonical_lower_matrices": 64439,
+  "published_pair_mismatch_cases": 78,
+  "null_results": [
+    {
+      "target": [
+        106,
+        106,
+        63
+      ],
+      "iterations": 21,
+      "seconds": 40.191004917025566,
+      "status": "ACTUAL_NAMED18_PAIR_MODEL_NO_POSITIVE_DUAL"
+    },
+    {
+      "target": [
+        106,
+        105,
+        64
+      ],
+      "iterations": 14,
+      "seconds": 23.573078999994323,
+      "status": "ACTUAL_NAMED18_PAIR_MODEL_NO_POSITIVE_DUAL"
+    }
+  ],
+  "new_exclusion_claim": false,
+  "target_size_to_exclude": 275,
+  "global_interval": [
+    236,
+    275
+  ],
+  "global237_existence": "UNKNOWN",
+  "next_scope": "H12 separatelyregisterednewuniversal40function usingthefull17histogram18family, whicholdH3theta40didnotuse."
+}

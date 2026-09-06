@@ -1,0 +1,20 @@
+{
+  "status": "BOUNDED_NO_INTEGER_CERTIFICATE",
+  "completed_LP_and_full_pricing_rounds": 50,
+  "loop_attempts_including_pre_LP_wall_stop": 51,
+  "discovery_seconds": 554.6188707500696,
+  "target": [
+    106,
+    106,
+    63
+  ],
+  "ordinary_exclusion": false,
+  "global_upper": 275,
+  "files": {
+    "TERMINAL_FROZEN.json": "0cbc3841cf85cb11f417ab0b322e7fb22a5dbfc352c4e89dd360b87f82541e77",
+    "STOP_STATUS.md": "b6ebcefce6f2c98a1a386d3d044c352dd5b606ff1992e165949a343205028531",
+    "package_terminal.py": "11de2b359bece98c0b62d52e6546ef8125dbd2fa4ff560351e524d31b604388a",
+    "run.log": "53d6d25133ce31a174d39a2a092a0c8e80a074ba58484bb95e7b7c7f6083f270",
+    "LAST_FLOAT_CHECKPOINT.json": "522aeaba0fcb802be76437c564183e62260deeab2e0764f3d216f7367452cc3f"
+  }
+}

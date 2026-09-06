@@ -1,0 +1,13 @@
+{
+  "status": "PACKET_AND_REPRESENTATIVES_CHECKED_PENDING_ROOT_ENUMERATION_COMPARISON",
+  "cases": 48,
+  "constructed": 1084572,
+  "retained_small": 0,
+  "small_histograms": 0,
+  "complete_histograms": 376,
+  "representatives_checked": 376,
+  "pairs_checked": 45120,
+  "directions_per_representative": 40,
+  "root_small_results_read": false,
+  "dependencies": "Same producer small recursive enumeration kernel as frozen large enumeration; independent Python direct point-pair/dot-product check of final witnesses. Root uses a separate catalogue-filter/subset kernel and alternative affine representatives. Shared accepted complete3D8 orbit cover and independently accepted7-extension bridge."
+}

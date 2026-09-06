@@ -1,0 +1,9 @@
+# Complete41-point subcaps of the unique45cap
+
+Object: every41cap inF3^5 that is a four-point deletion of a45cap. Published affine uniqueness of45caps reduces this entire class to the148995 unordered4-subsets of the independently accepted point table in `ACCEPTED_POINTS.json`. This input has45distinct points, verified independently by root and P over all990 pairs and121directions, and was reconstructed from published T/R symmetry formulas. It is a published input, not a newconstruction.
+
+Dominance: old complete42..45 spectra do not include exact actual41 deletion histograms. H8's sub45 directional overcover used component moment/deletion constraints rather than this complete41 point-level family. The present finite family can give an exact whole41 support maximum. If its hull is already implied by the old component model, record that dominance and do not rerun an unchanged upper LP. No41cap outside this four-deletion class is claimed covered.
+
+Root enumerates every increasing4-index tuple, subtracts its directional occupancies from the direct45-point counts, records full121-direction histograms and one explicit41point representative for every histogram. Allsubsets are caps by heredity; independently verify each representative directly. P later independently recomputes the family with its own point-based directional arithmetic or a differently organized deletion enumerator; sharedaccepted45pointdata andpublisheduniqueness are disclosed. Do not accept the fullfamily solely from one implementation.
+
+Bound:148995subsets, <=120s,512MiB. No optimizer and noextradimensions. Terminal completehistogramfamily, counts, explicitpointrepresentatives and freeze beforeindependentcomparison, or an explicit incomplete outcome. This is one of the13 published41classification alternatives, to be kept separate until all remaining inputs are accepted.

@@ -1,0 +1,14 @@
+{
+  "status": "INPUT_SNAPSHOT_WITH_PENDING_FAMILIES",
+  "source_hashes": {
+    "hist105106/fullraw41/HISTOGRAMS.json": "134a1d4f9b70cced18d55ef6e64b63ba01b0d62444748bb80781b7a4ae4ee23b",
+    "hist105106/h20_20201/histograms41.json": "74c4e1c900b519edc1124dbb2bc49c04dddd1845bbbfd6de74baacf1e19b4011",
+    "hist105106/h9/named_points.json": "22c3ef1306e7c3d83f077b389103ad35c728f3d13eb88429fd108051ff2b2a63",
+    "root_potential/named41_45_source/EPS_POINTS.json": "964763f4c3d4c878847cece1302a357fc9294c5a218815ae565fa9b486daae4e",
+    "root_audit/fortyfive/FOUR_DELETE_HISTOGRAMS.json": "5f84049be12a5422014a4024a7002e72537febc3597db9d2ece2343dfb2adb6d",
+    "hist105106/h9/named_histograms.json": "d4fd5f2927cf2e9ad3559998651a6496771535d293d2ace09495ff3a0b69b8ab",
+    "root_audit/complete20201/ACCEPTED_HISTOGRAM.json": "0f87e4aa68df464e92ccdceecf971392d69257c1c1e823ef6a3d9263543b0031",
+    "hist105106/h13/source_article.html": "1382f2b23698b0aea3ec1ceeb4999e9ae46aeee5c542fd5f200ce98caeaa46d1"
+  },
+  "pending_acceptance_unchanged_by_vector_overlap": true
+}

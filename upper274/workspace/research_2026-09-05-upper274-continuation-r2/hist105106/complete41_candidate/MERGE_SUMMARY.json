@@ -1,0 +1,30 @@
+{
+  "status": "SOURCE_COMPLETE_CANDIDATE_UNION_PENDING_ROOT_FINAL_COVERAGE_AUDIT",
+  "scope": "Candidate support family for every5D41cap under Theorem6.3 and the explicit source coverage DAG. Not accepted for downstream proof yet.",
+  "histogram_count": 44,
+  "source_occurrence_count": 80,
+  "representative_pair_checks": 65600,
+  "representative_direction_checks": 9680,
+  "all13_source_alternatives_present": true,
+  "pending_family_nodes": [],
+  "pending_acceptance_nodes": [
+    "root_final_source_coverage_and_union_audit"
+  ],
+  "global_upper_bound_improvement_claimed": false,
+  "seconds": 0.18005333305336535,
+  "family_vector_counts": {
+    "raw_exceptional_overcover": 41,
+    "41H": 1,
+    "41I": 1,
+    "45_minus4": 27,
+    "41G": 1,
+    "41F": 1,
+    "41E": 1,
+    "Delta686_minus1": 2,
+    "41D": 1,
+    "41A": 1,
+    "all_20201_41_caps": 1,
+    "41B": 1,
+    "41C": 1
+  }
+}

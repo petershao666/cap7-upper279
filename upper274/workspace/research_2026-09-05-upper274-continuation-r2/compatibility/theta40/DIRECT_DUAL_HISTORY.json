@@ -1,0 +1,303 @@
+[
+  {
+    "iteration": 0,
+    "constraints": 589,
+    "dual_objective": 1.8178784489663173,
+    "full_maximum_column": 2.9848546918292542,
+    "elapsed": 0.2517650001682341
+  },
+  {
+    "iteration": 1,
+    "constraints": 973,
+    "dual_objective": 0.7527501265483373,
+    "full_maximum_column": 2.744154504376398,
+    "elapsed": 0.3625593329779804
+  },
+  {
+    "iteration": 2,
+    "constraints": 1357,
+    "dual_objective": 0.3660099016439078,
+    "full_maximum_column": 2.0548626132317436,
+    "elapsed": 0.573146500159055
+  },
+  {
+    "iteration": 3,
+    "constraints": 1741,
+    "dual_objective": 0.10378783867207253,
+    "full_maximum_column": 2.8418488441682226,
+    "elapsed": 0.8383488331455737
+  },
+  {
+    "iteration": 4,
+    "constraints": 2125,
+    "dual_objective": 0.07599106539970546,
+    "full_maximum_column": 0.7529366873211496,
+    "elapsed": 1.168254000134766
+  },
+  {
+    "iteration": 5,
+    "constraints": 2509,
+    "dual_objective": 0.05083950326854142,
+    "full_maximum_column": 0.859069175868864,
+    "elapsed": 1.77687883307226
+  },
+  {
+    "iteration": 6,
+    "constraints": 2893,
+    "dual_objective": 0.046990153713810934,
+    "full_maximum_column": 0.4493600599585083,
+    "elapsed": 2.5081222080625594
+  },
+  {
+    "iteration": 7,
+    "constraints": 3277,
+    "dual_objective": 0.029037032804957147,
+    "full_maximum_column": 0.4130000794637728,
+    "elapsed": 3.533353375038132
+  },
+  {
+    "iteration": 8,
+    "constraints": 3661,
+    "dual_objective": 0.022902312557398365,
+    "full_maximum_column": 0.3328473816417249,
+    "elapsed": 4.4635317081119865
+  },
+  {
+    "iteration": 9,
+    "constraints": 4045,
+    "dual_objective": 0.020487208177061747,
+    "full_maximum_column": 0.3298820320439651,
+    "elapsed": 5.325584708014503
+  },
+  {
+    "iteration": 10,
+    "constraints": 4429,
+    "dual_objective": 0.014886539469325027,
+    "full_maximum_column": 0.12391314372713805,
+    "elapsed": 6.4729672921821475
+  },
+  {
+    "iteration": 11,
+    "constraints": 4760,
+    "dual_objective": 0.010417541260126596,
+    "full_maximum_column": 0.14831298539783339,
+    "elapsed": 7.836351000005379
+  },
+  {
+    "iteration": 12,
+    "constraints": 5073,
+    "dual_objective": 0.007591944051731428,
+    "full_maximum_column": 0.1704528880777716,
+    "elapsed": 9.688607292016968
+  },
+  {
+    "iteration": 13,
+    "constraints": 5360,
+    "dual_objective": 0.006483859396990713,
+    "full_maximum_column": 0.07180734009965124,
+    "elapsed": 13.041938333073631
+  },
+  {
+    "iteration": 14,
+    "constraints": 5630,
+    "dual_objective": 0.005090516102990453,
+    "full_maximum_column": 0.07196042357234002,
+    "elapsed": 16.297045833198354
+  },
+  {
+    "iteration": 15,
+    "constraints": 5899,
+    "dual_objective": 0.004700401299575982,
+    "full_maximum_column": 0.04307373257101432,
+    "elapsed": 19.175071500008926
+  },
+  {
+    "iteration": 16,
+    "constraints": 6167,
+    "dual_objective": 0.0043061549053658235,
+    "full_maximum_column": 0.0330720565636472,
+    "elapsed": 21.830770708154887
+  },
+  {
+    "iteration": 17,
+    "constraints": 6430,
+    "dual_objective": 0.00421012291081424,
+    "full_maximum_column": 0.028672392468072294,
+    "elapsed": 24.541037583025172
+  },
+  {
+    "iteration": 18,
+    "constraints": 6688,
+    "dual_objective": 0.004126016026974405,
+    "full_maximum_column": 0.02305888954364954,
+    "elapsed": 27.117742500035092
+  },
+  {
+    "iteration": 19,
+    "constraints": 6947,
+    "dual_objective": 0.003956151857921697,
+    "full_maximum_column": 0.028781220630858695,
+    "elapsed": 29.855513083050027
+  },
+  {
+    "iteration": 20,
+    "constraints": 7208,
+    "dual_objective": 0.0038305930688544154,
+    "full_maximum_column": 0.015556852741042793,
+    "elapsed": 32.57343770819716
+  },
+  {
+    "iteration": 21,
+    "constraints": 7468,
+    "dual_objective": 0.003761699026383125,
+    "full_maximum_column": 0.01446656935967372,
+    "elapsed": 36.90387020818889
+  },
+  {
+    "iteration": 22,
+    "constraints": 7735,
+    "dual_objective": 0.0037264286041786554,
+    "full_maximum_column": 0.010526363603923672,
+    "elapsed": 40.290339042199776
+  },
+  {
+    "iteration": 23,
+    "constraints": 7993,
+    "dual_objective": 0.0036833641244409243,
+    "full_maximum_column": 0.008790426541462892,
+    "elapsed": 43.65245804213919
+  },
+  {
+    "iteration": 24,
+    "constraints": 8256,
+    "dual_objective": 0.003478153355887033,
+    "full_maximum_column": 0.007992635260190895,
+    "elapsed": 48.997953874990344
+  },
+  {
+    "iteration": 25,
+    "constraints": 8514,
+    "dual_objective": 0.003162975935474932,
+    "full_maximum_column": 0.018058747345889324,
+    "elapsed": 54.478796292096376
+  },
+  {
+    "iteration": 26,
+    "constraints": 8783,
+    "dual_objective": 0.002742873690415426,
+    "full_maximum_column": 0.007949515946546748,
+    "elapsed": 59.92266216711141
+  },
+  {
+    "iteration": 27,
+    "constraints": 9043,
+    "dual_objective": 0.002447891328765106,
+    "full_maximum_column": 0.013898776110080467,
+    "elapsed": 65.18196270801127
+  },
+  {
+    "iteration": 28,
+    "constraints": 9301,
+    "dual_objective": 0.002340372891839859,
+    "full_maximum_column": 0.0027238798279241028,
+    "elapsed": 72.07042558304965
+  },
+  {
+    "iteration": 29,
+    "constraints": 9558,
+    "dual_objective": 0.002328682798359294,
+    "full_maximum_column": 0.0025529016919041215,
+    "elapsed": 75.87595737515949
+  },
+  {
+    "iteration": 30,
+    "constraints": 9816,
+    "dual_objective": 0.002296467100965094,
+    "full_maximum_column": 0.0017864204218905333,
+    "elapsed": 80.07764041703194
+  },
+  {
+    "iteration": 31,
+    "constraints": 10072,
+    "dual_objective": 0.002275377054768102,
+    "full_maximum_column": 0.0010035294048955645,
+    "elapsed": 85.19035491719842
+  },
+  {
+    "iteration": 32,
+    "constraints": 10285,
+    "dual_objective": 0.002272289848327759,
+    "full_maximum_column": 0.0004617875942626304,
+    "elapsed": 89.99122670805082
+  },
+  {
+    "iteration": 33,
+    "constraints": 10457,
+    "dual_objective": 0.0022569107428627427,
+    "full_maximum_column": 0.0011285969563089027,
+    "elapsed": 94.5036742920056
+  },
+  {
+    "iteration": 34,
+    "constraints": 10679,
+    "dual_objective": 0.002249915983197598,
+    "full_maximum_column": 0.000564586935648374,
+    "elapsed": 98.27698349999264
+  },
+  {
+    "iteration": 35,
+    "constraints": 10817,
+    "dual_objective": 0.002244094780107335,
+    "full_maximum_column": 0.00040855578726414147,
+    "elapsed": 105.08335691713728
+  },
+  {
+    "iteration": 36,
+    "constraints": 10863,
+    "dual_objective": 0.0022430814269357047,
+    "full_maximum_column": 0.0004651227783894065,
+    "elapsed": 109.67730637500063
+  },
+  {
+    "iteration": 37,
+    "constraints": 10869,
+    "dual_objective": 0.0022430814269338573,
+    "full_maximum_column": 8.432554965368025e-05,
+    "elapsed": 117.26034337515011
+  },
+  {
+    "iteration": 38,
+    "constraints": 10871,
+    "dual_objective": 0.002243081426933191,
+    "full_maximum_column": 6.885041796963703e-05,
+    "elapsed": 126.8914467501454
+  },
+  {
+    "iteration": 39,
+    "constraints": 10874,
+    "dual_objective": 0.0022430814269357724,
+    "full_maximum_column": 0.0003814877414674577,
+    "elapsed": 133.92430195817724
+  },
+  {
+    "iteration": 40,
+    "constraints": 10878,
+    "dual_objective": 0.0022430814269347454,
+    "full_maximum_column": 1.1754873673941457e-05,
+    "elapsed": 140.94049066700973
+  },
+  {
+    "iteration": 41,
+    "constraints": 10879,
+    "dual_objective": 0.002243081426936744,
+    "full_maximum_column": 0.005736657597754794,
+    "elapsed": 145.5362459581811
+  },
+  {
+    "iteration": 42,
+    "constraints": 10881,
+    "dual_objective": 0.002243081426935939,
+    "full_maximum_column": 8.354740954804952e-14,
+    "elapsed": 152.2257250000257
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "release": {
+    "assets": [
+      {
+        "apiUrl": "https://api.github.com/repos/petershao666/cap7-upper279/releases/assets/546486563",
+        "contentType": "application/zip",
+        "createdAt": "2026-09-06T00:12:26Z",
+        "digest": "sha256:3ea9d2464d582b787702ccf2cacde61095fd7b37650b204276cb1ade1c86f459",
+        "downloadCount": 0,
+        "id": "RA_kwDOUPCxCs4gkrkj",
+        "label": "",
+        "name": "cap7-upper275-v1.1.0.zip",
+        "size": 2332445,
+        "state": "uploaded",
+        "updatedAt": "2026-09-06T00:12:50Z",
+        "url": "https://github.com/petershao666/cap7-upper279/releases/download/v1.1.0/cap7-upper275-v1.1.0.zip"
+      },
+      {
+        "apiUrl": "https://api.github.com/repos/petershao666/cap7-upper279/releases/assets/546486564",
+        "contentType": "application/octet-stream",
+        "createdAt": "2026-09-06T00:12:26Z",
+        "digest": "sha256:45f47e9bfc49a638fa79b51e96456083703ea4540ab637bdc85bde45ee5ae257",
+        "downloadCount": 0,
+        "id": "RA_kwDOUPCxCs4gkrkk",
+        "label": "",
+        "name": "cap7-upper275-v1.1.0.zip.sha256",
+        "size": 91,
+        "state": "uploaded",
+        "updatedAt": "2026-09-06T00:12:27Z",
+        "url": "https://github.com/petershao666/cap7-upper279/releases/download/v1.1.0/cap7-upper275-v1.1.0.zip.sha256"
+      }
+    ],
+    "isDraft": false,
+    "isPrerelease": false,
+    "name": "v1.1.0 — Exact upper bound 275 for caps in AG(7,3)",
+    "publishedAt": "2026-09-06T00:12:50Z",
+    "tagName": "v1.1.0",
+    "url": "https://github.com/petershao666/cap7-upper279/releases/tag/v1.1.0"
+  },
+  "commit": "5812114af1773f1bed330c34d233ffbfd6b53b25",
+  "archive_sha256": "3ea9d2464d582b787702ccf2cacde61095fd7b37650b204276cb1ade1c86f459",
+  "remote_digest_matches_local": true,
+  "old_release_preserved": true,
+  "roadmap_url": "https://github.com/petershao666/cap7-upper279/blob/v1.1.0/ROADMAP.md"
+}

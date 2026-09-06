@@ -1,0 +1,38 @@
+{
+  "status": "EXACT_ROOT_INDEPENDENT_SMALL3D_FAMILY_PASS",
+  "sizes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "actual_cap_counts": [
+    1,
+    27,
+    351,
+    2808,
+    14742,
+    50544,
+    107406,
+    126360
+  ],
+  "histogram_counts": [
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    2
+  ],
+  "root_method": "recursive canonical-increasing cap augmentation; allpartialcaps emitted; separate fromPallsubsets scan",
+  "producer_sha256": "fa6d3915c54fa8a4ca9601531fc497c19a3961599fd6fe08e1ac01b83e8cb635",
+  "checker_sha256": "23f0eba8b394a0da033e62fe6581d20b4f11f6884a5a4e2bdc1c9641721f0465",
+  "representative_pairchecks": 123,
+  "scope": "Complete histogram sets and totalcapcounts; per-histogram frequencies inPsource are notused"
+}

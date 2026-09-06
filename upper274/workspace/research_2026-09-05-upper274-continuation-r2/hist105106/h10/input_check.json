@@ -1,0 +1,13 @@
+{
+  "classes": 20,
+  "distinct_histograms": 17,
+  "pair_checks": 3060,
+  "directions_per_cap": 40,
+  "planned_full41_branches": 136,
+  "source_cover": "Accepted publishedcomplete20class18classification; root independently parsed18staticcodes, root independentlytranscribed882figures, andthisagent independentlycheckedboth882 pointsets andhistograms",
+  "root_audits": [
+    "../../root_audit/h10_coded18_independent.json",
+    "../../root_audit/882_points_independent.json"
+  ],
+  "independent_input_status": "PASS"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "ALL_ROWS_DECODED_PENDING_FULL_CAP_AND_HIST_CHECK",
+  "records": 34345,
+  "format_counts": {
+    "8sc": 33549,
+    "9General": 60,
+    "8cu": 432,
+    "8sa": 304
+  },
+  "seconds": 0.6319872909225523,
+  "canonical_point_encoding": "81*x1+27*x2+9*x3+3*x4+x5; point hash SHA256(bytes(sorted41pointIDs))"
+}

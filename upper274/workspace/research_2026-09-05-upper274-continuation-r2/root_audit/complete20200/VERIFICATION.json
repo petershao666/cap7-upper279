@@ -1,0 +1,24 @@
+{
+  "status": "EXACT_COMPLETE20200_CENSUS_PASS_BUT_LINEAR_SUPPORT_ALREADY_DOMINATED",
+  "histograms": 8,
+  "parameters": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10
+  ],
+  "normalized_caps": 682344,
+  "root_all_pairchecks": 532228320,
+  "producer_all_pairchecks": 532228320,
+  "root_producer_representative_pairchecks": 6240,
+  "source_sha256": "f3278815900918e48c0af51b7d88c8907c006b5451cd35fe52ee4b6ce198013d",
+  "root_frozen_sha256": "85eae02c667b94dd82b69e695628691fa4103c17478af1632c123ca2b9e898e6",
+  "producer_frozen_sha256": "1eb25fd54e9f6feb2e87794f225c7b43cdafb4968463a5e8617cc007fcf42846",
+  "scope": "Complete40cap20200directionfamily, notall40caps. DifferentcanonicalA anddirectionkernels, sharedaccepted20catalogue.",
+  "linear_status": "STOP_LINEAR_DUPLICATE: explicitold20-indicator dual alreadyproves bothendpointsupport; k7..9gap gives no linearTheta40strengthening. Seecompatibility/complete20200_dominance/PROOF.md.",
+  "novelty": "No publication-priority or newglobalbound claim."
+}

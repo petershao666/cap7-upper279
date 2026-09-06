@@ -1,0 +1,16 @@
+{
+  "status": "ACCEPTED_COMPLETE_5D41_HISTOGRAM_FAMILY_WITH_PUBLISHED_PREMISES",
+  "root_numeric_union_sha256": "086fd35909e4a79240e994be2002a08920cbcc257b7e9666ae2d74778fb42f83",
+  "independent_source_audit_sha256": "f6ee79256c3be4fe5d09c3487b1baf7ac98045a2491fc5aac69fa7dbc29c8551",
+  "producer_union_sha256": "9dc0610051533cdad6ad98ac05f9ef32c9d0bc1a787283b1aced1a650f7c2584",
+  "producer_freeze_sha256": "bdb0d9d77bfbe5846f9f92d35c4be9077f1e4e0df0c1b85a48a59ba5b8a9122d",
+  "proof_sha256": "4e1823ab24fc0357cdd60bbe42afa52dd8fd73e0b360fe59e0ce8e1decfbb777",
+  "all13_alternatives_covered": true,
+  "histogram_count": 44,
+  "formal_type_count": 40,
+  "present_type_count": 26,
+  "absent_type_count": 14,
+  "scope": "Every41cap inF3^5, complete or extendable; histogram family not affine-isomorphism-class list. Published Theorem6.3 and explicit ancillary completeness are external premises.",
+  "global_bound_unchanged": 275,
+  "ordinary7D_ban": false
+}

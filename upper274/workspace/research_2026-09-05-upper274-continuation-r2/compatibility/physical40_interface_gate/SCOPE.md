@@ -1,0 +1,5 @@
+peter，Registered before computation. Root requested at most120 seconds of static theory/small linear algebra, no LP and no new enumeration. Object: the remaining (106,106,63) Q67-minimum NC/NC/* branch, and replacing the one shared variable40-cap function/bound in the current hierarchy by separate function/bound pairs at the three physical40 sections in the fourteen NC106 first-anchor cases. Preserve the complete44-case40 proof layer and accepted16/17/18 supports for each copy. Do not change any42-profile input or the active H23 batch.
+
+Deliver a rigorous primal/dual interface, a constructive non-weakening statement, an honest boundary on strictness, and a possible separately authorized finite model gate. This theory phase does not authorize implementation, full enumeration or optimization. Distinct function names alone are not a new theorem. The old fixed H3Theta40 bound must be tested for redundancy by exact mathematical absorption, not by a numerical claim.
+
+Terminal: MODEL_GATE.md and DERIVATION.md with pure-data physical support layout and a freeze. No global exclusion or actual cap construction is claimed.

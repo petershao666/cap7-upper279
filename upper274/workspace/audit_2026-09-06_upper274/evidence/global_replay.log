@@ -1,0 +1,21 @@
+{
+  "status": "NEW_BOUND_VERIFIED",
+  "claim": "Every cap in F_3^7 has at most274 points, using the explicit accepted published lower-dimensional inputs.",
+  "excluded_cardinality": 275,
+  "global_upper": 274,
+  "accepted_lower": 236,
+  "cap237_existence": "UNKNOWN",
+  "sorted275_profiles": 341,
+  "negative_Q67_profiles": 56,
+  "Q67_total": -246950,
+  "r1_exact_certificates": 88,
+  "inherited_r1_raw_rows_not_rerun": 153548040,
+  "remaining_minimum_states": [],
+  "last_certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "last_certificate_positive_gap": 148616699075,
+  "last_certificate_independent_raw_rows": 8807118,
+  "last_certificate_finite_support_checks": 15885,
+  "published_premises": "Audited baseline low-dimensional cap bounds/classifications/completion results; Thackeray complete41 classification and explicitly asserted ancillary-list completeness. See PROOF.md and complete41 source audits.",
+  "independence": "Root independent lower/outer and support arithmetic, P independently generated NC106 domains/compiler/replay, H independent logical/static arithmetic; accepted coefficient/source data and earlier verified kernels are explicitly shared. Inherited large audits were not rerun.",
+  "novelty": "Internal global bound improvement275 to274; no publication-priority claim. Published input recovery is not new mathematics."
+}

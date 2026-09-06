@@ -1,0 +1,12 @@
+{
+  "candidate_sha256": "d6b08cb03ee145fd7db5a539bcf8269bfd0edd200772910d43d15cabe41c31d3",
+  "input_sha256": "efbefe8feb5a8a047ddd05d2f73f66775ad1e903a66cf86f2fbaec60fbc8a445",
+  "target": [
+    108,
+    107,
+    60
+  ],
+  "dual_rows": 606,
+  "claimed_positive_rhs": 21167272,
+  "upper_signs_verified": 20
+}

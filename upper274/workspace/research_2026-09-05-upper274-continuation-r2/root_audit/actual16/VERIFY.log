@@ -1,0 +1,20 @@
+anchor 970 rep 582171 emitted_cumulative 126360 histograms 11
+anchor 961 rep 582171 emitted_cumulative 5826 histograms 43
+anchor 952 rep 582171 emitted_cumulative 9756 histograms 39
+anchor 943 rep 582171 emitted_cumulative 13032 histograms 27
+anchor 880 rep 13851 emitted_cumulative 63180 histograms 55
+anchor 871 rep 13851 emitted_cumulative 6068 histograms 117
+anchor 862 rep 13851 emitted_cumulative 14786 histograms 169
+anchor 853 rep 13851 emitted_cumulative 21180 histograms 133
+anchor 844 rep 13851 emitted_cumulative 28080 histograms 107
+anchor 880 rep 13867 emitted_cumulative 126360 histograms 148
+anchor 871 rep 13867 emitted_cumulative 12128 histograms 279
+anchor 862 rep 13867 emitted_cumulative 29164 histograms 314
+anchor 853 rep 13867 emitted_cumulative 42252 histograms 269
+anchor 844 rep 13867 emitted_cumulative 55948 histograms 227
+anchor 880 rep 14987 emitted_cumulative 189540 histograms 163
+anchor 871 rep 14987 emitted_cumulative 18180 histograms 309
+anchor 862 rep 14987 emitted_cumulative 43288 histograms 328
+anchor 853 rep 14987 emitted_cumulative 63492 histograms 314
+anchor 844 rep 14987 emitted_cumulative 84204 histograms 280
+ROOT_ACTUAL16 large_histograms=376 normalized_caps=553678 pairs=66441360 seconds=1.84068

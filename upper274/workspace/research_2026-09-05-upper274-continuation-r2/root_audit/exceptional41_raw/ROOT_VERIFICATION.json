@@ -1,0 +1,21 @@
+{
+  "status": "ROOT_ACCEPTED_FULL_RAW41_SPECTRUM_OVERCOVER",
+  "source_row_count": 34345,
+  "original_source_rows_bijectively_preserved": true,
+  "every_raw_line_equal": true,
+  "all_H_L_point_payloads_equal": true,
+  "representatives": 41,
+  "root_representative_pair_checks": 33620,
+  "root_representative_nonzero_normal_checks": 9922,
+  "source_files": {
+    "Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "55e3a7eb2980c10096f38199e7834631d711a296a14826903afd7fc7e474641a",
+    "Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "fadaa04086ca80c94a4614e312cb94ff21eea81a142320e8e8d635133adaaedc"
+  },
+  "producer_histogram_sha256": "134a1d4f9b70cced18d55ef6e64b63ba01b0d62444748bb80781b7a4ae4ee23b",
+  "producer_freeze_sha256": "8713451e0f5eb857c110ba008e2c69dc8cc0f7d2c91f3bffcfad1b0b0f56443c",
+  "independent_freeze_sha256": "a07fc1440ee4ebd360b5b8de3c89f7511fe47ac8a45a5486462ea443277f6a20",
+  "root_code_sha256": "da62e27d0361ad74ca0fcde5ad55c49502455ed760ddefbfa339673f06a3f5cd",
+  "scope": "Exactly the41 spectra occurring in all34345 raw records. With explicit published list coverage, a necessary overcover of the exceptional alternative. Not by itself all41caps.",
+  "independence": "Root source-line and representative tuple checks import no producer/verifier kernels. H staticJava and L workbook decoders are independently implemented; raw files, published maps and three General9 named literals shared.",
+  "source_math_audit": "Root read both full decoder/checker kernels, primary six-coordinate embedding/transform specifications and Theorem6.3/Prop6.2(b). Source search completeness is a published premise, not replayed here."
+}

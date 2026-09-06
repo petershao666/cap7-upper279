@@ -1,0 +1,33 @@
+{
+  "claimed_interval": [
+    236,
+    275
+  ],
+  "excluded_size": 276,
+  "external_theorems": "See README.md and preserved proofs; original classification computations are not rerun.",
+  "independent_peer_review": false,
+  "cpp_complete": true,
+  "cpp_fresh_complete": true,
+  "fresh_cpp_matches_all_nontiming_lines": true,
+  "cpp_nontiming_lines": 448,
+  "python_complete": false,
+  "python_status": "INCOMPLETE: manually stopped during the independent run when finalizing this release; no failure was reported before stopping.",
+  "python_log": "python_verification_partial.txt",
+  "python_exact_lines_checked_against_cpp": 170,
+  "python_partial_matches_cpp": true,
+  "ordinary_case_matrices": 43805229,
+  "extremal_case_matrices": 124057982,
+  "histogram6_case_matrices": 681237,
+  "histogram41_case_matrices": 138621,
+  "new_global_minimum_cases": 17,
+  "root_Q_coefficients": [
+    9,
+    -903,
+    15920784
+  ],
+  "root_sum": -214038,
+  "higher_goal_270_proved": false,
+  "next_step_274_proved": false,
+  "python_version": "3.13.5",
+  "cpp_compiler": "c++ (Debian 14.2.0-19) 14.2.0"
+}

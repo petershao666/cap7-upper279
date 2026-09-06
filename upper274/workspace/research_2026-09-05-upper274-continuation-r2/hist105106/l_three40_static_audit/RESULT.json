@@ -1,0 +1,38 @@
+{
+  "status": "STATIC_COPY_MATHEMATICS_PASS_WITH_METADATA_DISPLAY_NOTE",
+  "no_producer_import": true,
+  "no_domain_enumeration": true,
+  "no_LP": true,
+  "source_hashes_verified": 28,
+  "run_sha256": "6764b5953a7627e20abe672389500da32e6d4f2564549b5285e746f4e4188625",
+  "verify_sha256": "c57ea39d79a6cca4fbebaf65d2c1e17694d249d5c2ffdd2b471a7e2dd76a10a5",
+  "leaf_counts": {
+    "17": 30,
+    "16": 30,
+    "18": 24,
+    "41": 6,
+    "42": 6
+  },
+  "finite_support_rows": 15885,
+  "variable_breakdown": {
+    "main": 215,
+    "conditional": 114,
+    "leaf": 1512,
+    "case_and_outer_coefficients": 1449,
+    "gap": 1,
+    "total": 3291
+  },
+  "all_physical_parent_mappings_exact": true,
+  "all_old_feature_signs_and_domains_unchanged": true,
+  "independent_offsets_checked": true,
+  "unchanged_mathematical_function_ASTs": [
+    "attach16_17",
+    "low40",
+    "localize_supports",
+    "outer_new"
+  ],
+  "note": "400/401/402 are internal function IDs. Main histogram objects record mathematical_size40; ancillary counts/empty/leaf case_dimension_size retain IDs and need explicit function_id/mathematical_size display mapping. This is not a solver or proof-row bug.",
+  "shared_dependency_boundary": "Both producer and its author verifier reuse frozen H25 domain generators. This audit checks copying and static connections, not independent raw certificate truth.",
+  "elapsed_seconds": 0.06274279206991196,
+  "wall_seconds_since_gate": 171.17250609397888
+}

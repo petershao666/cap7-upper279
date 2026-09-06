@@ -1,0 +1,18 @@
+{
+  "status": "FROZEN_BEFORE_ROOT_SMALL_RESULTS_READ",
+  "files": {
+    "SCOPE.md": "b8fb2d398e9c5762ba137ec4de6e2081c3946a29c6a0d93b93a385062bf87f11",
+    "INPUTS.json": "2cacff918a0db2a00d11d20f887e53e7aaf0f085ed639f07e45349610698e5dc",
+    "enumerate.cpp": "3265e4f64195d2ce0e257a18fa7f1469a9752dc29c70bebe87c4c282fd5cb73e",
+    "SMALL_RAW.json": "901d3d6c07801b9e2816253fa91107dc5cb5889ace1399d654960589bf9ac860",
+    "run.log": "100b7244a868ef2b239e808bb9a95104d13225fc251718514932e671c3507ab6",
+    "package_and_check.py": "437c8c0a6fb63ae0e80f9afdf9019fe25e5aa362948b99a54a07898580377462",
+    "COMPLETE_ACTUAL16.json": "a58e4d85a49c569eb47fa4d5b46899ca23c07e953a63cb3e45524edd9fe3067b",
+    "OWN_CHECK.json": "96221d8fdac995cfa5aff5590bebd154aa910920d0f1308b5277a837245d89f1",
+    "PROOF.md": "97db5adf0faa25a5837ae30b7a9ab57d15956eabb1aaa75691a5c901e39dd21b"
+  },
+  "histogram_count": 376,
+  "small_only_histograms": 0,
+  "small_constructed": 1084572,
+  "small_retained": 0
+}

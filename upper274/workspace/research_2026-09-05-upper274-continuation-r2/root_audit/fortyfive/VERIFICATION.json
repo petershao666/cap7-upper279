@@ -1,0 +1,23 @@
+{
+  "status": "ACCEPTED_COMPLETE_41_SUBCAPS_OF_45_FAMILY",
+  "histogram_count": 27,
+  "full_deletion_subsets": 148995,
+  "root_family_sha256": "5f84049be12a5422014a4024a7002e72537febc3597db9d2ece2343dfb2adb6d",
+  "independent_family_sha256": "c7a6c7b338e8df3185b3e5a72949c40be310c7b65d8eace0d902e4d07e83c02e",
+  "full_vectors_and_frequencies_identical": true,
+  "root_read_and_audited_both_full_enumeration_kernels": true,
+  "shared_inputs": [
+    "Independently accepted45pointtable",
+    "Published affine uniqueness of45caps"
+  ],
+  "independent_kernels": [
+    "Root subtracts four directional occupancies,121normalizednormals",
+    "P directly sums retained41points,242normals then divides2"
+  ],
+  "scope": "Exactly all directional histograms of41caps contained in45caps; not all41caps alone",
+  "nonclaims": [
+    "No new construction",
+    "No affine class count",
+    "No global7D improvement"
+  ]
+}

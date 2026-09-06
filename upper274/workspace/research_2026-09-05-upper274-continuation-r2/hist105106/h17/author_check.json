@@ -1,0 +1,635 @@
+{
+  "status": "AUTHOR_REPRESENTATIVE_CHECK_PASS",
+  "independent_inventory_comparison": [
+    {
+      "size": 8,
+      "count": 63180,
+      "sha256": "01dcd9448bb1c4ad1232c97ec09e8d395c1167d630e0a31edbcdf68dfd4dfa4b",
+      "independent_inventory_exact_byte_match": true
+    },
+    {
+      "size": 9,
+      "count": 2106,
+      "sha256": "3d5a035e5157fc42ea31b10176c4494f51dbccd309a09d65faba12615178145f",
+      "independent_inventory_exact_byte_match": true
+    }
+  ],
+  "histogram_representatives": 102,
+  "pair_checks": 13872,
+  "histogram_checks": [
+    {
+      "histogram_id": 0,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 1,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 2,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 3,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 4,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 5,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 6,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 7,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 8,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 9,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 10,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 11,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 12,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 13,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 14,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 15,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 16,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 17,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 18,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 19,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 20,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 21,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 22,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 23,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 24,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 25,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 26,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 27,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 28,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 29,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 30,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 31,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 32,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 33,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 34,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 35,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 36,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 37,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 38,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 39,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 40,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 41,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 42,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 43,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 44,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 45,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 46,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 47,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 48,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 49,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 50,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 51,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 52,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 53,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 54,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 55,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 56,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 57,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 58,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 59,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 60,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 61,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 62,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 63,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 64,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 65,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 66,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 67,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 68,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 69,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 70,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 71,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 72,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 73,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 74,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 75,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 76,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 77,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 78,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 79,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 80,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 81,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 82,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 83,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 84,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 85,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 86,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 87,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 88,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 89,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 90,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 91,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 92,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 93,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 94,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 95,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 96,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 97,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 98,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 99,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 100,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    },
+    {
+      "histogram_id": 101,
+      "point_count": 17,
+      "directions_checked": 40,
+      "pairs_checked": 136
+    }
+  ],
+  "scope": "Separate Python point and histogram arithmetic checks for all102 representatives; complete generated-family coverage still requires independent root/P review.",
+  "histograms17_sha256": "7c47c4c3468fc8ead940a889f24fdb31bc6d45dfeea764e53aa998462399528c"
+}

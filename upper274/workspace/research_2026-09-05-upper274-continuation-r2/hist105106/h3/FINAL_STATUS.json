@@ -1,0 +1,18 @@
+{
+  "status": "INDEPENDENTLY_VERIFIED_SCOPED_EXCLUSION",
+  "target_size_to_exclude": 275,
+  "upper274_proved": false,
+  "accepted_global_interval": [236,275],
+  "global_237_existence": "UNKNOWN",
+  "new_minimum_branch_excluded": {"type":[105,105,65],"whole_completion_status":[0,0,-1],"potential":"Q67"},
+  "ordinary_exclusion_claim": false,
+  "new_universal_histogram_bounds": {"all_40_caps_in_F3_5":-1209524081280,"noncompletable_105_caps_in_F3_6":-3614141188092},
+  "exact_outer_gap":1926831607,
+  "independent_verified_cases":62,
+  "independent_verified_matrix_evaluations":8547569,
+  "candidate_sha256":"cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+  "published_input_additions":"Thackeray2206.09719v1 Lemmas2.2,2.4,2.5,2.6; exact19/20 supports in Lemma2.3 proof",
+  "novelty_priority_claim":false,
+  "remaining_Q67_minimum_types":[[108,107,60],[108,106,61],[107,107,61],[107,106,62],[107,105,63],[106,106,63],[106,105,64]],
+  "shared_dependencies":"Published lowdimensional theorems and accepted checkpoint histogram data are shared; route and root Cartesian verifier kernels are separately written."
+}

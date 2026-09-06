@@ -1,0 +1,66 @@
+{
+  "status": "INDEPENDENT_ROOT_RAW40_AND_OUTER_PASS",
+  "certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "tiers": {
+    "400": {
+      "mathematical_size": 40,
+      "bound": -9829345995830952,
+      "raw": 106239,
+      "canonical": 36455,
+      "nonempty_cases": 43,
+      "conditional_empty_cases": 1
+    },
+    "401": {
+      "mathematical_size": 40,
+      "bound": -9618859046048364,
+      "raw": 106239,
+      "canonical": 36455,
+      "nonempty_cases": 43,
+      "conditional_empty_cases": 1
+    },
+    "402": {
+      "mathematical_size": 40,
+      "bound": -10564264755104425,
+      "raw": 106239,
+      "canonical": 36455,
+      "nonempty_cases": 43,
+      "conditional_empty_cases": 1
+    }
+  },
+  "outer": {
+    "index": 132,
+    "n": 275,
+    "anchor": [
+      106,
+      106,
+      63
+    ],
+    "raw": 7382307,
+    "canonical": 2460769,
+    "minimum": 43471588119828,
+    "K": 43471588119828,
+    "bound": 15823509458918317,
+    "gap": 148616699075
+  },
+  "cases": 133,
+  "raw": 7701024,
+  "canonical": 2570134,
+  "elapsed_seconds": 20.224,
+  "finite_support_checks": 15885,
+  "arithmetic": "C++ signed128 products and sums, undefined-behavior sanitizer clean; Python arbitrary-precision support arithmetic",
+  "normalization": "First physical column sorted by one common affine relabelling of three refinement levels; all ordered second and third columns. No physical column quotient. Canonical counts only compare the cyclic cover.",
+  "scope": "All three universal40 tiers and last minimum outer case. NC106 layer requires separate P verification.",
+  "fixed_outer_upper_coefficients_all_zero": true,
+  "accepted_input_hashes": {
+    "root_audit/actual16/ACCEPTED_HISTOGRAMS.json": "3776b3593a186ddb06b8af9f78b9b95860f7218106236fa2cc5fce693c470b28",
+    "root_audit/actual17/ACCEPTED_HISTOGRAMS.json": "8ed6c68858ca68f5f9ace601a27efc25895c9a9c544f6937f1c78d1b65219936",
+    "root_audit/complete41/ACCEPTED_HISTOGRAMS.json": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa",
+    "hist105106/h13/table1_input_v2.json": "53c9eed8fd51492cf4b68eea42ce061aae55786e614540b6a50ab3e86bf2f470",
+    "hist105106/h10/full18_states.json": "4fcdc14a30fb3a209ce4a9709aced518272abfaf9a4609535622013e814c127e",
+    "hist105106/h3/hist19_20.json": "5a5da7eab7de70c62b6796b4775095447a651dbce3458bad0dea326d093d10d1",
+    "hist105106/h3/clash_data.json": "ab706e8201ad00a4f55c4b54052f0cd7ea5449d04b17a679eae92761e47e4b36",
+    "hist105106/h23_r105_transfer/FIXED_INPUTS.json": "67f55e2bd21955542e97e63f26b2d36930533666d02e5fac215e219507005bae",
+    "../audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json": "2780fba39eff792892e7aac960675e1ffdf8b2cf99b0c3b9e29d1123a98435be",
+    "../research_2026-09-05-capset-round1-r1/route_a/certificates.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829"
+  }
+}

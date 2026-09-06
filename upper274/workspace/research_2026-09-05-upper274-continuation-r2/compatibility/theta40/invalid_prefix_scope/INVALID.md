@@ -1,0 +1,1 @@
+INVALID: these local inputs incorrectly promoted conditional first-occurring40-profile empty branches to ordinary exclusions. The run was interrupted before any claim. The corrected run uses only the universal theta40 histogram inequality. H3 proof/certificate itself is unaffected.

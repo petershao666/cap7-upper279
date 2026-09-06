@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "source_sha256": "d6b08cb03ee145fd7db5a539bcf8269bfd0edd200772910d43d15cabe41c31d3",
+  "target": [
+    108,
+    107,
+    60
+  ],
+  "whole_state": [
+    0,
+    0,
+    -1
+  ],
+  "scope": "Q67-global-minimum branch only; not an ordinary profile exclusion",
+  "inner_counts": [
+    565824,
+    1407366
+  ],
+  "outer_count": 3050715,
+  "total_mathematical_tables": 5023905,
+  "maxima": [
+    0,
+    0,
+    0
+  ],
+  "positive_rhs": 21167272,
+  "upper_inequality_signs": 20,
+  "checker": "verify_incidence.cpp",
+  "checker_sha256": "b53102027db41c4768afb7a40e80cec63780dc079757b6a305c8ca8e16c874c4",
+  "independence": "Fresh C++ full Cartesian domains and all four direction evaluations; no cached quotient tables or discovery kernels; shared frozen theorem/certificate input only"
+}

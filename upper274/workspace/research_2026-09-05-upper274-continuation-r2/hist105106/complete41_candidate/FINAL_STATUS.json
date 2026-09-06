@@ -1,0 +1,24 @@
+{
+  "status": "CANDIDATE_COMPLETE_41_HISTOGRAM_FAMILY_FROZEN_PENDING_ROOT_UNION_AND_SOURCE_ACCEPTANCE",
+  "histogram_count": 44,
+  "types": 40,
+  "present_types": 26,
+  "absent_types": 14,
+  "source_occurrences": 80,
+  "all13_alternatives_covered_conditionally_on_published_inputs": true,
+  "all_individual_family_inputs_root_accepted": true,
+  "pending": [
+    "root_final_union_audit",
+    "independent_P_source_coverage_confirmation"
+  ],
+  "proof_scope": "Exact actual histogram family is conditional on the cited published classification/list completeness and final union audit. This is input recovery, not new global mathematics.",
+  "LP_runs": 0,
+  "full_raw_rows_reverified": 0,
+  "computation_seconds_runs": [
+    0.171,
+    0.22114195814356208,
+    0.18005333305336535
+  ],
+  "all_computation_under_180_seconds": true,
+  "global_upper_bound_improvement_claimed": false
+}

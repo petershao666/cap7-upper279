@@ -1,0 +1,61 @@
+{
+  "status": "PASS_LOGICAL_IMPLICATION_AND_STATIC_EXACT_ARITHMETIC",
+  "candidate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "global_promotion_by_this_audit": false,
+  "final_raw_NC106_verification_sha256": "bb9a437a66965e478951c9dccbea60b23c9d889fcf19ba04f27218b24a9e2232",
+  "global_profiles": 341,
+  "negative_profiles": 56,
+  "global_Q67_sum": -246950,
+  "remaining_before_candidate": [
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    }
+  ],
+  "NC106_support_size": 79,
+  "NC106_anchor_count": 14,
+  "NC106_anchor_root": {
+    "forced": -37112985,
+    "K": -101958,
+    "gap": 273
+  },
+  "universal40_formal_anchors": 44,
+  "universal40_empty_anchor": [
+    14,
+    13,
+    13
+  ],
+  "finite_support_scores_checked": 15885,
+  "local_case_forced_bound_identities_checked": 143,
+  "main_bounds": {
+    "400": -9829345995830952,
+    "401": -9618859046048364,
+    "402": -10564264755104425,
+    "106": -35039780423844643
+  },
+  "outer_gap": 148616699075,
+  "outer_forced": 15823509458918317,
+  "inherited_r1_replays_not_rerun": {
+    "certificates": 88,
+    "matrices": 153548040
+  },
+  "root_new_raw_replay_dependency": {
+    "cases": 133,
+    "raw": 7701024
+  },
+  "P_new_raw_replay_dependency": {
+    "cases": 14,
+    "raw": 1106094
+  },
+  "large_domain_enumerations_by_this_audit": 0,
+  "optimizer_calls": 0,
+  "elapsed": 0.06850349996238947
+}

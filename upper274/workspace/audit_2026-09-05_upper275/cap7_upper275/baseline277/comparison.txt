@@ -1,0 +1,1 @@
+PASS: all 268 exact case/summary lines agree, including every local count, minimum, and gap.

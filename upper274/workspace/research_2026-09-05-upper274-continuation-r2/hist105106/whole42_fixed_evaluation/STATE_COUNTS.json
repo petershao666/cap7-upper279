@@ -1,0 +1,580 @@
+{
+  "status": "AUTHOR_DOMAIN_COUNTS_SHARED_L_GEOMETRY",
+  "states": [
+    {
+      "state_case": 0,
+      "original_anchor_index": 0,
+      "anchor": [
+        41,
+        41,
+        24
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 25038,
+      "count": 25038,
+      "indices_file": "state_indices/state_00.txt",
+      "indices_sha256": "c961c05e8e48a827aed50b1bcb3ac783ba6836c172f2f8e0d67e3722bbd22691"
+    },
+    {
+      "state_case": 1,
+      "original_anchor_index": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 15831,
+      "count": 11147,
+      "indices_file": "state_indices/state_01.txt",
+      "indices_sha256": "30f859e76e88e0aefcec48858f58368b7e17af07ed341c486277fa82d9af9476"
+    },
+    {
+      "state_case": 2,
+      "original_anchor_index": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 15831,
+      "count": 10590,
+      "indices_file": "state_indices/state_02.txt",
+      "indices_sha256": "ac60a2481065d21f13f2c8deece8e28e3dac37d720d8191590479bb59e5b4bb1"
+    },
+    {
+      "state_case": 3,
+      "original_anchor_index": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 15831,
+      "count": 10590,
+      "indices_file": "state_indices/state_03.txt",
+      "indices_sha256": "ac60a2481065d21f13f2c8deece8e28e3dac37d720d8191590479bb59e5b4bb1"
+    },
+    {
+      "state_case": 4,
+      "original_anchor_index": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 15831,
+      "count": 10315,
+      "indices_file": "state_indices/state_04.txt",
+      "indices_sha256": "d1fc479cad50d88a923d5f3dc51ffd6ffdce5ed05d9ddbef3aeed60a4afed20a"
+    },
+    {
+      "state_case": 5,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4889,
+      "indices_file": "state_indices/state_05.txt",
+      "indices_sha256": "f93ea39a7769630eb728dbe37f5f131704e2f798e840b2c58ca85de003b74ada"
+    },
+    {
+      "state_case": 6,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4739,
+      "indices_file": "state_indices/state_06.txt",
+      "indices_sha256": "c9762272d894e036655d0d256e5e7fd4c2006d8cb41c72e0f4ccde7bea4a63eb"
+    },
+    {
+      "state_case": 7,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4739,
+      "indices_file": "state_indices/state_07.txt",
+      "indices_sha256": "c9762272d894e036655d0d256e5e7fd4c2006d8cb41c72e0f4ccde7bea4a63eb"
+    },
+    {
+      "state_case": 8,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4156,
+      "indices_file": "state_indices/state_08.txt",
+      "indices_sha256": "40a1c30b3fe99ed03a912938478291439ea76ee6bb645d8ab9e72711061204b1"
+    },
+    {
+      "state_case": 9,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4654,
+      "indices_file": "state_indices/state_09.txt",
+      "indices_sha256": "ef0df624c5570b7e4003f29a1154a4b75ae7073ea975aeec5af46338faff4c69"
+    },
+    {
+      "state_case": 10,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4517,
+      "indices_file": "state_indices/state_10.txt",
+      "indices_sha256": "0d4ad816789830a99f2d9f61146e181f949d07362b745afd40462f99de3232e9"
+    },
+    {
+      "state_case": 11,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4517,
+      "indices_file": "state_indices/state_11.txt",
+      "indices_sha256": "0d4ad816789830a99f2d9f61146e181f949d07362b745afd40462f99de3232e9"
+    },
+    {
+      "state_case": 12,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 3961,
+      "indices_file": "state_indices/state_12.txt",
+      "indices_sha256": "6b4456c3a471c266064c891cd1d768a5c8bdb7d754ae8ccfa9d09ce0c2950522"
+    },
+    {
+      "state_case": 13,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4654,
+      "indices_file": "state_indices/state_13.txt",
+      "indices_sha256": "ef0df624c5570b7e4003f29a1154a4b75ae7073ea975aeec5af46338faff4c69"
+    },
+    {
+      "state_case": 14,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4517,
+      "indices_file": "state_indices/state_14.txt",
+      "indices_sha256": "0d4ad816789830a99f2d9f61146e181f949d07362b745afd40462f99de3232e9"
+    },
+    {
+      "state_case": 15,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4517,
+      "indices_file": "state_indices/state_15.txt",
+      "indices_sha256": "0d4ad816789830a99f2d9f61146e181f949d07362b745afd40462f99de3232e9"
+    },
+    {
+      "state_case": 16,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 3961,
+      "indices_file": "state_indices/state_16.txt",
+      "indices_sha256": "6b4456c3a471c266064c891cd1d768a5c8bdb7d754ae8ccfa9d09ce0c2950522"
+    },
+    {
+      "state_case": 17,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4447,
+      "indices_file": "state_indices/state_17.txt",
+      "indices_sha256": "f06ce3b31ebdc5cabf34cfb7e8e934d8244826b9a5a57e2cd1afce3db69e4e97"
+    },
+    {
+      "state_case": 18,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4304,
+      "indices_file": "state_indices/state_18.txt",
+      "indices_sha256": "d18049e92dae400e9d6665b6965abbf8627e8b7210939f68de6d67c81331bfaa"
+    },
+    {
+      "state_case": 19,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 4304,
+      "indices_file": "state_indices/state_19.txt",
+      "indices_sha256": "d18049e92dae400e9d6665b6965abbf8627e8b7210939f68de6d67c81331bfaa"
+    },
+    {
+      "state_case": 20,
+      "original_anchor_index": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 9957,
+      "count": 3869,
+      "indices_file": "state_indices/state_20.txt",
+      "indices_sha256": "8d9497e949af83796654bb6fe6d88030971600bcad5fd0d156a3d6aa5073bf3e"
+    },
+    {
+      "state_case": 21,
+      "original_anchor_index": 3,
+      "anchor": [
+        43,
+        40,
+        23
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 8012,
+      "count": 8012,
+      "indices_file": "state_indices/state_21.txt",
+      "indices_sha256": "4f970d82b6ec2725bc8928f53b8fa60f9875c9fe9442f10b7f3b82debfe67c42"
+    },
+    {
+      "state_case": 22,
+      "original_anchor_index": 4,
+      "anchor": [
+        43,
+        41,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 7613,
+      "count": 7613,
+      "indices_file": "state_indices/state_22.txt",
+      "indices_sha256": "1e49263269337479246b5261eebc488dc25568843401b7e00de3c423b1a7be40"
+    },
+    {
+      "state_case": 23,
+      "original_anchor_index": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 4908,
+      "count": 3391,
+      "indices_file": "state_indices/state_23.txt",
+      "indices_sha256": "405149bed40e10ae3a3605542bc79daef0dbaac7b4093419d3d92b1e227387f8"
+    },
+    {
+      "state_case": 24,
+      "original_anchor_index": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 4908,
+      "count": 3279,
+      "indices_file": "state_indices/state_24.txt",
+      "indices_sha256": "108c4975b698269032a59057ec88d0a347d3162d4ea37780d4bee643661f3514"
+    },
+    {
+      "state_case": 25,
+      "original_anchor_index": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 4908,
+      "count": 3279,
+      "indices_file": "state_indices/state_25.txt",
+      "indices_sha256": "108c4975b698269032a59057ec88d0a347d3162d4ea37780d4bee643661f3514"
+    },
+    {
+      "state_case": 26,
+      "original_anchor_index": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "status": "KNOWN_ROW_DOMAIN_IMPLICATION_EMPTY",
+      "original_count": 4908,
+      "count": null,
+      "indices_file": null,
+      "indices_sha256": null
+    },
+    {
+      "state_case": 27,
+      "original_anchor_index": 6,
+      "anchor": [
+        43,
+        43,
+        20
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2011,
+      "count": 2011,
+      "indices_file": "state_indices/state_27.txt",
+      "indices_sha256": "9d6328c02cb046882163e2d1d521e3c0242ddd5a0d64997762140f22678f849e"
+    },
+    {
+      "state_case": 28,
+      "original_anchor_index": 7,
+      "anchor": [
+        44,
+        40,
+        22
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 4182,
+      "count": 4182,
+      "indices_file": "state_indices/state_28.txt",
+      "indices_sha256": "8a860e49eb2d812966085b5a652dfbf11036eeadba65bb3b790f2a112bcabfba"
+    },
+    {
+      "state_case": 29,
+      "original_anchor_index": 8,
+      "anchor": [
+        44,
+        41,
+        21
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 3997,
+      "count": 3997,
+      "indices_file": "state_indices/state_29.txt",
+      "indices_sha256": "c8cd37ecda9062cb72e1695a95ef07b2f092ec159769c8ac6d0e60141989d302"
+    },
+    {
+      "state_case": 30,
+      "original_anchor_index": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2568,
+      "count": 1762,
+      "indices_file": "state_indices/state_30.txt",
+      "indices_sha256": "368a43d498310d28976492f28010f39b20767a37862336b70268cef4ae8df221"
+    },
+    {
+      "state_case": 31,
+      "original_anchor_index": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2568,
+      "count": 1703,
+      "indices_file": "state_indices/state_31.txt",
+      "indices_sha256": "0a1fbaf69903f1267cfdf84e05ea0a11ac0ec04505d4a8fa726c04ad46adcc6c"
+    },
+    {
+      "state_case": 32,
+      "original_anchor_index": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2568,
+      "count": 1703,
+      "indices_file": "state_indices/state_32.txt",
+      "indices_sha256": "0a1fbaf69903f1267cfdf84e05ea0a11ac0ec04505d4a8fa726c04ad46adcc6c"
+    },
+    {
+      "state_case": 33,
+      "original_anchor_index": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "status": "KNOWN_ROW_DOMAIN_IMPLICATION_EMPTY",
+      "original_count": 2568,
+      "count": null,
+      "indices_file": null,
+      "indices_sha256": null
+    },
+    {
+      "state_case": 34,
+      "original_anchor_index": 10,
+      "anchor": [
+        44,
+        43,
+        19
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 1056,
+      "count": 1056,
+      "indices_file": "state_indices/state_34.txt",
+      "indices_sha256": "026e3d3dcb172bacf8003ac22f673e2d2ed6fd557c505e73264f96a383dcfd36"
+    },
+    {
+      "state_case": 35,
+      "original_anchor_index": 11,
+      "anchor": [
+        45,
+        40,
+        21
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 3564,
+      "count": 3564,
+      "indices_file": "state_indices/state_35.txt",
+      "indices_sha256": "c80c49079224493836da31ab8e4ccbe44e737a88b3b50abef20d65ac0d28b579"
+    },
+    {
+      "state_case": 36,
+      "original_anchor_index": 12,
+      "anchor": [
+        45,
+        41,
+        20
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 3337,
+      "count": 3337,
+      "indices_file": "state_indices/state_36.txt",
+      "indices_sha256": "f34b87966a8080bab396d7995c7368140eea3892db51759ff5cce213721fc014"
+    },
+    {
+      "state_case": 37,
+      "original_anchor_index": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2168,
+      "count": 1509,
+      "indices_file": "state_indices/state_37.txt",
+      "indices_sha256": "70ac8e17ede10ed6003190723d9e36dc49a5e93fc1216c6ad65168fb551cbc2a"
+    },
+    {
+      "state_case": 38,
+      "original_anchor_index": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2168,
+      "count": 1464,
+      "indices_file": "state_indices/state_38.txt",
+      "indices_sha256": "2b21269acebe93fd8e66d63383c852b489c63b4c22ca6d975b90d8080b766798"
+    },
+    {
+      "state_case": 39,
+      "original_anchor_index": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "status": "EXACT_COMPLETE_STATE_MINIMUM",
+      "original_count": 2168,
+      "count": 1464,
+      "indices_file": "state_indices/state_39.txt",
+      "indices_sha256": "2b21269acebe93fd8e66d63383c852b489c63b4c22ca6d975b90d8080b766798"
+    },
+    {
+      "state_case": 40,
+      "original_anchor_index": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "status": "KNOWN_ROW_DOMAIN_IMPLICATION_EMPTY",
+      "original_count": 2168,
+      "count": null,
+      "indices_file": null,
+      "indices_sha256": null
+    }
+  ],
+  "known_three_note": "Known empty states skipped by accepted full-direction premise, not claimed zero row domain; counts null here."
+}

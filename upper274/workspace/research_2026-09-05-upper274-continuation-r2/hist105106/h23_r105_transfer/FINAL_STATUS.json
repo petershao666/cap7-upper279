@@ -1,0 +1,19 @@
+{
+  "status": "STATIC_GATE_COMPLETE_PENDING_ROOT_ACTIVATION",
+  "LP_runs": 0,
+  "domain_enumerations": 0,
+  "static_seconds": 0.01716420892626047,
+  "old_four_exactly_preserved": true,
+  "R105_rank_with_moments_before_after": [
+    7,
+    8
+  ],
+  "functional_rescaling_ruled_out": true,
+  "inequality_cone_nonimplication_claimed": false,
+  "positive_certificate_claimed": false,
+  "target": [
+    106,
+    106,
+    63
+  ]
+}

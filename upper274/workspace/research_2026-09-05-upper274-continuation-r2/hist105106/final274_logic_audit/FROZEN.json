@@ -1,0 +1,15 @@
+{
+  "status": "PASS_FINAL_LOGIC_AND_STATIC_ARITHMETIC",
+  "candidate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "positive_gap": 148616699075,
+  "global_ledger_edited": false,
+  "large_enumerations_rerun": 0,
+  "sha256": {
+    "SCOPE.md": "fce64afd263ad48a3efeb7634c9553c83266e1315fbbb432ba8d600cf51966b1",
+    "check_static.py": "1f68bda0947231426bcc2acda3e7fcd7d343654fd0a886fee928b959e2f583f1",
+    "check_static.log": "2884e5b02c4b1d95becd39efd559606d1e59de3d566076b73a77f6f34c944c15",
+    "STATIC_VERIFICATION.json": "e8f259e44b66bdff7442e5aa87f3c01f53221f70a15088fab5ff149a077ad654",
+    "PROOF_AUDIT.md": "c5f25302c41bf81348189937eac07689114529f896cd4bc76ada0389aab4e6cd",
+    "DEPENDENCY_DAG.json": "8343912e88eaae2e316223d3df9679a17e9e41884ac18ee3053180cab8aaae51"
+  }
+}

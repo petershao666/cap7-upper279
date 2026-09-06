@@ -1,0 +1,3248 @@
+{
+  "status": "PASS_DIRECT_WEIGHTED_DELETION_AND_INTEGER_FLOOR",
+  "source105_bound": 9070787191178440,
+  "source106_bound": 961503442264914640,
+  "floored106_bound": 961503442264,
+  "rows": [
+    {
+      "profile106": [
+        36,
+        35,
+        35
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 36,
+          "profile105": [
+            35,
+            35,
+            35
+          ],
+          "value105": 25000000000000
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            36,
+            35,
+            34
+          ],
+          "value105": 24985965358781
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 35,
+          "profile105": [
+            36,
+            35,
+            34
+          ],
+          "value105": 24985965358781
+        }
+      ],
+      "unfloored": 2649017575114670,
+      "floor1000000": 2649017575
+    },
+    {
+      "profile106": [
+        36,
+        36,
+        34
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 36,
+          "profile105": [
+            36,
+            35,
+            34
+          ],
+          "value105": 24985965358781
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            36,
+            35,
+            34
+          ],
+          "value105": 24985965358781
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 34,
+          "profile105": [
+            36,
+            36,
+            33
+          ],
+          "value105": 24959769288398
+        }
+      ],
+      "unfloored": 2647621661637764,
+      "floor1000000": 2647621661
+    },
+    {
+      "profile106": [
+        37,
+        35,
+        34
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 37,
+          "profile105": [
+            36,
+            35,
+            34
+          ],
+          "value105": 24985965358781
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            37,
+            34,
+            34
+          ],
+          "value105": 24955616962561
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 34,
+          "profile105": [
+            37,
+            35,
+            33
+          ],
+          "value105": 24943455533398
+        }
+      ],
+      "unfloored": 2646004800100064,
+      "floor1000000": 2646004800
+    },
+    {
+      "profile106": [
+        37,
+        36,
+        33
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 37,
+          "profile105": [
+            36,
+            36,
+            33
+          ],
+          "value105": 24959769288398
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            37,
+            35,
+            33
+          ],
+          "value105": 24943455533398
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 33,
+          "profile105": [
+            37,
+            36,
+            32
+          ],
+          "value105": 24907496988568
+        }
+      ],
+      "unfloored": 2643423263495798,
+      "floor1000000": 2643423263
+    },
+    {
+      "profile106": [
+        37,
+        37,
+        32
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 37,
+          "profile105": [
+            37,
+            36,
+            32
+          ],
+          "value105": 24907496988568
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            37,
+            36,
+            32
+          ],
+          "value105": 24907496988568
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 32,
+          "profile105": [
+            37,
+            37,
+            31
+          ],
+          "value105": 24847501646202
+        }
+      ],
+      "unfloored": 2638274829832496,
+      "floor1000000": 2638274829
+    },
+    {
+      "profile106": [
+        38,
+        34,
+        34
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 38,
+          "profile105": [
+            37,
+            34,
+            34
+          ],
+          "value105": 24955616962561
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            38,
+            34,
+            33
+          ],
+          "value105": 24894108366673
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 34,
+          "profile105": [
+            38,
+            34,
+            33
+          ],
+          "value105": 24894108366673
+        }
+      ],
+      "unfloored": 2641112813511082,
+      "floor1000000": 2641112813
+    },
+    {
+      "profile106": [
+        38,
+        35,
+        33
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 38,
+          "profile105": [
+            37,
+            35,
+            33
+          ],
+          "value105": 24943455533398
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            38,
+            34,
+            33
+          ],
+          "value105": 24894108366673
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 33,
+          "profile105": [
+            38,
+            35,
+            32
+          ],
+          "value105": 24872202341474
+        }
+      ],
+      "unfloored": 2639927780371321,
+      "floor1000000": 2639927780
+    },
+    {
+      "profile106": [
+        38,
+        36,
+        32
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 38,
+          "profile105": [
+            37,
+            36,
+            32
+          ],
+          "value105": 24907496988568
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            38,
+            35,
+            32
+          ],
+          "value105": 24872202341474
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 32,
+          "profile105": [
+            38,
+            36,
+            31
+          ],
+          "value105": 24831504822321
+        }
+      ],
+      "unfloored": 2636492324172920,
+      "floor1000000": 2636492324
+    },
+    {
+      "profile106": [
+        38,
+        37,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 38,
+          "profile105": [
+            37,
+            37,
+            31
+          ],
+          "value105": 24847501646202
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            38,
+            36,
+            31
+          ],
+          "value105": 24831504822321
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            38,
+            37,
+            30
+          ],
+          "value105": 24833434617550
+        }
+      ],
+      "unfloored": 2632807214125603,
+      "floor1000000": 2632807214
+    },
+    {
+      "profile106": [
+        38,
+        38,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 38,
+          "profile105": [
+            38,
+            37,
+            30
+          ],
+          "value105": 24833434617550
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            38,
+            37,
+            30
+          ],
+          "value105": 24833434617550
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            38,
+            38,
+            29
+          ],
+          "value105": 24779551872080
+        }
+      ],
+      "unfloored": 2630727587096200,
+      "floor1000000": 2630727587
+    },
+    {
+      "profile106": [
+        39,
+        34,
+        33
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 39,
+          "profile105": [
+            38,
+            34,
+            33
+          ],
+          "value105": 24894108366673
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            39,
+            33,
+            33
+          ],
+          "value105": 24828520387172
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 33,
+          "profile105": [
+            39,
+            34,
+            32
+          ],
+          "value105": 24812192267496
+        }
+      ],
+      "unfloored": 2633842264291463,
+      "floor1000000": 2633842264
+    },
+    {
+      "profile106": [
+        39,
+        35,
+        32
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 39,
+          "profile105": [
+            38,
+            35,
+            32
+          ],
+          "value105": 24872202341474
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            39,
+            34,
+            32
+          ],
+          "value105": 24812192267496
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 32,
+          "profile105": [
+            39,
+            35,
+            31
+          ],
+          "value105": 24824325084464
+        }
+      ],
+      "unfloored": 2632821023382694,
+      "floor1000000": 2632821023
+    },
+    {
+      "profile106": [
+        39,
+        36,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 39,
+          "profile105": [
+            38,
+            36,
+            31
+          ],
+          "value105": 24831504822321
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            39,
+            35,
+            31
+          ],
+          "value105": 24824325084464
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            39,
+            36,
+            30
+          ],
+          "value105": 24815677162380
+        }
+      ],
+      "unfloored": 2631390383145003,
+      "floor1000000": 2631390383
+    },
+    {
+      "profile106": [
+        39,
+        37,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 39,
+          "profile105": [
+            38,
+            37,
+            30
+          ],
+          "value105": 24833434617550
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            39,
+            36,
+            30
+          ],
+          "value105": 24815677162380
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            39,
+            37,
+            29
+          ],
+          "value105": 24773854323591
+        }
+      ],
+      "unfloored": 2629899634800240,
+      "floor1000000": 2629899634
+    },
+    {
+      "profile106": [
+        39,
+        38,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 39,
+          "profile105": [
+            38,
+            38,
+            29
+          ],
+          "value105": 24779551872080
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            39,
+            37,
+            29
+          ],
+          "value105": 24773854323591
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            39,
+            38,
+            28
+          ],
+          "value105": 24709845822146
+        }
+      ],
+      "unfloored": 2624394516149812,
+      "floor1000000": 2624394516
+    },
+    {
+      "profile106": [
+        39,
+        39,
+        28
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 39,
+          "profile105": [
+            39,
+            38,
+            28
+          ],
+          "value105": 24709845822146
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            39,
+            38,
+            28
+          ],
+          "value105": 24709845822146
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 28,
+          "profile105": [
+            39,
+            39,
+            27
+          ],
+          "value105": 24639775207013
+        }
+      ],
+      "unfloored": 2617281679923752,
+      "floor1000000": 2617281679
+    },
+    {
+      "profile106": [
+        40,
+        33,
+        33
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            33,
+            33
+          ],
+          "value105": 24828520387172
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 33,
+          "profile105": [
+            40,
+            33,
+            32
+          ],
+          "value105": 24776113141827
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 33,
+          "profile105": [
+            40,
+            33,
+            32
+          ],
+          "value105": 24776113141827
+        }
+      ],
+      "unfloored": 2628364282847462,
+      "floor1000000": 2628364282
+    },
+    {
+      "profile106": [
+        40,
+        34,
+        32
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            34,
+            32
+          ],
+          "value105": 24812192267496
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            40,
+            33,
+            32
+          ],
+          "value105": 24776113141827
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 32,
+          "profile105": [
+            40,
+            34,
+            31
+          ],
+          "value105": 24807841912310
+        }
+      ],
+      "unfloored": 2628726478715878,
+      "floor1000000": 2628726478
+    },
+    {
+      "profile106": [
+        40,
+        35,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            35,
+            31
+          ],
+          "value105": 24824325084464
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            40,
+            34,
+            31
+          ],
+          "value105": 24807841912310
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            40,
+            35,
+            30
+          ],
+          "value105": 24801935355515
+        }
+      ],
+      "unfloored": 2630107466330375,
+      "floor1000000": 2630107466
+    },
+    {
+      "profile106": [
+        40,
+        36,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            36,
+            30
+          ],
+          "value105": 24815677162380
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            40,
+            35,
+            30
+          ],
+          "value105": 24801935355515
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            40,
+            36,
+            29
+          ],
+          "value105": 24751313308174
+        }
+      ],
+      "unfloored": 2628036158538960,
+      "floor1000000": 2628036158
+    },
+    {
+      "profile106": [
+        40,
+        37,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            37,
+            29
+          ],
+          "value105": 24773854323591
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            40,
+            36,
+            29
+          ],
+          "value105": 24751313308174
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            40,
+            37,
+            28
+          ],
+          "value105": 24696563086418
+        }
+      ],
+      "unfloored": 2622953094852200,
+      "floor1000000": 2622953094
+    },
+    {
+      "profile106": [
+        40,
+        38,
+        28
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            38,
+            28
+          ],
+          "value105": 24709845822146
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            40,
+            37,
+            28
+          ],
+          "value105": 24696563086418
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 28,
+          "profile105": [
+            40,
+            38,
+            27
+          ],
+          "value105": 24625358211095
+        }
+      ],
+      "unfloored": 2616373260080384,
+      "floor1000000": 2616373260
+    },
+    {
+      "profile106": [
+        40,
+        39,
+        27
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            39,
+            39,
+            27
+          ],
+          "value105": 24639775207013
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            40,
+            38,
+            27
+          ],
+          "value105": 24625358211095
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 27,
+          "profile105": [
+            40,
+            39,
+            26
+          ],
+          "value105": 24549060275983
+        }
+      ],
+      "unfloored": 2608804605964766,
+      "floor1000000": 2608804605
+    },
+    {
+      "profile106": [
+        40,
+        40,
+        26
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 40,
+          "profile105": [
+            40,
+            39,
+            26
+          ],
+          "value105": 24549060275983
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 40,
+          "profile105": [
+            40,
+            39,
+            26
+          ],
+          "value105": 24549060275983
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 26,
+          "profile105": [
+            40,
+            40,
+            25
+          ],
+          "value105": 24455842304127
+        }
+      ],
+      "unfloored": 2599776721985942,
+      "floor1000000": 2599776721
+    },
+    {
+      "profile106": [
+        41,
+        33,
+        32
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            33,
+            32
+          ],
+          "value105": 24776113141827
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 33,
+          "profile105": [
+            41,
+            32,
+            32
+          ],
+          "value105": 24753153438179
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 32,
+          "profile105": [
+            41,
+            33,
+            31
+          ],
+          "value105": 24782055305860
+        }
+      ],
+      "unfloored": 2625700472062334,
+      "floor1000000": 2625700472
+    },
+    {
+      "profile106": [
+        41,
+        34,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            34,
+            31
+          ],
+          "value105": 24807841912310
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            41,
+            33,
+            31
+          ],
+          "value105": 24782055305860
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            41,
+            34,
+            30
+          ],
+          "value105": 24777087724083
+        }
+      ],
+      "unfloored": 2627801118250523,
+      "floor1000000": 2627801118
+    },
+    {
+      "profile106": [
+        41,
+        35,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            35,
+            30
+          ],
+          "value105": 24801935355515
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            41,
+            34,
+            30
+          ],
+          "value105": 24777087724083
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            41,
+            35,
+            29
+          ],
+          "value105": 24727582928186
+        }
+      ],
+      "unfloored": 2625904907764600,
+      "floor1000000": 2625904907
+    },
+    {
+      "profile106": [
+        41,
+        36,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            36,
+            29
+          ],
+          "value105": 24751313308174
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            41,
+            35,
+            29
+          ],
+          "value105": 24727582928186
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            41,
+            36,
+            28
+          ],
+          "value105": 24668211726226
+        }
+      ],
+      "unfloored": 2620374971110384,
+      "floor1000000": 2620374971
+    },
+    {
+      "profile106": [
+        41,
+        37,
+        28
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            37,
+            28
+          ],
+          "value105": 24696563086418
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            41,
+            36,
+            28
+          ],
+          "value105": 24668211726226
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 28,
+          "profile105": [
+            41,
+            37,
+            27
+          ],
+          "value105": 24610334187078
+        }
+      ],
+      "unfloored": 2614372277651684,
+      "floor1000000": 2614372277
+    },
+    {
+      "profile106": [
+        41,
+        38,
+        27
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            38,
+            27
+          ],
+          "value105": 24625358211095
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            41,
+            37,
+            27
+          ],
+          "value105": 24610334187078
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 27,
+          "profile105": [
+            41,
+            38,
+            26
+          ],
+          "value105": 24514644450037
+        }
+      ],
+      "unfloored": 2606727785914858,
+      "floor1000000": 2606727785
+    },
+    {
+      "profile106": [
+        41,
+        39,
+        26
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            39,
+            26
+          ],
+          "value105": 24549060275983
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            41,
+            38,
+            26
+          ],
+          "value105": 24514644450037
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 26,
+          "profile105": [
+            41,
+            39,
+            25
+          ],
+          "value105": 24435688816423
+        }
+      ],
+      "unfloored": 2597910514093744,
+      "floor1000000": 2597910514
+    },
+    {
+      "profile106": [
+        41,
+        40,
+        25
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            40,
+            40,
+            25
+          ],
+          "value105": 24455842304127
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 40,
+          "profile105": [
+            41,
+            39,
+            25
+          ],
+          "value105": 24435688816423
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 25,
+          "profile105": [
+            41,
+            40,
+            24
+          ],
+          "value105": 24342893813376
+        }
+      ],
+      "unfloored": 2588689432460527,
+      "floor1000000": 2588689432
+    },
+    {
+      "profile106": [
+        41,
+        41,
+        24
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 41,
+          "profile105": [
+            41,
+            40,
+            24
+          ],
+          "value105": 24342893813376
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 41,
+          "profile105": [
+            41,
+            40,
+            24
+          ],
+          "value105": 24342893813376
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 24,
+          "profile105": [
+            41,
+            41,
+            23
+          ],
+          "value105": 24230642981445
+        }
+      ],
+      "unfloored": 2577652724251512,
+      "floor1000000": 2577652724
+    },
+    {
+      "profile106": [
+        42,
+        32,
+        32
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            32,
+            32
+          ],
+          "value105": 24753153438179
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 32,
+          "profile105": [
+            42,
+            32,
+            31
+          ],
+          "value105": 24747242566235
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 32,
+          "profile105": [
+            42,
+            32,
+            31
+          ],
+          "value105": 24747242566235
+        }
+      ],
+      "unfloored": 2623455968642558,
+      "floor1000000": 2623455968
+    },
+    {
+      "profile106": [
+        42,
+        33,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            33,
+            31
+          ],
+          "value105": 24782055305860
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 33,
+          "profile105": [
+            42,
+            32,
+            31
+          ],
+          "value105": 24747242566235
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            42,
+            33,
+            30
+          ],
+          "value105": 24741134268083
+        }
+      ],
+      "unfloored": 2624480489842448,
+      "floor1000000": 2624480489
+    },
+    {
+      "profile106": [
+        42,
+        34,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            34,
+            30
+          ],
+          "value105": 24777087724083
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            42,
+            33,
+            30
+          ],
+          "value105": 24741134268083
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            42,
+            34,
+            29
+          ],
+          "value105": 24698357173557
+        }
+      ],
+      "unfloored": 2622786964733018,
+      "floor1000000": 2622786964
+    },
+    {
+      "profile106": [
+        42,
+        35,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            35,
+            29
+          ],
+          "value105": 24727582928186
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            42,
+            34,
+            29
+          ],
+          "value105": 24698357173557
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            42,
+            35,
+            28
+          ],
+          "value105": 24608392996489
+        }
+      ],
+      "unfloored": 2616644380956488,
+      "floor1000000": 2616644380
+    },
+    {
+      "profile106": [
+        42,
+        36,
+        28
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            36,
+            28
+          ],
+          "value105": 24668211726226
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            42,
+            35,
+            28
+          ],
+          "value105": 24608392996489
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 28,
+          "profile105": [
+            42,
+            36,
+            27
+          ],
+          "value105": 24592793092901
+        }
+      ],
+      "unfloored": 2610565246976324,
+      "floor1000000": 2610565246
+    },
+    {
+      "profile106": [
+        42,
+        37,
+        27
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            37,
+            27
+          ],
+          "value105": 24610334187078
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            42,
+            36,
+            27
+          ],
+          "value105": 24592793092901
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 27,
+          "profile105": [
+            42,
+            37,
+            26
+          ],
+          "value105": 24495789948776
+        }
+      ],
+      "unfloored": 2604953708911565,
+      "floor1000000": 2604953708
+    },
+    {
+      "profile106": [
+        42,
+        38,
+        26
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            38,
+            26
+          ],
+          "value105": 24514644450037
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            42,
+            37,
+            26
+          ],
+          "value105": 24495789948776
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 26,
+          "profile105": [
+            42,
+            38,
+            25
+          ],
+          "value105": 24375032615794
+        }
+      ],
+      "unfloored": 2594205932965686,
+      "floor1000000": 2594205932
+    },
+    {
+      "profile106": [
+        42,
+        39,
+        25
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            39,
+            25
+          ],
+          "value105": 24435688816423
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            42,
+            38,
+            25
+          ],
+          "value105": 24375032615794
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 25,
+          "profile105": [
+            42,
+            39,
+            24
+          ],
+          "value105": 24297822398400
+        }
+      ],
+      "unfloored": 2584370762265732,
+      "floor1000000": 2584370762
+    },
+    {
+      "profile106": [
+        42,
+        40,
+        24
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            40,
+            24
+          ],
+          "value105": 24342893813376
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 40,
+          "profile105": [
+            42,
+            39,
+            24
+          ],
+          "value105": 24297822398400
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 24,
+          "profile105": [
+            42,
+            40,
+            23
+          ],
+          "value105": 24206992674786
+        }
+      ],
+      "unfloored": 2575282260292656,
+      "floor1000000": 2575282260
+    },
+    {
+      "profile106": [
+        42,
+        41,
+        23
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            41,
+            41,
+            23
+          ],
+          "value105": 24230642981445
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 41,
+          "profile105": [
+            42,
+            40,
+            23
+          ],
+          "value105": 24206992674786
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 23,
+          "profile105": [
+            42,
+            41,
+            22
+          ],
+          "value105": 24090026912153
+        }
+      ],
+      "unfloored": 2564244323866435,
+      "floor1000000": 2564244323
+    },
+    {
+      "profile106": [
+        42,
+        42,
+        22
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 42,
+          "profile105": [
+            42,
+            41,
+            22
+          ],
+          "value105": 24090026912153
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 42,
+          "profile105": [
+            42,
+            41,
+            22
+          ],
+          "value105": 24090026912153
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 22,
+          "profile105": [
+            42,
+            42,
+            21
+          ],
+          "value105": 23965500428291
+        }
+      ],
+      "unfloored": 2550803270043254,
+      "floor1000000": 2550803270
+    },
+    {
+      "profile106": [
+        43,
+        32,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            32,
+            31
+          ],
+          "value105": 24747242566235
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 32,
+          "profile105": [
+            43,
+            31,
+            31
+          ],
+          "value105": 24678292185657
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            43,
+            32,
+            30
+          ],
+          "value105": 24694074987515
+        }
+      ],
+      "unfloored": 2619353104902094,
+      "floor1000000": 2619353104
+    },
+    {
+      "profile106": [
+        43,
+        33,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            33,
+            30
+          ],
+          "value105": 24741134268083
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 33,
+          "profile105": [
+            43,
+            32,
+            30
+          ],
+          "value105": 24694074987515
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            43,
+            33,
+            29
+          ],
+          "value105": 24661004650414
+        }
+      ],
+      "unfloored": 2618603387627984,
+      "floor1000000": 2618603387
+    },
+    {
+      "profile106": [
+        43,
+        34,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            34,
+            29
+          ],
+          "value105": 24698357173557
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            43,
+            33,
+            29
+          ],
+          "value105": 24661004650414
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            43,
+            34,
+            28
+          ],
+          "value105": 24590109235333
+        }
+      ],
+      "unfloored": 2613616684401684,
+      "floor1000000": 2613616684
+    },
+    {
+      "profile106": [
+        43,
+        35,
+        28
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            35,
+            28
+          ],
+          "value105": 24608392996489
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            43,
+            34,
+            28
+          ],
+          "value105": 24590109235333
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 28,
+          "profile105": [
+            43,
+            35,
+            27
+          ],
+          "value105": 24632501193989
+        }
+      ],
+      "unfloored": 2608524755517374,
+      "floor1000000": 2608524755
+    },
+    {
+      "profile106": [
+        43,
+        36,
+        27
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            36,
+            27
+          ],
+          "value105": 24592793092901
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            43,
+            35,
+            27
+          ],
+          "value105": 24632501193989
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 27,
+          "profile105": [
+            43,
+            36,
+            26
+          ],
+          "value105": 24522372174700
+        }
+      ],
+      "unfloored": 2606364194695247,
+      "floor1000000": 2606364194
+    },
+    {
+      "profile106": [
+        43,
+        37,
+        26
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            37,
+            26
+          ],
+          "value105": 24495789948776
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            43,
+            36,
+            26
+          ],
+          "value105": 24522372174700
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 26,
+          "profile105": [
+            43,
+            37,
+            25
+          ],
+          "value105": 24399564360147
+        }
+      ],
+      "unfloored": 2595035411625090,
+      "floor1000000": 2595035411
+    },
+    {
+      "profile106": [
+        43,
+        38,
+        25
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            38,
+            25
+          ],
+          "value105": 24375032615794
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            43,
+            37,
+            25
+          ],
+          "value105": 24399564360147
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 25,
+          "profile105": [
+            43,
+            38,
+            24
+          ],
+          "value105": 24211980591910
+        }
+      ],
+      "unfloored": 2580609362962478,
+      "floor1000000": 2580609362
+    },
+    {
+      "profile106": [
+        43,
+        39,
+        24
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            39,
+            24
+          ],
+          "value105": 24297822398400
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            43,
+            38,
+            24
+          ],
+          "value105": 24211980591910
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 24,
+          "profile105": [
+            43,
+            39,
+            23
+          ],
+          "value105": 24133410606946
+        }
+      ],
+      "unfloored": 2568275460782394,
+      "floor1000000": 2568275460
+    },
+    {
+      "profile106": [
+        43,
+        40,
+        23
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            40,
+            23
+          ],
+          "value105": 24206992674786
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 40,
+          "profile105": [
+            43,
+            39,
+            23
+          ],
+          "value105": 24133410606946
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 23,
+          "profile105": [
+            43,
+            40,
+            22
+          ],
+          "value105": 24041961453487
+        }
+      ],
+      "unfloored": 2559202222723839,
+      "floor1000000": 2559202222
+    },
+    {
+      "profile106": [
+        43,
+        41,
+        22
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            41,
+            22
+          ],
+          "value105": 24090026912153
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 41,
+          "profile105": [
+            43,
+            40,
+            22
+          ],
+          "value105": 24041961453487
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 22,
+          "profile105": [
+            43,
+            41,
+            21
+          ],
+          "value105": 23936519531571
+        }
+      ],
+      "unfloored": 2548195006510108,
+      "floor1000000": 2548195006
+    },
+    {
+      "profile106": [
+        43,
+        42,
+        21
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            42,
+            42,
+            21
+          ],
+          "value105": 23965500428291
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 42,
+          "profile105": [
+            43,
+            41,
+            21
+          ],
+          "value105": 23936519531571
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 21,
+          "profile105": [
+            43,
+            42,
+            20
+          ],
+          "value105": 23828251245227
+        }
+      ],
+      "unfloored": 2536243614892262,
+      "floor1000000": 2536243614
+    },
+    {
+      "profile106": [
+        43,
+        43,
+        20
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 43,
+          "profile105": [
+            43,
+            42,
+            20
+          ],
+          "value105": 23828251245227
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 43,
+          "profile105": [
+            43,
+            42,
+            20
+          ],
+          "value105": 23828251245227
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 20,
+          "profile105": [
+            43,
+            43,
+            19
+          ],
+          "value105": 23695010210590
+        }
+      ],
+      "unfloored": 2523129811301322,
+      "floor1000000": 2523129811
+    },
+    {
+      "profile106": [
+        44,
+        31,
+        31
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            31,
+            31
+          ],
+          "value105": 24678292185657
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 31,
+          "profile105": [
+            44,
+            31,
+            30
+          ],
+          "value105": 24635909882380
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 31,
+          "profile105": [
+            44,
+            31,
+            30
+          ],
+          "value105": 24635909882380
+        }
+      ],
+      "unfloored": 2613271268876468,
+      "floor1000000": 2613271268
+    },
+    {
+      "profile106": [
+        44,
+        32,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            32,
+            30
+          ],
+          "value105": 24694074987515
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 32,
+          "profile105": [
+            44,
+            31,
+            30
+          ],
+          "value105": 24635909882380
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            44,
+            32,
+            29
+          ],
+          "value105": 24610743912433
+        }
+      ],
+      "unfloored": 2613210733059810,
+      "floor1000000": 2613210733
+    },
+    {
+      "profile106": [
+        44,
+        33,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            33,
+            29
+          ],
+          "value105": 24661004650414
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 33,
+          "profile105": [
+            44,
+            32,
+            29
+          ],
+          "value105": 24610743912433
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            44,
+            33,
+            28
+          ],
+          "value105": 24534009825544
+        }
+      ],
+      "unfloored": 2608725038669281,
+      "floor1000000": 2608725038
+    },
+    {
+      "profile106": [
+        44,
+        35,
+        27
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            35,
+            27
+          ],
+          "value105": 24632501193989
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            44,
+            34,
+            27
+          ],
+          "value105": 24536989268148
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 27,
+          "profile105": [
+            44,
+            35,
+            26
+          ],
+          "value105": 24404994731758
+        }
+      ],
+      "unfloored": 2601559534678162,
+      "floor1000000": 2601559534
+    },
+    {
+      "profile106": [
+        44,
+        36,
+        26
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            36,
+            26
+          ],
+          "value105": 24522372174700
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            44,
+            35,
+            26
+          ],
+          "value105": 24404994731758
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 26,
+          "profile105": [
+            44,
+            36,
+            25
+          ],
+          "value105": 24361893828018
+        }
+      ],
+      "unfloored": 2590973425558556,
+      "floor1000000": 2590973425
+    },
+    {
+      "profile106": [
+        44,
+        37,
+        25
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            37,
+            25
+          ],
+          "value105": 24399564360147
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            44,
+            36,
+            25
+          ],
+          "value105": 24361893828018
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 25,
+          "profile105": [
+            44,
+            37,
+            24
+          ],
+          "value105": 24216325837037
+        }
+      ],
+      "unfloored": 2580379049409059,
+      "floor1000000": 2580379049
+    },
+    {
+      "profile106": [
+        44,
+        38,
+        24
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            38,
+            24
+          ],
+          "value105": 24211980591910
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            44,
+            37,
+            24
+          ],
+          "value105": 24216325837037
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 24,
+          "profile105": [
+            44,
+            38,
+            23
+          ],
+          "value105": 24038531294437
+        }
+      ],
+      "unfloored": 2562472278917934,
+      "floor1000000": 2562472278
+    },
+    {
+      "profile106": [
+        44,
+        39,
+        23
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            39,
+            23
+          ],
+          "value105": 24133410606946
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            44,
+            38,
+            23
+          ],
+          "value105": 24038531294437
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 23,
+          "profile105": [
+            44,
+            39,
+            22
+          ],
+          "value105": 23979894870294
+        }
+      ],
+      "unfloored": 2550910369205429,
+      "floor1000000": 2550910369
+    },
+    {
+      "profile106": [
+        44,
+        40,
+        22
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            40,
+            22
+          ],
+          "value105": 24041961453487
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 40,
+          "profile105": [
+            44,
+            39,
+            22
+          ],
+          "value105": 23979894870294
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 22,
+          "profile105": [
+            44,
+            40,
+            21
+          ],
+          "value105": 23925356033818
+        }
+      ],
+      "unfloored": 2543399931509184,
+      "floor1000000": 2543399931
+    },
+    {
+      "profile106": [
+        44,
+        41,
+        21
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            41,
+            21
+          ],
+          "value105": 23936519531571
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 41,
+          "profile105": [
+            44,
+            40,
+            21
+          ],
+          "value105": 23925356033818
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 21,
+          "profile105": [
+            44,
+            41,
+            20
+          ],
+          "value105": 23769539033131
+        }
+      ],
+      "unfloored": 2533306776471413,
+      "floor1000000": 2533306776
+    },
+    {
+      "profile106": [
+        44,
+        42,
+        20
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            42,
+            20
+          ],
+          "value105": 23828251245227
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 42,
+          "profile105": [
+            44,
+            41,
+            20
+          ],
+          "value105": 23769539033131
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 20,
+          "profile105": [
+            44,
+            42,
+            19
+          ],
+          "value105": 23672197234311
+        }
+      ],
+      "unfloored": 2520207638867710,
+      "floor1000000": 2520207638
+    },
+    {
+      "profile106": [
+        44,
+        43,
+        19
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 44,
+          "profile105": [
+            43,
+            43,
+            19
+          ],
+          "value105": 23695010210590
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 43,
+          "profile105": [
+            44,
+            42,
+            19
+          ],
+          "value105": 23672197234311
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 19,
+          "profile105": [
+            44,
+            43,
+            18
+          ],
+          "value105": 23584112171501
+        }
+      ],
+      "unfloored": 2508583061599852,
+      "floor1000000": 2508583061
+    },
+    {
+      "profile106": [
+        45,
+        31,
+        30
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            31,
+            30
+          ],
+          "value105": 24635909882380
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 31,
+          "profile105": [
+            45,
+            30,
+            30
+          ],
+          "value105": 24511463167976
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 30,
+          "profile105": [
+            45,
+            31,
+            29
+          ],
+          "value105": 24510075715223
+        }
+      ],
+      "unfloored": 2603773574371046,
+      "floor1000000": 2603773574
+    },
+    {
+      "profile106": [
+        45,
+        32,
+        29
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            32,
+            29
+          ],
+          "value105": 24610743912433
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 32,
+          "profile105": [
+            45,
+            31,
+            29
+          ],
+          "value105": 24510075715223
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 29,
+          "profile105": [
+            45,
+            32,
+            28
+          ],
+          "value105": 24481332695123
+        }
+      ],
+      "unfloored": 2601764547105188,
+      "floor1000000": 2601764547
+    },
+    {
+      "profile106": [
+        45,
+        34,
+        27
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            34,
+            27
+          ],
+          "value105": 24536989268148
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 34,
+          "profile105": [
+            45,
+            33,
+            27
+          ],
+          "value105": 24446451732618
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 27,
+          "profile105": [
+            45,
+            34,
+            26
+          ],
+          "value105": 24415686942202
+        }
+      ],
+      "unfloored": 2594567423415126,
+      "floor1000000": 2594567423
+    },
+    {
+      "profile106": [
+        45,
+        35,
+        26
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            35,
+            26
+          ],
+          "value105": 24404994731758
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 35,
+          "profile105": [
+            45,
+            34,
+            26
+          ],
+          "value105": 24415686942202
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 26,
+          "profile105": [
+            45,
+            35,
+            25
+          ],
+          "value105": 24264260938135
+        }
+      ],
+      "unfloored": 2583644590297690,
+      "floor1000000": 2583644590
+    },
+    {
+      "profile106": [
+        45,
+        36,
+        25
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            36,
+            25
+          ],
+          "value105": 24361893828018
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 36,
+          "profile105": [
+            45,
+            35,
+            25
+          ],
+          "value105": 24264260938135
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 25,
+          "profile105": [
+            45,
+            36,
+            24
+          ],
+          "value105": 24226489562481
+        }
+      ],
+      "unfloored": 2575460855095695,
+      "floor1000000": 2575460855
+    },
+    {
+      "profile106": [
+        45,
+        37,
+        24
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            37,
+            24
+          ],
+          "value105": 24216325837037
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 37,
+          "profile105": [
+            45,
+            36,
+            24
+          ],
+          "value105": 24226489562481
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 24,
+          "profile105": [
+            45,
+            37,
+            23
+          ],
+          "value105": 23969205811091
+        }
+      ],
+      "unfloored": 2561375715944646,
+      "floor1000000": 2561375715
+    },
+    {
+      "profile106": [
+        45,
+        38,
+        23
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            38,
+            23
+          ],
+          "value105": 24038531294437
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 38,
+          "profile105": [
+            45,
+            37,
+            23
+          ],
+          "value105": 23969205811091
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 23,
+          "profile105": [
+            45,
+            38,
+            22
+          ],
+          "value105": 23906302740548
+        }
+      ],
+      "unfloored": 2542408692103727,
+      "floor1000000": 2542408692
+    },
+    {
+      "profile106": [
+        45,
+        39,
+        22
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            39,
+            22
+          ],
+          "value105": 23979894870294
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 39,
+          "profile105": [
+            45,
+            38,
+            22
+          ],
+          "value105": 23906302740548
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 22,
+          "profile105": [
+            45,
+            39,
+            21
+          ],
+          "value105": 23836422428010
+        }
+      ],
+      "unfloored": 2535842369460822,
+      "floor1000000": 2535842369
+    },
+    {
+      "profile106": [
+        45,
+        40,
+        21
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            40,
+            21
+          ],
+          "value105": 23925356033818
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 40,
+          "profile105": [
+            45,
+            39,
+            21
+          ],
+          "value105": 23836422428010
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 21,
+          "profile105": [
+            45,
+            40,
+            20
+          ],
+          "value105": 23819802787483
+        }
+      ],
+      "unfloored": 2530313777179353,
+      "floor1000000": 2530313777
+    },
+    {
+      "profile106": [
+        45,
+        41,
+        20
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            41,
+            20
+          ],
+          "value105": 23769539033131
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 41,
+          "profile105": [
+            45,
+            40,
+            20
+          ],
+          "value105": 23819802787483
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 20,
+          "profile105": [
+            45,
+            41,
+            19
+          ],
+          "value105": 23624955197998
+        }
+      ],
+      "unfloored": 2518740274737658,
+      "floor1000000": 2518740274
+    },
+    {
+      "profile106": [
+        45,
+        42,
+        19
+      ],
+      "terms": [
+        {
+          "physical_section": 0,
+          "multiplicity": 45,
+          "profile105": [
+            44,
+            42,
+            19
+          ],
+          "value105": 23672197234311
+        },
+        {
+          "physical_section": 1,
+          "multiplicity": 42,
+          "profile105": [
+            45,
+            41,
+            19
+          ],
+          "value105": 23624955197998
+        },
+        {
+          "physical_section": 2,
+          "multiplicity": 19,
+          "profile105": [
+            45,
+            42,
+            18
+          ],
+          "value105": 23537292290909
+        }
+      ],
+      "unfloored": 2504705547387182,
+      "floor1000000": 2504705547
+    }
+  ],
+  "NC_preservation_premise": "accepted103extensionrigidity"
+}

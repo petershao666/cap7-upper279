@@ -1,0 +1,132 @@
+{
+  "status": "PASS_STATIC_SOURCE_UNION_AND_SOURCE_IDENTITIES",
+  "logical_status": "PASS_WITH_EXPLICIT_PUBLISHED_PREMISES",
+  "candidate_sha256": "9dc0610051533cdad6ad98ac05f9ef32c9d0bc1a787283b1aced1a650f7c2584",
+  "candidate_frozen_sha256": "bdb0d9d77bfbe5846f9f92d35c4be9077f1e4e0df0c1b85a48a59ba5b8a9122d",
+  "frozen_packet_files_checked": 15,
+  "snapshot_source_hashes_checked": 13,
+  "family_occurrences": {
+    "41A": 1,
+    "41B": 1,
+    "41C": 1,
+    "41D": 1,
+    "41E": 1,
+    "41F": 1,
+    "41G": 1,
+    "41H": 1,
+    "41I": 1,
+    "45_minus4": 27,
+    "Delta686_minus1": 2,
+    "all_20201_41_caps": 1,
+    "raw_exceptional_overcover": 41
+  },
+  "all_13_alternatives_present": true,
+  "family_multisets_preserved": true,
+  "source_occurrences": 80,
+  "distinct_histograms": 44,
+  "formal_types": 40,
+  "absent_types": [
+    [
+      19,
+      11,
+      11
+    ],
+    [
+      19,
+      12,
+      10
+    ],
+    [
+      19,
+      13,
+      9
+    ],
+    [
+      19,
+      14,
+      8
+    ],
+    [
+      19,
+      15,
+      7
+    ],
+    [
+      19,
+      18,
+      4
+    ],
+    [
+      19,
+      19,
+      3
+    ],
+    [
+      20,
+      11,
+      10
+    ],
+    [
+      20,
+      12,
+      9
+    ],
+    [
+      20,
+      13,
+      8
+    ],
+    [
+      20,
+      14,
+      7
+    ],
+    [
+      20,
+      17,
+      4
+    ],
+    [
+      20,
+      18,
+      3
+    ],
+    [
+      20,
+      19,
+      2
+    ]
+  ],
+  "all_nine_named_table2_checks": true,
+  "delta_deletion_indices_partition_42": true,
+  "four_deletion_total": 148995,
+  "source_files": {
+    "root_audit/exceptional41_raw/ACCEPTED_RAW_HISTOGRAMS.json": "3a4f1dde2c03ff36a76b2114cad87bcadc151f448e666e71876b2f6372c1909f",
+    "hist105106/h20_20201/histograms41.json": "74c4e1c900b519edc1124dbb2bc49c04dddd1845bbbfd6de74baacf1e19b4011",
+    "hist105106/h9/named_points.json": "22c3ef1306e7c3d83f077b389103ad35c728f3d13eb88429fd108051ff2b2a63",
+    "root_audit/named41_pdf/ACCEPTED_POINTS.json": "74eb0d0faf4b458dcb2b3c5b9b69f0429bb5ceffeca2aad97e834dfb67b4aeb1",
+    "root_audit/fortyfive/ACCEPTED_FOUR_DELETE_HISTOGRAMS.json": "2a879bb9dd430ba72b3e6921a412a2263d128a83ec75a6de7c811ccf06e0f219",
+    "hist105106/h9/named_histograms.json": "d4fd5f2927cf2e9ad3559998651a6496771535d293d2ace09495ff3a0b69b8ab",
+    "root_audit/complete20201/ACCEPTED_HISTOGRAM.json": "0f87e4aa68df464e92ccdceecf971392d69257c1c1e823ef6a3d9263543b0031",
+    "hist105106/h13/source_article.html": "1382f2b23698b0aea3ec1ceeb4999e9ae46aeee5c542fd5f200ce98caeaa46d1",
+    "root_potential/named41_45_source/EPS_POINTS.json": "964763f4c3d4c878847cece1302a357fc9294c5a218815ae565fa9b486daae4e",
+    "root_audit/fortyfive/ACCEPTED_POINTS.json": "f6d8bad31f3250d88f65e326e68e2e5404a11a1d2d93ca90a0fad352aab26980",
+    "root_audit/h9_named_independent.json": "0f34175cbe15ddab038731b60420ba693f39e9609f63f6049be821f855962257",
+    "hist105106/fullraw41/INDEPENDENT_COMPARISON.json": "5122d6d39a805bf732cbd1513103d6c29b5ab71d35063dbf8f6a5daf3f2f08be",
+    "compatibility/exceptional41_decode/INDEPENDENT_COMPARISON.json": "3135e6f34b18139c71a5e7260a3d0f9272566c71005f59c93692ee58ec34bd25",
+    "root_potential/named41_45_source/CapSetProblem5S41.tex": "99eee693a8af9df305a240b2a475b87a57bedde1545c990f749bef17cd76d40c",
+    "compatibility/exceptional41_source/COVERAGE_MAP.md": "bc12225fea742cafb9a013b2cf2bc04a8476ee967a2beebe91fc8ecc4e0efc0b",
+    "compatibility/exceptional41_source/RAW_AMENDMENT.md": "916aa472607e08167a2a672b907b07d916e02042a1d33ce738e64826f2aa4411",
+    "compatibility/exceptional41_source/RAW_SUMMARY_MATCH.json": "b795b6790dd2786bd8eef7e5d29219581c44973b14accd5137fa106e1d767f13",
+    "compatibility/exceptional41_decode/PROOF_AND_VERIFICATION.md": "691e090168c3ddb10b76deeaf3058a1f3f0352f18bc41b0b8bac7040787a5294",
+    "root_audit/exceptional41_raw/SOURCE_MANIFEST.json": "60ce8f868c8c03b0aaf58b93c6eb968d3d5f3d9e72cc234333685486a46db964",
+    "root_audit/exceptional41_raw/ROOT_VERIFICATION.json": "bed582a93f8f17dca3677d30666da58115734c8a0a7edb2e2a6ce55f9aeb9be8",
+    "root_audit/exceptional41_raw/Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "fadaa04086ca80c94a4614e312cb94ff21eea81a142320e8e8d635133adaaedc",
+    "root_audit/exceptional41_raw/Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "55e3a7eb2980c10096f38199e7834631d711a296a14826903afd7fc7e474641a"
+  },
+  "code_sha256": "f4fdb8d3cee9ecc2a72fc8fdb5a95cb4d4b8d7667e4e5f84db27b76dbe867c5d",
+  "seconds": 0.03619166603311896,
+  "LP_runs": 0,
+  "geometric_enumerations": 0,
+  "independence": "New static set/multiset and source-hash implementation; no H/L/root kernel imported. Accepted histogram tables and published classification/list completeness are shared premises. Not an independent point replay or reproduction of the author search."
+}

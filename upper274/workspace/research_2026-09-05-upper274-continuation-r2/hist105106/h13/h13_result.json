@@ -1,0 +1,8384 @@
+{
+  "target": [
+    106,
+    106,
+    63
+  ],
+  "empty_cases": [
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          6
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          6
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        0,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        1,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        2,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        3,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        5,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        9,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          4,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        0,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        1,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        2,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        3,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        5,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        6,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        7,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        9,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          4,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        10,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        13,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        0,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        2,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        3,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        5,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        6,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        7,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        9,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          4,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        13,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        0,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        1,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        2,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        3,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        5,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        6,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        7,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        9,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          4,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        10,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        13,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        0,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        1,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        2,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        3,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        5,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        6,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        7,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          2,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        8,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        10,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        11,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        12,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        13,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        14,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        12,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        13,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        14,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        15,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        16,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        17,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        0,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        1,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        2,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        3,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        5,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        6,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        7,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          2,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        8,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        9,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          4,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        10,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        11,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        12,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        13,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          1,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        14,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        16,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        19,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        10,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        11,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        12,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        13,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        14,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        15,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        16,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        17,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        0,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        1,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        2,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        3,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          1,
+          3
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        4,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          6
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        5,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        6,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        7,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          2,
+          0,
+          2
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        8,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        9,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          4,
+          0,
+          4
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        10,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        11,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        12,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        13,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          1,
+          0
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        14,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          2,
+          10
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        15,
+        null
+      ],
+      "state18": [
+        null,
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        19,
+        1
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        20,
+        0
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ]
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        17,
+        4
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        17,
+        4
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        16,
+        5
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "counts": [
+    {
+      "m": 40,
+      "type": [
+        14,
+        13,
+        13
+      ],
+      "count": 6649
+    },
+    {
+      "m": 40,
+      "type": [
+        14,
+        14,
+        12
+      ],
+      "count": 6002
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        13,
+        12
+      ],
+      "count": 5466
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        14,
+        11
+      ],
+      "count": 4358
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        15,
+        10
+      ],
+      "count": 3434
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        12,
+        12
+      ],
+      "count": 3304
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        13,
+        11
+      ],
+      "count": 2777
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        14,
+        10
+      ],
+      "count": 2043
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        15,
+        9
+      ],
+      "count": 1424
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        16,
+        8
+      ],
+      "count": 820
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        12,
+        11
+      ],
+      "count": 1106
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        13,
+        10
+      ],
+      "count": 743
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        14,
+        9
+      ],
+      "count": 450
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        15,
+        8
+      ],
+      "count": 207
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        16,
+        7
+      ],
+      "count": 81
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        17,
+        6
+      ],
+      "count": 51
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 111
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 111
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 141
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 124
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 76
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 111
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 56
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 141
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 90
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 123
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 120
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 63
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 69
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 76
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 125
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 114
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 67
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 60
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 125
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 91
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 107
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 89
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 114
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 60
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 63
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "count": 64
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 29
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 29
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 37
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 38
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 18
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 29
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 18
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 37
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 30
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 30
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 27
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 38
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 15
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 27
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 24
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 16
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "count": 24
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        11,
+        10
+      ],
+      "count": 5
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "count": 2
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        20,
+        1
+      ],
+      "count": 10
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 75
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 139
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 609
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 195
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 195
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 330
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 540
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 55
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 876
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 470
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "count": 697
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        16,
+        5
+      ],
+      "count": 53
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "count": 286
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "count": 135
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "count": 137
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "count": 312
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1989
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1989
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 2096
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 2150
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1134
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1989
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1855
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 2096
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1570
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1632
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1427
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1677
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1116
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 2016
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 1277
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 868
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "count": 981
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2314
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2378
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1290
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2116
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2314
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1774
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1823
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1602
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1851
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1283
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 2257
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1424
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1002
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "count": 1087
+    },
+    {
+      "m": 106,
+      "type": [
+        41,
+        41,
+        24
+      ],
+      "count": 25747
+    },
+    {
+      "m": 106,
+      "type": [
+        42,
+        41,
+        23
+      ],
+      "count": 16010
+    },
+    {
+      "m": 106,
+      "type": [
+        42,
+        42,
+        22
+      ],
+      "count": 9959
+    },
+    {
+      "m": 106,
+      "type": [
+        43,
+        40,
+        23
+      ],
+      "count": 8038
+    },
+    {
+      "m": 106,
+      "type": [
+        43,
+        41,
+        22
+      ],
+      "count": 7690
+    },
+    {
+      "m": 106,
+      "type": [
+        43,
+        42,
+        21
+      ],
+      "count": 4908
+    },
+    {
+      "m": 106,
+      "type": [
+        43,
+        43,
+        20
+      ],
+      "count": 2011
+    },
+    {
+      "m": 106,
+      "type": [
+        44,
+        40,
+        22
+      ],
+      "count": 4196
+    },
+    {
+      "m": 106,
+      "type": [
+        44,
+        41,
+        21
+      ],
+      "count": 4036
+    },
+    {
+      "m": 106,
+      "type": [
+        44,
+        42,
+        20
+      ],
+      "count": 2568
+    },
+    {
+      "m": 106,
+      "type": [
+        44,
+        43,
+        19
+      ],
+      "count": 1056
+    },
+    {
+      "m": 106,
+      "type": [
+        45,
+        40,
+        21
+      ],
+      "count": 3580
+    },
+    {
+      "m": 106,
+      "type": [
+        45,
+        41,
+        20
+      ],
+      "count": 3376
+    },
+    {
+      "m": 106,
+      "type": [
+        45,
+        42,
+        19
+      ],
+      "count": 2168
+    }
+  ],
+  "outer_count": 2460769,
+  "iterations": 33,
+  "numerical_status": "COMPLETE_PARALLEL18_STATE40_NO_POSITIVE_DUAL",
+  "claim": "NO_NEW_MATH",
+  "elapsed": 113.02232320886105,
+  "history": [
+    {
+      "iteration": 0,
+      "rows": 2040,
+      "delta": 2.38593723979862,
+      "inner_min": -6.41964850531615,
+      "outer_min": [
+        -1.773448593016075
+      ]
+    },
+    {
+      "iteration": 1,
+      "rows": 3872,
+      "delta": 1.269806382775029,
+      "inner_min": -3.679514800584544,
+      "outer_min": [
+        -2.8505712343945104
+      ]
+    },
+    {
+      "iteration": 2,
+      "rows": 5395,
+      "delta": 0.9787654442489209,
+      "inner_min": -3.1108662594715173,
+      "outer_min": [
+        -3.0055974706902884
+      ]
+    },
+    {
+      "iteration": 3,
+      "rows": 6421,
+      "delta": 0.5475153296675203,
+      "inner_min": -3.8021548368163036,
+      "outer_min": [
+        -3.411843681889351
+      ]
+    },
+    {
+      "iteration": 4,
+      "rows": 7691,
+      "delta": 0.1965879907031846,
+      "inner_min": -1.9053159357064382,
+      "outer_min": [
+        -3.958281414699857
+      ]
+    },
+    {
+      "iteration": 5,
+      "rows": 8945,
+      "delta": 0.10607186132853401,
+      "inner_min": -1.6488711878866558,
+      "outer_min": [
+        -3.418032544692454
+      ]
+    },
+    {
+      "iteration": 6,
+      "rows": 10126,
+      "delta": 0.09325022868667723,
+      "inner_min": -0.9234125076068016,
+      "outer_min": [
+        -3.720741539105611
+      ]
+    },
+    {
+      "iteration": 7,
+      "rows": 11007,
+      "delta": 0.07621087890297412,
+      "inner_min": -1.0807864377579244,
+      "outer_min": [
+        -3.426801454960505
+      ]
+    },
+    {
+      "iteration": 8,
+      "rows": 12138,
+      "delta": 0.0497894363257575,
+      "inner_min": -1.8317962896543245,
+      "outer_min": [
+        -2.7207048823149913
+      ]
+    },
+    {
+      "iteration": 9,
+      "rows": 13111,
+      "delta": 0.0418865143835792,
+      "inner_min": -0.521588623747677,
+      "outer_min": [
+        -3.3799550209871576
+      ]
+    },
+    {
+      "iteration": 10,
+      "rows": 13676,
+      "delta": 0.0414772960306316,
+      "inner_min": -0.531983186271896,
+      "outer_min": [
+        -3.34799268012365
+      ]
+    },
+    {
+      "iteration": 11,
+      "rows": 14043,
+      "delta": 0.04052001047130493,
+      "inner_min": -0.7437046337532887,
+      "outer_min": [
+        -3.373778776084193
+      ]
+    },
+    {
+      "iteration": 12,
+      "rows": 14380,
+      "delta": 0.03970543168696048,
+      "inner_min": -0.34848057429538626,
+      "outer_min": [
+        -2.555562140590725
+      ]
+    },
+    {
+      "iteration": 13,
+      "rows": 14761,
+      "delta": 0.03310670144143803,
+      "inner_min": -0.1616323276338515,
+      "outer_min": [
+        -1.248310339452646
+      ]
+    },
+    {
+      "iteration": 14,
+      "rows": 15454,
+      "delta": 0.03017925904952907,
+      "inner_min": -0.08233207940325832,
+      "outer_min": [
+        -1.27490759369936
+      ]
+    },
+    {
+      "iteration": 15,
+      "rows": 15807,
+      "delta": 0.029696754095029365,
+      "inner_min": -1.1252793376740104,
+      "outer_min": [
+        -1.066649190835279
+      ]
+    },
+    {
+      "iteration": 16,
+      "rows": 16074,
+      "delta": 0.028812805991230973,
+      "inner_min": -0.18312694740058355,
+      "outer_min": [
+        -1.370548963073213
+      ]
+    },
+    {
+      "iteration": 17,
+      "rows": 16455,
+      "delta": 0.028812805991230806,
+      "inner_min": -0.13487829366190449,
+      "outer_min": [
+        -1.154201994191348
+      ]
+    },
+    {
+      "iteration": 18,
+      "rows": 16687,
+      "delta": 0.027950938708449547,
+      "inner_min": -0.44232609314284177,
+      "outer_min": [
+        -1.9311369521908595
+      ]
+    },
+    {
+      "iteration": 19,
+      "rows": 17179,
+      "delta": 0.02715449602190993,
+      "inner_min": -0.13367436796114207,
+      "outer_min": [
+        -0.9112750734460268
+      ]
+    },
+    {
+      "iteration": 20,
+      "rows": 17604,
+      "delta": 0.025051552979962005,
+      "inner_min": -0.05280926572370892,
+      "outer_min": [
+        -0.5640004079491427
+      ]
+    },
+    {
+      "iteration": 21,
+      "rows": 18054,
+      "delta": 0.02445875057504747,
+      "inner_min": -0.1273121858190569,
+      "outer_min": [
+        -2.358775658382873
+      ]
+    },
+    {
+      "iteration": 22,
+      "rows": 18483,
+      "delta": 0.022784217739717384,
+      "inner_min": -0.18159594514108768,
+      "outer_min": [
+        -0.5331596406706803
+      ]
+    },
+    {
+      "iteration": 23,
+      "rows": 18918,
+      "delta": 0.0227133095365595,
+      "inner_min": -0.12114106725558871,
+      "outer_min": [
+        -0.5227382859546755
+      ]
+    },
+    {
+      "iteration": 24,
+      "rows": 19128,
+      "delta": 0.022438036344102873,
+      "inner_min": -0.541782456205059,
+      "outer_min": [
+        -0.4008784420901699
+      ]
+    },
+    {
+      "iteration": 25,
+      "rows": 19572,
+      "delta": 0.011612718514520247,
+      "inner_min": -0.07866300637868279,
+      "outer_min": [
+        -0.48858867162403435
+      ]
+    },
+    {
+      "iteration": 26,
+      "rows": 20412,
+      "delta": 0.010900803791808276,
+      "inner_min": -0.8858671226693277,
+      "outer_min": [
+        -0.3706923973246441
+      ]
+    },
+    {
+      "iteration": 27,
+      "rows": 20896,
+      "delta": 0.010162307840908226,
+      "inner_min": -0.0998766070157586,
+      "outer_min": [
+        -0.25585669066282096
+      ]
+    },
+    {
+      "iteration": 28,
+      "rows": 21202,
+      "delta": 0.009579139066565151,
+      "inner_min": -0.1822383529809038,
+      "outer_min": [
+        -0.2533421182910281
+      ]
+    },
+    {
+      "iteration": 29,
+      "rows": 21945,
+      "delta": 0.0041162378786524755,
+      "inner_min": -0.14814902211638148,
+      "outer_min": [
+        -0.25082957668495476
+      ]
+    },
+    {
+      "iteration": 30,
+      "rows": 22508,
+      "delta": 0.0028603615384242644,
+      "inner_min": -0.6413674140891559,
+      "outer_min": [
+        -0.13027493383223832
+      ]
+    },
+    {
+      "iteration": 31,
+      "rows": 23173,
+      "delta": 0.001378062808333329,
+      "inner_min": -0.3656899178185078,
+      "outer_min": [
+        -0.0794312551046471
+      ]
+    },
+    {
+      "iteration": 32,
+      "rows": 23691,
+      "delta": -0.0,
+      "inner_min": -0.3054777710654133,
+      "outer_min": [
+        -1.8199747264802113e-12
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Root independent actual16 overcover audit
+
+Object: every affine cap of16 points in F3^4, up to arbitrary affine maps used only to cover hyperplane-layer representations. Terminal claim is a complete necessary set of40-direction histograms, with actual point representatives for the part having a section of at least8 points and14 moment-admissible extras for the remaining part. This is not a complete actual16 classification or a7D exclusion.
+
+Dominance gate: the frozen baseline, H17 actual17 family and small3D catalogue do not cover16-point4D histograms. L's earlier Theta16 gate gives only local moment constraints. This is a new complete point-geometry input for physical16 columns in the remaining275-cap cases; the root enumeration is independent verification of L's proposed claim, never a separate mathematical discovery. No stopped upper LP is restarted here.
+
+If some hyperplane contains8 or9 points, sorted layer sizes belong to970,961,952,943,880,871,862,853,844. Normalize the first layer to one of three accepted8-cap representatives or the sole9-cap representative. For empty third layer, keep every second-layer cap of the required size. Otherwise shear a chosen third-layer point to0, preserving the normalized first layer; the second layer then avoids minus the first, and the third lies in the complement of the negatives of all first-plus-second sums and contains0. Enumerate all such third caps. Duplicates are allowed.
+
+If no section has8 points, the only types are772,763,754,664,655. The40-direction moments force h664=h655=0 and (h772,h763,h754)=(a,40-3a,2a),a=0..13. These14 histograms are a necessary overcover and need not be realizable.
+
+Independent implementation: root uses H's alternative representatives13851,13867,14987,582171 (affine equivalence to P's full orbit representatives already audited). Root filters the complete, sorted P catalogues of second-layer caps, whereas L is assigned P's representatives and a separate recursive second-layer generator. Shared mathematical inputs are the accepted3D catalogues/orbit cover, C3<=9, finite-field arithmetic and moment identities. No L code or generated16 data is read before root output is frozen.
+
+Resources: at most600 seconds,2GiB; exact C++ integer/bit operations, all emitted16-point sets independently pair-checked in root. No optimizer. Stop on any input inconsistency, resource limit, or incomplete enumeration. After both runs, compare entire histogram sets and normalized-family counts, and independently check producer representative points in Python. No global claim until both remaining275 branches close with exact outer certificates.

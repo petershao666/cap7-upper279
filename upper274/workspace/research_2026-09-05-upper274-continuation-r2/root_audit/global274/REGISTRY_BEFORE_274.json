@@ -1,0 +1,364 @@
+{
+  "status": "ONGOING",
+  "entries": [
+    {
+      "id": "H3-THETA40-PHI105-MIN10510565",
+      "object_hash": "fbdcd2c4617f55d1bf36cd94bb28cd59d3b5ebfdf39c1e6bc35000a8045e7f3a",
+      "hypotheses": "Published and frozen audited lower-dimensional cap inputs, plus Thackeray2022 grid exclusions and19/20 support; for7D conclusion a Q67-global-minimum direction and whole NC105 slices.",
+      "scope": "Universal40-cap5D histogram theta, universalNC105-cap6D histogram phi; seven-dimensional275-cap Q67minimum(105,105,65) state(0,0,-1) only.",
+      "exact_claim": {
+        "B40": -1209524081280,
+        "B105": -3614141188092,
+        "excluded_minimum_state": [
+          105,
+          105,
+          65
+        ],
+        "gap": 1926831607
+      },
+      "status": "EXACT_CONDITIONAL_THEOREM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+      "checker": [
+        "root_audit/verify_h3.cpp",
+        "hist105106/h3/verify.cpp",
+        "root_audit/verify_clashes.rb"
+      ],
+      "checker_hash": "8c53d36b3bf9f24b1eea55cc94988b61c6b81dcc42cadab2e93cfc648f627cb0",
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No publication-priority claim; published source lemmas are inputs, not new discoveries."
+    },
+    {
+      "id": "L-THETA40-INCIDENCE-MIN10810760",
+      "object_hash": "7a7be982691fa6fdd1166418ce7dfd5f2372e4958218abbd7c26c658579ba34a",
+      "hypotheses": "Frozen lower-dimensional inputs and H3 universaltheta40; arbitrary275-cap withQ67globalminimum(108,107,60) and bothlargewholeslicesNC.",
+      "scope": "Only this minimum branch",
+      "exact_claim": "No suchminimumbranch exists; fullincidence Farkas RHS21167272>0",
+      "status": "EXACT_CONDITIONAL_THEOREM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "d6b08cb03ee145fd7db5a539bcf8269bfd0edd200772910d43d15cabe41c31d3",
+      "checker": [
+        "root_audit/verify_incidence.cpp",
+        "compatibility/theta40/own_verify.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false
+    },
+    {
+      "id": "P3B-POINTED107-TRANSFER108-MIN10810661",
+      "object_hash": "e14a0e363593893792a68d0b7bd77314bedd37b19771a01636315abd27978bdf",
+      "hypotheses": "Frozen lower-dimensional cap theorems and certified histogram inputs; arbitrary275-cap withQ67globalminimum at target, bothlargewholeslicesNC.",
+      "scope": "This minimum branch only; not an ordinary profile exclusion",
+      "exact_claim": {
+        "excluded_minimum_state": [
+          108,
+          106,
+          61
+        ],
+        "strict_positive_contradiction": 1993186322
+      },
+      "status": "EXACT_CONDITIONAL_THEOREM_ROOT_INDEPENDENT_PASS",
+      "certificate_hash": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+      "checker": [
+        "root_audit/verify_pointed_joint.rb",
+        "root_audit/export_pointed_joint_outer.py",
+        "../research_2026-09-05-capset-round1-r1/root_audit/independent_a.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false
+    },
+    {
+      "id": "L-THETA40-INCIDENCE-MIN10710761",
+      "object_hash": "d2e8f21aa709d39db00a3c1387c317cdb03114180423fdcd1d5eb635185878aa",
+      "hypotheses": "Frozen lower-dimensional cap theorems and certified histogram inputs; arbitrary275-cap withQ67globalminimum at target, bothlargewholeslicesNC.",
+      "scope": "This minimum branch only; not an ordinary profile exclusion",
+      "exact_claim": {
+        "excluded_minimum_state": [
+          107,
+          107,
+          61
+        ],
+        "strict_positive_contradiction": 9410019729
+      },
+      "status": "EXACT_CONDITIONAL_THEOREM_ROOT_INDEPENDENT_PASS",
+      "certificate_hash": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+      "checker": [
+        "root_audit/verify_incidence_sym.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false
+    },
+    {
+      "id": "P5-SHARED107-MIN10710563",
+      "object_hash": "9ca52f19c9556e45e86470a53c96739641032b29eb5a47b6e8b40c15abe5592c",
+      "hypotheses": "Frozen lowerdimensionalinputs,H3theta40/Phi105,acceptedextracteduniversal107bound; arbitrary275-cap Q67globalminimum10710563 withbothlargeNC",
+      "scope": "Minimum branch10710563 only, notordinarytypeexclusion",
+      "exact_claim": {
+        "excluded_minimum_state": [
+          107,
+          105,
+          63
+        ],
+        "strict_positive_contradiction": 39396474454
+      },
+      "status": "EXACT_CONDITIONAL_THEOREM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "aedb510abef5d4d1126f759d918f53e7fa4e9a8bc3e9947ffefc9ca8ad2dbc8a",
+      "checker": [
+        "root_audit/verify_incidence_p5.cpp",
+        "root_potential/export_incidence107_verify.py",
+        "root_potential/verify_incidence107.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false
+    },
+    {
+      "id": "P6-ALL5D-SHARED107-MIN10710662",
+      "object_hash": "1920bd737c15e19d34136449e2bc4e766d6d9a77541ff69873a4106d737f7202",
+      "hypotheses": "Frozen lower-dimensional inputs; 33 accepted profile-conditional five-dimensional histogram functions; arbitrary 275-cap with Q67-global-minimum at target and both large whole slices non-completable.",
+      "scope": "Minimum branch (107,106,62) only, never an ordinary type exclusion",
+      "exact_claim": {
+        "excluded_minimum_state": [
+          107,
+          106,
+          62
+        ],
+        "strict_positive_contradiction": 456644586
+      },
+      "status": "EXACT_CONDITIONAL_THEOREM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "3753f438b1021d1915d3c2d97a26f3be6a93899af6f69619e71ea76b3409ce6c",
+      "checker": [
+        "root_audit/verify_incidence_all5d.cpp",
+        "root_audit/export_incidence_p6.py",
+        "root_potential/verify_incidence107_all5d.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false
+    },
+    {
+      "id": "U-L4-NC106-PHI",
+      "object_hash": "e8c2683c58fc4de1931578001a6f2eaf21433b4272ef10ca47802eca3c96004d",
+      "hypotheses": "Accepted lowerdimensional cap theorems and fixed histogram inputs; wholecapnoncompletability",
+      "scope": "Universal6D histogram inequality only; no7Dbranch exclusion",
+      "exact_claim": "Universal79-valueNC106 histogram upper sum9050179505963232; no7Dminimum orenergy premise",
+      "status": "EXACT_UNIVERSAL_HISTOGRAM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "e8c2683c58fc4de1931578001a6f2eaf21433b4272ef10ca47802eca3c96004d",
+      "checker": [
+        "root_audit/verify_l4_inner.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No publication-priority claim; exact corollary extracted from a bounded incomplete incidence search"
+    },
+    {
+      "id": "U-R105-NC105-PHI",
+      "object_hash": "624b106cad566fc40cf3cdbaaebd871c3b915bfb60eb904dc64fdbdf3747591d",
+      "hypotheses": "Accepted lowerdimensional cap theorems and fixed histogram inputs; wholecapnoncompletability",
+      "scope": "Universal6D histogram inequality only; no7Dbranch exclusion",
+      "exact_claim": "Universal87-valueNC105 histogram upper sum9070787191178440 and unordereddeletioncorollaries forNC106..108; no7Dminimum premise",
+      "status": "EXACT_UNIVERSAL_HISTOGRAM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "624b106cad566fc40cf3cdbaaebd871c3b915bfb60eb904dc64fdbdf3747591d",
+      "checker": [
+        "root_audit/verify_r105_inner.cpp",
+        "compatibility/r105_independent/verify.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No publication-priority claim; exact corollary extracted from a bounded incomplete incidence search"
+    },
+    {
+      "id": "U-ACTUAL4D17-HISTOGRAMS102",
+      "object_hash": "7c47c4c3468fc8ead940a889f24fdb31bc6d45dfeea764e53aa998462399528c",
+      "hypotheses": "Published980/971/881 section cover; accepted complete3D8/9cap affine orbit census.",
+      "scope": "All40-direction histograms of arbitrary17-point caps inF3^4; no7D exclusion or affineclasscount claim.",
+      "exact_claim": "Exactly102 possible directional histograms, each with a verified explicit17-point representative.",
+      "status": "EXACT_FINITE_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "8ed6c68858ca68f5f9ace601a27efc25895c9a9c544f6937f1c78d1b65219936",
+      "checker": [
+        "root_audit/actual17/enumerate.cpp",
+        "root_audit/actual17/compare.py",
+        "root_potential/h17_input_independent_verification.json"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No publication-priority claim; accepted pointgeometry input for continuing7D proof."
+    },
+    {
+      "id": "U-ACTUAL3D0TO9-HISTOGRAMS",
+      "object_hash": "dc1d5f0578ca3df5d0cf6da03d9b097d9e818c8523451c261e92d07414465018",
+      "hypotheses": "ExactF3 coordinate arithmetic and complete finite cap enumeration.",
+      "scope": "Complete directional histogram families for0..9point caps inF3^3.",
+      "exact_claim": "Accepted finite lower-dimensional input with capcounts and explicit representatives;8/9 affineorbits separately verified.",
+      "status": "EXACT_FINITE_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "dc1d5f0578ca3df5d0cf6da03d9b097d9e818c8523451c261e92d07414465018",
+      "checker": [
+        "root_audit/small3d/verify.cpp",
+        "root_audit/small3d/compare.py",
+        "root_potential/h17_input_independent_verification.json"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No new-record or publication-priority claim."
+    },
+    {
+      "id": "U-ACTUAL4D16-HISTOGRAMS376",
+      "object_hash": "a58e4d85a49c569eb47fa4d5b46899ca23c07e953a63cb3e45524edd9fe3067b",
+      "hypotheses": "Complete3D8/9cap affineorbitcatalogues, C3<=9, independentcomplete7-to8extensionbridge, exactfinitepointgeometry.",
+      "scope": "Every16pointcap inF3^4; all40directionhistograms. No7Dordinaryexclusion.",
+      "exact_claim": "Every16cap has an8/9point3Dsection and its directionalhistogram is one of exactly376realizablevectors with explicitpointrepresentatives.",
+      "status": "EXACT_FINITE_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "3776b3593a186ddb06b8af9f78b9b95860f7218106236fa2cc5fce693c470b28",
+      "checker": [
+        "root_audit/actual16/verify.cpp",
+        "root_audit/actual16/verify_small_only.cpp",
+        "root_audit/actual16/compare_large.py",
+        "root_potential/actual16_cover_audit/check_seven_extension.cpp"
+      ],
+      "supersedes": "The14necessarysmall-onlyformalhistograms are eliminated; initial390vectorovercover is strengthened to376actualvectors.",
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No publication-priority claim; newacceptedfiniteinput forcurrent7Dproof."
+    },
+    {
+      "id": "U-FIVE41-20201-EXACT-HISTOGRAM",
+      "object_hash": "74c4e1c900b519edc1124dbb2bc49c04dddd1845bbbfd6de74baacf1e19b4011",
+      "hypotheses": "Publishedaffineuniqueness of4D20caps; verifiedcanonicalquadratic20cap andcompletefiniteform/translation enumeration.",
+      "scope": "All41caps inF3^5 admitting20/20/1, completeornot; notall41caps.",
+      "exact_claim": {
+        "141413": 40,
+        "151511": 20,
+        "171212": 20,
+        "17168": 40,
+        "20201": 1
+      },
+      "status": "EXACT_SCOPED_WHOLE_HISTOGRAM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "0f87e4aa68df464e92ccdceecf971392d69257c1c1e823ef6a3d9263543b0031",
+      "checker": [
+        "root_potential/complete20201/enumerate_polynomials.cpp",
+        "root_potential/complete20201/H_COMPARISON.json",
+        "root_audit/complete20201/verify.py"
+      ],
+      "supersedes": "Priorlocal20201necessaryrelaxation maynow be replaced byexactwhole41histogram; noordinarytypeban.",
+      "subsumed_by": null,
+      "ordinary_exclusion": false,
+      "novelty": "No publication-priority or7Dglobalbound claim."
+    },
+    {
+      "id": "I-NAMED41-AE-PUBLISHED-POINTS",
+      "object_hash": "74eb0d0faf4b458dcb2b3c5b9b69f0429bb5ceffeca2aad97e834dfb67b4aeb1",
+      "hypotheses": "Primary published affine cap classifications, figures/lists and relevant uniqueness; shared source dependencies explicitly recorded.",
+      "scope": "Named41A\u2013E primary figures with all explicit points and121-direction spectra. Published input replication.",
+      "exact_claim": {
+        "accepted_packet": "root_audit/named41_pdf/ACCEPTED_POINTS.json",
+        "family_count": 5
+      },
+      "status": "EXACT_FINITE_PUBLISHED_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "74eb0d0faf4b458dcb2b3c5b9b69f0429bb5ceffeca2aad97e834dfb67b4aeb1",
+      "checker": [
+        "root_audit/named41_pdf/verify_pdf.py"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary7D_exclusion": false,
+      "novelty": "Input recovery and finite verification; no publication-priority or new global-bound claim."
+    },
+    {
+      "id": "I-FORTYFIVE-FOUR-DELETION-FAMILY",
+      "object_hash": "2a879bb9dd430ba72b3e6921a412a2263d128a83ec75a6de7c811ccf06e0f219",
+      "hypotheses": "Primary published affine cap classifications, figures/lists and relevant uniqueness; shared source dependencies explicitly recorded.",
+      "scope": "All41point subcaps of the unique45cap:27histograms and148995four-deletion subsets. Complete finite input, no class count.",
+      "exact_claim": {
+        "accepted_packet": "root_audit/fortyfive/ACCEPTED_FOUR_DELETE_HISTOGRAMS.json",
+        "family_count": 27
+      },
+      "status": "EXACT_FINITE_PUBLISHED_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "2a879bb9dd430ba72b3e6921a412a2263d128a83ec75a6de7c811ccf06e0f219",
+      "checker": [
+        "root_audit/fortyfive/enumerate_four_delete.cpp"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary7D_exclusion": false,
+      "novelty": "Input recovery and finite verification; no publication-priority or new global-bound claim."
+    },
+    {
+      "id": "I-RAW41-EXCEPTIONAL-SOURCE-OVERCOVER",
+      "object_hash": "3a4f1dde2c03ff36a76b2114cad87bcadc151f448e666e71876b2f6372c1909f",
+      "hypotheses": "Primary published affine cap classifications, figures/lists and relevant uniqueness; shared source dependencies explicitly recorded.",
+      "scope": "All34345explicit primary raw records,41directional histograms. Covers the exceptional41alternative under the explicit published source-coverage premise.",
+      "exact_claim": {
+        "accepted_packet": "root_audit/exceptional41_raw/ACCEPTED_RAW_HISTOGRAMS.json",
+        "family_count": 41
+      },
+      "status": "EXACT_FINITE_PUBLISHED_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "3a4f1dde2c03ff36a76b2114cad87bcadc151f448e666e71876b2f6372c1909f",
+      "checker": [
+        "root_audit/exceptional41_raw/root_verify.py"
+      ],
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary7D_exclusion": false,
+      "novelty": "Input recovery and finite verification; no publication-priority or new global-bound claim."
+    },
+    {
+      "id": "I-COMPLETE5D41-HISTOGRAMS44",
+      "object_hash": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa",
+      "hypotheses": "Thackeray2022 Theorem6.3, explicit supplementary-list completeness, unique affine45cap/20cap, and independently accepted component point/spectrum packets.",
+      "scope": "All41-point caps inF3^5, complete or extendable.44histograms, not an affine-class count.",
+      "exact_claim": {
+        "histogram_count": 44,
+        "formal_types": 40,
+        "universally_absent_5D41_types": 14,
+        "support_inequality": "sum_D g(t_D)<=max_h h dot g for every realg"
+      },
+      "status": "EXACT_COMPLETE_PUBLISHED_INPUT_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa",
+      "checker": [
+        "root_audit/complete41/verify_union.py",
+        "root_potential/complete41_scope_audit/check_static.py",
+        "root_potential/complete41_scope_audit/SCOPE_AUDIT.md"
+      ],
+      "supersedes": "Incomplete41conditional local matrix support at the histogram interface only",
+      "subsumed_by": null,
+      "ordinary7D_exclusion": false,
+      "novelty": "Recovered complete published classification input, not a new classification or global bound."
+    },
+    {
+      "id": "L-COMPLETE41-MIN10610564",
+      "object_hash": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+      "hypotheses": "An actual Q67-global-minimum direction of an arbitrary275cap, with bothlarge whole6DsectionsNC; accepted lower-dimensional and complete41 source inputs.",
+      "scope": "Only Q67minimum(106,105,64),state(0,0,-1); universalTheta40/Phi106 components separately reusable.",
+      "exact_claim": {
+        "excluded_minimum_state": [
+          106,
+          105,
+          64
+        ],
+        "gap": 21576254250,
+        "B40": -95858610055698,
+        "B106": -359979101924637
+      },
+      "status": "EXACT_CONDITIONAL_THEOREM_INDEPENDENTLY_VERIFIED",
+      "certificate_hash": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+      "checker": [
+        "root_audit/complete41_min10610564/verify.cpp",
+        "root_audit/complete41_min10610564/export.py",
+        "root_potential/l_complete41_nc106_verify/replay_raw.cpp"
+      ],
+      "root_verification_hash": "36e8fd85970449ab662b932b19ae20b259ec80a96ca35e71305fd3826d871507",
+      "supersedes": null,
+      "subsumed_by": null,
+      "ordinary_exclusion": false
+    }
+  ],
+  "global_upper": 275,
+  "cap237_existence": "UNKNOWN"
+}

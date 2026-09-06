@@ -1,0 +1,7 @@
+# Independent complete 41-cap scope audit
+
+Root requests a source/logic audit of hist105106/complete41_candidate as a proposed full family of all 121-direction histograms of arbitrary 41-caps in AG(5,3). Before inspection, declare a budget of at most 180 seconds computation, one worker, 1 GiB. No LP or new point-family enumeration. Write only this new directory, never edit H's package.
+
+Focus: the 13 alternatives of published Theorem 6.3, the precise quantifiers and complete-cap conditions in Proposition 6.2(b), the relationship between raw 180617/180716 records and CapsFound/Arguments summaries, coverage of extendible 41-caps, and which affine-uniqueness assumptions are actually published and needed. Check source identity and logical mappings independently. Root separately checks raw row/representative arithmetic; accepted H/L row agreement is a shared premise, not this audit's independent numerical computation.
+
+Root reports accepted A-E points, accepted complete 45-minus-four histograms, accepted 20201 spectrum, accepted F-I/Delta deletion inputs, and 34,345 raw records independently decoded by H/L. Inspect their declared sources and scope; do not infer all-41 coverage from a union's filename or agreement alone. Terminal SCOPE_AUDIT.md with each dependency, explicit gap, or PASS_WITH_EXPLICIT_PUBLISHED_PREMISES. Re-reading or arranging existing results is input verification, not new mathematics or a global-bound claim.

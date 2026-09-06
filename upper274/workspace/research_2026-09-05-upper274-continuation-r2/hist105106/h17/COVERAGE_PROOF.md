@@ -1,0 +1,13 @@
+# Complete actual17 family: proof obligations
+
+Let a cap C in F3^4 have size17. Thackeray Lemma2.1(c), independently verified for H16, supplies a direction of type980,971 or881. Relabel its three levels so the first large section A is at0, the other large section B at1, and the empty/singleton section at2. Such relabeling is an affine automorphism of F3 because AGL(1,3)=S3.
+
+Since |A|>=8>C2, A spans its three-flat. An ordered affine basis of A can be mapped to0,e1,e2,e3. Exhaustively enumerating all cap completions of this standard basis gives at least one normalized image of every possible A. Taking the minimum bitmask over ALL ordered affine bases of a normalized set is a complete affine invariant: affine equivalence identifies the sets of normalized images in both directions. The enumeration must preserve a witnessing basis and map for each claimed canonical image, and must not presume orbit counts.
+
+After normalizing A through z->Lz+v, extend this map as (t,z)->(t,Lz+v+t*w). It preserves A at level0. If the original singleton coordinate is c at level2, take w=Lc+v, because Lc+v+2w=0 in F3. This sends the singleton to0. The transformed B remains an arbitrary three-dimensional cap with the given size.
+
+A triple of points using more than one level can be collinear only if it uses all three levels: for levels0,1,2 its coordinate sum condition is a+b+c=0. When level2 is empty there are no such triples, so any A9 and B8 work. With singleton0, the cross condition is exactly that B avoid -A. Therefore enumerating all indicated B caps gives only valid17 caps and covers every possible17 cap up to an affine automorphism.
+
+Enumerating every invertible3x3 matrix and every translation applied to all certified eight-cap representatives gives every actual eight-cap B required by980. Independent verification must check the complete normalized-extension search, canonical-basis maps, invertible-matrix inventory and affine image union. For971/881 the ascending subset search over complement(-A) must be exhaustive and enforce only the cap condition and target size.
+
+All40 nonzero linear functionals modulo multiplication by2 are enumerated. Their sorted three-level counts give the whole directional histogram; affine automorphisms preserve this histogram. Consequently the union of computed histograms is the complete family of possible17-cap histograms once the finite searches and arithmetic are independently checked. Representatives prove realization of each listed histogram. This is a histogram family, not a list of pairwise nonisomorphic17 caps and not a seven-dimensional bound.

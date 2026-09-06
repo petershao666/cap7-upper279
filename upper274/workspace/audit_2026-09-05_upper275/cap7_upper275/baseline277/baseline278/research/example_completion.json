@@ -1,0 +1,25 @@
+{
+  "dimension": 6,
+  "conditional_on": "cap not contained in a 112-cap",
+  "type": [
+    44,
+    43,
+    22
+  ],
+  "raw_matrices": 852,
+  "feature_rows": 168,
+  "certificate": {
+    "coeff": [
+      59,
+      -825,
+      20,
+      -616,
+      35,
+      117,
+      -23
+    ],
+    "K": 82706,
+    "forced": 10006954,
+    "gap": 472
+  }
+}

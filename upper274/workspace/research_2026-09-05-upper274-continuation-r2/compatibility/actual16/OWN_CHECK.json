@@ -1,0 +1,9 @@
+{
+  "status": "ALL_REPRESENTATIVES_PAIR_AND_DIRECTION_PASS",
+  "representatives": 376,
+  "pairs_checked": 45120,
+  "directions_per_representative": 40,
+  "total_lifts": 553678,
+  "seconds": 0.11628970806486905,
+  "dependencies": "Reads produced representative masks, independently computes4D point pairs and every dot-product direction; no C++ histogram reuse"
+}

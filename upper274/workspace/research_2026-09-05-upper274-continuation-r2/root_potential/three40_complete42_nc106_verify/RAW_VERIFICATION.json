@@ -1,0 +1,16 @@
+{"status":"PASS_ALL14_EXACT_ALL_ORDERED_PRUNED_GRIDS","cases":[
+{"case":0,"anchor":[41,41,24],"raw_count":364383,"minimum":"-1044145058932212","minimizer_count":18,"maximum_abs_value":"1044145058932212","witness":[6,17,18,6,17,18,8,9,7]},
+{"case":1,"anchor":[42,41,23],"raw_count":208332,"minimum":"379504653210669","minimizer_count":18,"maximum_abs_value":"397648409256019","witness":[12,15,15,12,14,15,5,9,9]},
+{"case":2,"anchor":[42,42,22],"raw_count":121332,"minimum":"1530817220937328","minimizer_count":18,"maximum_abs_value":"1548513399713484","witness":[7,17,18,12,12,18,5,11,6]},
+{"case":3,"anchor":[43,40,23],"raw_count":86814,"minimum":"2061522429671882","minimizer_count":18,"maximum_abs_value":"2077005271693081","witness":[9,17,17,4,18,18,6,8,9]},
+{"case":4,"anchor":[43,41,22],"raw_count":83682,"minimum":"-1758867639755629","minimizer_count":18,"maximum_abs_value":"1758867639755629","witness":[13,15,15,11,15,15,9,0,13]},
+{"case":5,"anchor":[43,42,21],"raw_count":49803,"minimum":"-566091015858111","minimizer_count":18,"maximum_abs_value":"566091015858111","witness":[9,16,18,12,14,16,4,11,6]},
+{"case":6,"anchor":[43,43,20],"raw_count":22077,"minimum":"462111076900101","minimizer_count":18,"maximum_abs_value":"484109051967641","witness":[9,17,17,8,17,18,3,9,8]},
+{"case":7,"anchor":[44,40,22],"raw_count":45567,"minimum":"2772845333109609","minimizer_count":18,"maximum_abs_value":"2788572345409159","witness":[14,15,15,5,17,18,7,8,7]},
+{"case":8,"anchor":[44,41,21],"raw_count":44289,"minimum":"1590817602103970","minimizer_count":18,"maximum_abs_value":"1605766075257784","witness":[9,17,18,7,16,18,9,8,4]},
+{"case":9,"anchor":[44,42,20],"raw_count":26379,"minimum":"3381591787392584","minimizer_count":18,"maximum_abs_value":"3401376901932535","witness":[9,17,18,7,17,18,3,9,8]},
+{"case":10,"anchor":[44,43,19],"raw_count":11709,"minimum":"1031359468313110","minimizer_count":18,"maximum_abs_value":"1051533208072604","witness":[9,17,18,9,17,17,1,9,9]},
+{"case":11,"anchor":[45,40,21],"raw_count":16302,"minimum":"-3851207226507333","minimizer_count":3,"maximum_abs_value":"3851207226507333","witness":[15,15,15,4,18,18,7,7,7]},
+{"case":12,"anchor":[45,41,20],"raw_count":15921,"minimum":"-4802982902840327","minimizer_count":18,"maximum_abs_value":"4802982902840327","witness":[9,18,18,8,15,18,2,9,9]},
+{"case":13,"anchor":[45,42,19],"raw_count":9504,"minimum":"-3331673349742240","minimizer_count":18,"maximum_abs_value":"3331673349742240","witness":[9,18,18,9,15,18,1,9,9]}
+],"all_raw_count":1106094,"elapsed_seconds":0.0513473,"peak_rss_macos_bytes":2408448,"signed128_integer_arithmetic":true}

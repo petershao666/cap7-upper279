@@ -1,0 +1,12 @@
+{
+  "root_authorized": true,
+  "target": [
+    106,
+    105,
+    64
+  ],
+  "total_wall_seconds": 600,
+  "per_lp_seconds": 90,
+  "started_unix": 1788674123.642158,
+  "unchanged_grid_domain": true
+}

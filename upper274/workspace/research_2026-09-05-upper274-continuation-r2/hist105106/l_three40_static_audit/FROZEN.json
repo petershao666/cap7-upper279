@@ -1,0 +1,10 @@
+{
+  "status": "STATIC_COPY_AUDIT_PASS_NO_LP",
+  "files": {
+    "PROOF_REVIEW.md": "970b566d95e058e4b3f64b1dfb1b609e964220449679a61191c6435bb410d9f5",
+    "RESULT.json": "4b2f5c1997fdc80196c350a1fd36a6449ab4b5193e43e5a2143ae15b01d0fd8d",
+    "SCOPE.md": "57401fa943744ea5e19da105a3d2b847472e1e94d632692c8735bbc26c6e3002",
+    "audit.py": "e93b6cb9a6717fa5500d13b99b2bff0b75f14a29d7988a081c5cc76cad4c9f87"
+  },
+  "wall_seconds_at_freeze": 206.5475833415985
+}

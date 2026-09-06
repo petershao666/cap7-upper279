@@ -1,0 +1,12 @@
+{
+  "status": "STATIC_READY_NO_OPTIMIZATION",
+  "files": {
+    "DERIVATION.md": "72680080d3443bad050c1e9a44dff17d070198cfdc1281f2c00375be735e23ff",
+    "MODEL_GATE.md": "c244b43b84455e9b5fd238cbefd8f9f586598cecf6b0a3c8de097b3f1a27cba2",
+    "SCOPE.md": "91030157d00ed9ca3cc9e15d994784b5af384c2ba6c83f52c19e3e85fbea1a5f",
+    "WITNESS.json": "664e33284b89acbe9ec03ac5d8abc4606f4558fd0acce9be43de0b1e8f5b2738",
+    "check_witness.py": "92981d8f10f3cb782f836030670ec5be75fbe308a2bbb4e168f2de2774a31d70"
+  },
+  "scope": "Strict marginal-interface separation and non-weakening; no full-parent strictness claim",
+  "LP_runs": 0
+}

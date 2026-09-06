@@ -1,0 +1,28 @@
+{
+  "status": "BOUNDED_NO_INTEGER_CERTIFICATE",
+  "files": {
+    "RESULT.json": "94ebbd1026ea4a874f131cf56cae8e813e571e41cb577a4df6dcc2f164d3dba0",
+    "run.py": "6764b5953a7627e20abe672389500da32e6d4f2564549b5285e746f4e4188625",
+    "verify.py": "c57ea39d79a6cca4fbebaf65d2c1e17694d249d5c2ffdd2b471a7e2dd76a10a5",
+    "INPUTS.json": "4f7a650d38727a972ba398b00ab40a5fe4506d17eefb67a688fef0975b8ede4c",
+    "STATIC_FROZEN.json": "ecdbd08e8e113594f9f8fe554141d9eac6e3c8d8910c3a763c9a9e09135b29e7",
+    "PLANNED_COPY_LAYOUT.json": "1bc2a4c9cca81d089892190c32d61b7ea00d2bbf46cc9b2a3ebade3ef9370b59",
+    "REALIZED_COPY_LAYOUT.json": "1e0f1098b78803da0e06914579e174ff6776cc91e72cb4fe43beceaa7644a6fd",
+    "interface_check.json": "83af4ed38bd5a23a3535cd67589dc8ed0c02e0a618c97ec2e750b67837e9673b",
+    "all_case_coverage.json": "b004038e97cc03ba25350974841fe472a435dc943977c547ee25bc663534925c",
+    "SIGNS_AND_FEATURES.json": "a909c8c2fe5d005f61f2c0f5c45068b84c1dbc476d84b6b10497053db9991ebe",
+    "FUNCTION_ID_SCHEMA.md": "0753d24a773ad95a5373303deede40bd2dea42be49329eab93420b402120ccc0",
+    "DERIVATION.md": "7468bd3adc61f457eaf6b701310c89648903ec69c2c78dd729f155ec29c2f275",
+    "NORMALIZED_TERMINAL.json": "f07d21e4708fa3963b8d8d2800fb42ca37a055b0a0342e97a053f09cf935a8ec"
+  },
+  "target": [
+    106,
+    106,
+    63
+  ],
+  "ordinary_exclusion": false,
+  "candidate_gap": null,
+  "numerical_stop": "BATCH_WALL_LIMIT",
+  "discovery_seconds": 554.6188707500696,
+  "iterations": 51
+}

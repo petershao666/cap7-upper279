@@ -1,0 +1,13 @@
+# Static theorem-input check
+
+The two fixed function packets agree exactly for all four NC106 rows used by H22. The newer packet additionally contains R105_inner_to106_floor1000000 and the full-precision L4 row. All six have the same79-profile NC106 domain; mapping was by explicit tuple, not by array position.
+
+The accepted R105 source is root_audit/r105_functions.json. Let f105 be its universal NC105 function, B105=9070787191178440. By the retained103-extension-rigidity premise, all106 single deletions of an NC106 cap are NC105. For a direction with occupancies t=(a,b,c), the transferred value is sum_i t_i*f105(sort(t-e_i)). Counting each physical section independently handles ties with their proper multiplicities. Summing over all deletions gives B106=106*B105=961503442264914640. Dividing values by1000000 with floor and using integrality gives the accepted bound961503442264.
+
+The author independently re-evaluated this three-term identity at all79 admissible profiles from the frozen source105 table, compared every unrounded transferred coefficient with the source106 table, and compared all79 floors plus the final floored bound with the proposed fixed packet. TRANSFER_FORMULA.json records every term. This is arithmetic replication of an already accepted universal theorem, not a new transfer theorem.
+
+For exact functional correspondence, the coefficient vectors of the old four functions together with1,E2,E3 have rank7 over Q. Appending the R105 transfer gives rank8. The same holds when each row is augmented by its directional sum bound; the exact moment sums are364,243*C(106,2),81*C(106,3). STATIC_COMPARISON.json contains an explicit8-by8 integer minor and a nonzero determinant, permitting independent verification without trusting numerical ranks. Consequently the new function is not an exact linear rescaling or a combination of the old functions and these moment identities. This does not prove that its inequality is not implied by a larger nonnegative inequality cone or by the full finite outer geometry. No such stronger conclusion is needed to register the new accepted-input combination, and none is claimed.
+
+The full L4 row is not exactly10000 times its floor row. Its residual coefficients range0..9995 and its bound residual is3232. A full-bound theorem on an actual integer histogram implies the stated floor theorem; the floor theorem alone is not declared equivalent. The proposed model retains both, transparently, while treating the R105 transfer as the material previously absent input.
+
+No LP, discovery-domain enumeration, or new branch exclusion was performed in this static scope. The model remains pending root activation.

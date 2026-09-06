@@ -1,0 +1,21 @@
+{
+  "status": "EXACT_ROOT_INDEPENDENT_PASS",
+  "source_sha256": "3753f438b1021d1915d3c2d97a26f3be6a93899af6f69619e71ea76b3409ce6c",
+  "input_sha256": "b838e17df0a083f27057fe39f689b8e6b6c3aa99b0083124ee4598469a5b435f",
+  "target": [
+    107,
+    106,
+    62
+  ],
+  "rows": 587,
+  "upper_signs": 170,
+  "strict_rhs": 456644586,
+  "ordinary_bans": "exactly18frozenordinarytypes; no minimum-onlytypeban",
+  "checker": "verify_incidence_all5d.cpp; independentrawdomain usingrootpriorincidencekernel",
+  "inner_tables": 1407366,
+  "outer_tables": 5265417,
+  "maximum_inner": 0,
+  "maximum_outer": 0,
+  "checker_sha256": "74576ddd074bcb0f0cda8b1ecc5c5e5441c9afaf9a7e3d20ca7f6a6d0201b66e",
+  "shared_dependencies": "Frozen low-dimensional inputs and certificates only; root enumerates raw grids without discovery feature cache; root prior incidence kernel reused."
+}

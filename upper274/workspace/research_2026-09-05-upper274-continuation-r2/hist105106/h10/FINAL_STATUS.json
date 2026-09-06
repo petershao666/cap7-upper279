@@ -1,0 +1,42 @@
+{
+  "status": "VALIDATED_PUBLISHED_FULL18_INPUT_WITH_NULL_DOWNSTREAM",
+  "new_mathematics": false,
+  "published_classes": 20,
+  "distinct_full_histograms": 17,
+  "independent_input_check": "PASS",
+  "model_cover": 136,
+  "nonempty_model_cases": 130,
+  "canonical_lower_matrices": 93635,
+  "null_results": [
+    {
+      "target": [
+        106,
+        105,
+        64
+      ],
+      "iterations": 17,
+      "seconds": 53.427161125000566,
+      "numerical_status": "FULL20_CLASS18_HIST_MODEL_NO_POSITIVE_DUAL"
+    },
+    {
+      "target": [
+        106,
+        106,
+        63
+      ],
+      "iterations": 36,
+      "seconds": 205.28872062498704,
+      "numerical_status": "FULL20_CLASS18_HIST_MODEL_NO_POSITIVE_DUAL"
+    }
+  ],
+  "new_certificate": null,
+  "new_exclusion_claim": false,
+  "target_size_to_exclude": 275,
+  "global_interval": [
+    236,
+    275
+  ],
+  "global237_existence": "UNKNOWN",
+  "remaining_model_weakness": "Whole41classcases retain all18histograms matching partialcounts, including some published-forbidden namedpair combinations. H11 is separately registered to apply the actualnamedpairbridge.",
+  "shared_dependencies": "Acceptedprimaryclassification, frozenH3-H9discoverykernels, rootindependentstaticstringand882figurechecks; no Javaexecution."
+}

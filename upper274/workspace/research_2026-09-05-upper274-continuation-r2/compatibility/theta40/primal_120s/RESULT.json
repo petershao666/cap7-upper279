@@ -1,0 +1,27 @@
+{
+  "target": [
+    108,
+    107,
+    60
+  ],
+  "complete_declared_cone": true,
+  "inner_counts": [
+    {
+      "size": 108,
+      "full_count": 565824,
+      "quotient_count": 31505
+    },
+    {
+      "size": 107,
+      "full_count": 1407366,
+      "quotient_count": 80583
+    }
+  ],
+  "rows": 606,
+  "columns": 929872,
+  "status": 1,
+  "message": "Time limit reached. (HiGHS Status 13: model_status is Time limit reached; primal_status is At lower/fixed bound)",
+  "elapsed": 128.90574233303778,
+  "exact_result": false,
+  "ru_maxrss": 1633501184
+}

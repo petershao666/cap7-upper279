@@ -1,0 +1,361 @@
+{
+  "cases": [
+    {
+      "key": [
+        108,
+        107,
+        60
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1016905,
+      "extras": [
+        [
+          0,
+          "psi108"
+        ],
+        [
+          1,
+          "nested107_size276"
+        ],
+        [
+          1,
+          "nested107_size277"
+        ],
+        [
+          1,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to108"
+        ],
+        [
+          0,
+          "nested106_size276_to108"
+        ],
+        [
+          0,
+          "nested107_size276_to108"
+        ],
+        [
+          0,
+          "nested107_size277_to108"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276_to108"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276_to108"
+        ],
+        [
+          1,
+          "H3_phi105_to107"
+        ],
+        [
+          1,
+          "nested106_size276_to107"
+        ],
+        [
+          1,
+          "joint106_107_106_63_size276_to107"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        108,
+        106,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1401287,
+      "extras": [
+        [
+          0,
+          "psi108"
+        ],
+        [
+          1,
+          "nested106_size276"
+        ],
+        [
+          1,
+          "joint106_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to108"
+        ],
+        [
+          0,
+          "nested106_size276_to108"
+        ],
+        [
+          0,
+          "nested107_size276_to108"
+        ],
+        [
+          0,
+          "nested107_size277_to108"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276_to108"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276_to108"
+        ],
+        [
+          1,
+          "H3_phi105_to106"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        107,
+        107,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1257556,
+      "extras": [
+        [
+          0,
+          "nested107_size276"
+        ],
+        [
+          0,
+          "nested107_size277"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          1,
+          "nested107_size276"
+        ],
+        [
+          1,
+          "nested107_size277"
+        ],
+        [
+          1,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to107"
+        ],
+        [
+          0,
+          "nested106_size276_to107"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276_to107"
+        ],
+        [
+          1,
+          "H3_phi105_to107"
+        ],
+        [
+          1,
+          "nested106_size276_to107"
+        ],
+        [
+          1,
+          "joint106_107_106_63_size276_to107"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1755139,
+      "extras": [
+        [
+          0,
+          "nested107_size276"
+        ],
+        [
+          0,
+          "nested107_size277"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          1,
+          "nested106_size276"
+        ],
+        [
+          1,
+          "joint106_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to107"
+        ],
+        [
+          0,
+          "nested106_size276_to107"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276_to107"
+        ],
+        [
+          1,
+          "H3_phi105_to106"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1841063,
+      "extras": [
+        [
+          0,
+          "nested107_size276"
+        ],
+        [
+          0,
+          "nested107_size277"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to107"
+        ],
+        [
+          0,
+          "nested106_size276_to107"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276_to107"
+        ],
+        [
+          1,
+          "H3_phi105"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 2460769,
+      "extras": [
+        [
+          0,
+          "nested106_size276"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276"
+        ],
+        [
+          1,
+          "nested106_size276"
+        ],
+        [
+          1,
+          "joint106_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to106"
+        ],
+        [
+          1,
+          "H3_phi105_to106"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        106,
+        105,
+        64
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 2571792,
+      "extras": [
+        [
+          0,
+          "nested106_size276"
+        ],
+        [
+          0,
+          "joint106_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to106"
+        ],
+        [
+          1,
+          "H3_phi105"
+        ]
+      ],
+      "certificate": null
+    }
+  ],
+  "claim": "EXACT_CANDIDATES_REQUIRE_INDEPENDENT_REPLAY"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "ACTIVATED_SINGLE_FIXED_SCALE_EVALUATION",
+  "scale": 100000000000000,
+  "optimizer_calls_allowed": 0,
+  "sha256": {
+    "SCOPE.md": "781d44fff5555e7e31b029fb8b9451ab46c018974de0a4cb2fd7ec3289af7d7c",
+    "INPUTS.json": "53e719cc160fe4afb01b19d3a95219be072e36961ae0a8bf8501e6ad28e53f0f",
+    "domain.py": "d1e6632fff8dce1a7eda1d6426cd8270a0f002539cd4999a2dc602644f299ece",
+    "evaluate.py": "ebc132214027db67ded93569b0a9b1f1cad38f994dfd8c65787e7678c91ed26e"
+  }
+}

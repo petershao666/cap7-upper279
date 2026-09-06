@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "source_sha256": "0ea2eaacdf47341e372b01df71dabd8af9764e90126e14bbaa2b39c7d9a2d848",
+  "input_sha256": "9f5dd8bd6ff1edfeb9969904d7895de1e76636464058c9f32c71508a1ec3c30f",
+  "compiler_command": [
+    "c++",
+    "-O2",
+    "-std=c++17",
+    "-fsanitize=undefined",
+    "-fno-sanitize-recover=all",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_potential/three40_complete42_nc106_verify/replay_raw.cpp",
+    "-o",
+    "/private/tmp/cap274-review-20260906/nc106.bin"
+  ],
+  "undefined_behavior_sanitizer": true,
+  "kernel_provenance": "Fresh build and replay of previously independent research verifier; shared source and frozen inputs disclosed",
+  "cases": 14,
+  "raw_rows": 1106094,
+  "case_records_equal": true,
+  "elapsed_seconds": 1.459198874887079
+}

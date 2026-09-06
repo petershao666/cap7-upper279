@@ -1,0 +1,11 @@
+{
+  "status": "PASS_WITH_EXPLICIT_PUBLISHED_PREMISES",
+  "files": {
+    "PREREGISTRATION.md": "fe5f36f326e6f81df5be6f105abdb67453ac29d6feeb2612cfd9dc2e28a7df0f",
+    "SCOPE_AUDIT.md": "6e2f96067cb01574e1f10b8e0362e6a102a52a53b61c698d9f230d7f63353f65",
+    "STATIC_VERIFICATION.json": "f6ee79256c3be4fe5d09c3487b1baf7ac98045a2491fc5aac69fa7dbc29c8551",
+    "check_static.py": "f4fdb8d3cee9ecc2a72fc8fdb5a95cb4d4b8d7667e4e5f84db27b76dbe867c5d"
+  },
+  "no_LP": true,
+  "no_new_geometric_enumeration": true
+}

@@ -1,0 +1,22 @@
+{
+  "candidate_sha256": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+  "input_sha256": "edc2159a21f7745016a42df63411bc2e045392c5aa3d63cc2a5a46a62cf4d9fd",
+  "target": [
+    107,
+    107,
+    61
+  ],
+  "dual_rows": 375,
+  "claimed_positive_rhs": 9410019729,
+  "upper_signs_verified": 12,
+  "status": "PASS",
+  "scope": "Q67-minimum NC/NC (107,107,61) only",
+  "inner_count": 1407366,
+  "outer_count": 3772668,
+  "maxima": [
+    0,
+    0
+  ],
+  "checker_sha256": "a5d72e39f7417796e780b257abf3b036de9005711422188a5a593b8a55131afb",
+  "independence": "Adapted prior root C++ raw-domain audit; no producer enumeration, quotient data, or feature kernel; frozen mathematical inputs and certificate data shared."
+}

@@ -1,0 +1,25 @@
+{
+  "status": "FROZEN_ALL34345_ROWS_PASS_BEFORE_OTHER_DECODER_COMPARISON",
+  "files": {
+    "SCOPE.md": "d3e997e9a416cf7b6beb8c0b0c69ef20af594dbf38d8cbbcc30d98b0a5fe6e53",
+    "INPUTS.json": "5d8fc1fc9fc4febbb48888a3eacf48917515fcaf969304ddce94c869fee6991e",
+    "decode.py": "a6f5ba4d300ede7d89947e5a9275b0e008f4e5c0e6d26746f91cdaa7e5ffb623",
+    "verify.cpp": "fb0674c18c22e55f946b81ea36925bf115b817f7f192b28e6b7e02f7b72b74f6",
+    "package.py": "19f39c3e4673c811b29c1165ef4c6a40c42ee0dbf2fbaf5fecd83c5a53641aae",
+    "ROWS.jsonl": "42de99bd272a58231e5cc74a4c40586f45d98d8dd069bf81dc8872027ca0c46d",
+    "CHECK_INPUT.txt": "43f0d7333a0673375c8421448ffa381073760e58640c1480f6fa52394adbded0",
+    "HISTOGRAM_ROWS.txt": "68c8d27aa571bdfd285129117dac87eed72bb33aa7eb1eb763301db922444c94",
+    "ROW_LEDGER.jsonl": "cd14d3392eb90885abdd777d3c9b4123f7fe17c880dff29d01fdcf8558dfe3f0",
+    "HISTOGRAM_PACKET.json": "8588ded05182723a22965d9435eebbf38b4779580e14af772e52bf2b9d0703b4",
+    "DECODE_STATUS.json": "d4a073fe8873d8e0e1da66b6d55b6172d9dba22c3f466f06fd5efccaa296fdba",
+    "RESULT.json": "ed8c30abfe8d3500a33604ccfe31182663adb0ffce2d7951c554c1cf7b461842",
+    "verify.log": "36740055a380a337550412087a5c9052ef6a6a9b10907f2e58beed6dcf76ff0d",
+    "PROOF_AND_VERIFICATION.md": "691e090168c3ddb10b76deeaf3058a1f3f0352f18bc41b0b8bac7040787a5294"
+  },
+  "source_hashes_unchanged": true,
+  "raw_records": 34345,
+  "distinct_normalized_pointsets": 8551,
+  "histograms": 41,
+  "point_pairs_checked": 28162900,
+  "other_decoder_outputs_read": false
+}

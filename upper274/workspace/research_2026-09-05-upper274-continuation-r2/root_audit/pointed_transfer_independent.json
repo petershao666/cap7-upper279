@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "id": "P3_nested107_size276_to108",
+      "bound": -34833049056,
+      "table_values": 30
+    },
+    {
+      "id": "P3_nested107_size277_to108",
+      "bound": -37373744520,
+      "table_values": 30
+    },
+    {
+      "id": "P3_joint107_107_106_63_size276_to108",
+      "bound": -3495306745908,
+      "table_values": 30
+    }
+  ],
+  "table_sha256": "f49fe41ab07fed846a3830b15c138e2a26b4ec7e7db4cde3aa1af7ed7dbd2838",
+  "scope": "Same independently verified P2 functions with bounds improved by independently verified conditional107 floors and all108 deletions; universalNC108 inequalities only"
+}

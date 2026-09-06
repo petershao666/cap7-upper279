@@ -1,0 +1,2 @@
+c++ -std=c++17 -O2 -Wall -Wextra -fsanitize=undefined -fno-sanitize-recover=all verify.cpp -o verify_checked
+./verify_checked > cpp_verification.txt

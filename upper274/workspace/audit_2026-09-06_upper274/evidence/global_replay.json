@@ -1,0 +1,295 @@
+{
+  "status": "NEW_BOUND_VERIFIED",
+  "claim": "Every cap in F_3^7 has at most274 points, using the explicit accepted published lower-dimensional inputs.",
+  "excluded_cardinality": 275,
+  "global_upper": 274,
+  "accepted_lower": 236,
+  "cap237_existence": "UNKNOWN",
+  "sorted275_profiles": 341,
+  "negative_Q67_profiles": 56,
+  "Q67_total": -246950,
+  "ordinary_bans": [
+    [
+      112,
+      112,
+      29
+    ],
+    [
+      112,
+      111,
+      35
+    ],
+    [
+      112,
+      110,
+      45
+    ],
+    [
+      111,
+      111,
+      45
+    ],
+    [
+      112,
+      109,
+      51
+    ],
+    [
+      111,
+      110,
+      51
+    ],
+    [
+      111,
+      108,
+      56
+    ],
+    [
+      110,
+      109,
+      56
+    ],
+    [
+      109,
+      109,
+      57
+    ],
+    [
+      112,
+      105,
+      58
+    ],
+    [
+      111,
+      106,
+      58
+    ],
+    [
+      112,
+      104,
+      59
+    ],
+    [
+      111,
+      105,
+      59
+    ],
+    [
+      112,
+      103,
+      60
+    ],
+    [
+      111,
+      104,
+      60
+    ],
+    [
+      112,
+      102,
+      61
+    ],
+    [
+      111,
+      103,
+      61
+    ],
+    [
+      111,
+      102,
+      62
+    ]
+  ],
+  "r1_exact_certificates": 88,
+  "inherited_r1_raw_rows_not_rerun": 153548040,
+  "continuation_minimum_closures": [
+    {
+      "type": [
+        105,
+        105,
+        65
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "H3-THETA40-PHI105-MIN10510565",
+      "gap": 1926831607,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        108,
+        107,
+        60
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-THETA40-INCIDENCE-MIN10810760",
+      "gap": 21167272,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        108,
+        106,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "P3B-POINTED107-TRANSFER108-MIN10810661",
+      "gap": 1993186322,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        107,
+        107,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-THETA40-INCIDENCE-MIN10710761",
+      "gap": 9410019729,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "P5-SHARED107-MIN10710563",
+      "gap": 39396474454,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "P6-ALL5D-SHARED107-MIN10710662",
+      "gap": 456644586,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        106,
+        105,
+        64
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-COMPLETE41-MIN10610564",
+      "gap": 21576254250,
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-TWO-LOCAL-THETA400-MIN10610663",
+      "gap": 148616699075,
+      "ordinary_exclusion": false
+    }
+  ],
+  "remaining_minimum_states": [],
+  "last_certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "last_certificate_positive_gap": 148616699075,
+  "last_certificate_independent_raw_rows": 8807118,
+  "last_certificate_finite_support_checks": 15885,
+  "published_premises": "Audited baseline low-dimensional cap bounds/classifications/completion results; Thackeray complete41 classification and explicitly asserted ancillary-list completeness. See PROOF.md and complete41 source audits.",
+  "independence": "Root independent lower/outer and support arithmetic, P independently generated NC106 domains/compiler/replay, H independent logical/static arithmetic; accepted coefficient/source data and earlier verified kernels are explicitly shared. Inherited large audits were not rerun.",
+  "novelty": "Internal global bound improvement275 to274; no publication-priority claim. Published input recovery is not new mathematics.",
+  "input_hashes": {
+    "research_2026-09-05-upper274-continuation-r2/root_audit/global274/REGISTRY_BEFORE_274.json": "ae4b16840d5611a914a995451cf36a8b9207618d8268d05e89a57904eff8465b",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/one_state_bridge/VERIFICATION.json": "4ca23b877cf9205c54ee50ce50ae9a0e4b3c890279e3bca2e18ebf2e684ebc85",
+    "research_2026-09-05-capset-round1-r1/route_a/certificates.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-capset-round1-r1/root_audit/audited_certificate_snapshot.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-capset-round1-r1/root_audit/integration_checks.json": "e82fc53338c216e7b69b3c40175be7db46be11f62c1e118a1ad8620800e46e3b",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/global_bridge_audit/GLOBAL_BRIDGE_AUDIT.json": "d66931ebb5af27090ae937c326233243d8b3486999f161a3b55e6423551f8a94",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/complete41_support_10610564/RESULT.json": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41_min10610564/VERIFICATION.json": "36e8fd85970449ab662b932b19ae20b259ec80a96ca35e71305fd3826d871507",
+    "research_2026-09-05-capset-round1-r1/route_a/case_ledger.json": "c1fe7967fc4cc38df9f2ec11c9ee8dda6df8e781989e3afd90b289bf4b1953d8",
+    "research_2026-09-05-capset-round1-r1/root_audit/deleted3_independent_result.json": "055520ddd9cbd09a3270e6500b67bf0cd007c019c1af84e1f34b95fbbdc851f4",
+    "research_2026-09-05-capset-round1-r1/root_audit/deleted3_certificate.json": "8945df50dd1fbba2729113f0346db60b8cb8bb4ddfb9303ed48568116ac4a40a",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/h3/h3_result.json": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/h3_independent.json": "a3cf19ca91e3c6004b45ec139761b61f3f202667b8ab8e2f9240aafb09dffa3e",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40/EXACT_DUAL.json": "d6b08cb03ee145fd7db5a539bcf8269bfd0edd200772910d43d15cabe41c31d3",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_independent.json": "31c68a706e19a0fb79418e58ef8ae1e402909813d9109f94fb14ab3cbc19e91e",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/pointed_joint_certificate.json": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/pointed_joint_outer_independent.json": "e67d95c65244e406fd7468efe955add4dbb6b9af1981d3bb1a3cea3bb1ba2c0d",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/pointed_joint_independent.json": "468f579c460c449bfb792dfcb6f09c681f70f8e02e74562f4abec03fffc36e29",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40_10710761/EXACT_DUAL.json": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_sym_independent.json": "4609865e2a666b56003bf86e07a5d3a8e0657338913516f355bedc31425977e4",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/incidence107_certificate_107_105_63.json": "aedb510abef5d4d1126f759d918f53e7fa4e9a8bc3e9947ffefc9ca8ad2dbc8a",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_p5_independent.json": "e7dcb44e109545da106edd36696cd1128ec9fc35b7ae501774704737a114aa08",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/incidence107_all5d_certificate_107_106_62.json": "3753f438b1021d1915d3c2d97a26f3be6a93899af6f69619e71ea76b3409ce6c",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_p6_independent.json": "db3477523a3ead2794e2755464a4b64d4f9d991be70c6ada158f1981a71523d8",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41_min10610564/SUPPORT_VERIFICATION.json": "66549f62302d47e67b1c6ca7967ffe5a88a2c21a34a9746f6e64f9a1908065e8",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41_min10610564/ROOT_RAW_VERIFICATION.json": "117cbefb2329b446564be9fc67b1f43dc39ada8069b49c28830cbe532be53289",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/l_complete41_nc106_verify/VERIFICATION.json": "d0df62e12a8492bf4e894a55bf162d8ada1d6224b5fb2e51c9b0f65b0c5a7a34",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/l_complete41_nc106_verify/PROOF.md": "5bf79f000c245b05111d78b27c3871edc8e6b63b1f4ac5c0669fe350dc09e5e1",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41_min10610564/PROOF.md": "8a73696b3971845052c78c351f97e2fca69154aac132812e952c3c208d0f5f9c",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41/VERIFICATION.json": "fe9e96369a82a422d2e369f7f8cf777fb1c5a279f43befa8e734635a45dcc9ef",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/VERIFICATION.json": "06aeefcf8c6b8ab485c5d286321b595564e468890e8a600aebf610b7eb2f2e59",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/two_local_theta400_certificates/RESULT.json": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/ROOT_RAW_VERIFICATION.json": "bdbf59fff4d5de25bfe7dd220d6e7b44aa648a6dd9cefcfd3aee1e5aedb3296d",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/SUPPORT_VERIFICATION.json": "643d97974ecc94201c7ec68354502781a4c3eccbc9dada84202906518bebf0a4",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/three40_complete42_nc106_verify/VERIFICATION.json": "bb9a437a66965e478951c9dccbea60b23c9d889fcf19ba04f27218b24a9e2232",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/three40_complete42_nc106_verify/SOURCE_AND_SUPPORT_VERIFICATION.json": "1c1ff99175c032351f4d097676634b3d24f91de9bc06161737991bc770e740e5",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/three40_complete42_nc106_verify/RAW_VERIFICATION.json": "435a0110bbe7a9adbf5f8ce19d8b2138302883bb86d4b0e79e95f5dc46b74d07",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/finalize_branch.py": "e4d99cb71ca5aefd95dbeedc67262f79efdb48ff5527e835abd6b8db9fc90275",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/STATIC_VERIFICATION.json": "e8f259e44b66bdff7442e5aa87f3c01f53221f70a15088fab5ff149a077ad654",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/two_local_theta400_certificates/RAW_AUDIT_SPEC.json": "dc7fa023af06c99c469b75f32195bed6be727de1bdfe1cc71dd4dd274a659643",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/whole42_fixed_evaluation/INTEGER_PACKET.json": "99a90f162f1e865c05890c776861bcc4b3ba573e999b7211eaf656f4cf925fe3",
+    "audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json": "2780fba39eff792892e7aac960675e1ffdf8b2cf99b0c3b9e29d1123a98435be",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/two_local_theta400_certificates/all_case_coverage.json": "b004038e97cc03ba25350974841fe472a435dc943977c547ee25bc663534925c",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/h13/histogram_pair_capacity_v2.json": "707aa8ac752098e20f4714a561f4ab85aaaa7e45f5b770e9d161c5f5552907fc",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/actual16/ACCEPTED_HISTOGRAMS.json": "3776b3593a186ddb06b8af9f78b9b95860f7218106236fa2cc5fce693c470b28",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/actual17/ACCEPTED_HISTOGRAMS.json": "8ed6c68858ca68f5f9ace601a27efc25895c9a9c544f6937f1c78d1b65219936",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41/ACCEPTED_HISTOGRAMS.json": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/h10/full18_states.json": "4fcdc14a30fb3a209ce4a9709aced518272abfaf9a4609535622013e814c127e",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/h3/hist19_20.json": "5a5da7eab7de70c62b6796b4775095447a651dbce3458bad0dea326d093d10d1",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/FROZEN.json": "95bc8ab64ae621939f7ee28ec16c564ed1401ce1cec4fa369f4301e745a3a1c5",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/SCOPE.md": "fce64afd263ad48a3efeb7634c9553c83266e1315fbbb432ba8d600cf51966b1",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/check_static.py": "1f68bda0947231426bcc2acda3e7fcd7d343654fd0a886fee928b959e2f583f1",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/check_static.log": "2884e5b02c4b1d95becd39efd559606d1e59de3d566076b73a77f6f34c944c15",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/PROOF_AUDIT.md": "c5f25302c41bf81348189937eac07689114529f896cd4bc76ada0389aab4e6cd",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/DEPENDENCY_DAG.json": "8343912e88eaae2e316223d3df9679a17e9e41884ac18ee3053180cab8aaae51",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/three40_complete42_nc106_verify/PROOF.md": "bbbf5aaf6988abdcd50421ba4dd47d870e5ac7ad2ef46802a0c61e0ad77250a2",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/global274/PROOF.md": "7facb59f2c396802cc87e3e80d75ac98522110f2a72d00de0067d8818b7ac25c",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/global274/verify.py": "dea175d5e58ec95d755a6b01b4118fb6e1c9797debb979de7a4b0fdd0ef1f06f"
+  }
+}

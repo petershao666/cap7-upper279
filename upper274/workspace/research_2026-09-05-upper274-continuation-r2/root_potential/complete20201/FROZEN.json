@@ -1,0 +1,13 @@
+{
+  "status": "FROZEN_BEFORE_H_OUTPUT_READ",
+  "files": {
+    "ALL20_MASKS.txt": "66946f5ef9ea1e10164a5b3e56cf89dede2b85efc50d8a8eb1e392e5862d2f41",
+    "B20_DISJOINT_MASKS.txt": "fe8f6d795b9a538571f65ea0cf0898accd794ff98efa3465a02d948da3fa940a",
+    "CENTERED20_MASKS_COEFFICIENTS.txt": "825723ea7fc770332ef4d2ea4d8cad99e1ca42932af3d705a14798067a7e22d8",
+    "HISTOGRAMS.json": "bd60eb3207e5ad3df90c551378be0e960ce96772297f0dc247ab713610c23484",
+    "PREREGISTRATION.md": "fd3982f83fc1fb32f48aca0e8ddbf8fc780ab659d77563eda09da9e7d7a40dd7",
+    "RESULT.json": "452d32e79b9e0bd04eaa8b902b458bd2124b66b9564905ead2e24dab7fadf27c",
+    "enumerate_polynomials": "b3ecc32f6ce75d8e85dfd740f9ea2349529507a350ac8d01dfd894a8041ebc4e",
+    "enumerate_polynomials.cpp": "35eb8183789644bcc2101867c8afe6c091738530679425d16cacc20b5846ecab"
+  }
+}

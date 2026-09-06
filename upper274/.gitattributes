@@ -1,0 +1,4 @@
+# Frozen evidence must retain original bytes, including line endings.
+workspace/** -text -whitespace
+# Raw matrix domains contain byte values, not text lines.
+workspace/**/*.u8 binary

@@ -1,0 +1,24 @@
+{
+  "status": "CANDIDATE_FROZEN_AWAITING_AUTHOR_AND_ROOT_EXACT_REPLAY",
+  "files": {
+    "RESULT.json": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+    "run.py": "3e1d95d63333ff155bfb25bb4f71c72b00e69ec1f7fee219c3c56b0595d61cd1",
+    "verify.py": "a88044d2f46184ca8c11481ca10388c25cb7dfa39f332209e259dff9ab333eff",
+    "INPUTS.json": "f47ecdb5f11d59a8c73b5dbb0a57e671db00b00e481efed57f11ba62428bc7a6",
+    "MODEL_INPUT.json": "e80067b4bf1b67ff5772f89bd7736b6c71781bc527523063c13c01bc540ef82f",
+    "ACTIVATION.json": "43a97da868536b9a65524a8bd173fb5946dd8286bbc5a6fe5d2edd51f7cac752",
+    "INTERFACE_CHECK.json": "9ba0b893d5ab9985817f6101b786594ec9303996b5eac4bde875603fabc16879",
+    "MODEL_SIZE.json": "1767ab96551ce10a73d5cda19e7224f16b36d5e07668c9e643fce03d5d9557e4",
+    "local_support_layout.json": "c8e413d0020fdc10fe97d517a4017728d2beda098bc9ae6af1c164c0547cab3d",
+    "all_case_coverage.json": "4d8f0f862784191200c8bb8b04af26366d40ff4ccc8c25685de578bcb2ef39fa"
+  },
+  "target": [
+    106,
+    105,
+    64
+  ],
+  "outer_gap": 21576254250,
+  "discovery_elapsed": 171.7974019574467,
+  "iterations": 52,
+  "scope": "Only Q67-minimum branch; not ordinary ban"
+}

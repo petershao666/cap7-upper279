@@ -1,0 +1,10 @@
+{
+  "source_file": "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/fortyfive/ACCEPTED_POINTS.json",
+  "source_sha256": "f6d8bad31f3250d88f65e326e68e2e5404a11a1d2d93ca90a0fad352aab26980",
+  "point_order": "lexicographic five-coordinate tuple order",
+  "point_count": 45,
+  "coordinate_file": "COORDINATES.tsv",
+  "coordinate_file_sha256": "d6198fcda34e655131be7b8bae9b0c4de7a385a80ffeaf6b242d8e50b6dc1493",
+  "source_status": "PUBLISHED45_POINT_INPUT_INDEPENDENTLY_ACCEPTED",
+  "shared_dependency": "accepted 45-point coordinates and published affine uniqueness only"
+}

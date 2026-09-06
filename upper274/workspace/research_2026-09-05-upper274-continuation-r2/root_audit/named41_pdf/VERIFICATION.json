@@ -1,0 +1,53 @@
+{
+  "status": "ACCEPTED_PUBLISHED_NAMED_A_E_AND_45_POINT_INPUTS",
+  "root_pdf_sha256": "5b606f77df7326d0e0d0c0e8a419b938a05c5c7f9225038cb43dc26d5ac12fd2",
+  "producer_eps_sha256": "964763f4c3d4c878847cece1302a357fc9294c5a218815ae565fa9b486daae4e",
+  "comparison": [
+    {
+      "name": "45",
+      "all_points_equal": true,
+      "all_histogram_counts_equal": true,
+      "pair_checks": 990
+    },
+    {
+      "name": "41A",
+      "all_points_equal": true,
+      "all_histogram_counts_equal": true,
+      "pair_checks": 820
+    },
+    {
+      "name": "41B",
+      "all_points_equal": true,
+      "all_histogram_counts_equal": true,
+      "pair_checks": 820
+    },
+    {
+      "name": "41C",
+      "all_points_equal": true,
+      "all_histogram_counts_equal": true,
+      "pair_checks": 820
+    },
+    {
+      "name": "41D",
+      "all_points_equal": true,
+      "all_histogram_counts_equal": true,
+      "pair_checks": 820
+    },
+    {
+      "name": "41E",
+      "all_points_equal": true,
+      "all_histogram_counts_equal": true,
+      "pair_checks": 820
+    }
+  ],
+  "shared_dependencies": [
+    "Primary published diagrams and labelled coordinate convention",
+    "P geometry explanation read before root decoder; P coordinate outputs first read after root freeze"
+  ],
+  "independent_implementations": [
+    "PDF stroked lattice geometry + filled curve bounding boxes",
+    "EPS rational circular path parser"
+  ],
+  "no_affine_fit_or_cap_test_based_coordinate_selection": true,
+  "scope": "Published representative input verification; no new cap construction or global bound"
+}

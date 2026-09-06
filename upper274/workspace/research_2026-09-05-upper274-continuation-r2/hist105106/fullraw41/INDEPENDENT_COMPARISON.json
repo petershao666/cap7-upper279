@@ -1,0 +1,16 @@
+{
+  "status": "PASS_ALL34345_ROW_IDS_GRIDS_AND_POINTSETS_MATCH",
+  "producer_frozen_sha256": "8713451e0f5eb857c110ba008e2c69dc8cc0f7d2c91f3bffcfad1b0b0f56443c",
+  "independent_frozen_path": "research_2026-09-05-upper274-continuation-r2/compatibility/exceptional41_decode/FROZEN.json",
+  "independent_frozen_sha256": "a07fc1440ee4ebd360b5b8de3c89f7511fe47ac8a45a5486462ea443277f6a20",
+  "producer_point_rows_sha256": "be59b3c04ab4c48fa9ad13ce3d9882544fbc9939c2a7171219580713742dcf05",
+  "independent_point_rows_sha256": "43f0d7333a0673375c8421448ffa381073760e58640c1480f6fa52394adbded0",
+  "row_data_byte_identical_after_removing_producer_count_header": true,
+  "records_compared": 34345,
+  "format_difference": "Producer file has leading count line34345; L file has no leading count line. All subsequent bytes match.",
+  "matched_fields": "row id, nine stated cell counts, all41 sorted five-dimensional point IDs",
+  "shared_inputs": "primary raw rows, shape definitions/formula mathematics; prior one-record fixture disclosed. H used Java literals; L used workbook strings. No decoder kernel/generated pointset shared before both freezes.",
+  "whole_histogram_sets_equal": true,
+  "whole_histogram_count": 41,
+  "independent_histogram_packet_sha256": "8588ded05182723a22965d9435eebbf38b4779580e14af772e52bf2b9d0703b4"
+}

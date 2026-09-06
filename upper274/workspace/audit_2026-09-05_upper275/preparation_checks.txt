@@ -1,0 +1,6 @@
+PASS: original276 archive hash and 70 preserved dependency files.
+Source manifest PASS: 101 files
+Independent 41-cap support/anchor/prefix checks PASS: 3 functions
+Independent root identity PASS: 331 types; root sum -214038
+JSON to C++ data regeneration PASS
+Source ZIP SHA256: 6a7776fb65e8beeb962bce01b6a0f2050e37a0ebef641bf129d0dca1945f08f6

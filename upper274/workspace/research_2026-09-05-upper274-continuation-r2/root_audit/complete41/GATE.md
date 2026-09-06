@@ -1,0 +1,7 @@
+# Root complete41 input integration and exact verification
+
+Object: full121-direction histograms of arbitrary41-point caps in F3^5, up to affine transformations. Published Theorem6.3 has13 alternatives. Every component is now independently accepted: all45-minus4, allDelta686-minus1, namedA-I, all20201caps, and the entire raw exceptional overcover. This extends the prior incomplete case relaxation; no frozen H21 or other null LP is rerun unchanged.
+
+Root independently assembles histogram vectors from accepted source pointsets, rather than importing H's merging kernel. It checks allsource packet hashes, all40 possible sorted41types with4Dcapacity20, the family labels and finite union equality to H. It directly validates every union representative by pair arithmetic and all242normals. Repeated point checks are input verification, not new math. Root reads the source Theorem6.3/Proposition6.2(b) and proves the source-to-union implication with all completeness restrictions preserved; P independently audits that coverage. Primary source search completeness remains an explicit external mathematical premise.
+
+Budget: one worker, <=180seconds,1GiB. No optimization or new construction. Terminal artifact: accepted complete finite histogram family with source DAG and independently checked explicit representatives, or precisely identified unresolvedcoverage. No7Dbranch closes from this input alone. New upper computations require separate bounded model gates and exact positive certificates.

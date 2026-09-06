@@ -1,0 +1,89 @@
+{
+  "route": "A",
+  "status": "VERIFIED_SCOPED_REDUCTION_WITH_EIGHT_OPEN_STATES",
+  "upper274_proved": false,
+  "accepted_global_interval": [
+    236,
+    275
+  ],
+  "global_237_existence": "UNKNOWN",
+  "basic_types": 341,
+  "negative_Q_types": 56,
+  "new_ordinary_certificates": 12,
+  "new_minimum_certificates": 76,
+  "independent_verified_matrix_evaluations": 153548040,
+  "remaining_minimum_types": [
+    [
+      108,
+      107,
+      60
+    ],
+    [
+      108,
+      106,
+      61
+    ],
+    [
+      107,
+      107,
+      61
+    ],
+    [
+      107,
+      106,
+      62
+    ],
+    [
+      107,
+      105,
+      63
+    ],
+    [
+      106,
+      106,
+      63
+    ],
+    [
+      106,
+      105,
+      64
+    ],
+    [
+      105,
+      105,
+      65
+    ]
+  ],
+  "remaining_status_in_every_type": [
+    0,
+    0,
+    -1
+  ],
+  "remaining_status_meaning": "Both large whole six-dimensional slices non-completable; third slice unrestricted.",
+  "common107_attempt": "NO_NEW_MATH: no exact positive-gap joint histogram certificate",
+  "recovered_three_deletion_input": "Root audited; prior-overlap flag; not new Route A mathematics",
+  "novelty_status": "No literature-priority claim; missing continuation archive may overlap the scoped reduction.",
+  "stop": "Declared common constraint family produced no certificate; eight mathematical branches remain open. No unchanged restart.",
+  "shared_dependencies": [
+    "Frozen published and audited low-dimensional cap bounds/classifications and completion theorems",
+    "Frozen 106/107/108 and 41/42-point histogram coefficient data",
+    "Discovery reuses engine.py numerical proposer and enumerator plus justified paired-shear fast_enum",
+    "Two standalone Cartesian checkers share mathematical inputs and certificate data but not implementation kernels"
+  ],
+  "terminal_artifacts": [
+    "case_ledger.json",
+    "DERIVATION.md",
+    "certificates.json",
+    "verify.cpp",
+    "generate_verify_input.py",
+    "verification_input.txt",
+    "verification.log",
+    "discover.py",
+    "minimum.py",
+    "COMMON107_GATE.md",
+    "common107.py",
+    "common107_result.json",
+    "make_ledger.py"
+  ],
+  "target_size_to_exclude": 275
+}

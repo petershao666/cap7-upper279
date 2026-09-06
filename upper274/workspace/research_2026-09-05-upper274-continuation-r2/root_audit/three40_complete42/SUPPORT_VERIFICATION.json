@@ -1,0 +1,12 @@
+{
+  "status": "INDEPENDENT_DATA_AND_SUPPORT_MAXIMA_PASS",
+  "certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "finite_support_checks": 15885,
+  "pair18_states": 267,
+  "conditional18_states": 16,
+  "case_count": 133,
+  "ordinary_bans": 18,
+  "input_sha256": "08f35acd139e3ee613aa131386f96a8fcf79de1177a69fc9a378f6ad14f9fef2",
+  "root_code_sha256": "51c72c2c425d17493a5129c59315ab9e6ccd282bf50211808f16b6b860fc6ba1",
+  "independence": "stdlib-only pure certificate/input reads; no producer domain imports"
+}

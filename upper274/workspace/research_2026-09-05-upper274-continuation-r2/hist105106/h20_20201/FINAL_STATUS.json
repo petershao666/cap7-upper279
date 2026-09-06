@@ -1,0 +1,33 @@
+{
+  "status": "ROOT_AND_P_INDEPENDENTLY_ACCEPTED_COMPLETE_SCOPED_HISTOGRAM",
+  "scope": "All 41-caps in F3^5 admitting a (20,20,1) direction",
+  "published_premise": "Thackeray 2021 Theorem 4.9 affine uniqueness of 4D20-cap",
+  "centered_caps": 8424,
+  "all_labeled_4d20_caps": 682344,
+  "normalized_41_cap_cover_members": 198,
+  "distinct_complete_direction_histograms": 1,
+  "unique_histogram": {
+    "14,14,13": 40,
+    "15,15,11": 20,
+    "17,12,12": 20,
+    "17,16,8": 40,
+    "20,20,1": 1
+  },
+  "author_verification": "PASS full catalogue witness and 198 lift replay",
+  "external_verification": "Root source/coverage/code/points audit and P complete independent enumeration/full-set comparison PASS",
+  "proof": "THEOREM.md",
+  "point_table": "REPRESENTATIVE_POINTS.tsv",
+  "global_upper_bound_improvement_claimed": false,
+  "affine_classification_of_41_caps_claimed": false,
+  "publication_novelty_claimed": false,
+  "frozen_enumerator_after_independent_results": true,
+  "disclosure": "Code completed and compiled before P results arrived; P message arrived before H execution after failed resource wrappers. Enumeration kernel was not changed and no P generated file was imported.",
+  "runtime_budget_seconds": 600,
+  "enumerator_seconds": 0.461237,
+  "author_replay_seconds": 4.693331999937072,
+  "memory": "single worker; vector sizes under 100 MiB. OS resource wrapper rejected setting limits before process execution; actual enumerator has a 580-second stop guard.",
+  "independent_comparison_file": "research_2026-09-05-upper274-continuation-r2/root_potential/complete20201/H_COMPARISON.json",
+  "independent_comparison_sha256": "166580dff519cbe68e6571bf2c45f30694387c57b85208de79f09abf3545471c",
+  "root_acceptance": "root_audit/complete20201/ACCEPTED_HISTOGRAM.json",
+  "root_acceptance_sha256": "0f87e4aa68df464e92ccdceecf971392d69257c1c1e823ef6a3d9263543b0031"
+}

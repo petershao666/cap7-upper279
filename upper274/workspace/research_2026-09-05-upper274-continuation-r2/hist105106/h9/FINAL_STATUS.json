@@ -1,0 +1,51 @@
+{
+  "status": "LITERATURE_INPUT_RECOVERY_WITH_NULL_DOWNSTREAM_SEARCH",
+  "new_mathematics": false,
+  "recovered_point_representatives": [
+    "41F",
+    "41G",
+    "41H",
+    "41I",
+    "Delta686"
+  ],
+  "point_and_histogram_own_checks": "PASS",
+  "independent_root_input_check": "PENDING_AT_FREEZE",
+  "full_universal41_point_family_coverage": "NOT_ESTABLISHED",
+  "delta_one_deletion_sets": 42,
+  "delta_one_deletion_distinct_histograms": 2,
+  "complete_model_branch_count": 49,
+  "nonempty_model_branches": 43,
+  "canonical_lower_matrices": 78345,
+  "null_results": [
+    {
+      "target": [
+        106,
+        105,
+        64
+      ],
+      "iterations": 19,
+      "seconds": 30.343154915841296,
+      "numerical_status": "FULL_NAMED41_HIST_MODEL_NO_POSITIVE_DUAL"
+    },
+    {
+      "target": [
+        106,
+        106,
+        63
+      ],
+      "iterations": 24,
+      "seconds": 37.06089595798403,
+      "numerical_status": "FULL_NAMED41_HIST_MODEL_NO_POSITIVE_DUAL"
+    }
+  ],
+  "new_certificate": null,
+  "new_exclusion_claim": false,
+  "target_size_to_exclude": 275,
+  "global_interval": [
+    236,
+    275
+  ],
+  "global237_existence": "UNKNOWN",
+  "shared_dependencies": "PrimarypublishedASCII, sameH3-H8discoverykernels, acceptedclassificationmapping. Root must independentlytranscribeASCII and check before inputpromotion.",
+  "next_obstacle": "General18-containing41 branches retain only partial18statistics; no full universal41cap census has been decoded."
+}

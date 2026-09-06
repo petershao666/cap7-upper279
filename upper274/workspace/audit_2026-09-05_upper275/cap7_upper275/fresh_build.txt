@@ -1,0 +1,13 @@
+In file included from /mnt/data/cap7_upper275/verify_step.cpp:4,
+                 from /mnt/data/cap7_upper275/verify.cpp:2:
+/mnt/data/cap7_upper275/baseline277/verify.cpp: In function ‘int preserved_baseline277_main()’:
+/mnt/data/cap7_upper275/baseline277/verify.cpp:112:1: warning: no return statement in function returning non-void [-Wreturn-type]
+  112 | }
+      | ^
+/mnt/data/cap7_upper275/verify_step.cpp: In function ‘I verify_step_case(const StepRecord&, const LowerInputs&, const std::vector<std::array<int, 3> >&, bool)’:
+/mnt/data/cap7_upper275/verify_step.cpp:69:2: warning: this ‘if’ clause does not guard... [-Wmisleading-indentation]
+   69 |  if(!r.empty)check(scalar(r.q,sums)==r.U&&364*r.K-r.U==r.gap&&r.gap>0,"step local summed gap");I minimum=std::numeric_limits<I>::max();
+      |  ^~
+/mnt/data/cap7_upper275/verify_step.cpp:69:96: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the ‘if’
+   69 |  if(!r.empty)check(scalar(r.q,sums)==r.U&&364*r.K-r.U==r.gap&&r.gap>0,"step local summed gap");I minimum=std::numeric_limits<I>::max();
+      |                                                                                                ^

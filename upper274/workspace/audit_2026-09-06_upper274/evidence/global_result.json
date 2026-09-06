@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "same_as_frozen": true,
+  "original_source_sha256": "dea175d5e58ec95d755a6b01b4118fb6e1c9797debb979de7a4b0fdd0ef1f06f",
+  "original_source_unmodified": true,
+  "output_only_redirected": true,
+  "checks": "Original exact global bridge rerun; not an independently implemented checker",
+  "global_upper": 274,
+  "remaining": [],
+  "elapsed_seconds": 0.031701458152383566
+}

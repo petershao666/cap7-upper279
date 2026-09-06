@@ -1,0 +1,24 @@
+{
+  "status": "EXACT_REPRESENTATIVE_AND_ASSIGNMENT_FREQUENCY_REPLAY_PASS",
+  "representatives": 8,
+  "representative_pairs": 6240,
+  "nonzero_normal_evaluations": 1936,
+  "full_assignment_count": 682344,
+  "parameter_set": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10
+  ],
+  "full_assignment_histograms_recomputed": false,
+  "shared_inputs": [
+    "frozen P representative and assignment outputs",
+    "accepted complete 20-cap catalogue hash"
+  ],
+  "enumerator_kernel_imported": false,
+  "histograms_sha256": "f3278815900918e48c0af51b7d88c8907c006b5451cd35fe52ee4b6ce198013d"
+}

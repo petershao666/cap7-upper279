@@ -1,0 +1,173 @@
+{
+  "status": "ACYCLIC_LOGICAL_DEPENDENCY_MAP",
+  "nodes": [
+    {
+      "id": "published_baseline",
+      "scope": "Published bounds/classifications/completion inputs D1-D6 in baseline README; original searches not re-proved",
+      "depends_on": [],
+      "references": [
+        "audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/README.md"
+      ]
+    },
+    {
+      "id": "baseline6_and_seeds",
+      "scope": "Inherited ordinary6D/completion certificates,103-rigidity,109-completion,112-slice seed lemmas",
+      "depends_on": [
+        "published_baseline"
+      ],
+      "references": [
+        "audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json"
+      ]
+    },
+    {
+      "id": "published_lower_geometry",
+      "scope": "3D bounds;4D17 direction cover,19/20 spectra and valid affine grid clashes;18 complete class and parallel pair capacities",
+      "depends_on": [],
+      "references": [
+        "https://arxiv.org/html/2206.09719v1",
+        "research_2026-09-05-upper274-continuation-r2/hist105106/h13/table1_input_v2.json"
+      ]
+    },
+    {
+      "id": "actual16_17_families",
+      "scope": "Inherited independently enumerated complete finite histogram families;376 and102 vectors,not affine-class counts",
+      "depends_on": [
+        "published_lower_geometry"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_audit/actual16/ACCEPTANCE_PROOF.md",
+        "research_2026-09-05-upper274-continuation-r2/root_audit/actual17/ACCEPTANCE_PROOF.md"
+      ]
+    },
+    {
+      "id": "complete18_support",
+      "scope": "17 histogram states;267 ordered parallel18 pairs;16 conditional20182 states",
+      "depends_on": [
+        "published_lower_geometry"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/hist105106/h10/full18_states.json",
+        "research_2026-09-05-upper274-continuation-r2/hist105106/h13/histogram_pair_capacity_v2.json"
+      ]
+    },
+    {
+      "id": "complete41_support",
+      "scope": "44 complete histogram vectors,including extendable41 caps; explicitly depends on published13-alternative classification and ancillary-list completeness",
+      "depends_on": [
+        "published_baseline",
+        "published_lower_geometry"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_audit/complete41/PROOF.md",
+        "https://arxiv.org/html/2206.09719v1"
+      ]
+    },
+    {
+      "id": "complete42_45_support",
+      "scope": "Inherited exact4/1/1/1 histogram families for42/43/44/45",
+      "depends_on": [
+        "published_baseline"
+      ],
+      "references": [
+        "audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json"
+      ]
+    },
+    {
+      "id": "fixed_H3_universal",
+      "scope": "Earlier accepted universal40 potential and its fixed transported/centered upper rows; independent of new400/401/402 bounds",
+      "depends_on": [
+        "published_lower_geometry"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_audit/h3_independent.json"
+      ]
+    },
+    {
+      "id": "round1_275_partition",
+      "scope": "Inherited88 exact ordinary/minimum certificates and complete physical completion-state partition,plus recovered three-deletion ordinary seeds",
+      "depends_on": [
+        "baseline6_and_seeds"
+      ],
+      "references": [
+        "research_2026-09-05-capset-round1-r1/root_audit/integration_checks.json"
+      ]
+    },
+    {
+      "id": "seven_earlier_minimum_closures",
+      "scope": "Seven accepted minimum-only continuation closures with their own frozen audit dependencies; none is an ordinary transverse ban",
+      "depends_on": [
+        "round1_275_partition",
+        "complete41_support",
+        "fixed_H3_universal",
+        "complete18_support",
+        "actual16_17_families",
+        "complete42_45_support"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_audit/one_state_bridge/VERIFICATION.json"
+      ]
+    },
+    {
+      "id": "one_state_bridge",
+      "scope": "341 profiles,56 negativeQ67 profiles,complete status split; exactly(10610663,00-1)remains",
+      "depends_on": [
+        "round1_275_partition",
+        "seven_earlier_minimum_closures"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_audit/one_state_bridge/PROOF.md"
+      ]
+    },
+    {
+      "id": "three_universal40_bounds",
+      "scope": "New candidate fixed functions;44case complete covers;root independent raw replay and exact finite supports",
+      "depends_on": [
+        "actual16_17_families",
+        "complete18_support",
+        "published_lower_geometry"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/ROOT_RAW_VERIFICATION.json"
+      ]
+    },
+    {
+      "id": "universal_NC106_bound",
+      "scope": "79 supported profiles,14 rare-anchor cover;P fullraw verification;B106=-35039780423844643,independent of7Dminimum",
+      "depends_on": [
+        "three_universal40_bounds",
+        "complete41_support",
+        "complete42_45_support",
+        "fixed_H3_universal",
+        "baseline6_and_seeds"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/root_potential/three40_complete42_nc106_verify/VERIFICATION.json"
+      ]
+    },
+    {
+      "id": "last_minimum_contradiction",
+      "scope": "Root fullouter replay;364K-U=148616699075>0,onlymin10610663NCNC",
+      "depends_on": [
+        "universal_NC106_bound",
+        "baseline6_and_seeds",
+        "round1_275_partition"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/compatibility/two_local_theta400_certificates/RESULT.json",
+        "research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/ROOT_RAW_VERIFICATION.json"
+      ]
+    },
+    {
+      "id": "C7_at_most274",
+      "scope": "No275cap by complete minimum cover;larger caps contain275subsets;global ledger promotion belongs to root",
+      "depends_on": [
+        "one_state_bridge",
+        "last_minimum_contradiction"
+      ],
+      "references": [
+        "research_2026-09-05-upper274-continuation-r2/hist105106/final274_logic_audit/PROOF_AUDIT.md"
+      ]
+    }
+  ],
+  "boundary": "Every accepted finite/classification premise keeps its original source/audit scope. No275or274globalconclusion is used upstream. Fixed zero outer functions are retained as metadata but are not needed in the final inequality."
+}

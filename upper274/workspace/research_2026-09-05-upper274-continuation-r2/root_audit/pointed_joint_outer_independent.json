@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "transfer_values": 30,
+  "target": [
+    108,
+    106,
+    61
+  ],
+  "positive_gap": 1993186322,
+  "source_sha256": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+  "input_sha256": "6f53ccac1bb520f504ca610f282d8ed23f20e769f992f514b55d93f7aca68c2c",
+  "local_conditional_proof_required": "pointed_joint_independent.json",
+  "checker_dependency": "Frozen round1 root independent_a.cpp, mathematical domain rebuilt with new coefficients and checked source data",
+  "outer_count": 4203861,
+  "minimum": 3493400953736,
+  "local_marked_count": 107217,
+  "root_shared_dependencies": [
+    "P3 standalone Ruby mathematical checker adapted to new coefficient data",
+    "Frozen round1 independent Cartesian C++ mathematical checker",
+    "Frozen lower-dimensional theorem and coefficient inputs"
+  ]
+}

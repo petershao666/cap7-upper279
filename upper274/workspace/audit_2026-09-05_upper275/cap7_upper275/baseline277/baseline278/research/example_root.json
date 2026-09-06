@@ -1,0 +1,14 @@
+{
+  "target": 279,
+  "certificate": {
+    "coeff": [
+      -305,
+      3
+    ],
+    "K": -5500764,
+    "forced": -6012373554,
+    "gap": 38502
+  },
+  "remaining_types": 231,
+  "feasible_relaxation_mixture": null
+}

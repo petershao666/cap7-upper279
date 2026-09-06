@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "source_sha256": "362787458cdde74d0d23d24aff22cbb7d5a2e41d3f8800662587ba41f903fb5f",
+  "input_sha256": "08f35acd139e3ee613aa131386f96a8fcf79de1177a69fc9a378f6ad14f9fef2",
+  "compiler_command": [
+    "c++",
+    "-O2",
+    "-std=c++17",
+    "-fsanitize=undefined",
+    "-fno-sanitize-recover=all",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/three40_complete42/verify.cpp",
+    "-o",
+    "/private/tmp/cap274-review-20260906/lower_outer.bin"
+  ],
+  "undefined_behavior_sanitizer": true,
+  "kernel_provenance": "Fresh build and replay of previously independent research verifier; shared source and frozen inputs disclosed",
+  "cases": 133,
+  "raw_rows": 7701024,
+  "case_records_equal": true,
+  "summary": "PASS cases 133 raw 7701024 canonical 2570134 seconds 10.9144",
+  "elapsed_seconds": 12.42147129192017
+}

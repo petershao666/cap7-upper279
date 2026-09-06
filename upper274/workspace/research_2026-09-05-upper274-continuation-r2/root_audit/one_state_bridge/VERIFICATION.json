@@ -1,0 +1,37 @@
+{
+  "status": "PASS_REDUCED_TO_ONE_MINIMUM_STATE_NOT_274",
+  "sorted275_types": 341,
+  "negative_types": 56,
+  "root_total": -246950,
+  "r1_exact_certificates": 88,
+  "accepted_continuation_minimum_closures": 7,
+  "remaining": [
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "Q67": -7396
+    }
+  ],
+  "conditional_bridge": "If the remaining actual Q67-minimum NC/NC/* state is excluded by a complete independently checked certificate, no275cap exists; a larger cap would contain a275subset.",
+  "global_upper": 275,
+  "cap237_existence": "UNKNOWN",
+  "shared_dependencies": "Previously accepted exact-domain audits and explicit published classification/completion inputs; no source classification is re-proved here.",
+  "input_hashes": {
+    "research_2026-09-05-capset-round1-r1/route_a/certificates.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-capset-round1-r1/root_audit/audited_certificate_snapshot.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-capset-round1-r1/root_audit/integration_checks.json": "e82fc53338c216e7b69b3c40175be7db46be11f62c1e118a1ad8620800e46e3b",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/global_bridge_audit/GLOBAL_BRIDGE_AUDIT.json": "d66931ebb5af27090ae937c326233243d8b3486999f161a3b55e6423551f8a94",
+    "research_2026-09-05-upper274-continuation-r2/RESEARCH_OUTPUT_REGISTRY.json": "ae4b16840d5611a914a995451cf36a8b9207618d8268d05e89a57904eff8465b",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/complete41_support_10610564/RESULT.json": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/complete41_min10610564/VERIFICATION.json": "36e8fd85970449ab662b932b19ae20b259ec80a96ca35e71305fd3826d871507"
+  },
+  "elapsed": 0.027714000083506107
+}

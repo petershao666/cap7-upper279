@@ -1,0 +1,18 @@
+{
+  "status": "CANDIDATE_EXACT_CERTIFICATE",
+  "result_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "checkpoint_sha256": "522aeaba0fcb802be76437c564183e62260deeab2e0764f3d216f7367452cc3f",
+  "source_hashes": {
+    "run.py": "44f064c1723c2c8c51da1459b091b48c08d1c6fb906a0fab51d4a0e717aa48ab",
+    "verify.py": "c57ea39d79a6cca4fbebaf65d2c1e17694d249d5c2ffdd2b471a7e2dd76a10a5",
+    "INPUTS.json": "1e6e3801c6c651d5687de3351c6ca16468401a92cda60930e8eb26bc546d3d28",
+    "SCOPE.md": "0566d3e13825758f49bf4a74e6a3f74d52a8dd1c9288c0ff0863b9dc06ba81c5",
+    "PLANNED_COPY_LAYOUT.json": "1bc2a4c9cca81d089892190c32d61b7ea00d2bbf46cc9b2a3ebade3ef9370b59",
+    "REALIZED_COPY_LAYOUT.json": "1e0f1098b78803da0e06914579e174ff6776cc91e72cb4fe43beceaa7644a6fd"
+  },
+  "elapsed": 8.068762167124078,
+  "scales_attempted": [
+    100000000000000
+  ],
+  "optimizer_calls": 2
+}

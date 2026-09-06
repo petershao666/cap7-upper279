@@ -1,0 +1,12 @@
+{
+  "status": "PASS_MAIN_INTERFACE_WITH_FIXED_H3_RETAINED",
+  "unproved_optional_claim": "H3 membership in the particular descending-anchor C40 cone; do not delete the fixed H3 row on this basis",
+  "files": {
+    "COPY_IDENTITIES.md": "114a2948576c9614c515d0c46867d81e104c150ce50752c11aa24d6c4f3a5671",
+    "ELEMENTARY_LEMMA.md": "485e84c4dce11368c4b9ed021497430835b751d0fc0a5eb582e541b368bcf079",
+    "PREREGISTRATION.md": "670f8debc9bc1e972f9546597574f831766a98537c76d7a3b42c0e2040413eb2",
+    "RATIONAL_VERIFICATION.json": "2861530bfcda81c86d5df59f4883f565e109a156a1917dfb15ae06169e438ee8",
+    "SCOPE_AUDIT.md": "08dd7fc4b1d2b2c0b5192eb6f62a173c2ed875e85b69df0c36156f39bcc5a250",
+    "verify_rational.rb": "fb0904d58b08520a6f1727ab20cf9f948fd9dd4eaa03d24d0263888fd09cd621"
+  }
+}

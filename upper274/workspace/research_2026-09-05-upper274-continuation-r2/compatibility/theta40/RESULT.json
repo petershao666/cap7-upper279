@@ -1,0 +1,64 @@
+{
+  "target": [
+    108,
+    107,
+    60
+  ],
+  "complete_declared_cone": true,
+  "inner_counts": [
+    {
+      "size": 108,
+      "full_count": 565824,
+      "quotient_count": 31505
+    },
+    {
+      "size": 107,
+      "full_count": 1407366,
+      "quotient_count": 80583
+    }
+  ],
+  "rows": 606,
+  "columns": 929872,
+  "status": 0,
+  "message": "Optimal compact dual; every complete column priced",
+  "elapsed": 162.05872737499885,
+  "exact_result": true,
+  "ru_maxrss": 892551168,
+  "objective": 0.002243081426935939,
+  "status_label": "CANDIDATE_EXACT_COUPLED_THETA40_DUAL",
+  "integer_attempts": [
+    {
+      "scale": 1000000,
+      "maximum_column": 0,
+      "rhs": -403213,
+      "normalization_repairs": [
+        1127016,
+        86566,
+        190866
+      ],
+      "absolute_integer_bound": 336566130
+    },
+    {
+      "scale": 100000000,
+      "maximum_column": 0,
+      "rhs": -98154,
+      "normalization_repairs": [
+        18015176,
+        98856,
+        125405
+      ],
+      "absolute_integer_bound": 33489670782
+    },
+    {
+      "scale": 10000000000,
+      "maximum_column": 0,
+      "rhs": 21167272,
+      "normalization_repairs": [
+        -1929368,
+        295529,
+        208411
+      ],
+      "absolute_integer_bound": 3348612205343
+    }
+  ]
+}

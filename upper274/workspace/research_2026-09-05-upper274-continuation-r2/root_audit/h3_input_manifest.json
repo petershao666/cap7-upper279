@@ -1,0 +1,15 @@
+{
+  "status": "DEPENDENCY_TRANSCRIPTION_PASS",
+  "case_count": 62,
+  "theta40_anchors": 44,
+  "phi105_anchors": 17,
+  "outer_targets": [
+    [
+      105,
+      105,
+      65
+    ]
+  ],
+  "certificate_sha256": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+  "input_sha256": "be50514b9d95890383eb3df3c21a6c5764a61d08fe25a914c5fe4057ecbbf633"
+}

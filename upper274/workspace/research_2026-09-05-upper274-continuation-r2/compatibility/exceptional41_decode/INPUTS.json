@@ -1,0 +1,17 @@
+{
+  "source_hashes": {
+    "root_audit/exceptional41_raw/Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "55e3a7eb2980c10096f38199e7834631d711a296a14826903afd7fc7e474641a",
+    "root_audit/exceptional41_raw/Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data.txt": "fadaa04086ca80c94a4614e312cb94ff21eea81a142320e8e8d635133adaaedc",
+    "hist105106/h9/SetDim5Cap43_8sc_ListOfCaps.xlsx": "e0f400de5dbf75001448a825afc39a440b98f934615cb9a6e948081430b01acf",
+    "hist105106/h9/SetDim5Cap43_8cu_ListOfCaps.xlsx": "7c44f6ae29c2b9621583712f4b8f9f55edbb291878bb7f26f47a241d04d1d74a",
+    "hist105106/h9/SetDim5Cap43_8sa_ListOfCaps.xlsx": "93567acccba3a8cb298e96e33ff57bb3df44b1e24a6d2bc0f12636dd105c2da6",
+    "hist105106/h9/SetDim5Cap43_9asifsa_ListOfCaps.xlsx": "d445499dcb199873705940026b798363d1820edc79c1e5c6003245a0a01bdd35",
+    "hist105106/h9/SetDim5Cap43_9General_ExclPtCounts.java": "3305eccd3892c020ecbcdb06c4e4602edfb038640469e28ab017f0122d767077",
+    "hist105106/h9/SetDim5Cap43_8sc_ExclPtCounts.java": "5c38c213b9694708ccb37ec54c477c2afad5b5a66245ac4f0c7ac647c0494b9f",
+    "root_audit/exceptional41_raw/SetDim5Cap43_8cu_ExclPtCounts.java": "10aecb2fd7bdd59766c2fd01d4375a32da0ae4dd7137a9036530ebfb10301d76",
+    "root_audit/exceptional41_raw/SetDim5Cap43_8sa_ExclPtCounts.java": "c99803ee970a9fe6c8434f8a59fa6d62d58dd6019daffa80771f9c29ec73904d"
+  },
+  "H_generated_pointsets_read": false,
+  "shared_named_input": "Only General9 named918F,918I,972I coordinate literals from primary source;17-point bottom sections and all8 formats use workbook columnsA/B. Root explicitly accepted this shared input boundary.",
+  "example_disclosure": "Root says earlier one-record format example was shared; not used as evidence or imported here."
+}

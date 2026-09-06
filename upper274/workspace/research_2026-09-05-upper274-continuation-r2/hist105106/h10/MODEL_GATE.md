@@ -1,0 +1,7 @@
+# Full physical18-state model
+
+The complete published20-class18 input gives17 distinct fullhistograms. H9's49case overcover expands to136 cases by replacing each physical18column's partialstate with EVERY fullstate having those3counts. No additional classpair inference or pruning is used. The old009 partialstate expands into4fullhistograms, allotherpartialstates into1. General18176/18167 eachhave17states. Complete136casecount is computed in input_check.json before enumeration.
+
+For each physical18column fixed to a fullhistogram, remove local refinements whose own3Ddirectiontype has zero count in that histogram, and append each positive-type indicator as an exact forced feature with its40-direction count. Its dual multiplier may be signed. These zero-count bans are never applied outside the fixedphysicalcolumn/state. Keep exact19/20histograms,17directioncover, allpublishedAGLclashes, H8whole41classconstraints, H9exact41F/Delta spectra, all earlier-anchorabsence prefixes, and allgeneral/exceptioncases.
+
+Run single10610564 then10610663, at most270seconds each, total<=540inside600; eachLP<=120seconds and remainingwallguard. Model uses one freshuniversaltheta41 and one freshNC106Phi106 per target; fixedH3Phi105 only enters10610564 through a nonnegativeupperfeature. If input rootaudit has not finished, discovery is conditional and no certificate is promoted. Terminal complete136-case counts and exactcertificate if found, otherwise nulls withunchangedglobalstatus. AllsharedH3-H9kernels disclosed; newexactclaim requires independentrootreplay.

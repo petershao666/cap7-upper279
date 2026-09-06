@@ -1,0 +1,132 @@
+{
+  "nodes": [
+    {
+      "id": "c4_bound",
+      "kind": "published_premise",
+      "claim": "Every affine 4D cap has at most20 points; hence the forty sorted41-types exhaust all directions."
+    },
+    {
+      "id": "thm63",
+      "kind": "published_premise",
+      "locator": "https://arxiv.org/html/2206.09719v1#S6.Thmtheorem3.p1.1",
+      "claim": "Every 5D41-cap is in one of the13 listed alternatives; outside alternative13 it is in exactly one other alternative."
+    },
+    {
+      "id": "prop62b",
+      "kind": "published_premise",
+      "locator": "https://arxiv.org/html/2206.09719v1#S6.I1.ix2.p1.1",
+      "claim": "Supplementary lists cover all isomorphism classes in the stated saddled-cube exceptional option, allowing duplicate representatives."
+    },
+    {
+      "id": "thm63proof",
+      "kind": "published_premise",
+      "locator": "https://arxiv.org/html/2206.09719v1#S6.p10.1",
+      "claim": "The supplementary-list coverage is explicitly restated for alternative13 itself."
+    },
+    {
+      "id": "unique45",
+      "kind": "published_premise",
+      "locator": "https://arxiv.org/html/2206.09719v1#S4.p1.1",
+      "claim": "There is one affine-isomorphism class of45-caps; the paper proves this again in Section4."
+    },
+    {
+      "id": "named_AE",
+      "kind": "accepted_finite_input",
+      "file": "root_audit/named41_pdf/ACCEPTED_POINTS.json"
+    },
+    {
+      "id": "named_FI_delta",
+      "kind": "accepted_finite_input",
+      "file": "root_audit/h9_named_independent.json"
+    },
+    {
+      "id": "four_delete",
+      "kind": "accepted_finite_input",
+      "file": "root_audit/fortyfive/ACCEPTED_FOUR_DELETE_HISTOGRAMS.json",
+      "count": 148995,
+      "spectra": 27
+    },
+    {
+      "id": "all20201",
+      "kind": "accepted_finite_input",
+      "file": "root_audit/complete20201/ACCEPTED_HISTOGRAM.json",
+      "spectra": 1
+    },
+    {
+      "id": "raw_family",
+      "kind": "accepted_finite_input",
+      "file": "root_audit/exceptional41_raw/ACCEPTED_RAW_HISTOGRAMS.json",
+      "positive_rows": 34345,
+      "spectra": 41,
+      "note": "Primary search/list completeness remains a literature premise; independent decoding does not reprove that search."
+    },
+    {
+      "id": "static_union",
+      "kind": "this_finite_integration",
+      "file": "CANDIDATE_UNION.json",
+      "spectra": 44,
+      "source_occurrences": 80,
+      "status": "PENDING_ROOT_FINAL_COVERAGE_AND_UNION_AUDIT"
+    },
+    {
+      "id": "ordinary_profile_zeros",
+      "kind": "conditional_corollary",
+      "file": "PROFILE_SUPPORT.json",
+      "absent_types": 14,
+      "status": "PENDING_COMPLETE_FAMILY_ACCEPTANCE"
+    },
+    {
+      "id": "global274",
+      "kind": "not_claimed",
+      "status": "NO_GLOBAL_BOUND_IMPROVEMENT_FROM_THIS_TASK"
+    }
+  ],
+  "edges": [
+    [
+      "unique45",
+      "four_delete"
+    ],
+    [
+      "prop62b",
+      "raw_family"
+    ],
+    [
+      "thm63proof",
+      "raw_family"
+    ],
+    [
+      "thm63",
+      "static_union"
+    ],
+    [
+      "c4_bound",
+      "static_union"
+    ],
+    [
+      "named_AE",
+      "static_union"
+    ],
+    [
+      "named_FI_delta",
+      "static_union"
+    ],
+    [
+      "four_delete",
+      "static_union"
+    ],
+    [
+      "all20201",
+      "static_union"
+    ],
+    [
+      "raw_family",
+      "static_union"
+    ],
+    [
+      "static_union",
+      "ordinary_profile_zeros"
+    ]
+  ],
+  "edge_meaning": "first is an explicit premise for second",
+  "shared_dependency_boundary": "All decoders and the source coverage audit share the published classification and primary supplementary outputs. H and L used independent static-coordinate decoders, but shared a prior one-SC-record format fixture; full outputs were independently frozen before comparison."
+}

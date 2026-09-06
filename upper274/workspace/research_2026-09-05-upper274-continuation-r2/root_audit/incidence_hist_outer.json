@@ -1,0 +1,101 @@
+{
+  "cases": [
+    {
+      "key": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1755139,
+      "extras": [
+        [
+          0,
+          "nested107_size276"
+        ],
+        [
+          0,
+          "nested107_size277"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          1,
+          "nested106_size276"
+        ],
+        [
+          1,
+          "joint106_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to107"
+        ],
+        [
+          0,
+          "NC107_theta40_j1"
+        ],
+        [
+          0,
+          "NC107_theta40_10710761_j0_floor10000"
+        ],
+        [
+          1,
+          "H3_phi105_to106"
+        ]
+      ],
+      "certificate": null
+    },
+    {
+      "key": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "count": 1841063,
+      "extras": [
+        [
+          0,
+          "nested107_size276"
+        ],
+        [
+          0,
+          "nested107_size277"
+        ],
+        [
+          0,
+          "joint107_107_106_63_size276"
+        ],
+        [
+          0,
+          "H3_phi105_to107"
+        ],
+        [
+          0,
+          "NC107_theta40_j1"
+        ],
+        [
+          0,
+          "NC107_theta40_10710761_j0_floor10000"
+        ],
+        [
+          1,
+          "H3_phi105"
+        ]
+      ],
+      "certificate": null
+    }
+  ],
+  "claim": "EXACT_CANDIDATES_REQUIRE_INDEPENDENT_REPLAY"
+}

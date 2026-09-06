@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "profiles": 121,
+  "deletion_terms": 386,
+  "arithmetic": "Ruby Integer exact; hole-composition enumeration"
+}

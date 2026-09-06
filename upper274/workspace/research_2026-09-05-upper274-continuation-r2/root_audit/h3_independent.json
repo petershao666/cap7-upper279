@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "cases": 62,
+  "full_ordered_matrices": 8547569,
+  "cyclic_representatives": 2877191,
+  "outer_matrix_count": 7931724,
+  "outer_K": -190762786478,
+  "forced_upper": -69439581109599,
+  "gap": 1926831607,
+  "closed_minimum_state": [
+    105,
+    105,
+    65
+  ],
+  "state": [
+    0,
+    0,
+    -1
+  ],
+  "ordinary_exclusion": false,
+  "global_upper": 275,
+  "goal_274_complete": false,
+  "source_sha256": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+  "checker_sha256": "8c53d36b3bf9f24b1eea55cc94988b61c6b81dcc42cadab2e93cfc648f627cb0",
+  "log_sha256": "c021f67857153aa7c347ff5b6fdb5e326554395ff0997af4821b8ac87ae670c0"
+}

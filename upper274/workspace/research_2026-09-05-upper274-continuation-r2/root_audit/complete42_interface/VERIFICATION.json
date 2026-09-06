@@ -1,0 +1,79 @@
+{
+  "status": "PASS_EXACT_MARGINAL_SEPARATION_AND_COMPLETE_HULL",
+  "old_upper_rows": 19,
+  "moments": [
+    121,
+    69741,
+    309960
+  ],
+  "affine_rank": 3,
+  "affine_equations": 10,
+  "facets": 4,
+  "strict_gap": "1/20",
+  "physical42": [
+    {
+      "case": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "column": 0
+    },
+    {
+      "case": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "column": 0
+    },
+    {
+      "case": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "column": 1
+    },
+    {
+      "case": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "column": 1
+    },
+    {
+      "case": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "column": 1
+    },
+    {
+      "case": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "column": 1
+    }
+  ],
+  "shared_dependencies": "Accepted published complete42 spectra; accepted old upper functions; H24 pure witness data. No producer imports.",
+  "nonclaim": "No actual cap or parent relaxation realization; no new global bound or classification.",
+  "elapsed": 0.006361166946589947,
+  "inputs": {
+    "/Users/hengshao/Desktop/math/audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json": "2780fba39eff792892e7aac960675e1ffdf8b2cf99b0c3b9e29d1123a98435be",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/h24_42_dominance/INPUT.json": "707f6472c71cb6f0a7778dbac0138f246c44fe219c5c5f1c03dc22b4c3723a8d",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/h24_42_dominance/RATIONAL_WITNESS.json": "53fa5493b4e6a22fef49919a53acc038695db40b86fe487d0a502324140c33f6",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/hist105106/h24_42_dominance/COMPLETE_HULL.json": "190182f9a34dd5ef6de3406ba14d3ec112f78e61c1dead512997a418e518736c",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/compatibility/complete41_support_10610564/RESULT.json": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97"
+  }
+}

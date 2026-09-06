@@ -1,0 +1,18 @@
+THETA_INNER 108 full 551454 quotient 30569
+THETA_INNER 107 full 1262117 quotient 70964
+THETA_MEMORY 1585367800
+THETA_FULL_LP {'shape': (606, 919317), 'nnz': 11297023, 'build_seconds': 8.100937000010163, 'ru_maxrss': 926826496}
+Traceback (most recent call last):
+  File "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/compatibility/theta40/run_theta40.py", line 147, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/compatibility/theta40/run_theta40.py", line 121, in main
+    lp=linprog(np.r_[np.zeros(nv),np.ones(2*nrows)],A_eq=AA,b_eq=b/scale,bounds=(0,None),method='highs',options={'time_limit':120,'presolve':True})
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/scipy/optimize/_linprog.py", line 641, in linprog
+    sol = _linprog_highs(lp, solver=highs_solvers[meth],
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/scipy/optimize/_linprog_highs.py", line 373, in _linprog_highs
+    res = _highs_wrapper(c, A.indptr, A.indices, A.data, lhs, rhs,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

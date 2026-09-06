@@ -1,0 +1,130 @@
+{
+  "status": "INCOMPLETE_GLOBAL_PROOF",
+  "target_excluded_size": 275,
+  "currently_proved_upper": 275,
+  "cap237_existence": "UNKNOWN",
+  "root_Q_coefficients": [
+    9,
+    -899,
+    15730000
+  ],
+  "root_Q_sum": -246950,
+  "complete_type_count": 341,
+  "negative_Q_type_count": 56,
+  "prior_reduction": "../research_2026-09-05-capset-round1-r1/root_audit/integration_checks.json",
+  "new_closed_minimum_states": [
+    {
+      "type": [
+        105,
+        105,
+        65
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "H3-THETA40-PHI105-MIN10510565",
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        108,
+        107,
+        60
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-THETA40-INCIDENCE-MIN10810760",
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        108,
+        106,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "P3B-POINTED107-TRANSFER108-MIN10810661",
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        107,
+        107,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-THETA40-INCIDENCE-MIN10710761",
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "P5-SHARED107-MIN10710563",
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "P6-ALL5D-SHARED107-MIN10710662",
+      "ordinary_exclusion": false
+    },
+    {
+      "type": [
+        106,
+        105,
+        64
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "registry_id": "L-COMPLETE41-MIN10610564",
+      "ordinary_exclusion": false
+    }
+  ],
+  "remaining_minimum_states": [
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "status": "OPEN"
+    }
+  ]
+}

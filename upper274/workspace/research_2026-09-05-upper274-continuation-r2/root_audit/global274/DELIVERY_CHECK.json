@@ -1,0 +1,11 @@
+{
+  "status": "PASS_FINAL_DELIVERY_AND_LEDGER_CONSISTENCY",
+  "global_upper": 274,
+  "cap237_existence": "UNKNOWN",
+  "last_gap": 148616699075,
+  "global_verification_sha256": "e7ff96ba398eabb3014ce06b3aef5210e78915aa92d3059cd164c657fdd2d4c4",
+  "closed_minimum_states": 8,
+  "remaining": [],
+  "frozen_baseline_files_unmodified": "All bound old inputs retain the previously accepted hashes. Original governance and user prompt were not modified.",
+  "path_count": 116
+}

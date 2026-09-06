@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE_ACTUAL4D16_HISTOGRAM_FAMILY_INDEPENDENT_PASS",
+  "histogram_count": 376,
+  "large_cover_caps": 553678,
+  "small_cover_caps_examined": 1084572,
+  "small_only_caps": 0,
+  "root_all_pairchecks": 196590000,
+  "producer_representative_pairchecks": 45120,
+  "producer_sha256": "a58e4d85a49c569eb47fa4d5b46899ca23c07e953a63cb3e45524edd9fe3067b",
+  "root_large_verification_sha256": "64200185f28e0ae07559ace884b31989e615ae7adcec19bdd655f4f4b057f5d7",
+  "root_small_frozen_sha256": "b1406cf4a18e38f66b99322e9387a27872197f3d497fb769eec908c029b8fe7d",
+  "producer_small_frozen_sha256": "fe6f9232cd5db5f6cd74dae9e757bada5e8bc20669533af204de9a82871fa614",
+  "extension_input_sha256": "f7d9c82742390295046aaaf09f185d8dcc19bee0b7353d13ed74109c350b0f4a",
+  "exact_claim": "Every16cap inF3^4 has an8/9point hyperplane section and its40-direction histogram is exactly one of376actual vectors, each with explicit verifiedpointset.",
+  "shared_dependencies": "Accepted3Dcapcatalogues, complete8/9affineorbitcover andindependent7extensionbridge. RootusesdifferentA representatives andfullBcataloguefilter, ownallpairchecks andPythonproducerpoints; LusesrecursiveB/Caugmentation. No discoverykernelimport.",
+  "novelty": "No publication-priority or7Dglobal-bound claim."
+}

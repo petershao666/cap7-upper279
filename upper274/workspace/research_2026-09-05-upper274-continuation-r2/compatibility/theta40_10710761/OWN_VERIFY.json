@@ -1,0 +1,28 @@
+{
+  "rhs": 9410019729,
+  "upper_rows": 12,
+  "counts": [
+    3772668,
+    1407366
+  ],
+  "maximum_columns": [
+    0,
+    0
+  ],
+  "status": "PASS_FRESH_COMPLETE_RAW_DOMAIN",
+  "seconds_including_compile": 13.878272332949564,
+  "shared_dependencies": [
+    "Named frozen mathematical certificates",
+    "JSON coefficient and row metadata input; no generated table input",
+    "This own checker reuses accepted theta40 own verifier helpers, adapted symmetric rows; root audit is separate"
+  ],
+  "sha256": {
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40_10710761/EXACT_DUAL.json": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+    "audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json": "2780fba39eff792892e7aac960675e1ffdf8b2cf99b0c3b9e29d1123a98435be",
+    "research_2026-09-05-capset-round1-r1/root_audit/audited_certificate_snapshot.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/h3/h3_result.json": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40_10710761/own_verify.py": "67ee914a5881e8b70284c04d1af49fc37a70c92ca55405464b8a46669527b8b5",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40_10710761/own_verify.cpp": "2801be4cbfc1e3af6d5fc5dd984f5cd83e17d28a234d8d1b2f08a17d54fc328f",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40_10710761/own_input.txt": "a2732e0d0139a085de1a7ccaa5cc4397158ee2effbdadb5a1f26e63f297c041c"
+  }
+}

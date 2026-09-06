@@ -1,0 +1,12 @@
+{
+  "status": "POST_FREEZE_COMPLETE_CATALOGUE_HISTOGRAM_AND_H_POINT_COMPARISON_PASS",
+  "identical_centered_mask_count": 8424,
+  "all20_mask_files_byte_identical": true,
+  "identical_complete_histogram_count": 1,
+  "H_representative_pairs_checked": 820,
+  "H_generator_imported": false,
+  "P_freeze_preceded_H_output_read": true,
+  "H_reported_timing_disclosure": "H code completed before receiving P results; P result message arrived before H execution after resource-wrapper failures. H kernel was not changed after P results. No P generated file imported.",
+  "own_histograms_sha256": "bd60eb3207e5ad3df90c551378be0e960ce96772297f0dc247ab713610c23484",
+  "H_histograms_sha256": "74c4e1c900b519edc1124dbb2bc49c04dddd1845bbbfd6de74baacf1e19b4011"
+}

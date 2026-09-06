@@ -1,0 +1,18 @@
+{
+  "status": "INTERFACE_AND_SIGNS_PASS_RAW_MATRICES_PENDING",
+  "certificate_sha256": "aedb510abef5d4d1126f759d918f53e7fa4e9a8bc3e9947ffefc9ca8ad2dbc8a",
+  "row_count": 386,
+  "upper_rows": 21,
+  "rhs": 39396474454,
+  "source_functions": [
+    "nested107_size276",
+    "nested107_size277",
+    "joint107_107_106_63_size276",
+    "nested106_size276_to107",
+    "joint106_107_106_63_size276_to107",
+    "H3_phi105_to107",
+    "NC107_theta40_j1",
+    "NC107_theta40_10710761_j0_floor10000",
+    "H3_phi105"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "status": "EXACT_COMPLETE_ACTUAL17_HISTOGRAM_FAMILY_INDEPENDENT_PASS",
+  "histogram_count": 102,
+  "types": [
+    [
+      9,
+      8,
+      0
+    ],
+    [
+      9,
+      7,
+      1
+    ],
+    [
+      9,
+      6,
+      2
+    ],
+    [
+      9,
+      5,
+      3
+    ],
+    [
+      9,
+      4,
+      4
+    ],
+    [
+      8,
+      8,
+      1
+    ],
+    [
+      8,
+      7,
+      2
+    ],
+    [
+      8,
+      6,
+      3
+    ],
+    [
+      8,
+      5,
+      4
+    ],
+    [
+      7,
+      7,
+      3
+    ],
+    [
+      7,
+      6,
+      4
+    ],
+    [
+      7,
+      5,
+      5
+    ],
+    [
+      6,
+      6,
+      5
+    ]
+  ],
+  "normalized_cover_caps": 70935,
+  "cover_branches": {
+    "f980": 63180,
+    "f971": 3240,
+    "f881": 4515
+  },
+  "root_entire_cover_pairchecks": 9647160,
+  "producer_representative_pairchecks": 13872,
+  "producer_sha256": "7c47c4c3468fc8ead940a889f24fdb31bc6d45dfeea764e53aa998462399528c",
+  "root_histogram_table_sha256": "9c977c11f55838467c8ef4e5930363af88e8e49ebcfe7d52716fac7ae1ab44fa",
+  "root_cpp_sha256": "724412cc46b804bb9614b5101bce8dc6e9f4d15930cb1ee85e9f659102534c54",
+  "p_orbit_inputs": {
+    "orbit_sha256": "65e9d771201bcc230e0b63558bafd9fc06c216f39939f2dbec2e076b6bb72f92",
+    "caps8_sha256": "01dcd9448bb1c4ad1232c97ec09e8d395c1167d630e0a31edbcdf68dfd4dfa4b",
+    "input_sha256": "7167a4ecd3c3ee78e8036642d2719c1e393c76a31e5ff742b25e5f4231b6fddc",
+    "scope": "P independently chosen complete3D reps; noHsourcecache read"
+  },
+  "scope": "Complete possible40-direction histograms for arbitraryAG4caps of17points, via primary980/971/881cover;102is NOT an affineorbit count and70935is NOT all labeled17caps",
+  "shared_dependencies": "Published17capcover andPindependentlyverified3Dcapcatalog; root usesP representatives, notHnormalization/generator. RootC++recursiveBconstruction/popcountdirections andPythonrepresentativecheck are separate fromH discovery."
+}

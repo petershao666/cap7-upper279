@@ -1,0 +1,1742 @@
+{
+  "lower": [
+    {
+      "m": 40,
+      "type": [
+        20,
+        20,
+        0
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 4
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        19,
+        1
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 36
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 218
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        17,
+        3
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 317
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        16,
+        4
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 398
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        15,
+        5
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 503
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        14,
+        6
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 588
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        13,
+        7
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 682
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        12,
+        8
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 790
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        11,
+        9
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 771
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        10,
+        10
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 768
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        19,
+        2
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 118
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 522
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        17,
+        4
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 654
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        16,
+        5
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 817
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        15,
+        6
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1053
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        14,
+        7
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1148
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        13,
+        8
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1258
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        12,
+        9
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1384
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        11,
+        10
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1258
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1811
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 2197
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 2470
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 2707
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 2390
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 2153
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 2039
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1514
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        17,
+        6
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1041
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        16,
+        7
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1043
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        15,
+        8
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1024
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        14,
+        9
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 735
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        13,
+        10
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 564
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        12,
+        11
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 489
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        16,
+        8
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 277
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        15,
+        9
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 288
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        14,
+        10
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 157
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        13,
+        11
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 94
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        12,
+        12
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 68
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        15,
+        10
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 63
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        14,
+        11
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 31
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        13,
+        12
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 12
+    },
+    {
+      "m": 40,
+      "type": [
+        14,
+        14,
+        12
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        14,
+        13,
+        13
+      ],
+      "class41": null,
+      "full18_state": null,
+      "state8": null,
+      "empty": true,
+      "count": 0
+    }
+  ],
+  "spectra18": [
+    {
+      "id": 0,
+      "classes": [
+        "981H"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        1,
+        12,
+        6,
+        1,
+        11,
+        2,
+        5,
+        2
+      ],
+      "partial": [
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "id": 1,
+      "classes": [
+        "981J"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        1,
+        12,
+        6,
+        2,
+        4,
+        10,
+        4,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "classes": [
+        "981I"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          7,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        1,
+        13,
+        6,
+        1,
+        7,
+        5,
+        5,
+        1,
+        1
+      ],
+      "partial": [
+        1,
+        0,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "classes": [
+        "981G"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          6,
+          3
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        3,
+        13,
+        3,
+        3,
+        7,
+        4,
+        3,
+        1,
+        3
+      ],
+      "partial": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "classes": [
+        "990B"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          9,
+          0
+        ]
+      ],
+      "histogram": [
+        3,
+        18,
+        12,
+        6,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "id": 5,
+      "classes": [
+        "981E"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        8,
+        6,
+        1,
+        7,
+        10,
+        2,
+        2
+      ],
+      "partial": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "id": 6,
+      "classes": [
+        "981C"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        8,
+        6,
+        3,
+        1,
+        16,
+        2
+      ],
+      "partial": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "classes": [
+        "981D"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          7,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        12,
+        3,
+        4,
+        3,
+        8,
+        2,
+        2,
+        2
+      ],
+      "partial": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "classes": [
+        "954A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          5,
+          4
+        ]
+      ],
+      "histogram": [
+        4,
+        14,
+        8,
+        4,
+        9,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 9,
+      "classes": [
+        "981B"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          7,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        16,
+        5,
+        5,
+        4,
+        4,
+        2
+      ],
+      "partial": [
+        4,
+        0,
+        4
+      ]
+    },
+    {
+      "id": 10,
+      "classes": [
+        "981A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          5,
+          4
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        16,
+        8,
+        9,
+        2,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 11,
+      "classes": [
+        "972A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          5,
+          4
+        ],
+        [
+          9,
+          7,
+          2
+        ]
+      ],
+      "histogram": [
+        4,
+        17,
+        4,
+        3,
+        9,
+        2,
+        1
+      ],
+      "partial": [
+        1,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 12,
+      "classes": [
+        "882A1",
+        "882A2"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ]
+      ],
+      "histogram": [
+        4,
+        18,
+        9,
+        9
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 13,
+      "classes": [
+        "981F"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          9,
+          6,
+          3
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        6,
+        9,
+        3,
+        3,
+        3,
+        12,
+        1,
+        3
+      ],
+      "partial": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "classes": [
+        "963A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          6,
+          3
+        ]
+      ],
+      "histogram": [
+        11,
+        9,
+        8,
+        10,
+        2
+      ],
+      "partial": [
+        0,
+        2,
+        10
+      ]
+    },
+    {
+      "id": 15,
+      "classes": [
+        "990A1",
+        "990A2",
+        "990A3"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          9,
+          0
+        ]
+      ],
+      "histogram": [
+        12,
+        18,
+        9,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 16,
+      "classes": [
+        "963B"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          6,
+          3
+        ]
+      ],
+      "histogram": [
+        16,
+        9,
+        9,
+        6
+      ],
+      "partial": [
+        0,
+        6,
+        9
+      ]
+    }
+  ],
+  "anchor_order40": [
+    [
+      20,
+      20,
+      0
+    ],
+    [
+      20,
+      19,
+      1
+    ],
+    [
+      20,
+      18,
+      2
+    ],
+    [
+      20,
+      17,
+      3
+    ],
+    [
+      20,
+      16,
+      4
+    ],
+    [
+      20,
+      15,
+      5
+    ],
+    [
+      20,
+      14,
+      6
+    ],
+    [
+      20,
+      13,
+      7
+    ],
+    [
+      20,
+      12,
+      8
+    ],
+    [
+      20,
+      11,
+      9
+    ],
+    [
+      20,
+      10,
+      10
+    ],
+    [
+      19,
+      19,
+      2
+    ],
+    [
+      19,
+      18,
+      3
+    ],
+    [
+      19,
+      17,
+      4
+    ],
+    [
+      19,
+      16,
+      5
+    ],
+    [
+      19,
+      15,
+      6
+    ],
+    [
+      19,
+      14,
+      7
+    ],
+    [
+      19,
+      13,
+      8
+    ],
+    [
+      19,
+      12,
+      9
+    ],
+    [
+      19,
+      11,
+      10
+    ],
+    [
+      18,
+      18,
+      4
+    ],
+    [
+      18,
+      17,
+      5
+    ],
+    [
+      18,
+      16,
+      6
+    ],
+    [
+      18,
+      15,
+      7
+    ],
+    [
+      18,
+      14,
+      8
+    ],
+    [
+      18,
+      13,
+      9
+    ],
+    [
+      18,
+      12,
+      10
+    ],
+    [
+      18,
+      11,
+      11
+    ],
+    [
+      17,
+      17,
+      6
+    ],
+    [
+      17,
+      16,
+      7
+    ],
+    [
+      17,
+      15,
+      8
+    ],
+    [
+      17,
+      14,
+      9
+    ],
+    [
+      17,
+      13,
+      10
+    ],
+    [
+      17,
+      12,
+      11
+    ],
+    [
+      16,
+      16,
+      8
+    ],
+    [
+      16,
+      15,
+      9
+    ],
+    [
+      16,
+      14,
+      10
+    ],
+    [
+      16,
+      13,
+      11
+    ],
+    [
+      16,
+      12,
+      12
+    ],
+    [
+      15,
+      15,
+      10
+    ],
+    [
+      15,
+      14,
+      11
+    ],
+    [
+      15,
+      13,
+      12
+    ],
+    [
+      14,
+      14,
+      12
+    ],
+    [
+      14,
+      13,
+      13
+    ]
+  ]
+}

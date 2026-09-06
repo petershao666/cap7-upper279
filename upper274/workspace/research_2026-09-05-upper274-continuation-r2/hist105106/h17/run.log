@@ -1,0 +1,8 @@
+CLASSIFY 8 normalized 296 orbits 3 seconds 0.0708077
+CLASSIFY 9 normalized 18 orbits 1 seconds 0.0775857
+IMAGES 8 actual 63180 seconds 0.201762
+IMAGES 9 actual 2106 seconds 0.214574
+FAMILY980 63180 hist 11 seconds 0.372167
+FAMILY971 3240 hist 29 seconds 0.38296
+FAMILY881 4515 hist 94 seconds 0.399586
+COMPLETE generated 70935 distinct_histograms 102 seconds 0.419552

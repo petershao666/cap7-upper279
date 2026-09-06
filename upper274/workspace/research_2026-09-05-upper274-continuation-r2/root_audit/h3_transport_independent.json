@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "new_transfers": 3,
+  "table_values": 156,
+  "labeled_deletion_sets": 6399591,
+  "source_sha256": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+  "table_sha256": "e2e65c3a290fa2a7e7e91481db60241253a8f40a886e1a6921bcec313b37beaa",
+  "scope": "H3 Phi105 transported to all NC106/107/108 caps conditional on accepted103-extension rigidity; no outer exclusion by this checker",
+  "independence": "Ruby enumerates labeled deletion-index sets, independent of Python binomial multiplicities and discovery kernels"
+}

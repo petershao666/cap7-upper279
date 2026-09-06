@@ -1,0 +1,7 @@
+# Complete forty-one candidate union and source coverage
+
+Root authorized a new static integration scope, <=180 seconds of computation, one worker, <=1 GiB. No LP and no repetition of the complete raw row-by-row verification. Read the primary Theorem6.3 thirteen-alternative statement and Proposition6.2(b) supplementary-list coverage clause; build an explicit dependency DAG and retain all mathematical scope conditions.
+
+Candidate inputs: the doubly verified 41 raw-output histograms; accepted (20,20,1) one-histogram family; the prior verified H9 F-I and Delta42-minus-one family; P's A-E EPS point representatives (root independent audit pending); and root's forty-five-minus-four family (P independent enumeration pending). Preserve every spectrum's provenance labels and at least one explicit forty-one-point representative. Use a common complete forty-type domain and verify each candidate representative's 121-direction counts. Do not rerun every raw record.
+
+The union can be a source-complete candidate before every pending verification completes, but must not be labeled accepted. Missing or pending families remain explicit. Root owns final acceptance. A vector shared by accepted and pending sources retains both labels, and an accepted occurrence does not automatically certify a pending family's coverage. Terminal: candidate union, point tables, source-alternative ledger, dependency DAG, hashes, and an honest acceptance boundary. No global upper-bound claim.

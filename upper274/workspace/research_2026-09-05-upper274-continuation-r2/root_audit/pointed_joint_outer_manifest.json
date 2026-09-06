@@ -1,0 +1,14 @@
+{
+  "status": "EXACT_TRANSFER_AND_OUTER_DEPENDENCY_PASS",
+  "transfer_values": 30,
+  "target": [
+    108,
+    106,
+    61
+  ],
+  "positive_gap": 1993186322,
+  "source_sha256": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+  "input_sha256": "6f53ccac1bb520f504ca610f282d8ed23f20e769f992f514b55d93f7aca68c2c",
+  "local_conditional_proof_required": "pointed_joint_independent.json",
+  "checker_dependency": "Frozen round1 root independent_a.cpp, mathematical domain rebuilt with new coefficients and checked source data"
+}

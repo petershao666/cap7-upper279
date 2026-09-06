@@ -1,0 +1,11 @@
+{
+  "status": "STATIC_FROZEN_BEFORE_COMPUTATION",
+  "files": {
+    "INPUTS.json": "4f7a650d38727a972ba398b00ab40a5fe4506d17eefb67a688fef0975b8ede4c",
+    "PLANNED_COPY_LAYOUT.json": "1bc2a4c9cca81d089892190c32d61b7ea00d2bbf46cc9b2a3ebade3ef9370b59",
+    "SCOPE.md": "65eb3c8d0cc4ea1522f56841df990ea76e929ab0e988b20a93f8978dbc9c2c44",
+    "run.py": "6764b5953a7627e20abe672389500da32e6d4f2564549b5285e746f4e4188625",
+    "verify.py": "c57ea39d79a6cca4fbebaf65d2c1e17694d249d5c2ffdd2b471a7e2dd76a10a5"
+  },
+  "scope": "Three independent40 tiers with complete41/42; fixedH3 retained"
+}

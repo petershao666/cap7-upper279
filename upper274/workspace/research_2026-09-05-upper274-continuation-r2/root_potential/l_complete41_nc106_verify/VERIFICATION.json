@@ -1,0 +1,881 @@
+{
+  "status": "INDEPENDENT_PASS_ALL14_NC106_INEQUALITIES_AND_WHOLE_BOUND",
+  "candidate_sha256": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+  "scope": "Universal NC106 histogram function from the complete fourteen-case cover, with root-accepted phi40/B40 and published/accepted ordinary/completion inputs. No outer or global exclusion is proved by this layer alone.",
+  "B106": -359979101924637,
+  "maximum_cases": [
+    5
+  ],
+  "B40_root_accepted": -95858610055698,
+  "cases": [
+    {
+      "case": 0,
+      "anchor": [
+        41,
+        41,
+        24
+      ],
+      "raw_count": 375138,
+      "minimum": -2805556705387,
+      "case_bound": -359979366630494,
+      "q_dot_F": -456983904926356,
+      "child_bounds_sum": -241480886913675,
+      "phi_at_anchor": -986936142290,
+      "witness": [
+        13,
+        13,
+        15,
+        13,
+        13,
+        15,
+        8,
+        8,
+        8
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          13,
+          13
+        ],
+        [
+          15,
+          13,
+          13
+        ],
+        [
+          8,
+          8,
+          8
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          38,
+          34,
+          34
+        ],
+        [
+          36,
+          36,
+          34
+        ],
+        [
+          36,
+          36,
+          34
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "4b933a08946fbf12abcd1e5dae3268d30d11136a0b8b43b9b5ebda0bfad4b0dc"
+    },
+    {
+      "case": 1,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "raw_count": 210663,
+      "minimum": 5983770610462,
+      "case_bound": -359979359096561,
+      "q_dot_F": 485743207202890,
+      "child_bounds_sum": -120697913251908,
+      "phi_at_anchor": -988409181641,
+      "witness": [
+        9,
+        15,
+        18,
+        8,
+        15,
+        18,
+        2,
+        14,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          15,
+          9
+        ],
+        [
+          18,
+          15,
+          8
+        ],
+        [
+          14,
+          7,
+          2
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          44,
+          43,
+          19
+        ],
+        [
+          40,
+          35,
+          31
+        ],
+        [
+          41,
+          35,
+          30
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "813d38c8d7836d133b6740d342cfd456b8ffccb61f72abe7657e7a01d83e5e69"
+    },
+    {
+      "case": 2,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "raw_count": 121368,
+      "minimum": 6873340120330,
+      "case_bound": -359979296220136,
+      "q_dot_F": 472683228995793,
+      "child_bounds_sum": 0,
+      "phi_at_anchor": -988370655999,
+      "witness": [
+        7,
+        17,
+        18,
+        12,
+        12,
+        18,
+        5,
+        11,
+        6
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          7
+        ],
+        [
+          18,
+          12,
+          12
+        ],
+        [
+          11,
+          6,
+          5
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          42,
+          40,
+          24
+        ],
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          36,
+          35,
+          35
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "a8e083c38752d163701376c5d0c594a367566af43903efdc0e05f2cc6562b496"
+    },
+    {
+      "case": 3,
+      "anchor": [
+        43,
+        40,
+        23
+      ],
+      "raw_count": 87048,
+      "minimum": 22897972172088,
+      "case_bound": -359979367267198,
+      "q_dot_F": 2507526611327857,
+      "child_bounds_sum": -95858610055698,
+      "phi_at_anchor": -992735716709,
+      "witness": [
+        13,
+        15,
+        15,
+        5,
+        16,
+        19,
+        7,
+        9,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          13
+        ],
+        [
+          19,
+          16,
+          5
+        ],
+        [
+          9,
+          7,
+          7
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          41,
+          36,
+          29
+        ],
+        [
+          41,
+          38,
+          27
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "c0c850c692ce1fa53ebb74037dab93de921ea9eeb59dfb78720e0cc1719f8061"
+    },
+    {
+      "case": 4,
+      "anchor": [
+        43,
+        41,
+        22
+      ],
+      "raw_count": 84375,
+      "minimum": 14245902736582,
+      "case_bound": -359979367280727,
+      "q_dot_F": 1485607879818926,
+      "child_bounds_sum": -120842409769554,
+      "phi_at_anchor": -990606203677,
+      "witness": [
+        9,
+        17,
+        17,
+        5,
+        18,
+        18,
+        5,
+        8,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          17,
+          17,
+          9
+        ],
+        [
+          18,
+          18,
+          5
+        ],
+        [
+          9,
+          8,
+          5
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          44,
+          43,
+          19
+        ],
+        [
+          40,
+          36,
+          30
+        ],
+        [
+          40,
+          35,
+          31
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "5a85887188868bdba7f7acfe34b47d190c7c4b73887c417b3c1dacb986ef71d1"
+    },
+    {
+      "case": 5,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "raw_count": 49803,
+      "minimum": 21414266600061,
+      "case_bound": -359979101924637,
+      "q_dot_F": 2232135038256539,
+      "child_bounds_sum": 0,
+      "phi_at_anchor": -987881573795,
+      "witness": [
+        8,
+        17,
+        18,
+        12,
+        12,
+        18,
+        5,
+        11,
+        5
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          17,
+          8
+        ],
+        [
+          18,
+          12,
+          12
+        ],
+        [
+          11,
+          5,
+          5
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          37,
+          35,
+          34
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "1331a131082d8147f4d3e8c517d04e991a94bb1cbfc22ea6a58a6192c8edef51"
+    },
+    {
+      "case": 6,
+      "anchor": [
+        43,
+        43,
+        20
+      ],
+      "raw_count": 22077,
+      "minimum": 31740373605160,
+      "case_bound": -359979367282625,
+      "q_dot_F": 3481591703996649,
+      "child_bounds_sum": 0,
+      "phi_at_anchor": -985865054914,
+      "witness": [
+        13,
+        15,
+        15,
+        13,
+        15,
+        15,
+        3,
+        2,
+        15
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          13
+        ],
+        [
+          15,
+          15,
+          13
+        ],
+        [
+          15,
+          3,
+          2
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          45,
+          32,
+          29
+        ],
+        [
+          43,
+          33,
+          30
+        ],
+        [
+          43,
+          33,
+          30
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "7d6d06c0c0bbf298437cebb503d2a123fba5a26ac984ab1ed9b10331f963d3f2"
+    },
+    {
+      "case": 7,
+      "anchor": [
+        44,
+        40,
+        22
+      ],
+      "raw_count": 45693,
+      "minimum": 29011988533774,
+      "case_bound": -359979367288210,
+      "q_dot_F": 3247327882605453,
+      "child_bounds_sum": -95858610055698,
+      "phi_at_anchor": -998027251311,
+      "witness": [
+        14,
+        15,
+        15,
+        8,
+        13,
+        19,
+        7,
+        8,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          14
+        ],
+        [
+          19,
+          13,
+          8
+        ],
+        [
+          8,
+          7,
+          7
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          41,
+          36,
+          29
+        ],
+        [
+          41,
+          34,
+          31
+        ],
+        [
+          41,
+          35,
+          30
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "e2de7ee5ec639f961700410cd670bc741afd0fe84757cfd13b169b33b0dcf40d"
+    },
+    {
+      "case": 8,
+      "anchor": [
+        44,
+        41,
+        21
+      ],
+      "raw_count": 44640,
+      "minimum": -22065503299143,
+      "case_bound": -359979367021901,
+      "q_dot_F": -2908182172119484,
+      "child_bounds_sum": -120729918515424,
+      "phi_at_anchor": -993175583296,
+      "witness": [
+        8,
+        18,
+        18,
+        5,
+        18,
+        18,
+        6,
+        7,
+        8
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          18,
+          8
+        ],
+        [
+          18,
+          18,
+          5
+        ],
+        [
+          8,
+          7,
+          6
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          44,
+          43,
+          19
+        ],
+        [
+          42,
+          34,
+          30
+        ],
+        [
+          42,
+          33,
+          31
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "ea79ab639888e7ed6b761ed745e239b5f5fcb64fc1cbd1c7dff594f215a37fd2"
+    },
+    {
+      "case": 9,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "raw_count": 26379,
+      "minimum": 26117568291712,
+      "case_bound": -359979341827243,
+      "q_dot_F": 2801234693210494,
+      "child_bounds_sum": 0,
+      "phi_at_anchor": -988271740585,
+      "witness": [
+        14,
+        15,
+        15,
+        13,
+        14,
+        15,
+        6,
+        7,
+        7
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          14
+        ],
+        [
+          15,
+          14,
+          13
+        ],
+        [
+          7,
+          7,
+          6
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          37,
+          36,
+          33
+        ],
+        [
+          36,
+          35,
+          35
+        ],
+        [
+          36,
+          35,
+          35
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "ed03022c796be24b5a8da28f98f3d17fa1f656852c59697c4c1fa074b61daa92"
+    },
+    {
+      "case": 10,
+      "anchor": [
+        44,
+        43,
+        19
+      ],
+      "raw_count": 11709,
+      "minimum": 37936851549648,
+      "case_bound": -359979367286650,
+      "q_dot_F": 4231363212927315,
+      "child_bounds_sum": 0,
+      "phi_at_anchor": -983542706557,
+      "witness": [
+        14,
+        15,
+        15,
+        13,
+        15,
+        15,
+        2,
+        2,
+        15
+      ],
+      "witness_physical_profiles": [
+        [
+          15,
+          15,
+          14
+        ],
+        [
+          15,
+          15,
+          13
+        ],
+        [
+          15,
+          2,
+          2
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          45,
+          32,
+          29
+        ],
+        [
+          44,
+          32,
+          30
+        ],
+        [
+          43,
+          32,
+          31
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "78a85fd178627f02df2d7c1b6632a92689e1e47b28e27d0ac754acab84ffb3e9"
+    },
+    {
+      "case": 11,
+      "anchor": [
+        45,
+        40,
+        21
+      ],
+      "raw_count": 16350,
+      "minimum": -37591435062860,
+      "case_bound": -359979367277088,
+      "q_dot_F": -4811684399827450,
+      "child_bounds_sum": -95858610055698,
+      "phi_at_anchor": -1000000000000,
+      "witness": [
+        9,
+        18,
+        18,
+        10,
+        12,
+        18,
+        0,
+        12,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          18,
+          9
+        ],
+        [
+          18,
+          12,
+          10
+        ],
+        [
+          12,
+          9,
+          0
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          45,
+          42,
+          19
+        ],
+        [
+          40,
+          36,
+          30
+        ],
+        [
+          39,
+          37,
+          30
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "f7440faf26ce094acbeb402fb8f43df1cef2f59f0c8fe08bb2651e2b7be58507"
+    },
+    {
+      "case": 12,
+      "anchor": [
+        45,
+        41,
+        20
+      ],
+      "raw_count": 16038,
+      "minimum": -50499033641184,
+      "case_bound": -359979367271636,
+      "q_dot_F": -6348990014081710,
+      "child_bounds_sum": -120381207841683,
+      "phi_at_anchor": -991215931507,
+      "witness": [
+        9,
+        18,
+        18,
+        5,
+        18,
+        18,
+        5,
+        6,
+        9
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          18,
+          9
+        ],
+        [
+          18,
+          18,
+          5
+        ],
+        [
+          9,
+          6,
+          5
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          45,
+          42,
+          19
+        ],
+        [
+          41,
+          36,
+          29
+        ],
+        [
+          41,
+          33,
+          32
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "4300ad3a03fb5bb43dba334b2b80f9f383f3cde07186c3004ebcbc330406d14c"
+    },
+    {
+      "case": 13,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "raw_count": 9504,
+      "minimum": -33044938213268,
+      "case_bound": -359979345875460,
+      "q_dot_F": -4357430507199889,
+      "child_bounds_sum": 0,
+      "phi_at_anchor": -986362480999,
+      "witness": [
+        9,
+        18,
+        18,
+        12,
+        12,
+        18,
+        4,
+        10,
+        5
+      ],
+      "witness_physical_profiles": [
+        [
+          18,
+          18,
+          9
+        ],
+        [
+          18,
+          12,
+          12
+        ],
+        [
+          10,
+          5,
+          4
+        ]
+      ],
+      "witness_transverse_profiles": [
+        [
+          41,
+          40,
+          25
+        ],
+        [
+          40,
+          40,
+          26
+        ],
+        [
+          37,
+          35,
+          34
+        ]
+      ],
+      "witness_direct_original_coefficient_check": true,
+      "raw_file_sha256": "f6f388a388a07c8386e277bb7056dcba8cf97bb0d051c66d859b40b6b29c1bac"
+    }
+  ],
+  "all_raw_count": 1120785,
+  "all_six_physical41_maxima_verified": true,
+  "upper_feature_signs_checked": 141,
+  "all23_applicable_41_42_upper_functions_verified_from_complete_spectra": true,
+  "centered_theta40_all_multipliers_zero": true,
+  "source_and_support_sha256": "b36b79fa60d3d0baa5daa57c44a7a604eb3d180ffecc37f9c3c42b08091e7ff3",
+  "raw_verification_sha256": "a5c9e02343d5c4a841c8a0cf59fb69dabe088c7948e2fd9597f4926aa8d2f338",
+  "own_domain_prefreeze_sha256": "19b3e4c9e574e97eded83a851ffd61d6c66fb83f1b5d1076ca5e171cf85cb860",
+  "codes": {
+    "prepare_exact.py": "ad3b3743b4b622a734b762e4c5a2484398ac0b5d35092750f48bda7198881560",
+    "replay_raw.cpp": "99f759dcfde5edd51c906a72ebc456f5cc0955f8a87590e9be1a961f20626819",
+    "finish_verification.py": "9b90a64c785846d922e80a23cfaa75d4b35fcb69efd0545998a44124e0230399"
+  },
+  "arithmetic": "Python arbitrary-precision source/support/bound calculations and signed128 C++ complete raw replay with per-case strict coarse bounds below2^126; fourteen witnesses re-evaluated directly from the original candidate JSON using Python integers.",
+  "shared_dependencies": "Candidate coefficients, accepted complete41 and baseline42..45 spectra, accepted ordinary/completion predicates, root-accepted phi40/B40. Own previous independent domain enumerator is shared between P domain audit and this P replay; no H/L/root computational kernel imported."
+}

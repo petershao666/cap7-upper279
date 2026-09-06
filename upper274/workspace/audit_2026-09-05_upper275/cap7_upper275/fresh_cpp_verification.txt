@@ -1,0 +1,449 @@
+112-cap: cap, spectrum, and secants verified. 236-cap: all 27730 pairs verified.
+Completion representative: reflected 45-pair has 22 allowed points; positive multiplicities >=9; union is a 112-cap.
+Completed-slice identities: all 112 points have incidence 11 in the 56 small-center directions and 110 in the 308 large-center directions.
+Hill representative: S and D are central 112-caps; both Fourier formulas and all 1540 pair incidences verified.
+h=1: zero directions <= 0/1 < 15, exact gap=15.
+h=2: zero directions <= 0/1 < 15, exact gap=15.
+h=3: zero directions <= 0/1 < 15, exact gap=15.
+h=4: zero directions <= 0/1 < 15, exact gap=15.
+h=5: zero directions <= 0/1 < 15, exact gap=15.
+h=6: zero directions <= 0/1 < 15, exact gap=15.
+h=7: zero directions <= 0/1 < 15, exact gap=15.
+h=8: zero directions <= 0/1 < 15, exact gap=15.
+h=9: zero directions <= 0/1 < 15, exact gap=15.
+h=10: zero directions <= 0/1 < 15, exact gap=15.
+h=11: zero directions <= 0/1 < 15, exact gap=15.
+h=12: zero directions <= 0/1 < 15, exact gap=15.
+h=13: zero directions <= 0/1 < 15, exact gap=15.
+h=14: zero directions <= 0/1 < 15, exact gap=15.
+h=15: zero directions <= 0/1 < 15, exact gap=15.
+h=16: zero directions <= 15552/1344 < 15, exact gap=4608.
+h=17: zero directions <= 0/1 < 15, exact gap=15.
+h=18: zero directions <= 0/1 < 15, exact gap=15.
+h=19: zero directions <= 8946/756 < 15, exact gap=2394.
+h=20: zero directions <= 120/10 < 15, exact gap=30.
+h=21: zero directions <= 0/1 < 15, exact gap=15.
+h=22: zero directions <= 8672/756 < 15, exact gap=2668.
+h=23: zero directions <= 5391/380 < 15, exact gap=309.
+h=24: zero directions <= 144/30 < 15, exact gap=306.
+h=25: zero directions <= 2562/238 < 15, exact gap=1008.
+h=26: zero directions <= 1188/80 < 15, exact gap=12.
+h=27: zero directions <= 114/20 < 15, exact gap=186.
+h=28: zero directions <= 3360/336 < 15, exact gap=1680.
+h=29: zero directions <= 13128/910 < 15, exact gap=522.
+h=30: zero directions <= 132/20 < 15, exact gap=168.
+h=31: zero directions <= 15354/1890 < 15, exact gap=12996.
+h=32: zero directions <= 4608/350 < 15, exact gap=642.
+h=33: zero directions <= 166/20 < 15, exact gap=134.
+h=34: zero directions <= 624/98 < 15, exact gap=846.
+h=35: zero directions <= 1260/110 < 15, exact gap=390.
+h=36: zero directions <= 112/12 < 15, exact gap=68.
+h=37: zero directions <= 1139325058/145563600 < 15, exact gap=1044128942.
+h=38: zero directions <= 5888/678 < 15, exact gap=4282.
+h=39: zero directions <= 132/12 < 15, exact gap=48.
+h=40: zero directions <= 7793632/687456 < 15, exact gap=2518208.
+h=41: zero directions <= 1599/318 < 15, exact gap=3171.
+h=42: zero directions <= 9844380/924462 < 15, exact gap=4022550.
+h=43: zero directions <= 270/231 < 15, exact gap=3195.
+h=44: zero directions <= 480/246 < 15, exact gap=3210.
+h=45: zero directions <= 210/46 < 15, exact gap=480.
+h=46: intersection impossible, gap=8642.
+h=47: intersection impossible, gap=22840.
+h=48: intersection impossible, gap=11496.
+h=49: intersection impossible, gap=18543.
+h=50: intersection impossible, gap=1226.
+h=51: intersection impossible, gap=580.
+h=52: intersection impossible, gap=6112.
+h=53: intersection impossible, gap=478.
+h=54: intersection impossible, gap=54732.
+h=55: intersection impossible, gap=289.
+h=56: zero directions <= 0/1 < 15, exact gap=15.
+HILL LEMMA PASS: 56 cases and 2022 integer state inequalities; at most 28 zero-convolution points (h=0 gives one).
+Size-42 spectrum: 14190 deleted subsets, 4 histograms, 20 integer spectral constraints verified.
+Size-43 spectrum: 990 deleted subsets, 1 histograms, 4 integer spectral constraints verified.
+Size-44 spectrum: 45 deleted subsets, 1 histograms, 4 integer spectral constraints verified.
+Size-45 spectrum: 1 deleted subsets, 1 histograms, 4 integer spectral constraints verified.
+n=6 (43, 33, 32): matrices=23649, minimum=-18432, certified_K=-18432, gap=2097
+n=6 (43, 33, 33): matrices=19515, minimum=1265, certified_K=1265, gap=299
+n=6 (43, 34, 31): matrices=23244, minimum=-70725, certified_K=-70725, gap=378
+n=6 (43, 34, 32): matrices=19317, minimum=-25526, certified_K=-25526, gap=5
+n=6 (43, 35, 29): matrices=26787, minimum=-1122280, certified_K=-1122280, gap=634
+n=6 (43, 35, 30): matrices=22569, minimum=-46808, certified_K=-46808, gap=793
+n=6 (43, 35, 31): matrices=18777, minimum=-1731, certified_K=-1731, gap=27
+n=6 (43, 36, 29): matrices=21456, minimum=-35490, certified_K=-35490, gap=393
+n=6 (43, 36, 30): matrices=18066, minimum=7616, certified_K=7616, gap=944
+n=6 (43, 37, 28): matrices=20205, minimum=-40047, certified_K=-40047, gap=2538
+n=6 (43, 37, 29): matrices=17049, minimum=-21422, certified_K=-21422, gap=879
+n=6 (43, 38, 27): matrices=19281, minimum=-80950, certified_K=-80950, gap=1946
+n=6 (43, 38, 28): matrices=16041, minimum=-28611, certified_K=-28611, gap=2325
+n=6 (43, 39, 26): matrices=18429, minimum=-223252, certified_K=-223252, gap=3044
+n=6 (43, 39, 27): matrices=15129, minimum=-21542, certified_K=-21542, gap=2482
+n=6 (43, 40, 25): matrices=17682, minimum=-2471910, certified_K=-2471910, gap=1289
+n=6 (43, 40, 26): matrices=14349, minimum=-55742, certified_K=-55742, gap=1099
+n=6 (43, 41, 25): matrices=13692, minimum=-85064, certified_K=-85064, gap=2918
+n=6 (43, 42, 24): matrices=9117, minimum=-321028, certified_K=-321028, gap=7613
+n=6 (43, 43, 23): matrices=4374, minimum=46557, certified_K=46557, gap=7898
+n=6 (44, 32, 31): matrices=16350, minimum=11126, certified_K=11126, gap=1085
+n=6 (44, 32, 32): matrices=13623, minimum=73998, certified_K=73998, gap=1202
+n=6 (44, 33, 30): matrices=16155, minimum=-49456, certified_K=-49456, gap=500
+n=6 (44, 33, 31): matrices=13509, minimum=43272, certified_K=43272, gap=252
+n=6 (44, 33, 32): matrices=11283, minimum=59729, certified_K=59729, gap=1787
+n=6 (44, 34, 29): matrices=15531, minimum=83802, certified_K=83802, gap=1284
+n=6 (44, 34, 30): matrices=13218, minimum=42522, certified_K=42522, gap=375
+n=6 (44, 34, 31): matrices=11061, minimum=43656, certified_K=43656, gap=1701
+n=6 (44, 35, 28): matrices=14676, minimum=36543, certified_K=36543, gap=63
+n=6 (44, 35, 29): matrices=12573, minimum=37878, certified_K=37878, gap=2394
+n=6 (44, 35, 30): matrices=10707, minimum=28672, certified_K=28672, gap=2488
+n=6 (44, 36, 27): matrices=13881, minimum=44895, certified_K=44895, gap=354
+n=6 (44, 36, 28): matrices=11781, minimum=34922, certified_K=34922, gap=5516
+n=6 (44, 36, 29): matrices=10086, minimum=25857, certified_K=25857, gap=1701
+n=6 (44, 37, 26): matrices=13215, minimum=-12183, certified_K=-12183, gap=3952
+n=6 (44, 37, 27): matrices=11106, minimum=-26244, certified_K=-26244, gap=432
+n=6 (44, 37, 28): matrices=9375, minimum=-3355, certified_K=-3355, gap=25
+n=6 (44, 38, 25): matrices=12792, minimum=-1192245, certified_K=-1192245, gap=146961
+n=6 (44, 38, 26): matrices=10662, minimum=-6789, certified_K=-6789, gap=1088
+n=6 (44, 38, 27): matrices=8883, minimum=-22155, certified_K=-22155, gap=372
+n=6 (44, 39, 25): matrices=10272, minimum=-10081, certified_K=-10081, gap=677
+n=6 (44, 39, 26): matrices=8460, minimum=4122, certified_K=4122, gap=1812
+n=6 (44, 40, 24): matrices=9924, minimum=19286, certified_K=19286, gap=1220
+n=6 (44, 40, 25): matrices=8097, minimum=-29172, certified_K=-29172, gap=1638
+n=6 (44, 41, 24): matrices=7791, minimum=-1499, certified_K=-1499, gap=211
+n=6 (44, 42, 23): matrices=5199, minimum=49275, certified_K=49275, gap=231
+n=6 (45, 32, 30): matrices=16884, minimum=-443553, certified_K=-443553, gap=2685
+n=6 (45, 32, 31): matrices=14415, minimum=-57149, certified_K=-57149, gap=2245
+n=6 (45, 32, 32): matrices=12261, minimum=-20378, certified_K=-20378, gap=1270
+n=6 (45, 33, 28): matrices=18477, minimum=-42759806, certified_K=-42759806, gap=24442
+n=6 (45, 33, 29): matrices=16341, minimum=-71334, certified_K=-71334, gap=162
+n=6 (45, 33, 30): matrices=14246, minimum=-17155, certified_K=-17155, gap=302
+n=6 (45, 33, 31): matrices=12162, minimum=-29517, certified_K=-29517, gap=921
+n=6 (45, 34, 28): matrices=15456, minimum=-39800, certified_K=-39800, gap=1378
+n=6 (45, 34, 29): matrices=13665, minimum=-48678, certified_K=-48678, gap=2082
+n=6 (45, 34, 30): matrices=11916, minimum=-16416, certified_K=-16416, gap=2133
+n=6 (45, 35, 27): matrices=14502, minimum=-179847, certified_K=-179847, gap=918
+n=6 (45, 35, 28): matrices=12804, minimum=-23907, certified_K=-23907, gap=3471
+n=6 (45, 35, 29): matrices=11322, minimum=-33792, certified_K=-33792, gap=5826
+n=6 (45, 36, 27): matrices=11903, minimum=-21357, certified_K=-21357, gap=108
+n=6 (45, 36, 28): matrices=10476, minimum=-31725, certified_K=-31725, gap=2457
+n=6 (45, 37, 26): matrices=11055, minimum=-48258, certified_K=-48258, gap=126
+n=6 (45, 37, 27): matrices=9660, minimum=-2433, certified_K=-2433, gap=123
+n=6 (45, 38, 25): matrices=10347, minimum=-111795, certified_K=-111795, gap=84
+n=6 (45, 38, 26): matrices=8964, minimum=-4053, certified_K=-4053, gap=78
+n=6 (45, 39, 25): matrices=8310, minimum=-31771, certified_K=-31771, gap=2507
+n=6 (45, 40, 24): matrices=7719, minimum=-51251, certified_K=-51251, gap=205
+n=6 (45, 41, 23): matrices=7191, minimum=-2373336, certified_K=-2373336, gap=315
+n=6 (42, 35, 32): matrices=20238, minimum=-7796, certified_K=-7796, gap=1276
+n=6 (42, 42, 25): matrices=10809, minimum=-779150, certified_K=-779150, gap=2350
+n=6 (42, 36, 31): matrices=17757, minimum=145768, certified_K=145768, gap=232
+n=6 (42, 34, 32): matrices=28281, minimum=2155941, certified_K=2155941, gap=393
+n=6 (42, 34, 33): matrices=16665, minimum=64059, certified_K=64059, gap=1140
+n=6 (42, 37, 29): matrices=26664, minimum=43287516, certified_K=43287516, gap=2121
+n=6 (42, 37, 30): matrices=15954, minimum=99111, certified_K=99111, gap=2829
+n=6 (42, 38, 28): matrices=26091, minimum=444158, certified_K=444158, gap=131
+n=6 (42, 38, 29): matrices=15732, minimum=13487, certified_K=13487, gap=779
+n=6 (42, 39, 28): matrices=15411, minimum=13134, certified_K=13134, gap=264
+n=6 (42, 40, 26): matrices=24792, minimum=783327, certified_K=783327, gap=180
+n=6 (42, 40, 27): matrices=15165, minimum=83538, certified_K=83538, gap=1557
+n=6 (42, 41, 26): matrices=15021, minimum=34543, certified_K=34543, gap=706
+n=6 (42, 42, 24): matrices=15411, minimum=79252, certified_K=79252, gap=1657
+n=6 (43, 32, 32): matrices=23178, minimum=774251, certified_K=774251, gap=407
+n=6 (43, 33, 31): matrices=22968, minimum=1296405, certified_K=1296405, gap=2708
+n=6 (43, 34, 30): matrices=22518, minimum=438131, certified_K=438131, gap=1368
+n=6 (43, 36, 28): matrices=20817, minimum=159983, certified_K=159983, gap=1595
+n=6 (43, 37, 27): matrices=19983, minimum=-5179, certified_K=-5179, gap=710
+n=6 (43, 38, 26): matrices=19302, minimum=-65201, certified_K=-65201, gap=1121
+n=6 (43, 41, 24): matrices=11667, minimum=-125563, certified_K=-125563, gap=784
+n=6 (43, 42, 23): matrices=7803, minimum=42831, certified_K=42831, gap=602
+n=6 (42, 33, 33): matrices=20595, minimum=-313598, certified_K=-313598, gap=16101
+n=6 (42, 35, 31): matrices=19869, minimum=-61650, certified_K=-61650, gap=377
+n=6 (42, 39, 27): matrices=19200, minimum=74764, certified_K=74764, gap=4424
+n=6 (42, 41, 25): matrices=18234, minimum=-220686, certified_K=-220686, gap=2472
+n=6 (42, 36, 30): matrices=15657, minimum=1505512, certified_K=1505512, gap=18049
+n=6 (44, 41, 23): matrices=3981, minimum=-10525845, certified_K=-10525845, gap=2736
+n=6 (45, 39, 24): matrices=3443, minimum=-4306191, certified_K=-4306191, gap=33362
+n=6 (41, 34, 34): matrices=14163, minimum=-9834, certified_K=-9834, gap=9614
+n=6 (41, 35, 33): matrices=14172, minimum=-17584, certified_K=-17584, gap=4490
+n=6 (41, 36, 32): matrices=14184, minimum=-631674, certified_K=-631674, gap=32040
+n=6 (41, 37, 31): matrices=14196, minimum=-514719, certified_K=-514719, gap=4154
+n=6 (41, 38, 30): matrices=14217, minimum=-3245365, certified_K=-3245365, gap=11744
+n=6 (41, 39, 29): matrices=14208, minimum=-417237, certified_K=-417237, gap=7101
+n=6 (41, 40, 28): matrices=14181, minimum=-13742815, certified_K=-13742815, gap=36943
+n=6 (41, 41, 27): matrices=14151, minimum=-1411523, certified_K=-1411523, gap=5800
+n=6 (42, 33, 32): matrices=38508, minimum=-641366, certified_K=-641366, gap=13053
+n=6 (42, 34, 31): matrices=38067, minimum=11234736, certified_K=11234736, gap=53070
+n=6 (42, 37, 28): matrices=36081, minimum=4006798, certified_K=4006798, gap=20665
+n=6 (42, 38, 27): matrices=35283, minimum=-5589097, certified_K=-5589097, gap=16700
+n=6 (42, 42, 23): matrices=19851, minimum=3070265, certified_K=3070265, gap=2723
+n=6 (43, 39, 25): matrices=16152, minimum=8396588, certified_K=8396588, gap=6814
+n=6 (44, 34, 28): matrices=17817, minimum=7100236, certified_K=7100236, gap=10992
+n=6 (44, 39, 24): matrices=8652, minimum=6539785, certified_K=6539785, gap=9531
+n=6 (44, 42, 22): matrices=2487, minimum=5186391, certified_K=5186391, gap=48090
+n=6 (44, 43, 22): matrices=852, minimum=82706, certified_K=82706, gap=472
+n=6 (45, 31, 31): matrices=9399, minimum=-898678, certified_K=-898678, gap=600
+n=6 (45, 40, 23): matrices=3435, minimum=-2865067, certified_K=-2865067, gap=359
+n=6 (42, 35, 30): matrices=27594, minimum=-9289970, certified_K=-9289970, gap=16785
+n=6 (45, 36, 26): matrices=6003, minimum=-8270229, certified_K=-8270229, gap=17847
+109-COMPLETION PASS: 24 remaining noncompletion types; K=-106518, forced=-38776968, gap=4416.
+LOWER INPUTS PASS: 1442220 universal and 373653 conditional matrix evaluations; 2022 inherited Hill states.
+NEAR112 h=1: states=6, gap=18
+NEAR112 h=2: states=9, gap=18
+NEAR112 h=3: states=12, gap=18
+NEAR112 h=4: states=15, gap=18
+NEAR112 h=5: states=18, gap=18
+NEAR112 h=6: states=21, gap=18
+NEAR112 h=7: states=24, gap=18
+NEAR112 h=8: states=27, gap=18
+NEAR112 h=9: states=30, gap=18
+NEAR112 h=10: states=33, gap=18
+NEAR112 h=11: states=36, gap=18
+NEAR112 h=12: states=37, gap=18
+NEAR112 h=13: states=38, gap=18
+NEAR112 h=14: states=39, gap=18
+NEAR112 h=15: states=40, gap=8052
+NEAR112 h=16: states=41, gap=8640
+NEAR112 h=17: states=41, gap=18
+NEAR112 h=18: states=42, gap=6568
+NEAR112 h=19: states=43, gap=5329
+NEAR112 h=20: states=43, gap=60
+NEAR112 h=21: states=42, gap=2814
+NEAR112 h=22: states=42, gap=2320
+NEAR112 h=23: states=41, gap=1449
+NEAR112 h=24: states=40, gap=10440
+NEAR112 h=25: states=39, gap=6
+NEAR112 h=26: states=38, gap=2400
+NEAR112 h=27: states=37, gap=18276
+NEAR112 h=28: states=36, gap=84
+NEAR112 h=29: states=35, gap=1326
+NEAR112 h=30: states=34, gap=5740
+NEAR112 h=31: states=33, gap=490
+NEAR112 h=32: states=32, gap=1916676
+NEAR112 h=33: states=31, gap=9656
+NEAR112 h=34: states=30, gap=316
+NEAR112 h=35: states=29, gap=798
+NEAR112 h=36: states=28, gap=5166
+NEAR112 h=37: states=27, gap=4350
+NEAR112 h=38: states=26, gap=11579720384
+NEAR112 h=39: states=25, gap=3372
+NEAR112 h=40: states=24, gap=3084
+NEAR112 h=41: states=23, gap=429
+NEAR112 h=42: states=22, gap=316344
+NEAR112 h=43: states=21, gap=810
+NEAR112 h=44: states=20, gap=508
+NEAR112 h=45: states=19, gap=618
+NEAR112 h=46: states=18, gap=8642
+NEAR112 h=47: states=17, gap=22840
+NEAR112 h=48: states=16, gap=11496
+NEAR112 h=49: states=15, gap=2905
+NEAR112 h=50: states=14, gap=1226
+NEAR112 h=51: states=13, gap=580
+NEAR112 PASS: 1462 state inequalities; (112,111,35) is excluded.
+RARE108 PASS: 27 remaining types, gap=1106
+NEW INNER (45, 41, 22): matrices=3393, minimum=3207159, K=3207159, bound=18041753
+NEW INNER (44, 43, 21): matrices=1113, minimum=7437230, K=7437230, bound=18044648
+NEW INNER (43, 43, 22): matrices=2040, minimum=3543239, K=3543239, bound=18028351
+HISTOGRAM108 PASS: sum(phi) <= 18044648; 6546 inner matrix evaluations.
+DELETED2 PASS: 1462 integer states; two deletions from two 112-caps leave at most44 positions.
+AUX41 INNER hist5_41_0 (20, 20, 1): matrices=30, minimum=-18962, K=-18962, bound=56630
+AUX41 INNER hist5_41_0 (18, 18, 5): matrices=6660, minimum=10680, K=10680, bound=58774
+AUX41 INNER hist5_41_0 (20, 17, 4): matrices=1128, minimum=-12235, K=-12235, bound=57852
+AUX41 INNER hist5_41_0 (20, 16, 5): matrices=1341, minimum=-10768, K=-10768, bound=56850
+AUX41 INNER hist5_41_0 (19, 17, 5): matrices=2433, minimum=-2508, K=-2508, bound=58768
+AUX41 INNER hist5_41_0 (19, 16, 6): matrices=2922, minimum=1212, K=1212, bound=57623
+AUX41 INNER hist5_41_0 (18, 17, 6): matrices=8232, minimum=-2605, K=-2605, bound=57894
+AUX41 INNER hist5_41_0 (18, 16, 7): matrices=9693, minimum=-7905, K=-7905, bound=57647
+AUX41 INNER hist5_41_0 (17, 17, 7): matrices=9249, minimum=-13871, K=-13871, bound=56746
+AUX41 INNER hist5_41_0 (17, 16, 8): matrices=10611, minimum=-1046, K=-1046, bound=57980
+AUX41 PASS hist5_41_0: bound=58774, matrices=52299
+AUX41 INNER hist5_41_4 (20, 20, 1): matrices=30, minimum=-79336, K=-79336, bound=941090
+AUX41 INNER hist5_41_4 (18, 18, 5): matrices=6657, minimum=97617, K=97617, bound=942856
+AUX41 INNER hist5_41_4 (20, 17, 4): matrices=1092, minimum=-60651, K=-60651, bound=941176
+AUX41 INNER hist5_41_4 (20, 16, 5): matrices=1278, minimum=29827, K=29827, bound=940980
+AUX41 INNER hist5_41_4 (19, 17, 5): matrices=2295, minimum=129402, K=129402, bound=941136
+AUX41 INNER hist5_41_4 (19, 16, 6): matrices=2688, minimum=28187, K=28187, bound=940974
+AUX41 INNER hist5_41_4 (18, 17, 6): matrices=7455, minimum=69306, K=69306, bound=941465
+AUX41 INNER hist5_41_4 (18, 16, 7): matrices=8013, minimum=11407, K=11407, bound=941032
+AUX41 INNER hist5_41_4 (17, 17, 7): matrices=6642, minimum=100558, K=100558, bound=941379
+AUX41 INNER hist5_41_4 (17, 16, 8): matrices=7011, minimum=59544, K=59544, bound=941451
+AUX41 PASS hist5_41_4: bound=942856, matrices=43161
+AUX41 INNER hist5_41_5 (20, 20, 1): matrices=30, minimum=-335374, K=-335374, bound=663100
+AUX41 INNER hist5_41_5 (18, 18, 5): matrices=6657, minimum=9251, K=9251, bound=701006
+AUX41 INNER hist5_41_5 (20, 17, 4): matrices=1092, minimum=-164538, K=-164538, bound=698312
+AUX41 INNER hist5_41_5 (20, 16, 5): matrices=1278, minimum=-87622, K=-87622, bound=699830
+AUX41 INNER hist5_41_5 (19, 17, 5): matrices=2295, minimum=1814, K=1814, bound=698664
+AUX41 INNER hist5_41_5 (19, 16, 6): matrices=2688, minimum=-111389, K=-111389, bound=698314
+AUX41 INNER hist5_41_5 (18, 17, 6): matrices=7455, minimum=-50516, K=-50516, bound=699458
+AUX41 INNER hist5_41_5 (18, 16, 7): matrices=8013, minimum=-47840, K=-47840, bound=698627
+AUX41 INNER hist5_41_5 (17, 17, 7): matrices=6642, minimum=25067, K=25067, bound=698454
+AUX41 INNER hist5_41_5 (17, 16, 8): matrices=7011, minimum=47411, K=47411, bound=698052
+AUX41 PASS hist5_41_5: bound=701006, matrices=43161
+STEP INNER nested106_size276 (41, 41, 24): matrices=77241, minimum=-51977977, K=-51977977, bound=-3591688100
+STEP INNER nested106_size276 (42, 41, 23): matrices=48030, minimum=-77986085, K=-77986085, bound=-3591682543
+STEP INNER nested106_size276 (42, 42, 22): matrices=27927, minimum=-65808280, K=-65808280, bound=-3591688050
+STEP INNER nested106_size276 (43, 40, 23): matrices=24114, minimum=148363378, K=148363378, bound=-3591686613
+STEP INNER nested106_size276 (43, 41, 22): matrices=23070, minimum=-148169232, K=-148169232, bound=-3591679657
+STEP INNER nested106_size276 (43, 42, 21): matrices=13722, minimum=7596204, K=7596204, bound=-3591690944
+STEP INNER nested106_size276 (43, 43, 20): matrices=6033, minimum=-250091151, K=-250091151, bound=-3591675173
+STEP INNER nested106_size276 (44, 40, 22): matrices=12588, minimum=-196056025, K=-196056025, bound=-3591689292
+STEP INNER nested106_size276 (44, 41, 21): matrices=12108, minimum=-218029289, K=-218029289, bound=-3591668792
+STEP INNER nested106_size276 (44, 42, 20): matrices=7206, minimum=227534616, K=227534616, bound=-3591691554
+STEP INNER nested106_size276 (44, 43, 19): matrices=3168, minimum=399282425, K=399282425, bound=-3591685646
+STEP INNER nested106_size276 (45, 40, 21): matrices=10740, minimum=-422820502, K=-422820502, bound=-3591640984
+STEP INNER nested106_size276 (45, 41, 20): matrices=10128, minimum=-459628132, K=-459628132, bound=-3591660862
+STEP INNER nested106_size276 (45, 42, 19): matrices=6060, minimum=-436743637, K=-436743637, bound=-3591688275
+HISTOGRAM PASS nested106_size276: types=79, rare=14, bound=-3591640984, matrices=282135
+STEP INNER nested107_size276 (43, 41, 23): matrices=11733, minimum=17380583, K=17380583, bound=-321659700
+STEP INNER nested107_size276 (43, 42, 22): matrices=7272, minimum=20038858, K=20038858, bound=-321654097
+STEP INNER nested107_size276 (43, 43, 21): matrices=3048, minimum=43931320, K=43931320, bound=-321658914
+STEP INNER nested107_size276 (44, 41, 22): matrices=5991, minimum=-13918612, K=-13918612, bound=-321660746
+STEP INNER nested107_size276 (44, 42, 21): matrices=3762, minimum=-17584498, K=-17584498, bound=-321639387
+STEP INNER nested107_size276 (44, 43, 20): matrices=1578, minimum=-28682313, K=-28682313, bound=-321657114
+STEP INNER nested107_size276 (45, 41, 21): matrices=5214, minimum=-42003296, K=-42003296, bound=-321659628
+HISTOGRAM PASS nested107_size276: types=47, rare=7, bound=-321639387, matrices=38598
+STEP INNER nested107_size277 (43, 41, 23): matrices=11748, minimum=-11805572, K=-11805572, bound=-345324079
+STEP INNER nested107_size277 (43, 42, 22): matrices=7374, minimum=-10739503, K=-10739503, bound=-345318378
+STEP INNER nested107_size277 (43, 43, 21): matrices=3180, minimum=4881235, K=4881235, bound=-345323284
+STEP INNER nested107_size277 (44, 41, 22): matrices=6231, minimum=-18520020, K=-18520020, bound=-345327925
+STEP INNER nested107_size277 (44, 42, 21): matrices=3972, minimum=-10562414, K=-10562414, bound=-345314329
+STEP INNER nested107_size277 (44, 43, 20): matrices=1767, minimum=42581929, K=42581929, bound=-345320954
+STEP INNER nested107_size277 (45, 41, 21): matrices=5499, minimum=-43497902, K=-43497902, bound=-345315681
+HISTOGRAM PASS nested107_size277: types=47, rare=7, bound=-345314329, matrices=39771
+STEP INNER joint106_107_106_63_size276 (41, 41, 24): matrices=77241, minimum=-431967825, K=-431967825, bound=-33592725966
+STEP INNER joint106_107_106_63_size276 (42, 41, 23): matrices=48030, minimum=-453203508, K=-453203508, bound=-33592703929
+STEP INNER joint106_107_106_63_size276 (42, 42, 22): matrices=27927, minimum=-485461123, K=-485461123, bound=-33592734156
+STEP INNER joint106_107_106_63_size276 (43, 40, 23): matrices=24114, minimum=1618943158, K=1618943158, bound=-33592746004
+STEP INNER joint106_107_106_63_size276 (43, 41, 22): matrices=23070, minimum=-1419297246, K=-1419297246, bound=-33592725477
+STEP INNER joint106_107_106_63_size276 (43, 42, 21): matrices=13722, minimum=1629286830, K=1629286830, bound=-33605964557
+STEP INNER joint106_107_106_63_size276 (43, 43, 20): matrices=6033, minimum=600917778, K=600917778, bound=-33592738723
+STEP INNER joint106_107_106_63_size276 (44, 40, 22): matrices=12588, minimum=2248666157, K=2248666157, bound=-33592727001
+STEP INNER joint106_107_106_63_size276 (44, 41, 21): matrices=12108, minimum=-1496237180, K=-1496237180, bound=-33592598595
+STEP INNER joint106_107_106_63_size276 (44, 42, 20): matrices=7206, minimum=2346312850, K=2346312850, bound=-33592730323
+STEP INNER joint106_107_106_63_size276 (44, 43, 19): matrices=3168, minimum=1158192563, K=1158192563, bound=-33592721559
+STEP INNER joint106_107_106_63_size276 (45, 40, 21): matrices=10740, minimum=-4178644077, K=-4178644077, bound=-33592746294
+STEP INNER joint106_107_106_63_size276 (45, 41, 20): matrices=10128, minimum=-4454267120, K=-4454267120, bound=-33592712875
+STEP INNER joint106_107_106_63_size276 (45, 42, 19): matrices=6060, minimum=-4460955466, K=-4460955466, bound=-33592745090
+HISTOGRAM PASS joint106_107_106_63_size276: types=79, rare=14, bound=-33592598595, matrices=282135
+STEP INNER joint107_107_106_63_size276 (43, 41, 23): matrices=11733, minimum=-1263859689, K=-1263859689, bound=-32290597811
+STEP INNER joint107_107_106_63_size276 (43, 42, 22): matrices=7272, minimum=324478367, K=324478367, bound=-32290592918
+STEP INNER joint107_107_106_63_size276 (43, 43, 21): matrices=3048, minimum=911848099, K=911848099, bound=-32290588250
+STEP INNER joint107_107_106_63_size276 (44, 41, 22): matrices=5991, minimum=-2850389298, K=-2850389298, bound=-32290531672
+STEP INNER joint107_107_106_63_size276 (44, 42, 21): matrices=3762, minimum=-1538207352, K=-1538207352, bound=-32290593800
+STEP INNER joint107_107_106_63_size276 (44, 43, 20): matrices=1578, minimum=-2250452637, K=-2250452637, bound=-32290593202
+STEP INNER joint107_107_106_63_size276 (45, 41, 21): matrices=5214, minimum=-4197728586, K=-4197728586, bound=-32290411632
+HISTOGRAM PASS joint107_107_106_63_size276: types=47, rare=7, bound=-32290411632, matrices=38598
+STEP ORDINARY (109, 109, 58) status=(-1, -1, -1): matrices=214074, minimum=91251848, K=91251848, gap=15715992
+STEP ORDINARY (110, 100, 66) status=(-1, -1, -1): matrices=975063, minimum=14478572, K=14478572, gap=809708
+STEP ORDINARY (110, 101, 65) status=(-1, -1, -1): matrices=950988, minimum=16745810, K=16745810, gap=825040
+STEP ORDINARY (110, 102, 64) status=(-1, -1, -1): matrices=926370, minimum=9214837, K=9214837, gap=291154
+STEP ORDINARY (110, 103, 63) status=(-1, -1, -1): matrices=901134, minimum=18397198, K=18397198, gap=2093341
+STEP ORDINARY (110, 104, 62) status=(-1, -1, -1): matrices=875265, minimum=1191343, K=1191343, gap=269070
+STEP ORDINARY (110, 105, 61) status=(-1, -1, -1): matrices=848700, minimum=6601543, K=6601543, gap=511177
+STEP ORDINARY (110, 106, 60) status=(-1, -1, -1): matrices=810597, minimum=21739156, K=21739156, gap=1002904
+STEP ORDINARY (110, 107, 59) status=(-1, -1, -1): matrices=599925, minimum=9106164, K=9106164, gap=245896
+STEP ORDINARY (110, 108, 58) status=(-1, -1, -1): matrices=474426, minimum=11944223, K=11944223, gap=56813
+STEP ORDINARY (110, 109, 57) status=(-1, -1, -1): matrices=145314, minimum=164763848, K=164763848, gap=15038474
+STEP ORDINARY (110, 110, 56) status=(-1, -1, -1): matrices=88809, minimum=294144136, K=294144136, gap=2722159
+STEP ORDINARY (110, 94, 72) status=(-1, -1, -1): matrices=1110510, minimum=1297195, K=1297195, gap=35659
+STEP ORDINARY (110, 95, 71) status=(-1, -1, -1): matrices=1089912, minimum=13111810, K=13111810, gap=629040
+STEP ORDINARY (110, 96, 70) status=(-1, -1, -1): matrices=1068051, minimum=12716824, K=12716824, gap=383236
+STEP ORDINARY (110, 97, 69) status=(-1, -1, -1): matrices=1045446, minimum=21343740, K=21343740, gap=59049
+STEP ORDINARY (110, 98, 68) status=(-1, -1, -1): matrices=1022313, minimum=6081368, K=6081368, gap=257584
+STEP ORDINARY (110, 99, 67) status=(-1, -1, -1): matrices=998808, minimum=15154012, K=15154012, gap=766903
+STEP ORDINARY (111, 100, 65) status=(-1, -1, -1): matrices=502887, minimum=14660701, K=14660701, gap=921274
+STEP ORDINARY (111, 101, 64) status=(-1, -1, -1): matrices=490251, minimum=735936, K=735936, gap=4011
+STEP ORDINARY (111, 102, 63) status=(-1, -1, -1): matrices=477331, minimum=3849921, K=3849921, gap=123651
+STEP ORDINARY (111, 103, 62) status=(-1, -1, -1): matrices=464184, minimum=2560034, K=2560034, gap=34724
+STEP ORDINARY (111, 104, 61) status=(-1, -1, -1): matrices=450732, minimum=2513613, K=2513613, gap=554391
+STEP ORDINARY (111, 105, 60) status=(-1, -1, -1): matrices=436987, minimum=3710259, K=3710259, gap=211491
+STEP ORDINARY (111, 106, 59) status=(-1, -1, -1): matrices=417252, minimum=10100506, K=10100506, gap=357154
+STEP ORDINARY (111, 107, 58) status=(-1, -1, -1): matrices=307032, minimum=16185337, K=16185337, gap=373627
+STEP ORDINARY (111, 108, 57) status=(-1, -1, -1): matrices=241300, minimum=102383098, K=102383098, gap=10648873
+STEP ORDINARY (111, 109, 56) status=(-1, -1, -1): matrices=74094, minimum=493648540, K=493648540, gap=11030788
+STEP ORDINARY (111, 93, 72) status=(-1, -1, -1): matrices=585757, minimum=13934958, K=13934958, gap=1014180
+STEP ORDINARY (111, 94, 71) status=(-1, -1, -1): matrices=575016, minimum=14613680, K=14613680, gap=572507
+STEP ORDINARY (111, 95, 70) status=(-1, -1, -1): matrices=563607, minimum=26755916, K=26755916, gap=2513684
+STEP ORDINARY (111, 96, 69) status=(-1, -1, -1): matrices=551773, minimum=1623561, K=1623561, gap=39813
+STEP ORDINARY (111, 97, 68) status=(-1, -1, -1): matrices=539754, minimum=2297835, K=2297835, gap=133647
+STEP ORDINARY (111, 98, 67) status=(-1, -1, -1): matrices=527571, minimum=6970707, K=6970707, gap=702096
+STEP ORDINARY (111, 99, 66) status=(-1, -1, -1): matrices=515305, minimum=15280741, K=15280741, gap=1027480
+STEP ORDINARY (112, 100, 64) status=(-1, -1, -1): matrices=258801, minimum=-201222871, K=-201222871, gap=3646132
+STEP ORDINARY (112, 101, 63) status=(-1, -1, -1): matrices=252330, minimum=-15899132, K=-15899132, gap=64234
+STEP ORDINARY (112, 102, 62) status=(-1, -1, -1): matrices=245730, minimum=-5602138, K=-5602138, gap=75827
+STEP ORDINARY (112, 103, 61) status=(-1, -1, -1): matrices=238977, minimum=-5829970, K=-5829970, gap=108045
+STEP ORDINARY (112, 104, 60) status=(-1, -1, -1): matrices=232077, minimum=-41621557, K=-41621557, gap=1376996
+STEP ORDINARY (112, 105, 59) status=(-1, -1, -1): matrices=225039, minimum=2746731, K=2746731, gap=1593
+STEP ORDINARY (112, 106, 58) status=(-1, -1, -1): matrices=214806, minimum=23150347, K=23150347, gap=1241946
+STEP ORDINARY (112, 107, 57) status=(-1, -1, -1): matrices=156513, minimum=-1674502, K=-1674502, gap=94565
+STEP ORDINARY (112, 108, 56) status=(-1, -1, -1): matrices=122238, minimum=5908824, K=5908824, gap=171378
+STEP ORDINARY (112, 92, 72) status=(-1, -1, -1): matrices=307266, minimum=-131961848, K=-131961848, gap=2334616
+STEP ORDINARY (112, 93, 71) status=(-1, -1, -1): matrices=301833, minimum=-119068228, K=-119068228, gap=1583021
+STEP ORDINARY (112, 94, 70) status=(-1, -1, -1): matrices=296013, minimum=-67127339, K=-67127339, gap=1411536
+STEP ORDINARY (112, 95, 69) status=(-1, -1, -1): matrices=289968, minimum=-73335197, K=-73335197, gap=1059649
+STEP ORDINARY (112, 96, 68) status=(-1, -1, -1): matrices=283794, minimum=-150830802, K=-150830802, gap=2339796
+STEP ORDINARY (112, 97, 67) status=(-1, -1, -1): matrices=277608, minimum=-14831344, K=-14831344, gap=42300
+STEP ORDINARY (112, 98, 66) status=(-1, -1, -1): matrices=271401, minimum=-17072905, K=-17072905, gap=176903
+STEP ORDINARY (112, 99, 65) status=(-1, -1, -1): matrices=265152, minimum=-48900999, K=-48900999, gap=672603
+STEP ORDINARY (109, 100, 67) status=(-1, -1, -1): matrices=1376487, minimum=24232360, K=24232360, gap=457631
+STEP ORDINARY (109, 101, 66) status=(-1, -1, -1): matrices=1344969, minimum=85697790, K=85697790, gap=617232
+STEP ORDINARY (109, 107, 60) status=(-1, -1, -1): matrices=867771, minimum=30945468, K=30945468, gap=268728
+STEP ORDINARY (109, 108, 59) status=(-1, -1, -1): matrices=691761, minimum=22739000, K=22739000, gap=1298981
+STEP ORDINARY (109, 95, 72) status=(-1, -1, -1): matrices=1518978, minimum=70345522, K=70345522, gap=409819
+STEP ORDINARY (109, 96, 71) status=(-1, -1, -1): matrices=1492875, minimum=74337632, K=74337632, gap=31439
+STEP ORDINARY (109, 97, 70) status=(-1, -1, -1): matrices=1465401, minimum=310315385, K=310315385, gap=1195848
+STEP ORDINARY (109, 98, 69) status=(-1, -1, -1): matrices=1436763, minimum=1826536375, K=1826536375, gap=3905125
+STEP ORDINARY (109, 99, 68) status=(-1, -1, -1): matrices=1407135, minimum=107205604, K=107205604, gap=181909
+STEP ORDINARY (109, 102, 65) status=(-1, -1, -1): matrices=1288650, minimum=22535010, K=22535010, gap=265338
+STEP ORDINARY (109, 103, 64) status=(-1, -1, -1): matrices=1256757, minimum=20424514, K=20424514, gap=150219
+STEP ORDINARY (109, 104, 63) status=(-1, -1, -1): matrices=1223391, minimum=12725198, K=12725198, gap=166442
+STEP ORDINARY (109, 105, 62) status=(-1, -1, -1): matrices=1188531, minimum=47121332, K=47121332, gap=650906
+STEP ORDINARY (109, 106, 61) status=(-1, -1, -1): matrices=1139676, minimum=29676535, K=29676535, gap=329525
+STEP EXTREMAL (105, 105, 66) status=(0, 0, -1): matrices=7007514, minimum=-139341906, K=-139341906, gap=533106
+STEP EXTREMAL (105, 105, 66) status=(0, 1, -1): matrices=2986170, minimum=-835231, K=-835231, gap=46168
+STEP EXTREMAL (105, 105, 66) status=(1, 0, -1): matrices=3048622, minimum=-835231, K=-835231, gap=46168
+STEP EXTREMAL (105, 105, 66) status=(1, 1, -1): matrices=1443778, minimum=1124590, K=1124590, gap=55400
+STEP EXTREMAL (106, 104, 66) status=(-1, -1, -1): matrices=6796137, minimum=-83173744, K=-83173744, gap=1629299
+STEP EXTREMAL (106, 105, 65) status=(0, 0, -1): matrices=6779361, minimum=-77181521, K=-77181521, gap=273601
+STEP EXTREMAL (106, 105, 65) status=(0, 1, -1): matrices=2887632, minimum=-2707240, K=-2707240, gap=674960
+STEP EXTREMAL (106, 105, 65) status=(1, 0, -1): matrices=2584863, minimum=-1752528, K=-1752528, gap=452219
+STEP EXTREMAL (106, 105, 65) status=(1, 1, -1): matrices=1225209, minimum=742855, K=742855, gap=1259
+STEP EXTREMAL (106, 106, 64) status=(0, 0, -1): matrices=6585225, minimum=42246038, K=42246038, gap=2195770
+STEP EXTREMAL (106, 106, 64) status=(0, 1, -1): matrices=2427144, minimum=-1033172, K=-1033172, gap=77650
+STEP EXTREMAL (106, 106, 64) status=(1, 0, -1): matrices=2510823, minimum=-1033172, K=-1033172, gap=77650
+STEP EXTREMAL (106, 106, 64) status=(1, 1, -1): matrices=1030554, minimum=747641, K=747641, gap=122220
+STEP EXTREMAL (107, 103, 66) status=(-1, -1, -1): matrices=5008965, minimum=-3097980, K=-3097980, gap=35079
+STEP EXTREMAL (107, 104, 65) status=(-1, -1, -1): matrices=5033565, minimum=-87611888, K=-87611888, gap=566919
+STEP EXTREMAL (107, 105, 64) status=(0, 0, -1): matrices=4920156, minimum=-19998969, K=-19998969, gap=126138
+STEP EXTREMAL (107, 105, 64) status=(0, 1, -1): matrices=2220114, minimum=9456750, K=9456750, gap=957223
+STEP EXTREMAL (107, 105, 64) status=(1, 0, -1): matrices=2072382, minimum=-2281116, K=-2281116, gap=229963
+STEP EXTREMAL (107, 105, 64) status=(1, 1, -1): matrices=983649, minimum=4247120, K=4247120, gap=1008030
+STEP EXTREMAL (107, 106, 63) status=(0, 0, -1): matrices=4764240, minimum=-775651987, K=-775651987, gap=2265557
+STEP EXTREMAL (107, 106, 63) status=(0, 1, -1): matrices=1864035, minimum=10899349, K=10899349, gap=1801738
+STEP EXTREMAL (107, 106, 63) status=(1, 0, -1): matrices=2008386, minimum=-24040984, K=-24040984, gap=19221002
+STEP EXTREMAL (107, 106, 63) status=(1, 1, -1): matrices=825948, minimum=719735, K=719735, gap=172258
+STEP EXTREMAL (107, 107, 62) status=(0, 0, -1): matrices=3463245, minimum=503428, K=503428, gap=23628
+STEP EXTREMAL (107, 107, 62) status=(0, 1, -1): matrices=1499379, minimum=12382035, K=12382035, gap=538787
+STEP EXTREMAL (107, 107, 62) status=(1, 0, -1): matrices=1506933, minimum=12382035, K=12382035, gap=538787
+STEP EXTREMAL (107, 107, 62) status=(1, 1, -1): matrices=667098, minimum=1457027, K=1457027, gap=543821
+STEP EXTREMAL (108, 103, 65) status=(-1, -1, -1): matrices=4243371, minimum=-2741888, K=-2741888, gap=4771
+STEP EXTREMAL (108, 104, 64) status=(0, 0, -1): matrices=4106808, minimum=-1883536, K=-1883536, gap=119394
+STEP EXTREMAL (108, 104, 64) status=(0, 1, -1): matrices=2156463, minimum=10456090, K=10456090, gap=1079850
+STEP EXTREMAL (108, 104, 64) status=(1, 0, -1): matrices=1761147, minimum=-6351555, K=-6351555, gap=1499342
+STEP EXTREMAL (108, 104, 64) status=(1, 1, -1): matrices=955101, minimum=1793627, K=1793627, gap=440910
+STEP EXTREMAL (108, 105, 63) status=(0, 0, -1): matrices=4019919, minimum=-7707403, K=-7707403, gap=143953
+STEP EXTREMAL (108, 105, 63) status=(0, 1, -1): matrices=1852524, minimum=8906633, K=8906633, gap=527377
+STEP EXTREMAL (108, 105, 63) status=(1, 0, -1): matrices=1728528, minimum=-630062, K=-630062, gap=19917
+STEP EXTREMAL (108, 105, 63) status=(1, 1, -1): matrices=822501, minimum=1770593, K=1770593, gap=453181
+STEP EXTREMAL (108, 106, 62) status=(0, 0, -1): matrices=3855921, minimum=-69516812, K=-69516812, gap=312590
+STEP EXTREMAL (108, 106, 62) status=(0, 1, -1): matrices=1542828, minimum=9948297, K=9948297, gap=1228393
+STEP EXTREMAL (108, 106, 62) status=(1, 0, -1): matrices=1665636, minimum=-623403, K=-623403, gap=120489
+STEP EXTREMAL (108, 106, 62) status=(1, 1, -1): matrices=688629, minimum=2435298, K=2435298, gap=566582
+STEP EXTREMAL (108, 107, 61) status=(0, 0, -1): matrices=2830716, minimum=94550844, K=94550844, gap=3216348
+STEP EXTREMAL (108, 107, 61) status=(0, 1, -1): matrices=1236042, minimum=11091328, K=11091328, gap=1350309
+STEP EXTREMAL (108, 107, 61) status=(1, 0, -1): matrices=1249290, minimum=11198566, K=11198566, gap=821970
+STEP EXTREMAL (108, 107, 61) status=(1, 1, -1): matrices=556254, minimum=3924389, K=3924389, gap=1314754
+STEP EXTREMAL (108, 108, 60) status=(0, 0, -1): matrices=2206314, minimum=5576989, K=5576989, gap=675522
+STEP EXTREMAL (108, 108, 60) status=(0, 1, -1): matrices=939918, minimum=4898485, K=4898485, gap=1374972
+STEP EXTREMAL (108, 108, 60) status=(1, 0, -1): matrices=983724, minimum=4898485, K=4898485, gap=1374972
+STEP EXTREMAL (108, 108, 60) status=(1, 1, -1): matrices=427071, minimum=4504730, K=4504730, gap=1632818
+STEP EXTREMAL (111, 110, 55) status=(1, 1, -1): matrices=42567, minimum=2523086, K=2523086, gap=96858
+STEP EXTREMAL (112, 109, 55) status=(1, 1, -1): matrices=35583, minimum=2895628, K=2895628, gap=120516
+STEP FULL PASS: no 276-point cap; f(7,3) <= 275; ordinary_matrices=43805229; extremal_matrices=124057982; new_inner_matrices=681237; minimum_cases=17; global_sum=-214038.
+Elapsed seconds: 60.9329

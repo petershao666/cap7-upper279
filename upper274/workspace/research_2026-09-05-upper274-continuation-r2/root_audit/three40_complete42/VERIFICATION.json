@@ -1,0 +1,58 @@
+{
+  "status": "EXACT_CONDITIONAL_MINIMUM_BRANCH_EXCLUSION_INDEPENDENTLY_VERIFIED",
+  "target": [
+    106,
+    106,
+    63
+  ],
+  "state": [
+    0,
+    0,
+    -1
+  ],
+  "ordinary_exclusion": false,
+  "condition": "An actual Q67-global-minimum direction of an arbitrary275cap with both106-point whole6DsectionsNC",
+  "certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "positive_gap": 148616699075,
+  "outer_K": 43471588119828,
+  "outer_forced": 15823509458918317,
+  "B40": {
+    "400": -9829345995830952,
+    "401": -9618859046048364,
+    "402": -10564264755104425
+  },
+  "B106": -35039780423844643,
+  "root_lower40_raw": 318717,
+  "P_NC106_all_ordered_raw": 1106094,
+  "root_outer_raw": 7382307,
+  "finite_support_checks": 15885,
+  "exact_pointwise_rows_checked_total": 8807118,
+  "all12_fixed_outer_upper_coefficients_zero": true,
+  "whole42_state_disjunction_used": false,
+  "root_read_independent_code_and_proofs": true,
+  "shared_dependencies": [
+    "Published lower-dimensional classifications and completion/NC theorems",
+    "Complete5D41 family with explicit published ancillary-list completeness premise",
+    "Accepted actual4D16/17/18 histograms, primary Table1 and previously independently checked clash patterns",
+    "Certificate coefficient data",
+    "Root own prior lower/outer kernel reused; P own prior independent raw-domain generator and arithmetic reused"
+  ],
+  "independent_kernels": [
+    "Root stdlib input/support checker and direct forced-sum integration",
+    "Root standalone C++ raw40/outer checker",
+    "P fully ordered NC106 generator, separate pure-data row compiler and C++ replay, original-JSON witness arithmetic"
+  ],
+  "evidence": {
+    "compatibility/two_local_theta400_certificates/RESULT.json": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+    "root_audit/three40_complete42/ROOT_RAW_VERIFICATION.json": "bdbf59fff4d5de25bfe7dd220d6e7b44aa648a6dd9cefcfd3aee1e5aedb3296d",
+    "root_audit/three40_complete42/SUPPORT_VERIFICATION.json": "643d97974ecc94201c7ec68354502781a4c3eccbc9dada84202906518bebf0a4",
+    "root_potential/three40_complete42_nc106_verify/VERIFICATION.json": "bb9a437a66965e478951c9dccbea60b23c9d889fcf19ba04f27218b24a9e2232",
+    "root_potential/three40_complete42_nc106_verify/SOURCE_AND_SUPPORT_VERIFICATION.json": "1c1ff99175c032351f4d097676634b3d24f91de9bc06161737991bc770e740e5",
+    "root_potential/three40_complete42_nc106_verify/RAW_VERIFICATION.json": "435a0110bbe7a9adbf5f8ce19d8b2138302883bb86d4b0e79e95f5dc46b74d07",
+    "root_audit/complete41/VERIFICATION.json": "fe9e96369a82a422d2e369f7f8cf777fb1c5a279f43befa8e734635a45dcc9ef",
+    "root_audit/three40_complete42/finalize_branch.py": "e4d99cb71ca5aefd95dbeedc67262f79efdb48ff5527e835abd6b8db9fc90275"
+  },
+  "remaining_minimum_states": [],
+  "global_promotion": "Requires separate completed global274 bridge audit",
+  "cap237_existence": "UNKNOWN"
+}

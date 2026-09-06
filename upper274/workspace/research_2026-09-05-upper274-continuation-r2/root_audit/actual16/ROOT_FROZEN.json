@@ -1,0 +1,23 @@
+{
+  "status": "ROOT_ENUMERATION_FROZEN_BEFORE_PRODUCER_COMPARE",
+  "large_section_histograms": 376,
+  "normalized_large_section_caps": 553678,
+  "all_pair_checks": 66441360,
+  "inputs": {
+    "root_potential/small3d_actual_caps4.txt": "36ad92bcea700c0f4966a7d171ba6f3613abe621b135c5ae74aee9a4123ad7cf",
+    "root_potential/small3d_actual_caps5.txt": "cb2d2f8d8a769380ac1d06dad5e6c08d7ae323547e3dace7a438a06390faef33",
+    "root_potential/small3d_actual_caps6.txt": "f8ca94153f2e5f1e947367192fd230306c5614594614080d47da3decc8a14fa2",
+    "root_potential/small3d_actual_caps7.txt": "488211429dc1c2a6795859395914135e83990952ee2c109fcdd20956c8758db1",
+    "root_potential/h17_actual_caps8.txt": "01dcd9448bb1c4ad1232c97ec09e8d395c1167d630e0a31edbcdf68dfd4dfa4b",
+    "root_potential/h17_input_independent_verification.json": "0ef0aa802ca2c226e9f4759461710d4302294a211cf3b3e3e0c688ad1d8636cd",
+    "root_audit/small3d/ACCEPTED_0_9.json": "dc1d5f0578ca3df5d0cf6da03d9b097d9e818c8523451c261e92d07414465018"
+  },
+  "outputs": {
+    "verify.cpp": "2fdf1c046dc29fbcd79171c7aca2aaee89473f8f1c16c081bf52223f4ec04b48",
+    "SCOPE.md": "a6d3ffb80564042f5f72a1b6e4b377a84940025fef3f5ad886dfa005cb80d471",
+    "root_histograms.txt": "f272c91ccf35ca86cfdeac7157b0ee71798dafe9b7c5e127e75a39d2691924b8",
+    "root_counts.txt": "64a7c19e5d721744f65ac8a080f7ef6cc5ae77124f3c127bb7ffeb4d05555c83",
+    "VERIFY.log": "1415b989f2ff55719f602cd0b545557babf67697885446bdabc56814fdae09c5"
+  },
+  "comparison_performed": false
+}

@@ -1,0 +1,15 @@
+{
+  "scale": 100000000000000,
+  "checkpoint_sha256": "522aeaba0fcb802be76437c564183e62260deeab2e0764f3d216f7367452cc3f",
+  "source_hashes": {
+    "compatibility/physical40_complete42_exact_repair/run.py": "bfd5a9b92f9b121ffc82008f7568433fff486af66fd698b2dd4d4b24bb733594",
+    "compatibility/physical40_complete42_10610663/LAST_FLOAT_CHECKPOINT.json": "522aeaba0fcb802be76437c564183e62260deeab2e0764f3d216f7367452cc3f",
+    "compatibility/physical40_complete42_10610663/INPUTS.json": "4f7a650d38727a972ba398b00ab40a5fe4506d17eefb67a688fef0975b8ede4c",
+    "compatibility/physical40_complete42_exact_repair/RESULT.json": "d1b886fc5834a833e22b4e83d1bde99487d20a1a7aac3e1c6f1ae0bdcc011d86",
+    "hist105106/whole42_state_gate/STATE_COVER.json": "3dd62487d8f396aa2204e83222f74255ee269d897be2ddd4565da16e48272327",
+    "root_audit/whole42_state_cover/VERIFICATION.json": "043fe58dd1bb7164c10f81cc31e6b1e84c6ebe73a505638a88532f9b83351682",
+    "root_audit/whole42_state_cover/FIXED_COEFFICIENT_ACTIVATION.md": "91d7d31aed830126d03a56244d408a5f752783c0894b4ea404fde3f9bf6e8972",
+    "root_audit/whole42_state_cover/EXACT_FIXED42_SUM_ADDENDUM.md": "a3625eb339bde87a761582e0ae14296d64b91b5aeb0ec172d5f1644c6637bf92"
+  },
+  "copied_geometry_sha256": "d1e6632fff8dce1a7eda1d6426cd8270a0f002539cd4999a2dc602644f299ece"
+}

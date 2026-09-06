@@ -1,0 +1,13 @@
+{
+  "status": "COMPLETE_EXTENSION_TEST",
+  "actual7_total": 126360,
+  "extendible7_total": 126360,
+  "unextendible7_total": 0,
+  "unextendible7_masks": [],
+  "seconds": 0.12505183299072087,
+  "input_sha256": {
+    "small3d_actual_caps7.txt": "488211429dc1c2a6795859395914135e83990952ee2c109fcdd20956c8758db1",
+    "h17_actual_caps8.txt": "01dcd9448bb1c4ad1232c97ec09e8d395c1167d630e0a31edbcdf68dfd4dfa4b"
+  },
+  "scope": "Only exact7-to8 extension coverage; no affineorbit or16cap claim"
+}

@@ -1,0 +1,15 @@
+{
+  "status": "EXACT_FROZEN_POINT_AND_DIRECTION_REPLAY_PASS",
+  "shared_dependencies": [
+    "frozen polynomial output masks, profiles and points; no C++ helper code"
+  ],
+  "catalogue_polynomial_completeness_rerun": false,
+  "canonical_pair_checks": 190,
+  "lifted_pair_checks": 162360,
+  "nonzero_normal_evaluations": 47916,
+  "scalar_direction_method": "all 242 nonzero normals, exact histogram division by two",
+  "all20_mask_count": 682344,
+  "independently_refiltered_B_count": 198,
+  "histogram_count": 1,
+  "input_histograms_sha256": "bd60eb3207e5ad3df90c551378be0e960ce96772297f0dc247ab713610c23484"
+}

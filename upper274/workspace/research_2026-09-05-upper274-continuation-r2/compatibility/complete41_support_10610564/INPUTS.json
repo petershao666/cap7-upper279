@@ -1,0 +1,33 @@
+{
+  "status": "WAITING_FOR_ACCEPTED_H41_AND_SEPARATE_BATCH",
+  "source_hashes": {
+    "root_audit/actual16/ACCEPTED_HISTOGRAMS.json": "3776b3593a186ddb06b8af9f78b9b95860f7218106236fa2cc5fce693c470b28",
+    "hist105106/h19/run.py": "da63493d05bb2f007e1f50c61a90510bafa16e219e548393968a93bd0a1ab1d9",
+    "hist105106/h19/PREREGISTRATION.md": "301dfb26a4ff79d11cb78a71c987f973a6ae630c134d7547301891409b243414",
+    "hist105106/h17/histograms17.json": "7c47c4c3468fc8ead940a889f24fdb31bc6d45dfeea764e53aa998462399528c",
+    "hist105106/h10/full18_states.json": "4fcdc14a30fb3a209ce4a9709aced518272abfaf9a4609535622013e814c127e",
+    "hist105106/h13/histogram_pair_capacity_v2.json": "707aa8ac752098e20f4714a561f4ab85aaaa7e45f5b770e9d161c5f5552907fc",
+    "compatibility/r105_fixed_outer/FUNCTIONS.json": "5210f29f70243029c204c131df79a480758ad0181240901aaa3f402f32786c32",
+    "root_audit/r105_functions.json": "2e93f6ab64bcbb25fa4233a8961385063055dcdaa9c03945a888e0fa9d820a64",
+    "compatibility/actual16_support_10610564/SCOPE.md": "e9984db8c8ab2e2eea08225ceb18f9f0827038bcc2fee951ebe9e66263423abc",
+    "compatibility/actual16_support_10610564/run.py": "81b104e810681b0323b4de2a676ee8fe2e784fd9262e6515d5ab701c0dcfc6a3",
+    "compatibility/actual16_support_10610564/local_support_layout.json": "eb0a86591f81ea861ab236d10b6d5271787a902f1863784986ab82f50a371d41",
+    "compatibility/actual16_support_10610564/all_case_coverage.json": "efcdf8c5aa7a7211eff65ce9633d94ba50f80afe02adaefedc1212203784e100",
+    "compatibility/actual16_support_10610564/FROZEN.json": "4202ef03c5982886aa573e8834d87d11191f385138f4ebdd65660ae490e56251",
+    "hist105106/h21/DERIVATION.md": "91665aa0e266a5db5ad036f8360eacec292cf6c7c110d9d00f6680ef06b1696a",
+    "hist105106/h11/single.py": "4bd3a73a52abff025cf1e9345e32e79238ee09980c24d93f8f2377dd55fdc72d",
+    "hist105106/h11/actualpair.py": "54fdd91ed5e2ec7a5a2c00cbf7205c2b3ddf9e784df931a916076f298b497adc",
+    "hist105106/h4/run.py": "e5f76a60b4141200675dbcab73595d45afd56d7c496c9bec2645efa95f55cf50",
+    "root_audit/complete41/ACCEPTED_HISTOGRAMS.json": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa"
+  },
+  "pending_complete41_input": {
+    "status": "ROOT_ACCEPTED",
+    "sha256": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa"
+  },
+  "target": [
+    106,
+    105,
+    64
+  ],
+  "root_audit_required": true
+}

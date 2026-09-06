@@ -1,0 +1,13 @@
+{
+  "status": "GO_COMPLETE_RAW_SOURCE_OVERCOVER_STOP_BEFORE_POINT_PACKET",
+  "raw_sc_records": 33549,
+  "all_raw_records": 34345,
+  "positive_sc_blocks": 77,
+  "files": {
+    "FROZEN.json": "fc5783b48c212204dc41217c5c09453d64a2d9c05a7686aaf2d3ed1b1e0c0c90",
+    "RAW_AMENDMENT.md": "916aa472607e08167a2a672b907b07d916e02042a1d33ce738e64826f2aa4411",
+    "RAW_SUMMARY_MATCH.json": "b795b6790dd2786bd8eef7e5d29219581c44973b14accd5137fa106e1d767f13",
+    "Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data_BLOCKS.json": "7004bedf99913c71e4613423441f8c66602f8a682e682e9612ac6a13dec0c54d",
+    "Dim5_41_180716_SetDim5Cap43_9And8_ExclPtCounts_Data_BLOCKS.json": "97c40b4cc36eb85fdd81f69ac87668774f18c961b22d8fd2877f6e5d14ba181a"
+  }
+}

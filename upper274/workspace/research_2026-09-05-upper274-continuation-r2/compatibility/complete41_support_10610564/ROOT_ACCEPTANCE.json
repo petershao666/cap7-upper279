@@ -1,0 +1,28 @@
+{
+  "status": "ROOT_ACCEPTED_EXACT_MINIMUM_BRANCH_EXCLUSION",
+  "root_verification_path": "root_audit/complete41_min10610564/VERIFICATION.json",
+  "root_verification_sha256": "36e8fd85970449ab662b932b19ae20b259ec80a96ca35e71305fd3826d871507",
+  "candidate_sha256": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+  "target": [
+    106,
+    105,
+    64
+  ],
+  "state": [
+    0,
+    0,
+    -1
+  ],
+  "ordinary_exclusion": false,
+  "gap": 21576254250,
+  "raw_inequalities_verified": 8868156,
+  "finite_support_rows_verified": 5463,
+  "global_upper_after_this_result": 275,
+  "remaining_branch": [
+    106,
+    106,
+    63
+  ],
+  "publication_priority_claim": false,
+  "earlier_pending_status_files": "Historical snapshots retained; root acceptance is recorded here without overwriting them."
+}

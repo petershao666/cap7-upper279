@@ -1,0 +1,8185 @@
+{
+  "status": "PASS_CONDITIONAL_GLOBAL_BRIDGE_ONLY",
+  "directions": 1093,
+  "complete_type_count": 341,
+  "negative_type_count": 56,
+  "root_total": -246950,
+  "root_coefficients": [
+    9,
+    -899,
+    15730000
+  ],
+  "ordinary_bans": [
+    [
+      112,
+      112,
+      29
+    ],
+    [
+      112,
+      111,
+      35
+    ],
+    [
+      112,
+      110,
+      45
+    ],
+    [
+      111,
+      111,
+      45
+    ],
+    [
+      111,
+      108,
+      56
+    ],
+    [
+      110,
+      109,
+      56
+    ],
+    [
+      109,
+      109,
+      57
+    ],
+    [
+      112,
+      105,
+      58
+    ],
+    [
+      111,
+      106,
+      58
+    ],
+    [
+      112,
+      104,
+      59
+    ],
+    [
+      111,
+      105,
+      59
+    ],
+    [
+      112,
+      103,
+      60
+    ],
+    [
+      111,
+      104,
+      60
+    ],
+    [
+      112,
+      102,
+      61
+    ],
+    [
+      111,
+      103,
+      61
+    ],
+    [
+      111,
+      102,
+      62
+    ],
+    [
+      112,
+      109,
+      51
+    ],
+    [
+      111,
+      110,
+      51
+    ]
+  ],
+  "negative_after_four_plus12_ordinary": 40,
+  "r1_ordinary_certificates": 12,
+  "r1_minimum_certificates": 76,
+  "before_three_deletion": [
+    {
+      "type": [
+        105,
+        105,
+        65
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        106,
+        105,
+        64
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        107,
+        107,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        108,
+        106,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        108,
+        107,
+        60
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        111,
+        110,
+        54
+      ],
+      "state": [
+        1,
+        1,
+        -1
+      ]
+    },
+    {
+      "type": [
+        112,
+        109,
+        54
+      ],
+      "state": [
+        1,
+        1,
+        -1
+      ]
+    }
+  ],
+  "r1_residuals": [
+    {
+      "type": [
+        105,
+        105,
+        65
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        106,
+        105,
+        64
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        107,
+        107,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        108,
+        106,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    },
+    {
+      "type": [
+        108,
+        107,
+        60
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ]
+    }
+  ],
+  "accepted_new_minimum_closures": [
+    {
+      "registry_id": "H3-THETA40-PHI105-MIN10510565",
+      "type": [
+        105,
+        105,
+        65
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "certificate_sha256": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+      "audit_path": "root_audit/h3_independent.json",
+      "positive_gap": 1926831607,
+      "ordinary_exclusion": false
+    },
+    {
+      "registry_id": "L-THETA40-INCIDENCE-MIN10810760",
+      "type": [
+        108,
+        107,
+        60
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "certificate_sha256": "d6b08cb03ee145fd7db5a539bcf8269bfd0edd200772910d43d15cabe41c31d3",
+      "audit_path": "root_audit/incidence_independent.json",
+      "positive_gap": 21167272,
+      "ordinary_exclusion": false
+    },
+    {
+      "registry_id": "P3B-POINTED107-TRANSFER108-MIN10810661",
+      "type": [
+        108,
+        106,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "certificate_sha256": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+      "audit_path": "root_audit/pointed_joint_outer_independent.json",
+      "positive_gap": 1993186322,
+      "ordinary_exclusion": false
+    },
+    {
+      "registry_id": "L-THETA40-INCIDENCE-MIN10710761",
+      "type": [
+        107,
+        107,
+        61
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "certificate_sha256": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+      "audit_path": "root_audit/incidence_sym_independent.json",
+      "positive_gap": 9410019729,
+      "ordinary_exclusion": false
+    },
+    {
+      "registry_id": "P5-SHARED107-MIN10710563",
+      "type": [
+        107,
+        105,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "certificate_sha256": "aedb510abef5d4d1126f759d918f53e7fa4e9a8bc3e9947ffefc9ca8ad2dbc8a",
+      "audit_path": "root_audit/incidence_p5_independent.json",
+      "positive_gap": 39396474454,
+      "ordinary_exclusion": false
+    },
+    {
+      "registry_id": "P6-ALL5D-SHARED107-MIN10710662",
+      "type": [
+        107,
+        106,
+        62
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "certificate_sha256": "3753f438b1021d1915d3c2d97a26f3be6a93899af6f69619e71ea76b3409ce6c",
+      "audit_path": "root_audit/incidence_p6_independent.json",
+      "positive_gap": 456644586,
+      "ordinary_exclusion": false
+    }
+  ],
+  "remaining": [
+    {
+      "type": [
+        106,
+        105,
+        64
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "Q67": -5086
+    },
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "state": [
+        0,
+        0,
+        -1
+      ],
+      "Q67": -7396
+    }
+  ],
+  "conditional_statement": "If both remaining minimum states are independently excluded, every275-point cap inF3^7 is impossible and C7<=274 follows by taking a275-subset of any larger cap.",
+  "candidate10610564_used": false,
+  "no_matrix_enumeration_or_optimizer": true,
+  "all_type_state_rows": [
+    {
+      "type": [
+        112,
+        112,
+        51
+      ],
+      "Q67": -59536,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        111,
+        52
+      ],
+      "Q67": -52996,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        110,
+        53
+      ],
+      "Q67": -46674,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        111,
+        53
+      ],
+      "Q67": -47096,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        109,
+        54
+      ],
+      "Q67": -40570,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "RECOVERED_THREE_DELETION_ORDINARY"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        110,
+        54
+      ],
+      "Q67": -41396,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "RECOVERED_THREE_DELETION_ORDINARY"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        108,
+        55
+      ],
+      "Q67": -34684,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        109,
+        55
+      ],
+      "Q67": -35896,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        110,
+        55
+      ],
+      "Q67": -36300,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        107,
+        56
+      ],
+      "Q67": -29016,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        108,
+        56
+      ],
+      "Q67": -30596,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        109,
+        56
+      ],
+      "Q67": -31386,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        106,
+        57
+      ],
+      "Q67": -23566,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        107,
+        57
+      ],
+      "Q67": -25496,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        108,
+        57
+      ],
+      "Q67": -26654,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        109,
+        57
+      ],
+      "Q67": -27040,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        105,
+        58
+      ],
+      "Q67": -18334,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        106,
+        58
+      ],
+      "Q67": -20596,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        107,
+        58
+      ],
+      "Q67": -22104,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        108,
+        58
+      ],
+      "Q67": -22858,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        104,
+        59
+      ],
+      "Q67": -13320,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        105,
+        59
+      ],
+      "Q67": -15896,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        106,
+        59
+      ],
+      "Q67": -17736,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        107,
+        59
+      ],
+      "Q67": -18840,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        108,
+        59
+      ],
+      "Q67": -19208,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        103,
+        60
+      ],
+      "Q67": -8524,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        104,
+        60
+      ],
+      "Q67": -11396,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        105,
+        60
+      ],
+      "Q67": -13550,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        106,
+        60
+      ],
+      "Q67": -14986,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        107,
+        60
+      ],
+      "Q67": -15704,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        102,
+        61
+      ],
+      "Q67": -3946,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        103,
+        61
+      ],
+      "Q67": -7096,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        104,
+        61
+      ],
+      "Q67": -9546,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        105,
+        61
+      ],
+      "Q67": -11296,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        106,
+        61
+      ],
+      "Q67": -12346,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        107,
+        61
+      ],
+      "Q67": -12696,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        101,
+        62
+      ],
+      "Q67": 414,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        102,
+        62
+      ],
+      "Q67": -2996,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "ORDINARY_OLD_AND_STAGE0"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        103,
+        62
+      ],
+      "Q67": -5724,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        104,
+        62
+      ],
+      "Q67": -7770,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        105,
+        62
+      ],
+      "Q67": -9134,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        106,
+        62
+      ],
+      "Q67": -9816,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        100,
+        63
+      ],
+      "Q67": 4556,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        101,
+        63
+      ],
+      "Q67": 904,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        102,
+        63
+      ],
+      "Q67": -2084,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        103,
+        63
+      ],
+      "Q67": -4408,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        104,
+        63
+      ],
+      "Q67": -6068,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        105,
+        63
+      ],
+      "Q67": -7064,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        106,
+        63
+      ],
+      "Q67": -7396,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        99,
+        64
+      ],
+      "Q67": 8480,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        100,
+        64
+      ],
+      "Q67": 4604,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        101,
+        64
+      ],
+      "Q67": 1374,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        102,
+        64
+      ],
+      "Q67": -1210,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        103,
+        64
+      ],
+      "Q67": -3148,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        104,
+        64
+      ],
+      "Q67": -4440,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        105,
+        64
+      ],
+      "Q67": -5086,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        98,
+        65
+      ],
+      "Q67": 12186,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        99,
+        65
+      ],
+      "Q67": 8104,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        100,
+        65
+      ],
+      "Q67": 4650,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        101,
+        65
+      ],
+      "Q67": 1824,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        102,
+        65
+      ],
+      "Q67": -374,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        103,
+        65
+      ],
+      "Q67": -1944,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        104,
+        65
+      ],
+      "Q67": -2886,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        105,
+        65
+      ],
+      "Q67": -3200,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "R1_RESIDUAL"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        97,
+        66
+      ],
+      "Q67": 15674,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        98,
+        66
+      ],
+      "Q67": 11404,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        99,
+        66
+      ],
+      "Q67": 7744,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        100,
+        66
+      ],
+      "Q67": 4694,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        101,
+        66
+      ],
+      "Q67": 2254,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        102,
+        66
+      ],
+      "Q67": 424,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        103,
+        66
+      ],
+      "Q67": -796,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        104,
+        66
+      ],
+      "Q67": -1406,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "ACCEPTED_R1_MINIMUM_CERTIFICATE"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        96,
+        67
+      ],
+      "Q67": 18944,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        97,
+        67
+      ],
+      "Q67": 14504,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        98,
+        67
+      ],
+      "Q67": 10656,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        99,
+        67
+      ],
+      "Q67": 7400,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        100,
+        67
+      ],
+      "Q67": 4736,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        101,
+        67
+      ],
+      "Q67": 2664,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        102,
+        67
+      ],
+      "Q67": 1184,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        103,
+        67
+      ],
+      "Q67": 296,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        104,
+        67
+      ],
+      "Q67": 0,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        95,
+        68
+      ],
+      "Q67": 21996,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        96,
+        68
+      ],
+      "Q67": 17404,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        97,
+        68
+      ],
+      "Q67": 13386,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        98,
+        68
+      ],
+      "Q67": 9942,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        99,
+        68
+      ],
+      "Q67": 7072,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        100,
+        68
+      ],
+      "Q67": 4776,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        101,
+        68
+      ],
+      "Q67": 3054,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        102,
+        68
+      ],
+      "Q67": 1906,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        103,
+        68
+      ],
+      "Q67": 1332,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        94,
+        69
+      ],
+      "Q67": 24830,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        95,
+        69
+      ],
+      "Q67": 20104,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        96,
+        69
+      ],
+      "Q67": 15934,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        97,
+        69
+      ],
+      "Q67": 12320,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        98,
+        69
+      ],
+      "Q67": 9262,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        99,
+        69
+      ],
+      "Q67": 6760,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        100,
+        69
+      ],
+      "Q67": 4814,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        101,
+        69
+      ],
+      "Q67": 3424,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        102,
+        69
+      ],
+      "Q67": 2590,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        103,
+        69
+      ],
+      "Q67": 2312,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            0,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            0,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        93,
+        70
+      ],
+      "Q67": 27446,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        94,
+        70
+      ],
+      "Q67": 22604,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        95,
+        70
+      ],
+      "Q67": 18300,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        96,
+        70
+      ],
+      "Q67": 14534,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        97,
+        70
+      ],
+      "Q67": 11306,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        98,
+        70
+      ],
+      "Q67": 8616,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        99,
+        70
+      ],
+      "Q67": 6464,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        100,
+        70
+      ],
+      "Q67": 4850,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        101,
+        70
+      ],
+      "Q67": 3774,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        102,
+        70
+      ],
+      "Q67": 3236,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        92,
+        71
+      ],
+      "Q67": 29844,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        93,
+        71
+      ],
+      "Q67": 24904,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        94,
+        71
+      ],
+      "Q67": 20484,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        95,
+        71
+      ],
+      "Q67": 16584,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        96,
+        71
+      ],
+      "Q67": 13204,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        97,
+        71
+      ],
+      "Q67": 10344,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        98,
+        71
+      ],
+      "Q67": 8004,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        99,
+        71
+      ],
+      "Q67": 6184,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        100,
+        71
+      ],
+      "Q67": 4884,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        101,
+        71
+      ],
+      "Q67": 4104,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        102,
+        71
+      ],
+      "Q67": 3844,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        91,
+        72
+      ],
+      "Q67": 32024,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        92,
+        72
+      ],
+      "Q67": 27004,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        93,
+        72
+      ],
+      "Q67": 22486,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        94,
+        72
+      ],
+      "Q67": 18470,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        95,
+        72
+      ],
+      "Q67": 14956,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        96,
+        72
+      ],
+      "Q67": 11944,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        97,
+        72
+      ],
+      "Q67": 9434,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        98,
+        72
+      ],
+      "Q67": 7426,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        99,
+        72
+      ],
+      "Q67": 5920,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        100,
+        72
+      ],
+      "Q67": 4916,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        101,
+        72
+      ],
+      "Q67": 4414,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        90,
+        73
+      ],
+      "Q67": 33986,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        91,
+        73
+      ],
+      "Q67": 28904,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        92,
+        73
+      ],
+      "Q67": 24306,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        93,
+        73
+      ],
+      "Q67": 20192,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        94,
+        73
+      ],
+      "Q67": 16562,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        95,
+        73
+      ],
+      "Q67": 13416,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        96,
+        73
+      ],
+      "Q67": 10754,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        97,
+        73
+      ],
+      "Q67": 8576,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        98,
+        73
+      ],
+      "Q67": 6882,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        99,
+        73
+      ],
+      "Q67": 5672,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        100,
+        73
+      ],
+      "Q67": 4946,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        101,
+        73
+      ],
+      "Q67": 4704,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        89,
+        74
+      ],
+      "Q67": 35730,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        90,
+        74
+      ],
+      "Q67": 30604,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        91,
+        74
+      ],
+      "Q67": 25944,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        92,
+        74
+      ],
+      "Q67": 21750,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        93,
+        74
+      ],
+      "Q67": 18022,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        94,
+        74
+      ],
+      "Q67": 14760,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        95,
+        74
+      ],
+      "Q67": 11964,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        96,
+        74
+      ],
+      "Q67": 9634,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        97,
+        74
+      ],
+      "Q67": 7770,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        98,
+        74
+      ],
+      "Q67": 6372,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        99,
+        74
+      ],
+      "Q67": 5440,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        100,
+        74
+      ],
+      "Q67": 4974,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        88,
+        75
+      ],
+      "Q67": 37256,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        89,
+        75
+      ],
+      "Q67": 32104,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        90,
+        75
+      ],
+      "Q67": 27400,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        91,
+        75
+      ],
+      "Q67": 23144,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        92,
+        75
+      ],
+      "Q67": 19336,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        93,
+        75
+      ],
+      "Q67": 15976,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        94,
+        75
+      ],
+      "Q67": 13064,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        95,
+        75
+      ],
+      "Q67": 10600,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        96,
+        75
+      ],
+      "Q67": 8584,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        97,
+        75
+      ],
+      "Q67": 7016,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        98,
+        75
+      ],
+      "Q67": 5896,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        99,
+        75
+      ],
+      "Q67": 5224,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        100,
+        75
+      ],
+      "Q67": 5000,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        87,
+        76
+      ],
+      "Q67": 38564,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        88,
+        76
+      ],
+      "Q67": 33404,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        89,
+        76
+      ],
+      "Q67": 28674,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        90,
+        76
+      ],
+      "Q67": 24374,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        91,
+        76
+      ],
+      "Q67": 20504,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        92,
+        76
+      ],
+      "Q67": 17064,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        93,
+        76
+      ],
+      "Q67": 14054,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        94,
+        76
+      ],
+      "Q67": 11474,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        95,
+        76
+      ],
+      "Q67": 9324,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        96,
+        76
+      ],
+      "Q67": 7604,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        97,
+        76
+      ],
+      "Q67": 6314,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        98,
+        76
+      ],
+      "Q67": 5454,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        99,
+        76
+      ],
+      "Q67": 5024,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        86,
+        77
+      ],
+      "Q67": 39654,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        87,
+        77
+      ],
+      "Q67": 34504,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        88,
+        77
+      ],
+      "Q67": 29766,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        89,
+        77
+      ],
+      "Q67": 25440,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        90,
+        77
+      ],
+      "Q67": 21526,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        91,
+        77
+      ],
+      "Q67": 18024,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        92,
+        77
+      ],
+      "Q67": 14934,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        93,
+        77
+      ],
+      "Q67": 12256,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        94,
+        77
+      ],
+      "Q67": 9990,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        95,
+        77
+      ],
+      "Q67": 8136,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        96,
+        77
+      ],
+      "Q67": 6694,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        97,
+        77
+      ],
+      "Q67": 5664,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        98,
+        77
+      ],
+      "Q67": 5046,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        99,
+        77
+      ],
+      "Q67": 4840,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        85,
+        78
+      ],
+      "Q67": 40526,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        86,
+        78
+      ],
+      "Q67": 35404,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        87,
+        78
+      ],
+      "Q67": 30676,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        88,
+        78
+      ],
+      "Q67": 26342,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        89,
+        78
+      ],
+      "Q67": 22402,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        90,
+        78
+      ],
+      "Q67": 18856,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        91,
+        78
+      ],
+      "Q67": 15704,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        92,
+        78
+      ],
+      "Q67": 12946,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        93,
+        78
+      ],
+      "Q67": 10582,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        94,
+        78
+      ],
+      "Q67": 8612,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        95,
+        78
+      ],
+      "Q67": 7036,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        96,
+        78
+      ],
+      "Q67": 5854,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        97,
+        78
+      ],
+      "Q67": 5066,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        98,
+        78
+      ],
+      "Q67": 4672,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        84,
+        79
+      ],
+      "Q67": 41180,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        85,
+        79
+      ],
+      "Q67": 36104,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        86,
+        79
+      ],
+      "Q67": 31404,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        87,
+        79
+      ],
+      "Q67": 27080,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        88,
+        79
+      ],
+      "Q67": 23132,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        89,
+        79
+      ],
+      "Q67": 19560,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        90,
+        79
+      ],
+      "Q67": 16364,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        91,
+        79
+      ],
+      "Q67": 13544,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        92,
+        79
+      ],
+      "Q67": 11100,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        93,
+        79
+      ],
+      "Q67": 9032,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        94,
+        79
+      ],
+      "Q67": 7340,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        95,
+        79
+      ],
+      "Q67": 6024,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        96,
+        79
+      ],
+      "Q67": 5084,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        97,
+        79
+      ],
+      "Q67": 4520,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        98,
+        79
+      ],
+      "Q67": 4332,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        83,
+        80
+      ],
+      "Q67": 41616,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        84,
+        80
+      ],
+      "Q67": 36604,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        85,
+        80
+      ],
+      "Q67": 31950,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        86,
+        80
+      ],
+      "Q67": 27654,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        87,
+        80
+      ],
+      "Q67": 23716,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        88,
+        80
+      ],
+      "Q67": 20136,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        89,
+        80
+      ],
+      "Q67": 16914,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        90,
+        80
+      ],
+      "Q67": 14050,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        91,
+        80
+      ],
+      "Q67": 11544,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        92,
+        80
+      ],
+      "Q67": 9396,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        93,
+        80
+      ],
+      "Q67": 7606,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        94,
+        80
+      ],
+      "Q67": 6174,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        95,
+        80
+      ],
+      "Q67": 5100,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        96,
+        80
+      ],
+      "Q67": 4384,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        97,
+        80
+      ],
+      "Q67": 4026,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        112,
+        82,
+        81
+      ],
+      "Q67": 41834,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        83,
+        81
+      ],
+      "Q67": 36904,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        84,
+        81
+      ],
+      "Q67": 32314,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        85,
+        81
+      ],
+      "Q67": 28064,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        86,
+        81
+      ],
+      "Q67": 24154,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        87,
+        81
+      ],
+      "Q67": 20584,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        88,
+        81
+      ],
+      "Q67": 17354,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        89,
+        81
+      ],
+      "Q67": 14464,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        90,
+        81
+      ],
+      "Q67": 11914,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        91,
+        81
+      ],
+      "Q67": 9704,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        92,
+        81
+      ],
+      "Q67": 7834,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        93,
+        81
+      ],
+      "Q67": 6304,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        94,
+        81
+      ],
+      "Q67": 5114,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        95,
+        81
+      ],
+      "Q67": 4264,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        96,
+        81
+      ],
+      "Q67": 3754,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        97,
+        81
+      ],
+      "Q67": 3584,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        111,
+        82,
+        82
+      ],
+      "Q67": 37004,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        110,
+        83,
+        82
+      ],
+      "Q67": 32496,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        84,
+        82
+      ],
+      "Q67": 28310,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        85,
+        82
+      ],
+      "Q67": 24446,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        86,
+        82
+      ],
+      "Q67": 20904,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        87,
+        82
+      ],
+      "Q67": 17684,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        88,
+        82
+      ],
+      "Q67": 14786,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        89,
+        82
+      ],
+      "Q67": 12210,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        90,
+        82
+      ],
+      "Q67": 9956,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        91,
+        82
+      ],
+      "Q67": 8024,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        92,
+        82
+      ],
+      "Q67": 6414,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        93,
+        82
+      ],
+      "Q67": 5126,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        94,
+        82
+      ],
+      "Q67": 4160,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        95,
+        82
+      ],
+      "Q67": 3516,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        96,
+        82
+      ],
+      "Q67": 3194,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        109,
+        83,
+        83
+      ],
+      "Q67": 28392,
+      "completion_states": [
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        108,
+        84,
+        83
+      ],
+      "Q67": 24592,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        85,
+        83
+      ],
+      "Q67": 21096,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        86,
+        83
+      ],
+      "Q67": 17904,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        87,
+        83
+      ],
+      "Q67": 15016,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        88,
+        83
+      ],
+      "Q67": 12432,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        89,
+        83
+      ],
+      "Q67": 10152,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        90,
+        83
+      ],
+      "Q67": 8176,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        91,
+        83
+      ],
+      "Q67": 6504,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        92,
+        83
+      ],
+      "Q67": 5136,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        93,
+        83
+      ],
+      "Q67": 4072,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        94,
+        83
+      ],
+      "Q67": 3312,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        95,
+        83
+      ],
+      "Q67": 2856,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        96,
+        83
+      ],
+      "Q67": 2704,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        107,
+        84,
+        84
+      ],
+      "Q67": 21160,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        106,
+        85,
+        84
+      ],
+      "Q67": 18014,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        86,
+        84
+      ],
+      "Q67": 15154,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        87,
+        84
+      ],
+      "Q67": 12580,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        88,
+        84
+      ],
+      "Q67": 10292,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        89,
+        84
+      ],
+      "Q67": 8290,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        90,
+        84
+      ],
+      "Q67": 6574,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        91,
+        84
+      ],
+      "Q67": 5144,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        92,
+        84
+      ],
+      "Q67": 4000,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        93,
+        84
+      ],
+      "Q67": 3142,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        94,
+        84
+      ],
+      "Q67": 2570,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        95,
+        84
+      ],
+      "Q67": 2284,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        105,
+        85,
+        85
+      ],
+      "Q67": 15200,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        104,
+        86,
+        85
+      ],
+      "Q67": 12654,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        87,
+        85
+      ],
+      "Q67": 10376,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        88,
+        85
+      ],
+      "Q67": 8366,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        89,
+        85
+      ],
+      "Q67": 6624,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        90,
+        85
+      ],
+      "Q67": 5150,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        91,
+        85
+      ],
+      "Q67": 3944,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        92,
+        85
+      ],
+      "Q67": 3006,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        93,
+        85
+      ],
+      "Q67": 2336,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        94,
+        85
+      ],
+      "Q67": 1934,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        95,
+        95,
+        85
+      ],
+      "Q67": 1800,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        103,
+        86,
+        86
+      ],
+      "Q67": 10404,
+      "completion_states": [
+        {
+          "state": [
+            0,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        },
+        {
+          "state": [
+            1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        102,
+        87,
+        86
+      ],
+      "Q67": 8404,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        88,
+        86
+      ],
+      "Q67": 6654,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        89,
+        86
+      ],
+      "Q67": 5154,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        90,
+        86
+      ],
+      "Q67": 3904,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        91,
+        86
+      ],
+      "Q67": 2904,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        92,
+        86
+      ],
+      "Q67": 2154,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        93,
+        86
+      ],
+      "Q67": 1654,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        95,
+        94,
+        86
+      ],
+      "Q67": 1404,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        101,
+        87,
+        87
+      ],
+      "Q67": 6664,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        100,
+        88,
+        87
+      ],
+      "Q67": 5156,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        89,
+        87
+      ],
+      "Q67": 3880,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        90,
+        87
+      ],
+      "Q67": 2836,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        91,
+        87
+      ],
+      "Q67": 2024,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        92,
+        87
+      ],
+      "Q67": 1444,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        95,
+        93,
+        87
+      ],
+      "Q67": 1096,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        94,
+        94,
+        87
+      ],
+      "Q67": 980,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        99,
+        88,
+        88
+      ],
+      "Q67": 3872,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        98,
+        89,
+        88
+      ],
+      "Q67": 2802,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        90,
+        88
+      ],
+      "Q67": 1946,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        91,
+        88
+      ],
+      "Q67": 1304,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        95,
+        92,
+        88
+      ],
+      "Q67": 876,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        94,
+        93,
+        88
+      ],
+      "Q67": 662,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        97,
+        89,
+        89
+      ],
+      "Q67": 1920,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        96,
+        90,
+        89
+      ],
+      "Q67": 1234,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        95,
+        91,
+        89
+      ],
+      "Q67": 744,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        94,
+        92,
+        89
+      ],
+      "Q67": 450,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        93,
+        93,
+        89
+      ],
+      "Q67": 352,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        95,
+        90,
+        90
+      ],
+      "Q67": 700,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        94,
+        91,
+        90
+      ],
+      "Q67": 344,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        93,
+        92,
+        90
+      ],
+      "Q67": 166,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        93,
+        91,
+        91
+      ],
+      "Q67": 104,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    },
+    {
+      "type": [
+        92,
+        92,
+        91
+      ],
+      "Q67": 24,
+      "completion_states": [
+        {
+          "state": [
+            -1,
+            -1,
+            -1
+          ],
+          "reason": "NONNEGATIVE_NOT_GLOBAL_MINIMUM"
+        }
+      ]
+    }
+  ],
+  "input_sha256": {
+    "research_2026-09-05-capset-round1-r1/route_a/certificates.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-capset-round1-r1/route_a/case_ledger.json": "c1fe7967fc4cc38df9f2ec11c9ee8dda6df8e781989e3afd90b289bf4b1953d8",
+    "research_2026-09-05-capset-round1-r1/root_audit/integration_checks.json": "e82fc53338c216e7b69b3c40175be7db46be11f62c1e118a1ad8620800e46e3b",
+    "research_2026-09-05-upper274-continuation-r2/RESEARCH_OUTPUT_REGISTRY.json": "2ab0105099d4f13aecc6310cac56f7f45564329351e95c400d95b4fe2b6b7ee4",
+    "research_2026-09-05-capset-round1-r1/root_audit/audited_certificate_snapshot.json": "e661a17a83aaaced1580c39fa2d0bb5af39a0a557be70b7ee71709c7a6ed6829",
+    "research_2026-09-05-capset-round1-r1/root_audit/deleted3_independent_result.json": "055520ddd9cbd09a3270e6500b67bf0cd007c019c1af84e1f34b95fbbdc851f4",
+    "research_2026-09-05-capset-round1-r1/root_audit/deleted3_certificate.json": "8945df50dd1fbba2729113f0346db60b8cb8bb4ddfb9303ed48568116ac4a40a",
+    "research_2026-09-05-upper274-continuation-r2/hist105106/h3/h3_result.json": "cbb4973544cf7e2388097bb333504dc0c53c943d1671605fa300996394dfd294",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/h3_independent.json": "a3cf19ca91e3c6004b45ec139761b61f3f202667b8ab8e2f9240aafb09dffa3e",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40/EXACT_DUAL.json": "d6b08cb03ee145fd7db5a539bcf8269bfd0edd200772910d43d15cabe41c31d3",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_independent.json": "31c68a706e19a0fb79418e58ef8ae1e402909813d9109f94fb14ab3cbc19e91e",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/pointed_joint_certificate.json": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/pointed_joint_outer_independent.json": "e67d95c65244e406fd7468efe955add4dbb6b9af1981d3bb1a3cea3bb1ba2c0d",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/pointed_joint_independent.json": "468f579c460c449bfb792dfcb6f09c681f70f8e02e74562f4abec03fffc36e29",
+    "research_2026-09-05-upper274-continuation-r2/compatibility/theta40_10710761/EXACT_DUAL.json": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_sym_independent.json": "4609865e2a666b56003bf86e07a5d3a8e0657338913516f355bedc31425977e4",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/incidence107_certificate_107_105_63.json": "aedb510abef5d4d1126f759d918f53e7fa4e9a8bc3e9947ffefc9ca8ad2dbc8a",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_p5_independent.json": "e7dcb44e109545da106edd36696cd1128ec9fc35b7ae501774704737a114aa08",
+    "research_2026-09-05-upper274-continuation-r2/root_potential/incidence107_all5d_certificate_107_106_62.json": "3753f438b1021d1915d3c2d97a26f3be6a93899af6f69619e71ea76b3409ce6c",
+    "research_2026-09-05-upper274-continuation-r2/root_audit/incidence_p6_independent.json": "db3477523a3ead2794e2755464a4b64d4f9d991be70c6ada158f1981a71523d8"
+  },
+  "seconds": 0.012508915970101953
+}

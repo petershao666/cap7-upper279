@@ -1,0 +1,11 @@
+{
+  "status": "PASS_AUTHOR_REPLAY_NOT_EXTERNAL_INDEPENDENCE",
+  "centered_matrices_and_caps_verified": 8424,
+  "translated_witnesses_verified": 682344,
+  "eligible_lifts_verified": 198,
+  "complete_histogram_set_size": 1,
+  "pair_checks": 1763930,
+  "direction_histograms_checked": 24079,
+  "seconds": 4.693331999937072,
+  "shared_inputs": "H generated catalogues and metadata; geometry/reconstruction code is separately written. P/root perform external independent complete enumeration."
+}

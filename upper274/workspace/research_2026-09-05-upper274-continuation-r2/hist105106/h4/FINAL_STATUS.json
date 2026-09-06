@@ -1,0 +1,26 @@
+{
+  "status": "NO_NEW_106_EXCLUSION",
+  "universal40_to41_to42_transport": "EXACT_VERIFIED_COROLLARY",
+  "profiles_checked": 121,
+  "deletion_terms_checked": 386,
+  "priority_type": [
+    106,
+    106,
+    63
+  ],
+  "priority_status": "OPEN",
+  "secondary_type": [
+    106,
+    105,
+    64
+  ],
+  "secondary_status": "OPEN_NOT_REOPTIMIZED_WITHOUT_NEW106FUNCTION",
+  "iterations": 28,
+  "elapsed": 14.750224290881306,
+  "new_phi106_certificate": null,
+  "global_interval": [
+    236,
+    275
+  ],
+  "global237_existence": "UNKNOWN"
+}

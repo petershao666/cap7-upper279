@@ -1,0 +1,29 @@
+{
+  "status": "ALL_RAW_RECORDS_INDEPENDENTLY_VERIFIED_PENDING_ROOT_ACCEPTANCE",
+  "raw_record_count": 34345,
+  "format_counts": {
+    "8sc": 33549,
+    "9General": 60,
+    "8cu": 432,
+    "8sa": 304
+  },
+  "pending_formats": [],
+  "dropped_records": 0,
+  "distinct_histograms": 41,
+  "distinct_normalized_pointsets": 8551,
+  "affine_classification_claimed": false,
+  "point_pair_checks": 28162900,
+  "direction_checks": 4155745,
+  "producer_decode_seconds": 0.6319872909225523,
+  "full_checker_seconds": 0.428035,
+  "finite_batch_budget_seconds": 600,
+  "one_worker": true,
+  "scope": "Complete safe raw output overcover for the published exceptional41 alternative, conditional on source classification/search-completeness premise.",
+  "global_upper_bound_improvement_claimed": false,
+  "universal41_family_claimed": false,
+  "independent_verification": "L workbook-based producer and separate coordinate checker; all34345 point rows and41 histogram vectors match after independent freezes.",
+  "mathematical_source_dependency": "Primary Proposition6.2(b)/Theorem6.3 and root/L complete raw-to-summary audit; output replay does not reprove source search completeness.",
+  "format_resolution": "One pre-decoding temporary-program-tag parser failure resolved from raw source; preserved FORMAT_RESOLUTION_01.json, no row discarded.",
+  "proof": "PROOF.md",
+  "frozen_data": "FROZEN.json"
+}

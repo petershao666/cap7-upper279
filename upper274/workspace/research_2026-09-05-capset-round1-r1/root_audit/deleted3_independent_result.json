@@ -1,0 +1,16 @@
+{
+  "status": "PASS_EXACT_FINITE_CERTIFICATE",
+  "states": 1462,
+  "h_records": 51,
+  "maximum_nondivisible_projective_count": 25,
+  "derived_third_layer_bound": 50,
+  "dependencies": [
+    "prior Fourier and incidence identities",
+    "prior threshold<=2 vector bound44",
+    "103-point rigidity",
+    "112-cap uniqueness",
+    ">=109 completion for seeds"
+  ],
+  "coefficient_sha256": "8945df50dd1fbba2729113f0346db60b8cb8bb4ddfb9303ed48568116ac4a40a",
+  "independence": "separate Ruby integer state generator; shared mathematical identities and coefficient data"
+}

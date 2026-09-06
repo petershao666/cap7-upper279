@@ -1,0 +1,20 @@
+{
+  "status": "PASS_ROUTE_SIDE_ROOT_AUDIT_PENDING",
+  "functions": 3,
+  "values": 90,
+  "new_bounds": [
+    [
+      "P3_nested107_size276_to108",
+      -34833049056
+    ],
+    [
+      "P3_nested107_size277_to108",
+      -37373744520
+    ],
+    [
+      "P3_joint107_107_106_63_size276_to108",
+      -3495306745908
+    ]
+  ],
+  "table_sha256": "f49fe41ab07fed846a3830b15c138e2a26b4ec7e7db4cde3aa1af7ed7dbd2838"
+}

@@ -1,0 +1,128 @@
+{
+  "status": "P_EXTENSION_BRIDGE_ROOT_ACCEPTED",
+  "extension_source": "root_potential/actual16_cover_audit/SEVEN_EXTENSION_RESULT.json",
+  "extension_sha256": "f7d9c82742390295046aaaf09f185d8dcc19bee0b7353d13ed74109c350b0f4a",
+  "large_packet_sha256": "a4a815543db7a98d4b67d7606436c2a98dd2cf0e310992dd32ad7b878510b294",
+  "A7_cover": [
+    {
+      "parent8": 13851,
+      "deleted": 0,
+      "A7": 13850
+    },
+    {
+      "parent8": 13851,
+      "deleted": 1,
+      "A7": 13849
+    },
+    {
+      "parent8": 13851,
+      "deleted": 3,
+      "A7": 13843
+    },
+    {
+      "parent8": 13851,
+      "deleted": 4,
+      "A7": 13835
+    },
+    {
+      "parent8": 13851,
+      "deleted": 9,
+      "A7": 13339
+    },
+    {
+      "parent8": 13851,
+      "deleted": 10,
+      "A7": 12827
+    },
+    {
+      "parent8": 13851,
+      "deleted": 12,
+      "A7": 9755
+    },
+    {
+      "parent8": 13851,
+      "deleted": 13,
+      "A7": 5659
+    },
+    {
+      "parent8": 13853,
+      "deleted": 0,
+      "A7": 13852
+    },
+    {
+      "parent8": 13853,
+      "deleted": 2,
+      "A7": 13849
+    },
+    {
+      "parent8": 13853,
+      "deleted": 3,
+      "A7": 13845
+    },
+    {
+      "parent8": 13853,
+      "deleted": 4,
+      "A7": 13837
+    },
+    {
+      "parent8": 13853,
+      "deleted": 9,
+      "A7": 13341
+    },
+    {
+      "parent8": 13853,
+      "deleted": 10,
+      "A7": 12829
+    },
+    {
+      "parent8": 13853,
+      "deleted": 12,
+      "A7": 9757
+    },
+    {
+      "parent8": 13853,
+      "deleted": 13,
+      "A7": 5661
+    },
+    {
+      "parent8": 13902,
+      "deleted": 1,
+      "A7": 13900
+    },
+    {
+      "parent8": 13902,
+      "deleted": 2,
+      "A7": 13898
+    },
+    {
+      "parent8": 13902,
+      "deleted": 3,
+      "A7": 13894
+    },
+    {
+      "parent8": 13902,
+      "deleted": 6,
+      "A7": 13838
+    },
+    {
+      "parent8": 13902,
+      "deleted": 9,
+      "A7": 13390
+    },
+    {
+      "parent8": 13902,
+      "deleted": 10,
+      "A7": 12878
+    },
+    {
+      "parent8": 13902,
+      "deleted": 12,
+      "A7": 9806
+    },
+    {
+      "parent8": 13902,
+      "deleted": 13,
+      "A7": 5710
+    }
+  ]
+}

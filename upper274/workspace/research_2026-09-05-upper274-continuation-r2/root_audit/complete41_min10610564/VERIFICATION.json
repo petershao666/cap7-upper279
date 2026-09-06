@@ -1,0 +1,53 @@
+{
+  "status": "EXACT_CONDITIONAL_MINIMUM_BRANCH_EXCLUSION_INDEPENDENTLY_VERIFIED",
+  "target": [
+    106,
+    105,
+    64
+  ],
+  "state": [
+    0,
+    0,
+    -1
+  ],
+  "ordinary_exclusion": false,
+  "condition": "An actual Q67-global-minimum direction of an arbitrary275cap, with bothlarge whole6DsectionsNC",
+  "certificate_sha256": "0fde44267b424bac9570b72813e8af4f0a44e0e7e87ba5ce9ae118af57881e97",
+  "positive_gap": 21576254250,
+  "B40": -95858610055698,
+  "B106": -359979101924637,
+  "root_lower40_raw": 106239,
+  "P_NC106_all_ordered_raw": 1120785,
+  "root_outer_raw": 7641132,
+  "finite_support_checks": 5463,
+  "exact_pointwise_rows_checked_total": 8868156,
+  "evidence": {
+    "root_audit/complete41_min10610564/SUPPORT_VERIFICATION.json": "66549f62302d47e67b1c6ca7967ffe5a88a2c21a34a9746f6e64f9a1908065e8",
+    "root_audit/complete41_min10610564/ROOT_RAW_VERIFICATION.json": "117cbefb2329b446564be9fc67b1f43dc39ada8069b49c28830cbe532be53289",
+    "root_potential/l_complete41_nc106_verify/VERIFICATION.json": "d0df62e12a8492bf4e894a55bf162d8ada1d6224b5fb2e51c9b0f65b0c5a7a34",
+    "root_potential/l_complete41_nc106_verify/PROOF.md": "5bf79f000c245b05111d78b27c3871edc8e6b63b1f4ac5c0669fe350dc09e5e1",
+    "root_audit/complete41_min10610564/PROOF.md": "8a73696b3971845052c78c351f97e2fca69154aac132812e952c3c208d0f5f9c",
+    "root_audit/complete41/VERIFICATION.json": "fe9e96369a82a422d2e369f7f8cf777fb1c5a279f43befa8e734635a45dcc9ef"
+  },
+  "root_read_independent_code_and_proofs": true,
+  "shared_dependencies": [
+    "Accepted published lower-dimensional classifications and completing/NC theorems",
+    "Complete5D41 finite family with explicit supplementary-list coverage premise",
+    "Certificate coefficient data",
+    "Accepted actual4D16/17/18 histograms and Table1/clash inputs"
+  ],
+  "independent_kernels": [
+    "Root stdlib support and data transcription",
+    "Root standalone40/outerrawC++ checker",
+    "P independent fullorderedNC106generator/rowcompiler/replay and Python witness checks"
+  ],
+  "remaining_minimum_states": [
+    [
+      106,
+      106,
+      63
+    ]
+  ],
+  "global_upper_unchanged": 275,
+  "cap237_existence": "UNKNOWN"
+}

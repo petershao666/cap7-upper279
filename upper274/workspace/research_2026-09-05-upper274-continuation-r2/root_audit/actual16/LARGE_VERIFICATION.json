@@ -1,0 +1,12 @@
+{
+  "status": "COMPLETE_LARGE_SECTION_ACTUAL16_HISTOGRAMS_INDEPENDENT_PASS",
+  "histograms": 376,
+  "normalized_caps": 553678,
+  "root_allpairchecks": 66441360,
+  "producer_representative_pairchecks": 45120,
+  "source_sha256": "a4a815543db7a98d4b67d7606436c2a98dd2cf0e310992dd32ad7b878510b294",
+  "root_frozen_sha256": "9a5a56660b83d2783d9d5b4003e3530b95d833a3557975cca99c5469e9ba24b6",
+  "checker_sha256": "f48a55686d69603f852c61e5eb837df3941306a5dcc8a2629ed15bdbc5f3835c",
+  "scope": "Exactly all histograms of16caps with an8/9point3Dsection. Complete arbitrary16 family still depends on the independent small-only branch audit.",
+  "shared_dependencies": "Accepted3D cap catalogue, affine8/9orbitcover; rootdifferentAreps andfullBcataloguefilter versusproducerrecursiveBkernel; no discoverycode imported."
+}

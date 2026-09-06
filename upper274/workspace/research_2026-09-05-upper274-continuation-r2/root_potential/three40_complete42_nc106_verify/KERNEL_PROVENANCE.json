@@ -1,0 +1,12 @@
+{
+  "own_prior_raw_code_sha256": "99f759dcfde5edd51c906a72ebc456f5cc0955f8a87590e9be1a961f20626819",
+  "new_raw_code_sha256": "0ea2eaacdf47341e372b01df71dabd8af9764e90126e14bbaa2b39c7d9a2d848",
+  "changes": [
+    "Added provenance comment",
+    "Renamed source suffix _old_raw.u8 to _new_raw.u8",
+    "Changed output status from OLD to PRUNED"
+  ],
+  "producer_modules_imported": false,
+  "root_modules_imported": false,
+  "bytecode_written": false
+}

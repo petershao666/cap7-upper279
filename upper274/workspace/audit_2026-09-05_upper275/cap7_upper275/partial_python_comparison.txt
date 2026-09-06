@@ -1,0 +1,3 @@
+All 170 available independent Python exact-result lines agree with the completed C++ run.
+Full independent Python verification: False.
+This comparison does not cover cases the partial run had not reached.

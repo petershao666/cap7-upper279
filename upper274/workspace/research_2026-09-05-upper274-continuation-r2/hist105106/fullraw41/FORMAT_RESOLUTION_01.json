@@ -1,0 +1,10 @@
+{
+  "status": "SOURCE_CONTEXT_RESOLVED_BEFORE_DECODING",
+  "parser_version_sha256": "f2e1d769f37ec650ceec63c8e79c80d9e430d3882ca9e9251da70583e6cac4e2",
+  "file": "Dim5_41_180617_SetDim5Cap43_9And8_ExclPtCounts_Data.txt",
+  "line": 639,
+  "record": "1\t2\t2\t0\t918\t981I\t972\t981I\t6,16,18,23,24\t13,18\t12,13,17,18,21\t14,15",
+  "problem": "Initial parser incorrectly treated temporary -- SetDim5Cap43_8sa subprogram tag as permanent. The source returns to the surrounding General9 section after each such sub-block.",
+  "resolution": "Track unprefixed program header as base section; -- header applies to its immediate block and is cleared at Cap configurations. Verify intersection size 9 for General9 and 8 for the other shapes.",
+  "rows_decoded_before_failure": 0
+}

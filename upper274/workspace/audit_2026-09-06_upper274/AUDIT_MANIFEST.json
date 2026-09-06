@@ -1,0 +1,33 @@
+{
+  "classification": "REPLICATION_NO_NEW_MATH",
+  "verdict": "ACCEPT_WITH_EXPLICIT_PUBLISHED_PREMISES",
+  "date": "2026-09-06",
+  "source_certificate_sha256": "78238a2e3f389f9c7a4f93e049ad56e678c09103151fb3bfed0adc6e1dcf14bf",
+  "evidence_sha256": {
+    "lower_outer.compile.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "nc_domains_result.json": "cf89936493a6e046be865efffd5a6cb2debf8c95a1a142970cb1686962afe9ec",
+    "nc_domains.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "SCOPE.md": "ac9c80a9aceafa54e0ce847bd6ecb1d5bc153ad184d4fc4d697a2738255f4f4d",
+    "nc_domains.stdout": "841b53513555512428eba6e2e90c871211c999ec36fd11c6b41abf6699983233",
+    "support_audit.json": "0cd5cca68c5bcb373bdf9c257d813c346bb19d75a81048476ea62725ec6c6145",
+    "support_audit.py": "aaf4fa77f64c39a972f9c9e15179fddc2c8996b2245456c3b81e8d97f623d089",
+    "logic_review.md": "3231c89985c4080b610c2a877cda6a2070b753541829f15153a4b5a85b4c3672",
+    "delivery_hash_audit.json": "0538547ab8344c5bdd1d35257c5bed6d84e259b104e5ed89093c3f3e560a07d7",
+    "nc106_result.json": "56dae5b677328609f6e5c3fe884ae624390ff1474bc3466cfdcc2ac0ae92851f",
+    "replay.py": "f0a37b6b235a3fd06cab1ae721c44e615057257fb9ddac27b58c98973f569d70",
+    "nc106.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "global_replay.log": "cd9e987a5f242cc78307f5eb37d9dd7d9f890454ffdea815851224ee51566127",
+    "nc_domains.compile.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "lower_outer.stdout": "887aa548eb41980368c33b84b058c58fc4b701c14ffd1d5e09a672f89966cceb",
+    "lower_outer_result.json": "961c63e15e3e009d618944de04b5a3b8c673bfd3e94951cca7dde7af8fefa9ed",
+    "rebuild_nc_domains.py": "b46e47aa22cc1791d67674c71b7ec14dd0f82dbccc3539ea47c8584fbe7cd7e2",
+    "global_replay.json": "e7ff96ba398eabb3014ce06b3aef5210e78915aa92d3059cd164c657fdd2d4c4",
+    "nc106.compile.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "lower_outer.stderr": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "SUPPORT_AUDIT.md": "1babf0ba1f7bfe2485675012774a18b240bb89edbfbba64e19d65a65a50edcb0",
+    "sources_plan.md": "f03cb3aff7c9b0094652827685e8160c5f6971470a66ab47a63907bdf323fb32",
+    "nc106.stdout": "239ffa2d27051124d8a48091808ce83c2d1e5df1deac834c73e69c670e309bec",
+    "global_result.json": "ea1d08726c7f5d8ad3f26f77bcb7a61ea8800ba7cf95b4bce93e6ba2b1ff80dd"
+  },
+  "report_sha256": "cedd8a67d11baebbdab8a66cca11836f32a89d7ba241c2b6b7b23db6521d9544"
+}

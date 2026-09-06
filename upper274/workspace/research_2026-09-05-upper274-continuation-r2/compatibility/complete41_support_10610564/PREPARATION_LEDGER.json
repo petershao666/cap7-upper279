@@ -1,0 +1,5 @@
+{
+  "pre_activation_finite_computation_seconds": 0,
+  "no_LP_precheck_runs": 0,
+  "explanation": "Only source edits and small gate arithmetic occurred before activation. Entire code adaptation and later domain generation are charged to the active600-second wall clock."
+}

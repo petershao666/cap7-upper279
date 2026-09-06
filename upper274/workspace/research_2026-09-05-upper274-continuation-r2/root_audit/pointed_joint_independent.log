@@ -1,0 +1,28 @@
+anchor [43, 42, 22] mark 1 ordered 20277 canonical 2554 BOUNDED
+anchor [43, 43, 21] mark 0 ordered 11142 canonical 1109 BOUNDED
+anchor [43, 43, 21] mark 1 ordered 11142 canonical 1114 BOUNDED
+anchor [43, 43, 21] mark 2 ordered 19827 canonical 2000 BOUNDED
+anchor [44, 41, 22] mark 0 ordered 11907 canonical 1225 BOUNDED
+anchor [44, 42, 21] mark 1 ordered 10791 canonical 1341 BOUNDED
+anchor [44, 43, 20] mark 2 ordered 10467 canonical 1044 EXCLUDED
+anchor [45, 41, 21] mark 2 ordered 11664 canonical 3334 EXCLUDED
+{
+  "status": "PASS",
+  "anchor_mark_strata": 21,
+  "forbidden_restored_anchors": 13,
+  "exact_marked_exclusions": 2,
+  "bounded_strata": 6,
+  "ordered_marked_matrices": 107217,
+  "canonical_marked_matrices": 13721,
+  "conditional_bounds": [
+    {
+      "id": "P3B_conditional107",
+      "numerator": -355846210849,
+      "denominator": 1
+    }
+  ],
+  "certificate_sha256": "c87feacd5674b5436ec9a9a01d7ef2116e65750ac4a86a904bcdc00efd232872",
+  "original_joint_sha256": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+  "scope": "New P3b histogram bound for NC107 caps admitting an NC108 extension; not an unconditional107 bound; outer exclusion checked separately",
+  "independence": "Standalone Ruby exact integer/rational replay, all ordered alpha/beta/gamma columns and all marked rows; shared frozen mathematical inputs only"
+}

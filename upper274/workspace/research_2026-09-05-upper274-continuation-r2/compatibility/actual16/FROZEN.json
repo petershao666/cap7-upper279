@@ -1,0 +1,14 @@
+{
+  "status": "FROZEN_BEFORE_ROOT_OUTPUT_READ",
+  "files": {
+    "SCOPE.md": "9df394ca99aea7638ac52f4cae184d3562d3ce5879c66ba21b18b621e0e00c36",
+    "INPUTS.json": "e8665665d1757e6993b61d542c98e3fc4232dcadb6b7986825237276e76025ca",
+    "enumerate.cpp": "9116244bc1cfff7e8501c88c2adeacb406517dd09538cee649cbff24e69c3ac7",
+    "LARGE_RAW.json": "cd77433e3ac5c87c5cd1a07459bceab7fb03f35f974e75ec5171f1e5315cb23c",
+    "run.log": "cb32f6756f7ac36d9fe350e3fc0a1ddde325543c6d7ff8f6832219354c5a626f",
+    "package_and_check.py": "199615ee468208e70cdeec4cf13fec904ff367343f88f1cbc8b68a50527843bb",
+    "OVER_COVER.json": "a4a815543db7a98d4b67d7606436c2a98dd2cf0e310992dd32ad7b878510b294",
+    "OWN_CHECK.json": "ae4fa877a418ce66817fb6ff1cee847290a2b37727674491a89654d36cd356c6",
+    "PROOF.md": "fbb87fcc66ed7e3528738bd3fb84ece35d94dd745b5683f708abaa7bf53bd1f4"
+  }
+}

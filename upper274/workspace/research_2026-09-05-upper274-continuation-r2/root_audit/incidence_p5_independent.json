@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "source_sha256": "aedb510abef5d4d1126f759d918f53e7fa4e9a8bc3e9947ffefc9ca8ad2dbc8a",
+  "input_sha256": "279766995e2c4b0e43f25ca572bbeef45502be264e4d7b9222addc0b856d0d10",
+  "target": [
+    107,
+    105,
+    63
+  ],
+  "rows": 386,
+  "upper_signs": 21,
+  "strict_rhs": 39396474454,
+  "ordinary_bans": "exactly18frozenordinarytypes; no minimum-onlytypeban",
+  "checker": "verify_incidence_p5.cpp; independentrawdomain usingrootpriorincidencekernel",
+  "inner_raw_count": 1407366,
+  "outer_raw_count": 5464865,
+  "maxima": [
+    0,
+    0
+  ],
+  "checker_sha256": "29469cc8be9b3cc7c43ee38f64f6a1b57b752d45f70bace0e7ba50579809e76e",
+  "scope": "Q67-minimumNC/NC10710563 only",
+  "independence": "Root prior independent C++ incidence kernel adapted to7centeredmoments and9upperhistograms; complete rawgeometry, no producer feature cache or kernel"
+}

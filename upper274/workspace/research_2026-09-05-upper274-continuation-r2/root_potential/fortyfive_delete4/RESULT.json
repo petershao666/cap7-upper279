@@ -1,0 +1,15 @@
+{
+"status":"COMPLETE45_MINUS4_RETAINED_POINT_ENUMERATION_PASS",
+"subsets":148995,
+"histograms":27,
+"input_pair_checks":990,
+"normals_per_subset":242,
+"nonzero_normal_profiles_computed":36056790,
+"retained_point_residues_counted":1478328390,
+"normalized_directions_per_subset":121,
+"used_deleted_occupancy_subtraction":false,
+"root_generated_outputs_read_before_freeze":false,
+"worker_count":1,
+"wall_seconds":1.35734,
+"LP_run":false
+}

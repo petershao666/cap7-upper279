@@ -1,0 +1,24 @@
+{
+  "primary_pdf": "/private/tmp/upper274_thackeray2021.pdf",
+  "primary_pdf_sha256": "8b4e122e664f5138273dd0cae0793a9a3d968c51e6abdecd92c7e3dd0ecd6d9c",
+  "theorem": "Thackeray 2021 Theorem 4.9",
+  "pdf_pages": [
+    25,
+    26
+  ],
+  "printed_pages": [
+    24,
+    25
+  ],
+  "canonical_matrix_diagonal": [
+    1,
+    1,
+    1,
+    2
+  ],
+  "scheme": "all symmetric matrices; actual twenty nonzero zeros; direct cap check; exact translations",
+  "budget_seconds": 600,
+  "worker_count": 1,
+  "memory_limit_bytes": 2147483648,
+  "independent_verifier": "P different polynomial coefficient kernel and canonical Q; root coverage and coordinate checks"
+}

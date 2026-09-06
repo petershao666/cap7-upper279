@@ -1,0 +1,9 @@
+# New H3 integration: full puncturing family105→106,107,108
+
+Registered before computation after the independent H3 audit. Object: every non-completable N-cap in F3^6, N=106,107,108, and all its105-point subsets. The already accepted103-extension-rigidity theorem makes every such subset non-completable. Apply the proved P2 double-counting identity to the newly verified full87-type H3 function Phi105. These source coefficients did not exist in P2; none of the three new functions is covered by the four P2 redundancy certificates, which concern different106-source functions. No new source optimizer, point-set search or unchanged solver retry is run.
+
+Compute every parent-profile value exactly, with deletion counts d=1,2,3. Missing source profiles are errors, never implicit zero. Divide only by a positive common gcd. Root independently checks derived values against labeled deletion sets. This gate introduces new stronger source data through a previously proved universal bridge; it does not claim novelty for the double-counting identity.
+
+Then apply direct Phi105, all three new functions and all existing direct/verified P2 functions simultaneously to the seven remaining Q67-minimum NC/NC states:10810760,10810661,10710761,10710662,10710563,10610663,10610564. The now-closed10510565 minimum state is not added to the ordinary banned profiles. Use only frozen ordinary seeds and Q67 minimum restrictions. A successful local certificate requires integer arithmetic, positive gap, complete finite-domain replay and root scope integration. A numerical null has no existence implication.
+
+Disjoint from H's newly optimized106 inner function, P's pointed107+x representation and L's common incidence cone. Resource bound: one worker, <=2GiB, each LP<=120s, discovery<=600s; independent replay<=600s. Terminal: full transported tables and independent check, exact outer certificates if any, and explicit remaining states. No implicit completion of274.

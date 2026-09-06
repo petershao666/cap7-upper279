@@ -1,57 +1,49 @@
-# Next steps after the certified upper bound 275
+# Next steps after the certified upper bound 274
 
-Planning date: 2026-09-05. This is a proposed sequence, not a report of additional results. The established interval is 236 ≤ f(7,3) ≤ 275; existence of a 237-cap is still unknown.
+Planning date: 2026-09-06. The established interval in this release is 236 ≤ f(7,3) ≤ 274. The exact maximum and the existence of a 237-point cap remain unknown. This document proposes work; it does not certify further results.
 
-## 1. Make the present result a readable, citable paper
+## 1. Preserve the 274 proof and prepare a readable manuscript
 
-The priority is to explain and preserve the 275 theorem without waiting for another numerical improvement.
+The first priority is to make the established result easy to review and cite, without waiting for a further numerical improvement.
 
-1. Build a theorem-dependency table: exact external theorem statement and version, where it is used, which lemma is derived here, and which checker certifies each finite claim. Recheck the current and historical literature before describing 275 as a record or claiming a new theorem. A short web search is not a novelty audit.
-2. Write a self-contained manuscript, tentatively *An exact-arithmetic upper bound of 275 for caps in AG(7,3)*. Suggested order: statement and literature; directional moments and local certificates; completion and large parallel slices; nested histogram bounds; the minimum-direction contradiction; reproducibility and limitations. Include one fully worked certificate in the text and put the full coefficient tables in the archived supplement.
-3. Explain the reusable method. The contribution should be judged on the mathematical reduction, completion information, histogram inequalities and exact certificates; the raw evaluation count alone is not the scientific contribution. A useful additional deliverable is a dependency/ablation table stating which exclusions each ingredient actually proves, without treating failure of a weaker relaxation as proof of necessity.
-4. Prepare a focused human-review packet, emphasizing the external theorem uses, the 109-point completion derivation, the one/two-deletion Fourier bounds, first-occurring-anchor case splits, and signed labelled features. A human mathematical review is a separate task from rerunning the supplied code. Contacting reviewers requires an explicit outreach instruction; no contacts have been made.
-5. Resolve the author/contribution statement, affiliations and license, then archive the exact release with a DOI and prepare an arXiv submission. GitHub publication is already useful public disclosure, but neither a GitHub timestamp nor a DOI establishes novelty or constitutes peer review.
+1. Freeze v1.2.0 with the exact certificate, source dependency closure, complete minimum-state cover, verification logs, and checksums. Preserve v1.0.0 and v1.1.0 and their assets. Make the difference between final-certificate replay and inherited evidence explicit.
+2. Build a theorem-dependency table with exact source statements, versions, hypotheses, and uses. In particular, explain the complete41 classification and ancillary-list completeness premises. Complete a primary-source literature review before claiming a record or publication priority.
+3. Write a manuscript, tentatively *An exact-arithmetic upper bound of 274 for caps in AG(7,3)*. Explain directional moments, completion information, finite histogram supports, the universal NC106 inequality, and the eight-branch minimum-direction cover. Include one worked certificate and put full tables and replay instructions in the supplement.
+4. Prepare a focused human-review packet: external classification uses; inherited completion and rigidity arguments; first-occurring-anchor coverage; physical-section support functions; and the final global implication. Separately implemented code checks do not substitute for independent mathematical review. Reviewer outreach requires an explicit instruction; none is implied by this plan.
+5. Finalize authorship, contribution and AI-use statements, and licensing before archival submission. Arrange an archival DOI and prepare arXiv source when the manuscript is ready. No DOI or submission is claimed by this release.
 
-Zenodo can archive enabled GitHub repositories when releases are created, or accept a manual software upload. Existing v1.1.0 should be archived intentionally rather than assuming a subsequently enabled integration will retroactively capture it. See [Zenodo's release guide](https://help.zenodo.org/docs/github/archive-software/github-upload/) and [manual upload guide](https://help.zenodo.org/docs/github/archive-software/).
+The scientific contribution should be assessed through the proof and reusable lemmas. Larger row counts alone do not establish novelty. A useful supplement is a table showing what each ingredient actually excludes, with limitations of weaker relaxations stated precisely.
 
-For arXiv, prepare a refereeable manuscript and TeX source. Registration and, for a new user or subject category, endorsement may be needed; submission remains subject to moderation. See the [official submission guidance](https://info.arxiv.org/help/submit/index.html) and [endorsement guidance](https://info.arxiv.org/help/endorsement.html). No arXiv or journal submission has been made. Select a journal after the novelty and human-review pass, rather than making an acceptance prediction from the bound alone.
+**Deliverables:** stable release; dependency table; manuscript TeX/PDF; reviewed references; human-review issue log; archival and submission materials.
 
-**Completion artifacts:** manuscript TeX/PDF; dependency table; reviewed references; human-review issue log; versioned DOI record; submission-ready source archive.
+## 2. Continue toward upper 270 through bounded, explicit targets
 
-## 2. Investigate upper 274 through a declared set of unresolved cases
+A separate research campaign is investigating the exclusion of **271-point caps**, which would prove an upper bound of 270. This release contains no upper-270 result and does not include that campaign's unaccepted candidates or research directory. Progress toward 270 is not an automatic consequence of the upper-274 theorem.
 
-The next numerical target is to exclude size 275. It is not established by v1.1.0. The source package mentions a separate `cap7_toward274_research.zip`; that continuation archive was not present among the audited inputs. Its contents and claimed progress must be recovered and checked before reusing them.
+For each new batch:
 
-Before computation, register the exact target, admissibility predicates, symmetry convention, external inputs, candidate features, and finite resource limits. Compare each proposed domain with established results so that already-covered work is classified as replication.
+- Declare the exact target size, mathematical domain, ordinary restrictions, completion hypotheses, minimum-direction condition, and resource budget before computation. Run the workspace dominance gate; already proved domains are replication, not discovery.
+- Keep a complete case ledger. Distinguish ordinary exclusions, minimum-only exclusions, universal auxiliary lemmas, candidates awaiting independent acceptance, and unresolved states. Changing the root potential requires rebuilding its full applicable cover.
+- Choose a new geometric constraint or a demonstrated stronger interface. Do not extend unchanged timeouts, repeat the same feature cone after an exact obstruction, or equate a feasible count model with a point set.
+- Accept a computational exclusion only after complete-domain integer checking by a separate implementation and review of the map from caps to that domain. Publish an intermediate upper bound if it is fully established; do not make success at exactly 270 a condition for finishing a batch.
 
-The first deliverable should be a complete **case ledger**, not another long unconstrained search:
+**Success gate:** a new independently accepted lemma or a complete global exclusion with all branches, premises, and arithmetic accounted for.
 
-- Recompute the whole-cap direction types at total 275 from the stated hypotheses.
-- Separate ordinary exclusions, minimum-direction conditions, and fixed completion-status branches.
-- For every surviving branch, record either a checkable exact certificate or an explicit unresolved status. Keep heuristic/solver statuses separate from proof statuses.
-- Identify the mathematical obstruction in the remaining branches and test a declared new family of constraints. Candidates include stronger bounds for non-completable six-dimensional slices, additional five-dimensional histogram information, or a three-deletion parallel-slice lemma. These are proposals; none is currently promoted to a theorem.
+**Stop gate:** the declared budget or model family is exhausted. Preserve exact obstruction witnesses where available and identify what additional mathematical information would be needed. A timeout or unsuccessful numerical separation remains unresolved, and must not be reported as exact model feasibility or cap nonexistence.
 
-**Success gate:** every branch closed, all dependencies checked, integer certificates replayed by both full implementations, and the model-to-cap implication reviewed.
+**Deliverables:** preregistration; case ledger; bounded-run report; proof and integer certificate for any accepted improvement; frozen inputs and independent replay evidence.
 
-**Stop gate:** the declared feature family and finite compute budget are exhausted without a certificate. Record the unresolved cases and the limitation of that relaxation. Do not respond by only adding tokens, extending unchanged solver timeouts, or declaring a cap exists from feasible aggregate counts.
+## 3. Keep new constructions as a separate route
 
-Aim for a lemma or parameterized family that removes several cases when possible. If only one further bound is obtained, release it as a new checkpoint while keeping the 275 manuscript stable until the stronger proof has passed the same audit standard. Do not promise 270 as an automatic consequence of the recent sequence of improvements.
+Lowering an upper bound does not construct a larger cap. Preserve any genuinely improved construction of size at least 237, even if a distant target such as 270 is not reached. Each result needs explicit distinct vectors in F3^7 and two independently implemented all-pairs checks. A 270-point construction would prove a lower bound of 270; proving an upper bound of 270 requires excluding 271 points.
 
-**Completion artifacts:** preregistration; `case_ledger.json`; new lemma statements/proofs; exact coefficients; complete replay logs; either a fully audited 274 result or a bounded report of remaining cases.
+Resume a construction route only with a newly declared object or mathematical bridge outside previously excluded scope. The workspace's closed fixed-cap replacement shells and reduced-degree-at-most-three F3^5-to-F3^2 graph family must not be restarted with extra seeds or time. A single-valued graph over F3^5 contains at most 243 points, so it cannot itself yield a 270-point cap.
 
-## 3. Keep construction of a 237-cap as a separate objective
-
-Improving an upper bound does not construct a larger cap. Any construction result must provide 237 explicit, distinct vectors in F3^7 and pass two independently implemented all-pairs checks. There are 27,966 pairs to check.
-
-Only resume construction work after declaring a new mathematical object or bridge beyond already excluded families. Closed local replacement shells and bounded-degree graph families should not be rerun with cosmetic changes. Shared kernels and inputs must be disclosed when describing verification independence.
-
-This route should not delay publication of the upper-bound theorem. Failure to construct a cap, solver timeout, or a feasible directional histogram leaves global existence unresolved.
+Point constructions, conditional exclusions, and aggregate relaxations remain separate outputs. The construction route should not delay preparation of the established upper-bound manuscript.
 
 ## Immediate working order
 
-1. Freeze and publish v1.1.0 with the complete audit evidence.
-2. Produce the dependency table and manuscript outline, then the first readable manuscript.
-3. Recover and audit the continuation materials; build the total-275 case ledger before launching a new bounded campaign.
-4. Arrange human review and archival/submission preparation for the established result while assessing whether the unresolved branches suggest a useful general lemma.
-
-The next recommended work session is **the theorem-dependency table plus the manuscript outline**. It directly improves the reviewability of the result already obtained and also exposes the most useful targets for further upper-bound work.
+1. Finish preservation and reproducibility of the upper-274 release.
+2. Produce the theorem-dependency table and manuscript outline, followed by the first readable draft.
+3. Run only preregistered, bounded continuation batches, with independent acceptance before promoting any result beyond 274.
+4. Arrange human review and archival/submission preparation for the established theorem.

@@ -1,0 +1,18 @@
+{
+  "status": "ROOT_SMALL_ONLY_ENUMERATION_FROZEN_BEFORE_PRODUCER_COMPARE",
+  "small_only_histograms": 0,
+  "small_only_caps": 0,
+  "normalized_caps_examined": 1084572,
+  "all_pair_checks": 130148640,
+  "hypothesis": "Every3D7cap extends8; all three8cap affineorbits complete; full772/763 normalization cover",
+  "outputs": {
+    "verify_small_only.cpp": "c7cd3b37f823063b91dff047976ed45fb8e72cd6f0256c7d4d35539e25c09490",
+    "small_histograms.txt": "2f0249f4abea2d7fbe3c6cf339c97895cf41dc3307331312de14c1d0b14f705c",
+    "small_counts.txt": "bca8e800991c0fd196221f6d3b1e1ad64610da184e5908134944327517f36de8",
+    "SMALL_VERIFY.log": "06839cb2b6fe8869e7b64fec1dc24b589830aaa51db876e76696d4b69a6459a8",
+    "SMALL_ONLY_COMPLETION_GATE.md": "80afb2a8df328c194b6cbc43d3d0e932f4fcd6b864f5891c8539e75f085c8209",
+    "SMALL_ONLY_COVER_PROOF.md": "bc50e64a01797e6e79ae2553240174cd6018f4a4da8fec881c7d20d817ff3b92"
+  },
+  "p_extension_result_sha256": "f7d9c82742390295046aaaf09f185d8dcc19bee0b7353d13ed74109c350b0f4a",
+  "scope": "Necessary small-only branch empty by complete normalizedcover; not an arbitrary7D exclusion"
+}

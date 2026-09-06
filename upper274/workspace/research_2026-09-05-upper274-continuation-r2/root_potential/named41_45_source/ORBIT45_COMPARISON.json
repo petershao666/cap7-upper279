@@ -1,0 +1,7 @@
+{
+  "status": "INDEPENDENT_PUBLISHED_ORBIT_POINTSETS_IDENTICAL",
+  "points": 45,
+  "P_points_sha256": "9696048f7d4986258e5e988f309417a2c98e8f65941f38550a8da4e13a7167e6",
+  "root_points_sha256": "91e1f61e1d148fa860caaeb21eb5b4fe8d705f6abc33bcdeaadaa3a9742e1370",
+  "root_points_read_only_after_P_generation": true
+}

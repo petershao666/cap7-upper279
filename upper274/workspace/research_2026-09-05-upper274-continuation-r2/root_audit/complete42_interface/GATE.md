@@ -1,0 +1,5 @@
+# Independent verification gate
+
+Object: the frozen H24 rational point in the thirteen-coordinate histogram marginal of a five-dimensional 42-cap. This is verification of a proposed missing-interface lemma, not a new classification or cap search. The accepted baseline already supplies all four histograms; re-enumerating that family is STOP_DUPLICATE. No global bound is claimed here.
+
+Read only baseline spectrum5[42], accepted L complete41 certificate upper5 values, and H24 pure JSON data. Independently recompute moments, all nineteen old slacks, affine ranks and all four facets using rational arithmetic, without importing producer code. Check the six physical42 positions against the accepted NC106 case anchors. Budget: 120 seconds arithmetic; no optimization. Terminal artifact VERIFICATION.json, then root may separately activate the genuinely new six-support H model. Shared dependencies: accepted histogram source, accepted old upper functions, and proposed witness data. The marginal separation does not assert extension to the complete NC106 parent relaxation.

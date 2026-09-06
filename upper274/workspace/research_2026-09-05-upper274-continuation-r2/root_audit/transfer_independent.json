@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "transfer_functions": 7,
+  "table_values": 244,
+  "exact_dominance_certificates": 4,
+  "exact_nonredundancy_witnesses": 3,
+  "scope": "Exact inequalities for all punctured NC107/108 caps conditional on accepted 103-extension rigidity; relation to old histogram relaxation only. No outer exclusion.",
+  "shared_dependencies": "Frozen theorem inputs and certificate values; Ruby reconstructs domains, labeled deletion sets, and rational comparisons without Python kernels.",
+  "transfer_sha256": "424d84b1e64606a2807553e6b4c6c3696aa7e9e77c1484568ad2647f10521da7",
+  "comparison_sha256": "3165d40c48f11e25c0d381eb74d2c09c1a9ef94493136130cefcf0bdb8720020"
+}

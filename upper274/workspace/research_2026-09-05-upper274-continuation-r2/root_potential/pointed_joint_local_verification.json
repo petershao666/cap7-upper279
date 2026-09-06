@@ -1,0 +1,69 @@
+{
+  "status": "LOCAL_AND_TRANSFER_PASS_OUTER_PENDING",
+  "full_marked_count": 85086,
+  "branches": [
+    {
+      "anchor": [
+        43,
+        42,
+        22
+      ],
+      "marked_column": 1,
+      "count": 20277,
+      "minimum": 2594909940
+    },
+    {
+      "anchor": [
+        43,
+        43,
+        21
+      ],
+      "marked_column": 0,
+      "count": 11142,
+      "minimum": 16242760001
+    },
+    {
+      "anchor": [
+        43,
+        43,
+        21
+      ],
+      "marked_column": 1,
+      "count": 11142,
+      "minimum": 16242760001
+    },
+    {
+      "anchor": [
+        43,
+        43,
+        21
+      ],
+      "marked_column": 2,
+      "count": 19827,
+      "minimum": 30627226722
+    },
+    {
+      "anchor": [
+        44,
+        41,
+        22
+      ],
+      "marked_column": 0,
+      "count": 11907,
+      "minimum": 2692436524
+    },
+    {
+      "anchor": [
+        44,
+        42,
+        21
+      ],
+      "marked_column": 1,
+      "count": 10791,
+      "minimum": 46914627867
+    }
+  ],
+  "transfer_values": 30,
+  "certificate_sha256": "e0760693846143cf36a99d43a31aa7c7253cc39ebf1408bb92324a9c6256334b",
+  "elapsed": 4.367529792012647
+}

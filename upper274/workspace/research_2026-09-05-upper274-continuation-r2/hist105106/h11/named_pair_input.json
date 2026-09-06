@@ -1,0 +1,16 @@
+{
+ "source_url":"https://arxiv.org/html/2206.09719v1",
+ "authority":"Lemma3.1(b)-(g), acceptednamedclassidentifications",
+ "anchor":[18,18,5],
+ "named_pairs":{
+  "sub45":[["882A1","882A1"],["882A2","882A2"]],
+  "41A":[["882A2","882A2"],["990A1","990A1"]],
+  "41B":[["981A","981A"]],
+  "41C":[["990A2","882A2"],["882A2","990A2"],["972A","972A"]],
+  "41D":[["954A","882A1"],["882A1","954A"]],
+  "delta_minus1":[["963B","963B"]],
+  "41E":[["981I","882A2"],["882A2","981I"]]
+ },
+ "interpretation":"A safecompletecover for the identifiedwhole41class and chosen18185direction. Keepallothergeneral41branches. Mergingidenticalhistograms doesnotmergeclaimedaffineclasses.",
+ "new_classification_claim":false
+}

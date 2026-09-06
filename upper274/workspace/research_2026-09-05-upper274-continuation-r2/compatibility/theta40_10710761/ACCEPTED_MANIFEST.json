@@ -1,0 +1,11 @@
+{
+  "EXACT_DUAL.json": "c574f90aa862a7b94ed395cba567b4f4a2088fe96a515e7b55bde8ece140b4ec",
+  "PROOF.md": "40cc3e6438c2722682aa2e7e9da4e5242c0af7396329e43dc97391dbf112a8b3",
+  "ACCEPTED.md": "d602f66e5ff3d45e97fceb0db97555c4313c70e520ac406db464d74ea58a68cb",
+  "own_verify.py": "67ee914a5881e8b70284c04d1af49fc37a70c92ca55405464b8a46669527b8b5",
+  "own_verify.cpp": "2801be4cbfc1e3af6d5fc5dd984f5cd83e17d28a234d8d1b2f08a17d54fc328f",
+  "own_input.txt": "a2732e0d0139a085de1a7ccaa5cc4397158ee2effbdadb5a1f26e63f297c041c",
+  "OWN_VERIFY.json": "9b8e94afdb04306d5fee71eb4091b04778d98c4f1b52d521f028ee01ce0ef61c",
+  "OWN_VERIFY.log": "6f408fdef3d487a36e4de5fc5d5b71d06b94c93a327fbf3c01a164a0cbf2e3e3",
+  "SCOPE.md": "d2e8f21aa709d39db00a3c1387c317cdb03114180423fdcd1d5eb635185878aa"
+}

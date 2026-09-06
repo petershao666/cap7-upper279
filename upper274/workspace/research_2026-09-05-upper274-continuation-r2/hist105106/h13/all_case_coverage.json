@@ -1,0 +1,9124 @@
+{
+  "lower": [
+    {
+      "m": 40,
+      "type": [
+        14,
+        13,
+        13
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 6649
+    },
+    {
+      "m": 40,
+      "type": [
+        14,
+        14,
+        12
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 6002
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        13,
+        12
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 5466
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        14,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 4358
+    },
+    {
+      "m": 40,
+      "type": [
+        15,
+        15,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 3434
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        12,
+        12
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 3304
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        13,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2777
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        14,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2043
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        15,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1424
+    },
+    {
+      "m": 40,
+      "type": [
+        16,
+        16,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 820
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        12,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1106
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        13,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 743
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        14,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 450
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        15,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 207
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        16,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 81
+    },
+    {
+      "m": 40,
+      "type": [
+        17,
+        17,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 51
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 111
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 111
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 141
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 124
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 76
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 111
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 56
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 141
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 90
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 123
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 120
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 63
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 69
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 76
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        11,
+        11
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 125
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 114
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 67
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 102
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 60
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 125
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 91
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 107
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 89
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 114
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 60
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 72
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 63
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        12,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 64
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 29
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 29
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 37
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 38
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 18
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 29
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 18
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 37
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 30
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 30
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 27
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 38
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 15
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 27
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 24
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 16
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        13,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 24
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        14,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        15,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        16,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        17,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        0,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        1,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        2,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        3,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        8,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        11,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        14,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        4,
+        16,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        5,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        6,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        7,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        1,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        9,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        8,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        9,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        10,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        1,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        6,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        7,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        9,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        13,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        11,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        6,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        7,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        9,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        13,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        12,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        1,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        13,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        1,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        6,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        7,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        9,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        13,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        14,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        0,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        3,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        5,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        6,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        7,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        8,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        9,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 9
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        11,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        13,
+        null
+      ],
+      "empty": false,
+      "count": 6
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        14,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 11
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        15,
+        16,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        1,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        6,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        7,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        13,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 3
+    },
+    {
+      "m": 40,
+      "type": [
+        18,
+        18,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        11,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 5
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        12,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        13,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        14,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        15,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        16,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        17,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        1,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        4,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        6,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        7,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        9,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        13,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 2
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        18,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        19,
+        19,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        10,
+        10
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        11,
+        9
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        12,
+        8
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        13,
+        7
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        14,
+        6
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        15,
+        5
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        16,
+        4
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        17,
+        3
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        0,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        1,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        2,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        3,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        4,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        5,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        6,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        7,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        8,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        9,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        10,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        11,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        12,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        13,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        14,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        18,
+        2
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        15,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        19,
+        1
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 40,
+      "type": [
+        20,
+        20,
+        0
+      ],
+      "class41": null,
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        20,
+        1
+      ],
+      "class41": "general",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 10
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 75
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 139
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "empty": false,
+      "count": 609
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "empty": false,
+      "count": 195
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 195
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 330
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "empty": false,
+      "count": 540
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "empty": false,
+      "count": 55
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        11,
+        11,
+        null
+      ],
+      "empty": false,
+      "count": 876
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        2,
+        12,
+        null
+      ],
+      "empty": false,
+      "count": 470
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        12,
+        2,
+        null
+      ],
+      "empty": false,
+      "count": 697
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        17,
+        4
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        17,
+        4
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        16,
+        5
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 53
+    },
+    {
+      "m": 41,
+      "type": [
+        20,
+        16,
+        5
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": true,
+      "count": 0
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "class41": "41F_full",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 286
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "class41": "delta_hist_0",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 135
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "class41": "delta_hist_1",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 137
+    },
+    {
+      "m": 41,
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "class41": "41F_full",
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 312
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1989
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1989
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2096
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2150
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1134
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1989
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1855
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2096
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1570
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1632
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1427
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1677
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1116
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2016
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1277
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 868
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "class41": "general",
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 981
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2314
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2378
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1290
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2237
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2116
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2314
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1774
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1823
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1602
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1851
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1283
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 2257
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1424
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1002
+    },
+    {
+      "m": 41,
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "class41": "general",
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "empty": false,
+      "count": 1087
+    }
+  ],
+  "spectra18": [
+    {
+      "id": 0,
+      "classes": [
+        "981H"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        1,
+        12,
+        6,
+        1,
+        11,
+        2,
+        5,
+        2
+      ],
+      "partial": [
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "id": 1,
+      "classes": [
+        "981J"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        1,
+        12,
+        6,
+        2,
+        4,
+        10,
+        4,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "classes": [
+        "981I"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          7,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        1,
+        13,
+        6,
+        1,
+        7,
+        5,
+        5,
+        1,
+        1
+      ],
+      "partial": [
+        1,
+        0,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "classes": [
+        "981G"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          6,
+          3
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        3,
+        13,
+        3,
+        3,
+        7,
+        4,
+        3,
+        1,
+        3
+      ],
+      "partial": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "classes": [
+        "990B"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          9,
+          0
+        ]
+      ],
+      "histogram": [
+        3,
+        18,
+        12,
+        6,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        6
+      ]
+    },
+    {
+      "id": 5,
+      "classes": [
+        "981E"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        8,
+        6,
+        1,
+        7,
+        10,
+        2,
+        2
+      ],
+      "partial": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "id": 6,
+      "classes": [
+        "981C"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        8,
+        6,
+        3,
+        1,
+        16,
+        2
+      ],
+      "partial": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 7,
+      "classes": [
+        "981D"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          7,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        12,
+        3,
+        4,
+        3,
+        8,
+        2,
+        2,
+        2
+      ],
+      "partial": [
+        2,
+        0,
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "classes": [
+        "954A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          5,
+          4
+        ]
+      ],
+      "histogram": [
+        4,
+        14,
+        8,
+        4,
+        9,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 9,
+      "classes": [
+        "981B"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          7,
+          2
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        16,
+        5,
+        5,
+        4,
+        4,
+        2
+      ],
+      "partial": [
+        4,
+        0,
+        4
+      ]
+    },
+    {
+      "id": 10,
+      "classes": [
+        "981A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          5,
+          4
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        4,
+        16,
+        8,
+        9,
+        2,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 11,
+      "classes": [
+        "972A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          5,
+          4
+        ],
+        [
+          9,
+          7,
+          2
+        ]
+      ],
+      "histogram": [
+        4,
+        17,
+        4,
+        3,
+        9,
+        2,
+        1
+      ],
+      "partial": [
+        1,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 12,
+      "classes": [
+        "882A1",
+        "882A2"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ]
+      ],
+      "histogram": [
+        4,
+        18,
+        9,
+        9
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 13,
+      "classes": [
+        "981F"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          6,
+          5
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          6,
+          4
+        ],
+        [
+          8,
+          7,
+          3
+        ],
+        [
+          9,
+          6,
+          3
+        ],
+        [
+          9,
+          8,
+          1
+        ]
+      ],
+      "histogram": [
+        6,
+        9,
+        3,
+        3,
+        3,
+        12,
+        1,
+        3
+      ],
+      "partial": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "classes": [
+        "963A"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          6,
+          3
+        ]
+      ],
+      "histogram": [
+        11,
+        9,
+        8,
+        10,
+        2
+      ],
+      "partial": [
+        0,
+        2,
+        10
+      ]
+    },
+    {
+      "id": 15,
+      "classes": [
+        "990A1",
+        "990A2",
+        "990A3"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          8,
+          5,
+          5
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          9,
+          0
+        ]
+      ],
+      "histogram": [
+        12,
+        18,
+        9,
+        1
+      ],
+      "partial": [
+        0,
+        0,
+        9
+      ]
+    },
+    {
+      "id": 16,
+      "classes": [
+        "963B"
+      ],
+      "types": [
+        [
+          6,
+          6,
+          6
+        ],
+        [
+          7,
+          7,
+          4
+        ],
+        [
+          8,
+          8,
+          2
+        ],
+        [
+          9,
+          6,
+          3
+        ]
+      ],
+      "histogram": [
+        16,
+        9,
+        9,
+        6
+      ],
+      "partial": [
+        0,
+        6,
+        9
+      ]
+    }
+  ]
+}

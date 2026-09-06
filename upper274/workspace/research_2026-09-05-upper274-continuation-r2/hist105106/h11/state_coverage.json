@@ -1,0 +1,2562 @@
+{
+  "branches": [
+    {
+      "type": [
+        20,
+        20,
+        1
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 10
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "class41": "sub45",
+      "empty": false,
+      "count": 75
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "class41": "41A",
+      "empty": false,
+      "count": 237
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "class41": "41A",
+      "empty": false,
+      "count": 139
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "class41": "41B",
+      "empty": false,
+      "count": 609
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "class41": "41C",
+      "empty": false,
+      "count": 195
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "class41": "41C",
+      "empty": false,
+      "count": 195
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "class41": "41D",
+      "empty": false,
+      "count": 330
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "class41": "41D",
+      "empty": false,
+      "count": 540
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "class41": "delta_hist_0",
+      "empty": true,
+      "count": 0
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        [
+          0,
+          6,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        16,
+        16,
+        null
+      ],
+      "class41": "delta_hist_1",
+      "empty": false,
+      "count": 55
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        11,
+        11,
+        null
+      ],
+      "class41": "41C",
+      "empty": false,
+      "count": 876
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          0,
+          0,
+          9
+        ],
+        null
+      ],
+      "full18_state": [
+        2,
+        12,
+        null
+      ],
+      "class41": "41E",
+      "empty": false,
+      "count": 470
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        [
+          1,
+          0,
+          5
+        ],
+        null
+      ],
+      "full18_state": [
+        12,
+        2,
+        null
+      ],
+      "class41": "41E",
+      "empty": false,
+      "count": 697
+    },
+    {
+      "type": [
+        20,
+        17,
+        4
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_0",
+      "empty": true,
+      "count": 0
+    },
+    {
+      "type": [
+        20,
+        17,
+        4
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_1",
+      "empty": true,
+      "count": 0
+    },
+    {
+      "type": [
+        20,
+        16,
+        5
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_0",
+      "empty": false,
+      "count": 53
+    },
+    {
+      "type": [
+        20,
+        16,
+        5
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_1",
+      "empty": true,
+      "count": 0
+    },
+    {
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_0",
+      "empty": true,
+      "count": 0
+    },
+    {
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_1",
+      "empty": true,
+      "count": 0
+    },
+    {
+      "type": [
+        19,
+        17,
+        5
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "41F_full",
+      "empty": false,
+      "count": 286
+    },
+    {
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_0",
+      "empty": false,
+      "count": 135
+    },
+    {
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "delta_hist_1",
+      "empty": false,
+      "count": 137
+    },
+    {
+      "type": [
+        19,
+        16,
+        6
+      ],
+      "state18": [
+        null,
+        null,
+        null
+      ],
+      "full18_state": [
+        null,
+        null,
+        null
+      ],
+      "class41": "41F_full",
+      "empty": false,
+      "count": 312
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1989
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1989
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2096
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2150
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          6
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1134
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1989
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1855
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2096
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1570
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1632
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1427
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1677
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1116
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2016
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1277
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 868
+    },
+    {
+      "type": [
+        18,
+        17,
+        6
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 981
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          5
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        0,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2237
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          4
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        1,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2237
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          5
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        2,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2314
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          3
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        3,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2378
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          6
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        4,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1290
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          2
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        5,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2237
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          0
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        6,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2116
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          2,
+          0,
+          2
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        7,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2314
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        8,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1774
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          4,
+          0,
+          4
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        9,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1823
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        10,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1602
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          1,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        11,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1851
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        12,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1283
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          1,
+          0
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        13,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 2257
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          2,
+          10
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        14,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1424
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          0,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        15,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1002
+    },
+    {
+      "type": [
+        18,
+        16,
+        7
+      ],
+      "state18": [
+        [
+          0,
+          6,
+          9
+        ],
+        null,
+        null
+      ],
+      "full18_state": [
+        16,
+        null,
+        null
+      ],
+      "class41": "general",
+      "empty": false,
+      "count": 1087
+    }
+  ],
+  "literature_dominated_removed": [
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        8,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        10,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        15,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        15,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "sub45",
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        8,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        10,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        15,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        15,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41A",
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        8,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        10,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        15,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        15,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41B",
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        8,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        8,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        10,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        12,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        15,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        15,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41C",
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        8,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        8,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        8,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        10,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        10,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        10,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        10,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        12,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        12,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        12,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        15,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        15,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        15,
+        12,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41D",
+      "full18_state": [
+        15,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        2,
+        8,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        2,
+        10,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        2,
+        15,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        8,
+        2,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        10,
+        2,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    },
+    {
+      "type": [
+        18,
+        18,
+        5
+      ],
+      "class41": "41E",
+      "full18_state": [
+        15,
+        2,
+        null
+      ],
+      "reason": "PUBLISHED_NAMED_PAIR_MISMATCH"
+    }
+  ],
+  "allowed_histogram_pairs": {
+    "sub45": [
+      [
+        12,
+        12
+      ]
+    ],
+    "41A": [
+      [
+        12,
+        12
+      ],
+      [
+        15,
+        15
+      ]
+    ],
+    "41B": [
+      [
+        10,
+        10
+      ]
+    ],
+    "41C": [
+      [
+        11,
+        11
+      ],
+      [
+        12,
+        15
+      ],
+      [
+        15,
+        12
+      ]
+    ],
+    "41D": [
+      [
+        8,
+        12
+      ],
+      [
+        12,
+        8
+      ]
+    ],
+    "delta_minus1": [
+      [
+        16,
+        16
+      ]
+    ],
+    "41E": [
+      [
+        2,
+        12
+      ],
+      [
+        12,
+        2
+      ]
+    ]
+  }
+}

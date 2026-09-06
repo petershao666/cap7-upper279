@@ -1,0 +1,37 @@
+{
+  "targets": [
+    [
+      108,
+      107,
+      60
+    ],
+    [
+      107,
+      107,
+      61
+    ],
+    [
+      107,
+      106,
+      62
+    ]
+  ],
+  "inner_counts": [
+    3911,
+    2648,
+    1016,
+    1997,
+    1370,
+    526,
+    1738
+  ],
+  "outer_counts": [
+    1016905,
+    1257556,
+    1755139
+  ],
+  "iterations": 11,
+  "numerical_status": "JOINT_RELAXATION_NO_POSITIVE_DUAL",
+  "claim": "NO_NEW_MATH",
+  "elapsed": 15.078231082996354
+}

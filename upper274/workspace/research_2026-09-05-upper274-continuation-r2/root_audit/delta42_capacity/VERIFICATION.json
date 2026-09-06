@@ -1,0 +1,1115 @@
+{
+  "status": "PASS_KNOWN_ROW_DOMAIN_IMPLICATION_NOT_NEW_GLOBAL_EXCLUSION",
+  "bound_by_first_size": {
+    "old": {
+      "43": 20,
+      "44": 19,
+      "45": 18
+    },
+    "complete41": {
+      "43": 19,
+      "44": 18,
+      "45": 18
+    }
+  },
+  "conditional_empty_NC106_anchors": [
+    [
+      43,
+      42,
+      21
+    ],
+    [
+      44,
+      42,
+      20
+    ],
+    [
+      45,
+      42,
+      19
+    ]
+  ],
+  "condition": "Physical42 section is Delta686, equivalently the fourth accepted42 histogram.",
+  "already_implied_by_old_rows_and_full42_support": true,
+  "all_cases": {
+    "old": {
+      "43": {
+        "maximum_third_total": 20,
+        "all_type_permutations": [
+          {
+            "first_column": [
+              14,
+              14,
+              15
+            ],
+            "third_entry_bounds": [
+              7,
+              6,
+              7
+            ],
+            "sum_bound": 20
+          },
+          {
+            "first_column": [
+              14,
+              15,
+              14
+            ],
+            "third_entry_bounds": [
+              7,
+              7,
+              6
+            ],
+            "sum_bound": 20
+          },
+          {
+            "first_column": [
+              15,
+              14,
+              14
+            ],
+            "third_entry_bounds": [
+              6,
+              7,
+              7
+            ],
+            "sum_bound": 20
+          },
+          {
+            "first_column": [
+              13,
+              15,
+              15
+            ],
+            "third_entry_bounds": [
+              8,
+              6,
+              6
+            ],
+            "sum_bound": 20
+          },
+          {
+            "first_column": [
+              15,
+              13,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              8
+            ],
+            "sum_bound": 20
+          },
+          {
+            "first_column": [
+              15,
+              15,
+              13
+            ],
+            "third_entry_bounds": [
+              6,
+              8,
+              6
+            ],
+            "sum_bound": 20
+          },
+          {
+            "first_column": [
+              9,
+              17,
+              17
+            ],
+            "third_entry_bounds": [
+              9,
+              4,
+              4
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              17,
+              9,
+              17
+            ],
+            "third_entry_bounds": [
+              4,
+              4,
+              9
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              17,
+              17,
+              9
+            ],
+            "third_entry_bounds": [
+              4,
+              9,
+              4
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              9,
+              16,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              6
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              9,
+              18,
+              16
+            ],
+            "third_entry_bounds": [
+              9,
+              6,
+              2
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              16,
+              9,
+              18
+            ],
+            "third_entry_bounds": [
+              6,
+              2,
+              9
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              16,
+              18,
+              9
+            ],
+            "third_entry_bounds": [
+              6,
+              9,
+              2
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              18,
+              9,
+              16
+            ],
+            "third_entry_bounds": [
+              2,
+              6,
+              9
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              18,
+              16,
+              9
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              6
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              8,
+              17,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              4
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              8,
+              18,
+              17
+            ],
+            "third_entry_bounds": [
+              9,
+              4,
+              2
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              17,
+              8,
+              18
+            ],
+            "third_entry_bounds": [
+              4,
+              2,
+              9
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              17,
+              18,
+              8
+            ],
+            "third_entry_bounds": [
+              4,
+              9,
+              2
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              18,
+              8,
+              17
+            ],
+            "third_entry_bounds": [
+              2,
+              4,
+              9
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              18,
+              17,
+              8
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              4
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              7,
+              18,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              2
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              7,
+              18
+            ],
+            "third_entry_bounds": [
+              2,
+              2,
+              9
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              18,
+              7
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              2
+            ],
+            "sum_bound": 13
+          }
+        ]
+      },
+      "44": {
+        "maximum_third_total": 19,
+        "all_type_permutations": [
+          {
+            "first_column": [
+              14,
+              15,
+              15
+            ],
+            "third_entry_bounds": [
+              7,
+              6,
+              6
+            ],
+            "sum_bound": 19
+          },
+          {
+            "first_column": [
+              15,
+              14,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              7
+            ],
+            "sum_bound": 19
+          },
+          {
+            "first_column": [
+              15,
+              15,
+              14
+            ],
+            "third_entry_bounds": [
+              6,
+              7,
+              6
+            ],
+            "sum_bound": 19
+          },
+          {
+            "first_column": [
+              9,
+              17,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              4
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              9,
+              18,
+              17
+            ],
+            "third_entry_bounds": [
+              9,
+              4,
+              2
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              17,
+              9,
+              18
+            ],
+            "third_entry_bounds": [
+              4,
+              2,
+              9
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              17,
+              18,
+              9
+            ],
+            "third_entry_bounds": [
+              4,
+              9,
+              2
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              18,
+              9,
+              17
+            ],
+            "third_entry_bounds": [
+              2,
+              4,
+              9
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              18,
+              17,
+              9
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              4
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              8,
+              18,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              2
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              8,
+              18
+            ],
+            "third_entry_bounds": [
+              2,
+              2,
+              9
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              18,
+              8
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              2
+            ],
+            "sum_bound": 13
+          }
+        ]
+      },
+      "45": {
+        "maximum_third_total": 18,
+        "all_type_permutations": [
+          {
+            "first_column": [
+              15,
+              15,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              9,
+              18,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              2
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              9,
+              18
+            ],
+            "third_entry_bounds": [
+              2,
+              2,
+              9
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              18,
+              9
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              2
+            ],
+            "sum_bound": 13
+          }
+        ]
+      }
+    },
+    "complete41": {
+      "43": {
+        "maximum_third_total": 19,
+        "all_type_permutations": [
+          {
+            "first_column": [
+              14,
+              14,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              14,
+              15,
+              14
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              15,
+              14,
+              14
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              13,
+              15,
+              15
+            ],
+            "third_entry_bounds": [
+              7,
+              6,
+              6
+            ],
+            "sum_bound": 19
+          },
+          {
+            "first_column": [
+              15,
+              13,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              7
+            ],
+            "sum_bound": 19
+          },
+          {
+            "first_column": [
+              15,
+              15,
+              13
+            ],
+            "third_entry_bounds": [
+              6,
+              7,
+              6
+            ],
+            "sum_bound": 19
+          },
+          {
+            "first_column": [
+              9,
+              17,
+              17
+            ],
+            "third_entry_bounds": [
+              9,
+              3,
+              3
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              17,
+              9,
+              17
+            ],
+            "third_entry_bounds": [
+              3,
+              3,
+              9
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              17,
+              17,
+              9
+            ],
+            "third_entry_bounds": [
+              3,
+              9,
+              3
+            ],
+            "sum_bound": 15
+          },
+          {
+            "first_column": [
+              9,
+              16,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              6
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              9,
+              18,
+              16
+            ],
+            "third_entry_bounds": [
+              9,
+              6,
+              2
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              16,
+              9,
+              18
+            ],
+            "third_entry_bounds": [
+              6,
+              2,
+              9
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              16,
+              18,
+              9
+            ],
+            "third_entry_bounds": [
+              6,
+              9,
+              2
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              18,
+              9,
+              16
+            ],
+            "third_entry_bounds": [
+              2,
+              6,
+              9
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              18,
+              16,
+              9
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              6
+            ],
+            "sum_bound": 17
+          },
+          {
+            "first_column": [
+              8,
+              17,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              3
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              8,
+              18,
+              17
+            ],
+            "third_entry_bounds": [
+              9,
+              3,
+              2
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              17,
+              8,
+              18
+            ],
+            "third_entry_bounds": [
+              3,
+              2,
+              9
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              17,
+              18,
+              8
+            ],
+            "third_entry_bounds": [
+              3,
+              9,
+              2
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              18,
+              8,
+              17
+            ],
+            "third_entry_bounds": [
+              2,
+              3,
+              9
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              18,
+              17,
+              8
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              3
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              7,
+              18,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              2
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              7,
+              18
+            ],
+            "third_entry_bounds": [
+              2,
+              2,
+              9
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              18,
+              7
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              2
+            ],
+            "sum_bound": 13
+          }
+        ]
+      },
+      "44": {
+        "maximum_third_total": 18,
+        "all_type_permutations": [
+          {
+            "first_column": [
+              14,
+              15,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              15,
+              14,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              15,
+              15,
+              14
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              9,
+              17,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              3
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              9,
+              18,
+              17
+            ],
+            "third_entry_bounds": [
+              9,
+              3,
+              2
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              17,
+              9,
+              18
+            ],
+            "third_entry_bounds": [
+              3,
+              2,
+              9
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              17,
+              18,
+              9
+            ],
+            "third_entry_bounds": [
+              3,
+              9,
+              2
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              18,
+              9,
+              17
+            ],
+            "third_entry_bounds": [
+              2,
+              3,
+              9
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              18,
+              17,
+              9
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              3
+            ],
+            "sum_bound": 14
+          },
+          {
+            "first_column": [
+              8,
+              18,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              2
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              8,
+              18
+            ],
+            "third_entry_bounds": [
+              2,
+              2,
+              9
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              18,
+              8
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              2
+            ],
+            "sum_bound": 13
+          }
+        ]
+      },
+      "45": {
+        "maximum_third_total": 18,
+        "all_type_permutations": [
+          {
+            "first_column": [
+              15,
+              15,
+              15
+            ],
+            "third_entry_bounds": [
+              6,
+              6,
+              6
+            ],
+            "sum_bound": 18
+          },
+          {
+            "first_column": [
+              9,
+              18,
+              18
+            ],
+            "third_entry_bounds": [
+              9,
+              2,
+              2
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              9,
+              18
+            ],
+            "third_entry_bounds": [
+              2,
+              2,
+              9
+            ],
+            "sum_bound": 13
+          },
+          {
+            "first_column": [
+              18,
+              18,
+              9
+            ],
+            "third_entry_bounds": [
+              2,
+              9,
+              2
+            ],
+            "sum_bound": 13
+          }
+        ]
+      }
+    }
+  },
+  "source_hashes": {
+    "/Users/hengshao/Desktop/math/audit_2026-09-05_upper275/cap7_upper275/baseline277/baseline278/certificate.json": "2780fba39eff792892e7aac960675e1ffdf8b2cf99b0c3b9e29d1123a98435be",
+    "/Users/hengshao/Desktop/math/research_2026-09-05-upper274-continuation-r2/root_audit/complete41/ACCEPTED_HISTOGRAMS.json": "38193858291a37b0b71cff568a11db481080125140771e41af57f6fd973374fa"
+  },
+  "elapsed": 0.03700216603465378
+}

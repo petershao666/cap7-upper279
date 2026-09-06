@@ -1,0 +1,397 @@
+{
+  "status": "INTERFACE_PASS_BEFORE_LP",
+  "finite_rows": 15885,
+  "variables": 3291,
+  "physical41_supports": [
+    {
+      "id": "support_106_129_c0_n41",
+      "m": 41,
+      "case_index": 129,
+      "case_dimension_size": 106,
+      "anchor": [
+        41,
+        41,
+        24
+      ],
+      "column": 0,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_129_c1_n41",
+      "m": 41,
+      "case_index": 129,
+      "case_dimension_size": 106,
+      "anchor": [
+        41,
+        41,
+        24
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_130_c1_n41",
+      "m": 41,
+      "case_index": 130,
+      "case_dimension_size": 106,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_133_c1_n41",
+      "m": 41,
+      "case_index": 133,
+      "case_dimension_size": 106,
+      "anchor": [
+        43,
+        41,
+        22
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_137_c1_n41",
+      "m": 41,
+      "case_index": 137,
+      "case_dimension_size": 106,
+      "anchor": [
+        44,
+        41,
+        21
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_141_c1_n41",
+      "m": 41,
+      "case_index": 141,
+      "case_dimension_size": 106,
+      "anchor": [
+        45,
+        41,
+        20
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    }
+  ],
+  "physical42_supports": [
+    {
+      "id": "support_106_130_c0_n42",
+      "m": 42,
+      "case_index": 130,
+      "case_dimension_size": 106,
+      "anchor": [
+        42,
+        41,
+        23
+      ],
+      "column": 0,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_131_c0_n42",
+      "m": 42,
+      "case_index": 131,
+      "case_dimension_size": 106,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "column": 0,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_131_c1_n42",
+      "m": 42,
+      "case_index": 131,
+      "case_dimension_size": 106,
+      "anchor": [
+        42,
+        42,
+        22
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_134_c1_n42",
+      "m": 42,
+      "case_index": 134,
+      "case_dimension_size": 106,
+      "anchor": [
+        43,
+        42,
+        21
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_138_c1_n42",
+      "m": 42,
+      "case_index": 138,
+      "case_dimension_size": 106,
+      "anchor": [
+        44,
+        42,
+        20
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    },
+    {
+      "id": "support_106_142_c1_n42",
+      "m": 42,
+      "case_index": 142,
+      "case_dimension_size": 106,
+      "anchor": [
+        45,
+        42,
+        19
+      ],
+      "column": 1,
+      "class41": null,
+      "full18_state": null
+    }
+  ],
+  "ordinary5D_pruning": {
+    "ordinary5D41_zero_types": [
+      [
+        19,
+        11,
+        11
+      ],
+      [
+        19,
+        12,
+        10
+      ],
+      [
+        19,
+        13,
+        9
+      ],
+      [
+        19,
+        14,
+        8
+      ],
+      [
+        19,
+        15,
+        7
+      ],
+      [
+        19,
+        18,
+        4
+      ],
+      [
+        19,
+        19,
+        3
+      ],
+      [
+        20,
+        11,
+        10
+      ],
+      [
+        20,
+        12,
+        9
+      ],
+      [
+        20,
+        13,
+        8
+      ],
+      [
+        20,
+        14,
+        7
+      ],
+      [
+        20,
+        17,
+        4
+      ],
+      [
+        20,
+        18,
+        3
+      ],
+      [
+        20,
+        19,
+        2
+      ]
+    ],
+    "ordinary5D_old_admissible_ordered_profiles": 8011,
+    "ordinary5D_new_admissible_ordered_profiles": 7954,
+    "scope": "Only 5D profiles of the NC106 refinement grid; no outer6D transfer",
+    "nc106_cases": [
+      {
+        "type": [
+          41,
+          41,
+          24
+        ],
+        "before": 25747,
+        "after": 25038,
+        "empty": false
+      },
+      {
+        "type": [
+          42,
+          41,
+          23
+        ],
+        "before": 16010,
+        "after": 15831,
+        "empty": false
+      },
+      {
+        "type": [
+          42,
+          42,
+          22
+        ],
+        "before": 9959,
+        "after": 9957,
+        "empty": false
+      },
+      {
+        "type": [
+          43,
+          40,
+          23
+        ],
+        "before": 8038,
+        "after": 8012,
+        "empty": false
+      },
+      {
+        "type": [
+          43,
+          41,
+          22
+        ],
+        "before": 7690,
+        "after": 7613,
+        "empty": false
+      },
+      {
+        "type": [
+          43,
+          42,
+          21
+        ],
+        "before": 4908,
+        "after": 4908,
+        "empty": false
+      },
+      {
+        "type": [
+          43,
+          43,
+          20
+        ],
+        "before": 2011,
+        "after": 2011,
+        "empty": false
+      },
+      {
+        "type": [
+          44,
+          40,
+          22
+        ],
+        "before": 4196,
+        "after": 4182,
+        "empty": false
+      },
+      {
+        "type": [
+          44,
+          41,
+          21
+        ],
+        "before": 4036,
+        "after": 3997,
+        "empty": false
+      },
+      {
+        "type": [
+          44,
+          42,
+          20
+        ],
+        "before": 2568,
+        "after": 2568,
+        "empty": false
+      },
+      {
+        "type": [
+          44,
+          43,
+          19
+        ],
+        "before": 1056,
+        "after": 1056,
+        "empty": false
+      },
+      {
+        "type": [
+          45,
+          40,
+          21
+        ],
+        "before": 3580,
+        "after": 3564,
+        "empty": false
+      },
+      {
+        "type": [
+          45,
+          41,
+          20
+        ],
+        "before": 3376,
+        "after": 3337,
+        "empty": false
+      },
+      {
+        "type": [
+          45,
+          42,
+          19
+        ],
+        "before": 2168,
+        "after": 2168,
+        "empty": false
+      }
+    ]
+  },
+  "discovery_elapsed_before_LP": 8.296087624970824
+}

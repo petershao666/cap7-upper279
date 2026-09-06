@@ -1,0 +1,219 @@
+{
+  "ordinary5D41_zero_types": [
+    [
+      19,
+      11,
+      11
+    ],
+    [
+      19,
+      12,
+      10
+    ],
+    [
+      19,
+      13,
+      9
+    ],
+    [
+      19,
+      14,
+      8
+    ],
+    [
+      19,
+      15,
+      7
+    ],
+    [
+      19,
+      18,
+      4
+    ],
+    [
+      19,
+      19,
+      3
+    ],
+    [
+      20,
+      11,
+      10
+    ],
+    [
+      20,
+      12,
+      9
+    ],
+    [
+      20,
+      13,
+      8
+    ],
+    [
+      20,
+      14,
+      7
+    ],
+    [
+      20,
+      17,
+      4
+    ],
+    [
+      20,
+      18,
+      3
+    ],
+    [
+      20,
+      19,
+      2
+    ]
+  ],
+  "ordinary5D_old_admissible_ordered_profiles": 8011,
+  "ordinary5D_new_admissible_ordered_profiles": 7954,
+  "scope": "Only 5D profiles of the NC106 refinement grid; no outer6D transfer",
+  "nc106_cases": [
+    {
+      "type": [
+        41,
+        41,
+        24
+      ],
+      "before": 25747,
+      "after": 25038,
+      "empty": false
+    },
+    {
+      "type": [
+        42,
+        41,
+        23
+      ],
+      "before": 16010,
+      "after": 15831,
+      "empty": false
+    },
+    {
+      "type": [
+        42,
+        42,
+        22
+      ],
+      "before": 9959,
+      "after": 9957,
+      "empty": false
+    },
+    {
+      "type": [
+        43,
+        40,
+        23
+      ],
+      "before": 8038,
+      "after": 8012,
+      "empty": false
+    },
+    {
+      "type": [
+        43,
+        41,
+        22
+      ],
+      "before": 7690,
+      "after": 7613,
+      "empty": false
+    },
+    {
+      "type": [
+        43,
+        42,
+        21
+      ],
+      "before": 4908,
+      "after": 4908,
+      "empty": false
+    },
+    {
+      "type": [
+        43,
+        43,
+        20
+      ],
+      "before": 2011,
+      "after": 2011,
+      "empty": false
+    },
+    {
+      "type": [
+        44,
+        40,
+        22
+      ],
+      "before": 4196,
+      "after": 4182,
+      "empty": false
+    },
+    {
+      "type": [
+        44,
+        41,
+        21
+      ],
+      "before": 4036,
+      "after": 3997,
+      "empty": false
+    },
+    {
+      "type": [
+        44,
+        42,
+        20
+      ],
+      "before": 2568,
+      "after": 2568,
+      "empty": false
+    },
+    {
+      "type": [
+        44,
+        43,
+        19
+      ],
+      "before": 1056,
+      "after": 1056,
+      "empty": false
+    },
+    {
+      "type": [
+        45,
+        40,
+        21
+      ],
+      "before": 3580,
+      "after": 3564,
+      "empty": false
+    },
+    {
+      "type": [
+        45,
+        41,
+        20
+      ],
+      "before": 3376,
+      "after": 3337,
+      "empty": false
+    },
+    {
+      "type": [
+        45,
+        42,
+        19
+      ],
+      "before": 2168,
+      "after": 2168,
+      "empty": false
+    }
+  ]
+}
