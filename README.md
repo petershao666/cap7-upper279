@@ -2,6 +2,8 @@
 
 **Latest release: [v1.2.0](https://github.com/petershao666/cap7-upper279/releases/tag/v1.2.0), establishing 236 ≤ f(7,3) ≤ 274.**
 
+Archived release: [Zenodo, version 1.2.0-archive-r1](https://doi.org/10.5281/zenodo.22558919) (DOI: 10.5281/zenodo.22558919).
+
 The proof excludes every 275-point cap in AG(7,3), using explicitly cited low-dimensional classification and completion results. Every larger cap would contain a 275-point subcap. The included construction has 236 points; the exact maximum and the existence of a 237-point cap remain unknown.
 
 Start with the [upper-274 package guide](upper274/README.md), [mathematical proof and dependency map](upper274/workspace/research_2026-09-05-upper274-continuation-r2/root_audit/global274/PROOF.md), [provenance record](PROVENANCE.md), and [next steps](ROADMAP.md). The new package preserves the proof's source dependencies and verification evidence under `upper274/workspace/`.
