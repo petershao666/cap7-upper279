@@ -1,4 +1,10 @@
-# An exact-arithmetic certificate for f(7,3) ≤ 274
+# Cap set bounds in AG(7,3)
+
+**Research update (26 November 2026).** The project has internally verified the computer-assisted bound **236 ≤ f(7,3) ≤ 270** under the stated low-dimensional classification and completion inputs. The argument excludes every 271-point cap by checking all five possible profiles of a minimum-score hyperplane direction. The lower endpoint is the existing Calderbank–Fishburn construction. Whether a 237-point cap exists remains open.
+
+The 270 manuscript is in preparation for external review. The latest public proof and verification package is the 274 release below.
+
+## Archived upper bound of 274
 
 **Latest release: [v1.2.0](https://github.com/petershao666/cap7-upper279/releases/tag/v1.2.0), establishing 236 ≤ f(7,3) ≤ 274.**
 
