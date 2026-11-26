@@ -2,11 +2,11 @@
 
 **Research update (26 November 2026).** The project has internally verified the computer-assisted bound **236 ≤ f(7,3) ≤ 270** under the stated low-dimensional classification and completion inputs. The argument excludes every 271-point cap by checking all five possible profiles of a minimum-score hyperplane direction. The lower endpoint is the existing Calderbank–Fishburn construction. Whether a 237-point cap exists remains open.
 
-The 270 manuscript is in preparation for external review. The latest public proof and verification package is the 274 release below.
+**[270 manuscript and verification record (v1.3.0-rc.1)](https://github.com/petershao666/cap7-upper279/releases/tag/v1.3.0-rc.1).** This pre-release includes the English manuscript, LaTeX source, and recorded five-branch verification. The full public replay package for 270 is in preparation.
 
 ## Archived upper bound of 274
 
-**Latest release: [v1.2.0](https://github.com/petershao666/cap7-upper279/releases/tag/v1.2.0), establishing 236 ≤ f(7,3) ≤ 274.**
+**Latest stable release: [v1.2.0](https://github.com/petershao666/cap7-upper279/releases/tag/v1.2.0), establishing 236 ≤ f(7,3) ≤ 274.**
 
 Archived release: [Zenodo, version 1.2.0-archive-r1](https://doi.org/10.5281/zenodo.22558919) (DOI: 10.5281/zenodo.22558919).
 
